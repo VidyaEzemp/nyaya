@@ -24,7 +24,7 @@
       "extraterritorial jurisdiction",
       "India"
     ],
-    "oldIPCSection": "1, 3, 4, 5",
+    "correspondingSection": "1, 3, 4, 5",
     "relatedSections": [
       "2",
       "3"
@@ -57,7 +57,7 @@
       "good faith",
       "dishonestly"
     ],
-    "oldIPCSection": "6-52",
+    "correspondingSection": "6-52",
     "relatedSections": [
       "1",
       "3"
@@ -89,7 +89,7 @@
       "omission",
       "possession"
     ],
-    "oldIPCSection": "6-52A",
+    "correspondingSection": "6-52A",
     "relatedSections": [
       "2",
       "14"
@@ -120,7 +120,7 @@
       "fine",
       "community service"
     ],
-    "oldIPCSection": "53",
+    "correspondingSection": "53",
     "relatedSections": [
       "5",
       "8"
@@ -150,7 +150,7 @@
       "government",
       "remission"
     ],
-    "oldIPCSection": "54, 55",
+    "correspondingSection": "54, 55",
     "relatedSections": [
       "4",
       "6"
@@ -179,7 +179,7 @@
       "sentence calculation",
       "twenty years"
     ],
-    "oldIPCSection": "57",
+    "correspondingSection": "57",
     "relatedSections": [
       "5",
       "7"
@@ -208,7 +208,7 @@
       "simple imprisonment",
       "sentence"
     ],
-    "oldIPCSection": "60",
+    "correspondingSection": "60",
     "relatedSections": [
       "4",
       "8"
@@ -238,7 +238,7 @@
       "imprisonment",
       "community service"
     ],
-    "oldIPCSection": "63-70",
+    "correspondingSection": "63-70",
     "relatedSections": [
       "4",
       "9"
@@ -267,7 +267,7 @@
       "multiple offences",
       "sentencing"
     ],
-    "oldIPCSection": "71",
+    "correspondingSection": "71",
     "relatedSections": [
       "8",
       "10"
@@ -297,7 +297,7 @@
       "offence",
       "lowest punishment"
     ],
-    "oldIPCSection": "72",
+    "correspondingSection": "72",
     "relatedSections": [
       "9",
       "11"
@@ -327,7 +327,7 @@
       "punishment",
       "prison"
     ],
-    "oldIPCSection": "73",
+    "correspondingSection": "73",
     "relatedSections": [
       "12",
       "7"
@@ -357,7 +357,7 @@
       "imprisonment",
       "limits"
     ],
-    "oldIPCSection": "74",
+    "correspondingSection": "74",
     "relatedSections": [
       "11"
     ]
@@ -386,7 +386,7 @@
       "previous conviction",
       "habitual offender"
     ],
-    "oldIPCSection": "75",
+    "correspondingSection": "75",
     "relatedSections": [
       "4",
       "10"
@@ -416,7 +416,7 @@
       "general exception",
       "good faith"
     ],
-    "oldIPCSection": "76",
+    "correspondingSection": "76",
     "relatedSections": [
       "15",
       "17"
@@ -446,7 +446,7 @@
       "good faith",
       "general exception"
     ],
-    "oldIPCSection": "77",
+    "correspondingSection": "77",
     "relatedSections": [
       "14",
       "16"
@@ -476,7 +476,7 @@
       "good faith",
       "execution of order"
     ],
-    "oldIPCSection": "78",
+    "correspondingSection": "78",
     "relatedSections": [
       "15",
       "17"
@@ -506,7 +506,7 @@
       "good faith",
       "lawful authority"
     ],
-    "oldIPCSection": "79",
+    "correspondingSection": "79",
     "relatedSections": [
       "14",
       "18"
@@ -536,7 +536,7 @@
       "lawful act",
       "care and caution"
     ],
-    "oldIPCSection": "80",
+    "correspondingSection": "80",
     "relatedSections": [
       "19"
     ]
@@ -565,7 +565,7 @@
       "good faith",
       "emergency"
     ],
-    "oldIPCSection": "81",
+    "correspondingSection": "81",
     "relatedSections": [
       "18",
       "30"
@@ -595,7 +595,7 @@
       "criminal responsibility",
       "general exception"
     ],
-    "oldIPCSection": "82",
+    "correspondingSection": "82",
     "relatedSections": [
       "21",
       "22"
@@ -625,7 +625,7 @@
       "criminal responsibility",
       "minor"
     ],
-    "oldIPCSection": "83",
+    "correspondingSection": "83",
     "relatedSections": [
       "20",
       "22"
@@ -655,7 +655,7 @@
       "mental incapacity",
       "criminal liability"
     ],
-    "oldIPCSection": "84",
+    "correspondingSection": "84",
     "relatedSections": [
       "21",
       "23"
@@ -684,7 +684,7 @@
       "involuntary intoxication",
       "criminal liability"
     ],
-    "oldIPCSection": "85",
+    "correspondingSection": "85",
     "relatedSections": [
       "22",
       "24"
@@ -714,7 +714,7 @@
       "intent",
       "criminal responsibility"
     ],
-    "oldIPCSection": "86",
+    "correspondingSection": "86",
     "relatedSections": [
       "23",
       "25"
@@ -744,7 +744,7 @@
       "adult",
       "harm"
     ],
-    "oldIPCSection": "87",
+    "correspondingSection": "87",
     "relatedSections": [
       "26",
       "28"
@@ -774,7 +774,7 @@
       "medical treatment",
       "consent"
     ],
-    "oldIPCSection": "88",
+    "correspondingSection": "88",
     "relatedSections": [
       "25",
       "27"
@@ -805,7 +805,7 @@
       "good faith",
       "consent"
     ],
-    "oldIPCSection": "89",
+    "correspondingSection": "89",
     "relatedSections": [
       "26",
       "28"
@@ -836,7 +836,7 @@
       "coercion",
       "capacity"
     ],
-    "oldIPCSection": "90",
+    "correspondingSection": "90",
     "relatedSections": [
       "25",
       "27",
@@ -866,7 +866,7 @@
       "independent offence",
       "limitations"
     ],
-    "oldIPCSection": "91",
+    "correspondingSection": "91",
     "relatedSections": [
       "28",
       "30"
@@ -898,7 +898,7 @@
       "without consent",
       "medical emergency"
     ],
-    "oldIPCSection": "92",
+    "correspondingSection": "92",
     "relatedSections": [
       "26",
       "27",
@@ -929,7 +929,7 @@
       "benefit",
       "information"
     ],
-    "oldIPCSection": "93",
+    "correspondingSection": "93",
     "relatedSections": [
       "30",
       "32"
@@ -959,7 +959,7 @@
       "instant death",
       "compulsion"
     ],
-    "oldIPCSection": "94",
+    "correspondingSection": "94",
     "relatedSections": [
       "31",
       "33"
@@ -989,7 +989,7 @@
       "minor injury",
       "de minimis"
     ],
-    "oldIPCSection": "95",
+    "correspondingSection": "95",
     "relatedSections": [
       "32",
       "34"
@@ -1018,7 +1018,7 @@
       "self-defence",
       "protection"
     ],
-    "oldIPCSection": "96",
+    "correspondingSection": "96",
     "relatedSections": [
       "35",
       "37"
@@ -1049,7 +1049,7 @@
       "theft",
       "robbery"
     ],
-    "oldIPCSection": "97",
+    "correspondingSection": "97",
     "relatedSections": [
       "34",
       "36",
@@ -1080,7 +1080,7 @@
       "child",
       "intoxication"
     ],
-    "oldIPCSection": "98",
+    "correspondingSection": "98",
     "relatedSections": [
       "35",
       "37"
@@ -1110,7 +1110,7 @@
       "public servant",
       "reasonable force"
     ],
-    "oldIPCSection": "99",
+    "correspondingSection": "99",
     "relatedSections": [
       "34",
       "35",
@@ -1143,7 +1143,7 @@
       "acid attack",
       "kidnapping"
     ],
-    "oldIPCSection": "100",
+    "correspondingSection": "100",
     "relatedSections": [
       "37",
       "39",
@@ -1173,7 +1173,7 @@
       "reasonable force",
       "non-fatal force"
     ],
-    "oldIPCSection": "101",
+    "correspondingSection": "101",
     "relatedSections": [
       "38",
       "40"
@@ -1203,7 +1203,7 @@
       "imminent danger",
       "self-defence"
     ],
-    "oldIPCSection": "102",
+    "correspondingSection": "102",
     "relatedSections": [
       "38",
       "39",
@@ -1234,7 +1234,7 @@
       "benefit",
       "information"
     ],
-    "oldIPCSection": "93",
+    "correspondingSection": "93",
     "relatedSections": [
       "30",
       "32"
@@ -1264,7 +1264,7 @@
       "instant death",
       "compulsion"
     ],
-    "oldIPCSection": "94",
+    "correspondingSection": "94",
     "relatedSections": [
       "31",
       "33"
@@ -1294,7 +1294,7 @@
       "minor injury",
       "de minimis"
     ],
-    "oldIPCSection": "95",
+    "correspondingSection": "95",
     "relatedSections": [
       "32",
       "34"
@@ -1323,7 +1323,7 @@
       "self-defence",
       "protection"
     ],
-    "oldIPCSection": "96",
+    "correspondingSection": "96",
     "relatedSections": [
       "35",
       "37"
@@ -1354,7 +1354,7 @@
       "theft",
       "robbery"
     ],
-    "oldIPCSection": "97",
+    "correspondingSection": "97",
     "relatedSections": [
       "34",
       "36",
@@ -1385,7 +1385,7 @@
       "child",
       "intoxication"
     ],
-    "oldIPCSection": "98",
+    "correspondingSection": "98",
     "relatedSections": [
       "35",
       "37"
@@ -1415,7 +1415,7 @@
       "public servant",
       "reasonable force"
     ],
-    "oldIPCSection": "99",
+    "correspondingSection": "99",
     "relatedSections": [
       "34",
       "35",
@@ -1448,7 +1448,7 @@
       "acid attack",
       "kidnapping"
     ],
-    "oldIPCSection": "100",
+    "correspondingSection": "100",
     "relatedSections": [
       "37",
       "39",
@@ -1478,7 +1478,7 @@
       "reasonable force",
       "non-fatal force"
     ],
-    "oldIPCSection": "101",
+    "correspondingSection": "101",
     "relatedSections": [
       "38",
       "40"
@@ -1508,7 +1508,7 @@
       "imminent danger",
       "self-defence"
     ],
-    "oldIPCSection": "102",
+    "correspondingSection": "102",
     "relatedSections": [
       "38",
       "39",
@@ -1540,7 +1540,7 @@
       "house-breaking",
       "deadly force"
     ],
-    "oldIPCSection": "103",
+    "correspondingSection": "103",
     "relatedSections": [
       "42",
       "43"
@@ -1570,7 +1570,7 @@
       "theft",
       "criminal trespass"
     ],
-    "oldIPCSection": "104",
+    "correspondingSection": "104",
     "relatedSections": [
       "41",
       "43"
@@ -1600,7 +1600,7 @@
       "continuance",
       "danger"
     ],
-    "oldIPCSection": "105",
+    "correspondingSection": "105",
     "relatedSections": [
       "41",
       "42",
@@ -1631,7 +1631,7 @@
       "deadly assault",
       "self-defence"
     ],
-    "oldIPCSection": "106",
+    "correspondingSection": "106",
     "relatedSections": [
       "38",
       "43"
@@ -1662,7 +1662,7 @@
       "conspiracy",
       "aid"
     ],
-    "oldIPCSection": "107",
+    "correspondingSection": "107",
     "relatedSections": [
       "46",
       "49"
@@ -1691,7 +1691,7 @@
       "abetment",
       "criminal liability"
     ],
-    "oldIPCSection": "108",
+    "correspondingSection": "108",
     "relatedSections": [
       "45",
       "47"
@@ -1720,7 +1720,7 @@
       "extraterritorial",
       "offence abroad"
     ],
-    "oldIPCSection": "108A",
+    "correspondingSection": "108A",
     "relatedSections": [
       "46",
       "48"
@@ -1749,7 +1749,7 @@
       "outside India",
       "cross-border crime"
     ],
-    "oldIPCSection": "108A",
+    "correspondingSection": "108A",
     "relatedSections": [
       "47",
       "49"
@@ -1779,7 +1779,7 @@
       "instigation",
       "offence committed"
     ],
-    "oldIPCSection": "109",
+    "correspondingSection": "109",
     "relatedSections": [
       "45",
       "50"
@@ -1809,7 +1809,7 @@
       "knowledge",
       "criminal liability"
     ],
-    "oldIPCSection": "110",
+    "correspondingSection": "110",
     "relatedSections": [
       "49",
       "51"
@@ -1838,7 +1838,7 @@
       "probable consequence",
       "different act"
     ],
-    "oldIPCSection": "111",
+    "correspondingSection": "111",
     "relatedSections": [
       "50",
       "52"
@@ -1868,7 +1868,7 @@
       "consequence",
       "liability"
     ],
-    "oldIPCSection": "112",
+    "correspondingSection": "112",
     "relatedSections": [
       "51",
       "53"
@@ -1897,7 +1897,7 @@
       "multiple offences",
       "punishment"
     ],
-    "oldIPCSection": "113",
+    "correspondingSection": "113",
     "relatedSections": [
       "52",
       "54"
@@ -1927,7 +1927,7 @@
       "participation",
       "offence"
     ],
-    "oldIPCSection": "114",
+    "correspondingSection": "114",
     "relatedSections": [
       "55",
       "45"
@@ -1957,7 +1957,7 @@
       "life imprisonment",
       "serious offence"
     ],
-    "oldIPCSection": "115",
+    "correspondingSection": "115",
     "relatedSections": [
       "56",
       "57"
@@ -1986,7 +1986,7 @@
       "attempted encouragement",
       "criminal liability"
     ],
-    "oldIPCSection": "116",
+    "correspondingSection": "116",
     "relatedSections": [
       "55",
       "57"
@@ -2016,7 +2016,7 @@
       "incitement",
       "public order"
     ],
-    "oldIPCSection": "117",
+    "correspondingSection": "117",
     "relatedSections": [
       "58",
       "59"
@@ -2046,7 +2046,7 @@
       "serious offence",
       "information"
     ],
-    "oldIPCSection": "118",
+    "correspondingSection": "118",
     "relatedSections": [
       "59",
       "60"
@@ -2076,7 +2076,7 @@
       "duty",
       "criminal design"
     ],
-    "oldIPCSection": "119",
+    "correspondingSection": "119",
     "relatedSections": [
       "58",
       "60"
@@ -2106,7 +2106,7 @@
       "facilitation",
       "imprisonment"
     ],
-    "oldIPCSection": "120",
+    "correspondingSection": "120",
     "relatedSections": [
       "58",
       "59",
@@ -2138,7 +2138,7 @@
       "illegal act",
       "common design"
     ],
-    "oldIPCSection": "120A",
+    "correspondingSection": "120A",
     "relatedSections": [
       "62",
       "45"
@@ -2169,7 +2169,7 @@
       "agreement",
       "offence"
     ],
-    "oldIPCSection": "120B",
+    "correspondingSection": "120B",
     "relatedSections": [
       "61",
       "63"
@@ -2199,7 +2199,7 @@
       "criminal intent",
       "punishment"
     ],
-    "oldIPCSection": "511",
+    "correspondingSection": "511",
     "relatedSections": [
       "61",
       "62",
@@ -2231,7 +2231,7 @@
       "sexual offence",
       "woman"
     ],
-    "oldIPCSection": "375",
+    "correspondingSection": "375",
     "relatedSections": [
       "65",
       "66",
@@ -2262,7 +2262,7 @@
       "life imprisonment",
       "sexual offence"
     ],
-    "oldIPCSection": "376(1)",
+    "correspondingSection": "376(1)",
     "relatedSections": [
       "64",
       "66"
@@ -2292,7 +2292,7 @@
       "vegetative state",
       "aggravated offence"
     ],
-    "oldIPCSection": "376A",
+    "correspondingSection": "376A",
     "relatedSections": [
       "65",
       "67"
@@ -2322,7 +2322,7 @@
       "wife",
       "consent"
     ],
-    "oldIPCSection": "376B",
+    "correspondingSection": "376B",
     "relatedSections": [
       "64",
       "65",
@@ -2353,7 +2353,7 @@
       "sexual exploitation",
       "trust"
     ],
-    "oldIPCSection": "376C",
+    "correspondingSection": "376C",
     "relatedSections": [
       "67",
       "69"
@@ -2383,7 +2383,7 @@
       "sexual intercourse",
       "fraud"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "68",
       "70"
@@ -2413,7 +2413,7 @@
       "sexual assault",
       "woman"
     ],
-    "oldIPCSection": "376D",
+    "correspondingSection": "376D",
     "relatedSections": [
       "65",
       "66",
@@ -2444,7 +2444,7 @@
       "child",
       "sexual offence"
     ],
-    "oldIPCSection": "376DB",
+    "correspondingSection": "376DB",
     "relatedSections": [
       "70",
       "72"
@@ -2474,7 +2474,7 @@
       "rape victim",
       "publication"
     ],
-    "oldIPCSection": "228A",
+    "correspondingSection": "228A",
     "relatedSections": [
       "64",
       "73"
@@ -2504,7 +2504,7 @@
       "criminal force",
       "assault"
     ],
-    "oldIPCSection": "354",
+    "correspondingSection": "354",
     "relatedSections": [
       "74",
       "75"
@@ -2534,7 +2534,7 @@
       "sexual favours",
       "workplace harassment"
     ],
-    "oldIPCSection": "354A",
+    "correspondingSection": "354A",
     "relatedSections": [
       "73",
       "75"
@@ -2564,7 +2564,7 @@
       "criminal force",
       "modesty"
     ],
-    "oldIPCSection": "354B",
+    "correspondingSection": "354B",
     "relatedSections": [
       "73",
       "76"
@@ -2594,7 +2594,7 @@
       "recording",
       "surveillance"
     ],
-    "oldIPCSection": "354C",
+    "correspondingSection": "354C",
     "relatedSections": [
       "77",
       "72"
@@ -2624,7 +2624,7 @@
       "monitoring",
       "cyberstalking"
     ],
-    "oldIPCSection": "354D",
+    "correspondingSection": "354D",
     "relatedSections": [
       "76",
       "78"
@@ -2654,7 +2654,7 @@
       "words",
       "woman"
     ],
-    "oldIPCSection": "509",
+    "correspondingSection": "509",
     "relatedSections": [
       "73",
       "74"
@@ -2684,7 +2684,7 @@
       "marriage",
       "cruelty"
     ],
-    "oldIPCSection": "304B",
+    "correspondingSection": "304B",
     "relatedSections": [
       "80",
       "85"
@@ -2714,7 +2714,7 @@
       "deceit",
       "cohabitation"
     ],
-    "oldIPCSection": "Related to 493 IPC concepts; expanded in BNS",
+    "correspondingSection": "Related to 493 IPC concepts; expanded in BNS",
     "relatedSections": [
       "69",
       "81"
@@ -2744,7 +2744,7 @@
       "spouse",
       "second marriage"
     ],
-    "oldIPCSection": "494",
+    "correspondingSection": "494",
     "relatedSections": [
       "82",
       "80"
@@ -2773,7 +2773,7 @@
       "sham marriage",
       "deception"
     ],
-    "oldIPCSection": "496",
+    "correspondingSection": "496",
     "relatedSections": [
       "81",
       "83"
@@ -2803,7 +2803,7 @@
       "detention",
       "criminal intent"
     ],
-    "oldIPCSection": "498",
+    "correspondingSection": "498",
     "relatedSections": [
       "84",
       "81"
@@ -2833,7 +2833,7 @@
       "dowry harassment",
       "domestic violence"
     ],
-    "oldIPCSection": "498A",
+    "correspondingSection": "498A",
     "relatedSections": [
       "79",
       "85"
@@ -2863,7 +2863,7 @@
       "domestic violence",
       "harassment"
     ],
-    "oldIPCSection": "Related to 498A and evidentiary presumptions",
+    "correspondingSection": "Related to 498A and evidentiary presumptions",
     "relatedSections": [
       "84",
       "79"
@@ -2893,7 +2893,7 @@
       "guardian",
       "abduction"
     ],
-    "oldIPCSection": "359-361",
+    "correspondingSection": "359-361",
     "relatedSections": [
       "87",
       "88"
@@ -2923,7 +2923,7 @@
       "maiming",
       "child exploitation"
     ],
-    "oldIPCSection": "363A",
+    "correspondingSection": "363A",
     "relatedSections": [
       "86",
       "88"
@@ -2953,7 +2953,7 @@
       "murder",
       "abduction"
     ],
-    "oldIPCSection": "364, 364A",
+    "correspondingSection": "364, 364A",
     "relatedSections": [
       "89",
       "90"
@@ -2983,7 +2983,7 @@
       "kidnapping",
       "wrongful restraint"
     ],
-    "oldIPCSection": "365",
+    "correspondingSection": "365",
     "relatedSections": [
       "88",
       "90"
@@ -3013,7 +3013,7 @@
       "woman",
       "sexual exploitation"
     ],
-    "oldIPCSection": "366",
+    "correspondingSection": "366",
     "relatedSections": [
       "88",
       "91"
@@ -3043,7 +3043,7 @@
       "sexual exploitation",
       "trafficking"
     ],
-    "oldIPCSection": "366A",
+    "correspondingSection": "366A",
     "relatedSections": [
       "90",
       "92"
@@ -3072,7 +3072,7 @@
       "importation",
       "sexual exploitation"
     ],
-    "oldIPCSection": "366B",
+    "correspondingSection": "366B",
     "relatedSections": [
       "91",
       "93"
@@ -3101,7 +3101,7 @@
       "human trafficking",
       "forced labour"
     ],
-    "oldIPCSection": "370 (historic slavery provisions)",
+    "correspondingSection": "370 (historic slavery provisions)",
     "relatedSections": [
       "94",
       "95"
@@ -3130,7 +3130,7 @@
       "habitual offender",
       "human trafficking"
     ],
-    "oldIPCSection": "371",
+    "correspondingSection": "371",
     "relatedSections": [
       "93",
       "95"
@@ -3159,7 +3159,7 @@
       "bonded labour",
       "coercion"
     ],
-    "oldIPCSection": "374",
+    "correspondingSection": "374",
     "relatedSections": [
       "93",
       "94",
@@ -3189,7 +3189,7 @@
       "obstruction",
       "liberty"
     ],
-    "oldIPCSection": "339, 341",
+    "correspondingSection": "339, 341",
     "relatedSections": [
       "97",
       "98"
@@ -3218,7 +3218,7 @@
       "detention",
       "liberty"
     ],
-    "oldIPCSection": "340, 342",
+    "correspondingSection": "340, 342",
     "relatedSections": [
       "96",
       "98",
@@ -3247,7 +3247,7 @@
       "wrongful confinement",
       "prolonged detention"
     ],
-    "oldIPCSection": "343",
+    "correspondingSection": "343",
     "relatedSections": [
       "97",
       "99"
@@ -3276,7 +3276,7 @@
       "detention",
       "10 days"
     ],
-    "oldIPCSection": "344",
+    "correspondingSection": "344",
     "relatedSections": [
       "98",
       "100"
@@ -3306,7 +3306,7 @@
       "writ",
       "release"
     ],
-    "oldIPCSection": "345",
+    "correspondingSection": "345",
     "relatedSections": [
       "97",
       "99",
@@ -3336,7 +3336,7 @@
       "detention",
       "wrongful confinement"
     ],
-    "oldIPCSection": "346",
+    "correspondingSection": "346",
     "relatedSections": [
       "97",
       "100",
@@ -3367,7 +3367,7 @@
       "property",
       "coercion"
     ],
-    "oldIPCSection": "347",
+    "correspondingSection": "347",
     "relatedSections": [
       "103",
       "104"
@@ -3397,7 +3397,7 @@
       "wrongful confinement",
       "information"
     ],
-    "oldIPCSection": "348",
+    "correspondingSection": "348",
     "relatedSections": [
       "102",
       "120"
@@ -3427,7 +3427,7 @@
       "forced labour",
       "coercion"
     ],
-    "oldIPCSection": "370",
+    "correspondingSection": "370",
     "relatedSections": [
       "105",
       "106"
@@ -3456,7 +3456,7 @@
       "multiple victims",
       "organized crime"
     ],
-    "oldIPCSection": "370(2)",
+    "correspondingSection": "370(2)",
     "relatedSections": [
       "104",
       "106"
@@ -3486,7 +3486,7 @@
       "forced labour",
       "slavery"
     ],
-    "oldIPCSection": "370A",
+    "correspondingSection": "370A",
     "relatedSections": [
       "104",
       "105"
@@ -3515,7 +3515,7 @@
       "crime syndicate",
       "criminal gang"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "108",
       "109"
@@ -3544,7 +3544,7 @@
       "gang",
       "repeated offences"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "107",
       "109"
@@ -3573,7 +3573,7 @@
       "national security",
       "terrorist act"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "107",
       "110"
@@ -3603,7 +3603,7 @@
       "coercion",
       "community service"
     ],
-    "oldIPCSection": "Related to 309 IPC with modifications",
+    "correspondingSection": "Related to 309 IPC with modifications",
     "relatedSections": [
       "109",
       "111"
@@ -3632,7 +3632,7 @@
       "detention",
       "wrongful confinement"
     ],
-    "oldIPCSection": "346",
+    "correspondingSection": "346",
     "relatedSections": [
       "97",
       "100",
@@ -3663,7 +3663,7 @@
       "property",
       "coercion"
     ],
-    "oldIPCSection": "347",
+    "correspondingSection": "347",
     "relatedSections": [
       "103",
       "104"
@@ -3693,7 +3693,7 @@
       "wrongful confinement",
       "information"
     ],
-    "oldIPCSection": "348",
+    "correspondingSection": "348",
     "relatedSections": [
       "102",
       "120"
@@ -3723,7 +3723,7 @@
       "forced labour",
       "coercion"
     ],
-    "oldIPCSection": "370",
+    "correspondingSection": "370",
     "relatedSections": [
       "105",
       "106"
@@ -3752,7 +3752,7 @@
       "multiple victims",
       "organized crime"
     ],
-    "oldIPCSection": "370(2)",
+    "correspondingSection": "370(2)",
     "relatedSections": [
       "104",
       "106"
@@ -3782,7 +3782,7 @@
       "forced labour",
       "slavery"
     ],
-    "oldIPCSection": "370A",
+    "correspondingSection": "370A",
     "relatedSections": [
       "104",
       "105"
@@ -3811,7 +3811,7 @@
       "crime syndicate",
       "criminal gang"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "108",
       "109"
@@ -3840,7 +3840,7 @@
       "gang",
       "repeated offences"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "107",
       "109"
@@ -3869,7 +3869,7 @@
       "national security",
       "terrorist act"
     ],
-    "oldIPCSection": "New Provision in BNS",
+    "correspondingSection": "New Provision in BNS",
     "relatedSections": [
       "107",
       "110"
@@ -3899,7 +3899,7 @@
       "coercion",
       "community service"
     ],
-    "oldIPCSection": "Related to 309 IPC with modifications",
+    "correspondingSection": "Related to 309 IPC with modifications",
     "relatedSections": [
       "109",
       "111"
@@ -4087,7 +4087,7 @@
       "blindness",
       "serious injury"
     ],
-    "oldIPCSection": "320",
+    "correspondingSection": "320",
     "relatedSections": [
       "114",
       "115",
@@ -4129,7 +4129,7 @@
       "vegetative state",
       "mob violence"
     ],
-    "oldIPCSection": "322, 325",
+    "correspondingSection": "322, 325",
     "relatedSections": [
       "116",
       "118"
@@ -4169,7 +4169,7 @@
       "explosive",
       "aggravated hurt"
     ],
-    "oldIPCSection": "324, 326",
+    "correspondingSection": "324, 326",
     "relatedSections": [
       "115",
       "117",
@@ -4210,7 +4210,7 @@
       "coercion",
       "violence"
     ],
-    "oldIPCSection": "327, 329",
+    "correspondingSection": "327, 329",
     "relatedSections": [
       "120"
     ]
@@ -4249,7 +4249,7 @@
       "coercion",
       "information extraction"
     ],
-    "oldIPCSection": "330, 331",
+    "correspondingSection": "330, 331",
     "relatedSections": [
       "119",
       "121"
@@ -4284,7 +4284,7 @@
       "duty",
       "obstruction"
     ],
-    "oldIPCSection": "332, 333",
+    "correspondingSection": "332, 333",
     "relatedSections": [
       "115",
       "117",
@@ -4320,7 +4320,7 @@
       "hurt",
       "grievous hurt"
     ],
-    "oldIPCSection": "334, 335",
+    "correspondingSection": "334, 335",
     "relatedSections": [
       "115",
       "117"
@@ -4352,7 +4352,7 @@
       "hurt",
       "facilitating offence"
     ],
-    "oldIPCSection": "328",
+    "correspondingSection": "328",
     "relatedSections": [
       "118",
       "124"
@@ -4391,7 +4391,7 @@
       "grievous hurt",
       "vegetative state"
     ],
-    "oldIPCSection": "326A, 326B",
+    "correspondingSection": "326A, 326B",
     "relatedSections": [
       "117",
       "118"
@@ -4427,7 +4427,7 @@
       "life",
       "safety"
     ],
-    "oldIPCSection": "336, 337, 338",
+    "correspondingSection": "336, 337, 338",
     "relatedSections": [
       "126"
     ]
@@ -4457,7 +4457,7 @@
       "movement",
       "liberty"
     ],
-    "oldIPCSection": "339, 341",
+    "correspondingSection": "339, 341",
     "relatedSections": [
       "127"
     ]
@@ -4492,7 +4492,7 @@
       "liberty",
       "secret confinement"
     ],
-    "oldIPCSection": "340-348",
+    "correspondingSection": "340-348",
     "relatedSections": [
       "126",
       "128"
@@ -4523,7 +4523,7 @@
       "contact",
       "physical action"
     ],
-    "oldIPCSection": "349",
+    "correspondingSection": "349",
     "relatedSections": [
       "129",
       "130"
@@ -4556,7 +4556,7 @@
       "fear",
       "annoyance"
     ],
-    "oldIPCSection": "350",
+    "correspondingSection": "350",
     "relatedSections": [
       "128",
       "130"
@@ -4589,7 +4589,7 @@
       "fear",
       "gesture"
     ],
-    "oldIPCSection": "351",
+    "correspondingSection": "351",
     "relatedSections": [
       "128",
       "129"
@@ -4619,7 +4619,7 @@
       "criminal force",
       "provocation"
     ],
-    "oldIPCSection": "352",
+    "correspondingSection": "352",
     "relatedSections": [
       "130",
       "136"
@@ -4650,7 +4650,7 @@
       "criminal force",
       "official duty"
     ],
-    "oldIPCSection": "353",
+    "correspondingSection": "353",
     "relatedSections": [
       "121"
     ]
@@ -4679,7 +4679,7 @@
       "humiliation",
       "assault"
     ],
-    "oldIPCSection": "355",
+    "correspondingSection": "355",
     "relatedSections": [
       "131"
     ]
@@ -4708,7 +4708,7 @@
       "snatching",
       "assault"
     ],
-    "oldIPCSection": "356",
+    "correspondingSection": "356",
     "relatedSections": [
       "129",
       "130"
@@ -4738,7 +4738,7 @@
       "restraint",
       "assault"
     ],
-    "oldIPCSection": "357",
+    "correspondingSection": "357",
     "relatedSections": [
       "126",
       "127"
@@ -4767,7 +4767,7 @@
       "assault",
       "criminal force"
     ],
-    "oldIPCSection": "358",
+    "correspondingSection": "358",
     "relatedSections": [
       "131"
     ]
@@ -4797,7 +4797,7 @@
       "minor",
       "India"
     ],
-    "oldIPCSection": "359, 360, 361, 363",
+    "correspondingSection": "359, 360, 361, 363",
     "relatedSections": [
       "138",
       "140"
@@ -4827,7 +4827,7 @@
       "force",
       "deceit"
     ],
-    "oldIPCSection": "362",
+    "correspondingSection": "362",
     "relatedSections": [
       "137",
       "140"
@@ -4861,7 +4861,7 @@
       "exploitation",
       "kidnapping"
     ],
-    "oldIPCSection": "363A",
+    "correspondingSection": "363A",
     "relatedSections": [
       "137"
     ]
@@ -4898,7 +4898,7 @@
       "murder",
       "slavery"
     ],
-    "oldIPCSection": "364, 364A, 365, 367",
+    "correspondingSection": "364, 364A, 365, 367",
     "relatedSections": [
       "137",
       "138"
@@ -4929,7 +4929,7 @@
       "sexual exploitation",
       "trafficking"
     ],
-    "oldIPCSection": "366B",
+    "correspondingSection": "366B",
     "relatedSections": [
       "143",
       "144"
@@ -4960,7 +4960,7 @@
       "concealment",
       "confinement"
     ],
-    "oldIPCSection": "368",
+    "correspondingSection": "368",
     "relatedSections": [
       "137",
       "138",
@@ -5000,7 +5000,7 @@
       "forced labour",
       "organ removal"
     ],
-    "oldIPCSection": "370",
+    "correspondingSection": "370",
     "relatedSections": [
       "144",
       "145",
@@ -5034,7 +5034,7 @@
       "sexual exploitation",
       "child trafficking"
     ],
-    "oldIPCSection": "370A",
+    "correspondingSection": "370A",
     "relatedSections": [
       "143"
     ]
@@ -5063,7 +5063,7 @@
       "slave trade",
       "human trafficking"
     ],
-    "oldIPCSection": "371",
+    "correspondingSection": "371",
     "relatedSections": [
       "143",
       "146"
@@ -5093,7 +5093,7 @@
       "bonded labour",
       "compulsory work"
     ],
-    "oldIPCSection": "374",
+    "correspondingSection": "374",
     "relatedSections": [
       "143",
       "145"
@@ -5122,7 +5122,7 @@
       "insurrection",
       "state security"
     ],
-    "oldIPCSection": "121",
+    "correspondingSection": "121",
     "relatedSections": [
       "148",
       "149",
@@ -5153,7 +5153,7 @@
       "government",
       "state security"
     ],
-    "oldIPCSection": "121A",
+    "correspondingSection": "121A",
     "relatedSections": [
       "147",
       "149"
@@ -5182,7 +5182,7 @@
       "ammunition",
       "war preparation"
     ],
-    "oldIPCSection": "122",
+    "correspondingSection": "122",
     "relatedSections": [
       "147",
       "148",
@@ -5213,7 +5213,7 @@
       "government",
       "state security"
     ],
-    "oldIPCSection": "123",
+    "correspondingSection": "123",
     "relatedSections": [
       "147",
       "148",
@@ -5245,7 +5245,7 @@
       "constitutional authority",
       "coercion"
     ],
-    "oldIPCSection": "124",
+    "correspondingSection": "124",
     "relatedSections": [
       "147",
       "152"
@@ -5277,7 +5277,7 @@
       "secession",
       "armed rebellion"
     ],
-    "oldIPCSection": "Related to Sedition (124A IPC, replaced)",
+    "correspondingSection": "Related to Sedition (124A IPC, replaced)",
     "relatedSections": [
       "147",
       "148",
@@ -5307,7 +5307,7 @@
       "war",
       "international peace"
     ],
-    "oldIPCSection": "125",
+    "correspondingSection": "125",
     "relatedSections": [
       "154",
       "155"
@@ -5336,7 +5336,7 @@
       "foreign territory",
       "forfeiture"
     ],
-    "oldIPCSection": "126",
+    "correspondingSection": "126",
     "relatedSections": [
       "153",
       "155"
@@ -5365,7 +5365,7 @@
       "war",
       "depredation"
     ],
-    "oldIPCSection": "127",
+    "correspondingSection": "127",
     "relatedSections": [
       "153",
       "154"
@@ -5394,7 +5394,7 @@
       "escape",
       "public servant"
     ],
-    "oldIPCSection": "128",
+    "correspondingSection": "128",
     "relatedSections": [
       "157",
       "158"
@@ -5423,7 +5423,7 @@
       "escape",
       "prisoner of war"
     ],
-    "oldIPCSection": "129",
+    "correspondingSection": "129",
     "relatedSections": [
       "156",
       "158"
@@ -5453,7 +5453,7 @@
       "harbouring",
       "prisoner of war"
     ],
-    "oldIPCSection": "130",
+    "correspondingSection": "130",
     "relatedSections": [
       "156",
       "157"
@@ -5483,7 +5483,7 @@
       "navy",
       "air force"
     ],
-    "oldIPCSection": "131",
+    "correspondingSection": "131",
     "relatedSections": [
       "160"
     ]
@@ -5511,7 +5511,7 @@
       "abetment",
       "armed forces"
     ],
-    "oldIPCSection": "132",
+    "correspondingSection": "132",
     "relatedSections": [
       "159"
     ]
@@ -5540,7 +5540,7 @@
       "superior officer",
       "military"
     ],
-    "oldIPCSection": "133",
+    "correspondingSection": "133",
     "relatedSections": [
       "160",
       "162"
@@ -5570,7 +5570,7 @@
       "abetment",
       "military"
     ],
-    "oldIPCSection": "134",
+    "correspondingSection": "134",
     "relatedSections": [
       "161"
     ]
@@ -5598,7 +5598,7 @@
       "military",
       "abetment"
     ],
-    "oldIPCSection": "135",
+    "correspondingSection": "135",
     "relatedSections": [
       "164",
       "165"
@@ -5627,7 +5627,7 @@
       "deserter",
       "military"
     ],
-    "oldIPCSection": "136",
+    "correspondingSection": "136",
     "relatedSections": [
       "163",
       "165"
@@ -5656,7 +5656,7 @@
       "deserter",
       "negligence"
     ],
-    "oldIPCSection": "137",
+    "correspondingSection": "137",
     "relatedSections": [
       "163",
       "164"
@@ -5685,7 +5685,7 @@
       "military",
       "abetment"
     ],
-    "oldIPCSection": "138",
+    "correspondingSection": "138",
     "relatedSections": [
       "159",
       "160"
@@ -5715,7 +5715,7 @@
       "Navy Act",
       "jurisdiction"
     ],
-    "oldIPCSection": "139",
+    "correspondingSection": "139",
     "relatedSections": [
       "159",
       "166"
@@ -5744,7 +5744,7 @@
       "uniform",
       "military"
     ],
-    "oldIPCSection": "140",
+    "correspondingSection": "140",
     "relatedSections": [
       "167"
     ]
@@ -5772,7 +5772,7 @@
       "electoral right",
       "elections"
     ],
-    "oldIPCSection": "171A",
+    "correspondingSection": "171A",
     "relatedSections": [
       "170"
     ]
@@ -5802,7 +5802,7 @@
       "gratification",
       "voting"
     ],
-    "oldIPCSection": "171B",
+    "correspondingSection": "171B",
     "relatedSections": [
       "169",
       "171"
@@ -5833,7 +5833,7 @@
       "voter intimidation",
       "electoral rights"
     ],
-    "oldIPCSection": "171C",
+    "correspondingSection": "171C",
     "relatedSections": [
       "170",
       "172",
@@ -5865,7 +5865,7 @@
       "proxy voting",
       "impersonation"
     ],
-    "oldIPCSection": "171D",
+    "correspondingSection": "171D",
     "relatedSections": [
       "171",
       "174"
@@ -5896,7 +5896,7 @@
       "elections",
       "gratification"
     ],
-    "oldIPCSection": "171E",
+    "correspondingSection": "171E",
     "relatedSections": [
       "170",
       "174"
@@ -5927,7 +5927,7 @@
       "personation",
       "elections"
     ],
-    "oldIPCSection": "171F",
+    "correspondingSection": "171F",
     "relatedSections": [
       "171",
       "172",
@@ -5959,7 +5959,7 @@
       "election",
       "misinformation"
     ],
-    "oldIPCSection": "171G",
+    "correspondingSection": "171G",
     "relatedSections": [
       "171",
       "176"
@@ -5990,7 +5990,7 @@
       "election spending",
       "authorization"
     ],
-    "oldIPCSection": "171H",
+    "correspondingSection": "171H",
     "relatedSections": [
       "177",
       "175"
@@ -6021,7 +6021,7 @@
       "records",
       "expenses"
     ],
-    "oldIPCSection": "171I",
+    "correspondingSection": "171I",
     "relatedSections": [
       "176"
     ]
@@ -6051,7 +6051,7 @@
       "bank notes",
       "government stamps"
     ],
-    "oldIPCSection": "489A",
+    "correspondingSection": "489A",
     "relatedSections": [
       "179",
       "180"
@@ -6082,7 +6082,7 @@
       "trafficking",
       "fake money"
     ],
-    "oldIPCSection": "489B",
+    "correspondingSection": "489B",
     "relatedSections": [
       "178",
       "180"
@@ -6113,7 +6113,7 @@
       "forged currency",
       "fake stamps"
     ],
-    "oldIPCSection": "489C",
+    "correspondingSection": "489C",
     "relatedSections": [
       "178",
       "179"
@@ -6144,7 +6144,7 @@
       "currency notes",
       "government stamps"
     ],
-    "oldIPCSection": "489D",
+    "correspondingSection": "489D",
     "relatedSections": [
       "178",
       "179",
@@ -6176,7 +6176,7 @@
       "deceptive documents",
       "currency resemblance"
     ],
-    "oldIPCSection": "489E",
+    "correspondingSection": "489E",
     "relatedSections": [
       "178",
       "181"
@@ -6207,7 +6207,7 @@
       "reuse",
       "fraud"
     ],
-    "oldIPCSection": "261",
+    "correspondingSection": "261",
     "relatedSections": [
       "184",
       "185"
@@ -6238,7 +6238,7 @@
       "fraudulent use",
       "stamp reuse"
     ],
-    "oldIPCSection": "262",
+    "correspondingSection": "262",
     "relatedSections": [
       "183",
       "185"
@@ -6269,7 +6269,7 @@
       "erasure",
       "government revenue"
     ],
-    "oldIPCSection": "263",
+    "correspondingSection": "263",
     "relatedSections": [
       "183",
       "184"
@@ -6300,7 +6300,7 @@
       "fake stamp",
       "postal fraud"
     ],
-    "oldIPCSection": "263A",
+    "correspondingSection": "263A",
     "relatedSections": [
       "183",
       "185"
@@ -6331,7 +6331,7 @@
       "coin weight",
       "mint employee"
     ],
-    "oldIPCSection": "244",
+    "correspondingSection": "244",
     "relatedSections": [
       "178",
       "188"
@@ -6362,7 +6362,7 @@
       "coin die",
       "unauthorized removal"
     ],
-    "oldIPCSection": "245",
+    "correspondingSection": "245",
     "relatedSections": [
       "187",
       "178"
@@ -6399,7 +6399,7 @@
       "criminal force",
       "public order"
     ],
-    "oldIPCSection": "141-145",
+    "correspondingSection": "141-145",
     "relatedSections": [
       "190",
       "191",
@@ -6431,7 +6431,7 @@
       "joint liability",
       "group offence"
     ],
-    "oldIPCSection": "149",
+    "correspondingSection": "149",
     "relatedSections": [
       "189",
       "191"
@@ -6462,7 +6462,7 @@
       "unlawful assembly",
       "deadly weapon"
     ],
-    "oldIPCSection": "146, 147, 148",
+    "correspondingSection": "146, 147, 148",
     "relatedSections": [
       "189",
       "190",
@@ -6494,7 +6494,7 @@
       "incitement",
       "public order"
     ],
-    "oldIPCSection": "153",
+    "correspondingSection": "153",
     "relatedSections": [
       "191",
       "196"
@@ -6525,7 +6525,7 @@
       "unlawful assembly",
       "public peace"
     ],
-    "oldIPCSection": "154-156",
+    "correspondingSection": "154-156",
     "relatedSections": [
       "189",
       "191"
@@ -6556,7 +6556,7 @@
       "public peace",
       "disturbance"
     ],
-    "oldIPCSection": "159, 160",
+    "correspondingSection": "159, 160",
     "relatedSections": [
       "191",
       "195"
@@ -6587,7 +6587,7 @@
       "assault",
       "obstruction"
     ],
-    "oldIPCSection": "152",
+    "correspondingSection": "152",
     "relatedSections": [
       "191",
       "194"
@@ -6618,7 +6618,7 @@
       "communal harmony",
       "public tranquillity"
     ],
-    "oldIPCSection": "153A",
+    "correspondingSection": "153A",
     "relatedSections": [
       "192",
       "197"
@@ -6649,7 +6649,7 @@
       "unity",
       "false information"
     ],
-    "oldIPCSection": "153B",
+    "correspondingSection": "153B",
     "relatedSections": [
       "196",
       "198"
@@ -6680,7 +6680,7 @@
       "injury",
       "official misconduct"
     ],
-    "oldIPCSection": "166",
+    "correspondingSection": "166",
     "relatedSections": [
       "199",
       "200"
@@ -6711,7 +6711,7 @@
       "FIR",
       "official misconduct"
     ],
-    "oldIPCSection": "166A",
+    "correspondingSection": "166A",
     "relatedSections": [
       "198",
       "200"
@@ -6742,7 +6742,7 @@
       "medical institution",
       "legal compliance"
     ],
-    "oldIPCSection": "New Provision",
+    "correspondingSection": "New Provision",
     "relatedSections": [
       "199",
       "201"
@@ -6773,7 +6773,7 @@
       "incorrect record",
       "official misconduct"
     ],
-    "oldIPCSection": "167",
+    "correspondingSection": "167",
     "relatedSections": [
       "198",
       "199"
@@ -6804,7 +6804,7 @@
       "business activity",
       "service rules"
     ],
-    "oldIPCSection": "168",
+    "correspondingSection": "168",
     "relatedSections": [
       "203",
       "204"
@@ -6835,7 +6835,7 @@
       "auction",
       "confiscation"
     ],
-    "oldIPCSection": "169",
+    "correspondingSection": "169",
     "relatedSections": [
       "202",
       "204"
@@ -6866,7 +6866,7 @@
       "impersonation",
       "government official"
     ],
-    "oldIPCSection": "170",
+    "correspondingSection": "170",
     "relatedSections": [
       "205",
       "206"
@@ -6897,7 +6897,7 @@
       "public servant",
       "deception"
     ],
-    "oldIPCSection": "171",
+    "correspondingSection": "171",
     "relatedSections": [
       "204"
     ]
@@ -6927,7 +6927,7 @@
       "notice",
       "court order"
     ],
-    "oldIPCSection": "172",
+    "correspondingSection": "172",
     "relatedSections": [
       "207",
       "208"
@@ -6958,7 +6958,7 @@
       "proclamation",
       "obstruction"
     ],
-    "oldIPCSection": "173",
+    "correspondingSection": "173",
     "relatedSections": [
       "206",
       "208"
@@ -6989,7 +6989,7 @@
       "court appearance",
       "public servant"
     ],
-    "oldIPCSection": "174",
+    "correspondingSection": "174",
     "relatedSections": [
       "206",
       "207",
@@ -7021,7 +7021,7 @@
       "appearance",
       "BNSS"
     ],
-    "oldIPCSection": "174A",
+    "correspondingSection": "174A",
     "relatedSections": [
       "206",
       "207",
@@ -7053,7 +7053,7 @@
       "court order",
       "public servant"
     ],
-    "oldIPCSection": "175",
+    "correspondingSection": "175",
     "relatedSections": [
       "206",
       "208",
@@ -7085,7 +7085,7 @@
       "public servant",
       "legal duty"
     ],
-    "oldIPCSection": "176",
+    "correspondingSection": "176",
     "relatedSections": [
       "210",
       "212"
@@ -7116,7 +7116,7 @@
       "public servant",
       "offence reporting"
     ],
-    "oldIPCSection": "177",
+    "correspondingSection": "177",
     "relatedSections": [
       "211",
       "217"
@@ -7147,7 +7147,7 @@
       "truth",
       "public servant"
     ],
-    "oldIPCSection": "178",
+    "correspondingSection": "178",
     "relatedSections": [
       "214",
       "216"
@@ -7178,7 +7178,7 @@
       "refusal",
       "investigation"
     ],
-    "oldIPCSection": "179",
+    "correspondingSection": "179",
     "relatedSections": [
       "213",
       "215"
@@ -7209,7 +7209,7 @@
       "public servant",
       "refusal"
     ],
-    "oldIPCSection": "180",
+    "correspondingSection": "180",
     "relatedSections": [
       "213",
       "214"
@@ -7240,7 +7240,7 @@
       "affirmation",
       "sworn testimony"
     ],
-    "oldIPCSection": "181",
+    "correspondingSection": "181",
     "relatedSections": [
       "213",
       "214",
@@ -7272,7 +7272,7 @@
       "public servant",
       "injury"
     ],
-    "oldIPCSection": "182",
+    "correspondingSection": "182",
     "relatedSections": [
       "212",
       "216",
@@ -7304,7 +7304,7 @@
       "resistance",
       "lawful authority"
     ],
-    "oldIPCSection": "183",
+    "correspondingSection": "183",
     "relatedSections": [
       "219",
       "220"
@@ -7335,7 +7335,7 @@
       "property",
       "obstruction"
     ],
-    "oldIPCSection": "184",
+    "correspondingSection": "184",
     "relatedSections": [
       "218",
       "220"
@@ -7366,7 +7366,7 @@
       "property sale",
       "legal incapacity"
     ],
-    "oldIPCSection": "185",
+    "correspondingSection": "185",
     "relatedSections": [
       "218",
       "219"
@@ -7397,7 +7397,7 @@
       "official duty",
       "interference"
     ],
-    "oldIPCSection": "186",
+    "correspondingSection": "186",
     "relatedSections": [
       "222",
       "223"
@@ -7428,7 +7428,7 @@
       "legal duty",
       "law enforcement"
     ],
-    "oldIPCSection": "187",
+    "correspondingSection": "187",
     "relatedSections": [
       "221",
       "223"
@@ -7459,7 +7459,7 @@
       "promulgated order",
       "public servant"
     ],
-    "oldIPCSection": "188",
+    "correspondingSection": "188",
     "relatedSections": [
       "221",
       "224"
@@ -7490,7 +7490,7 @@
       "intimidation",
       "official duty"
     ],
-    "oldIPCSection": "189",
+    "correspondingSection": "189",
     "relatedSections": [
       "225",
       "226"
@@ -7521,7 +7521,7 @@
       "public servant",
       "intimidation"
     ],
-    "oldIPCSection": "190",
+    "correspondingSection": "190",
     "relatedSections": [
       "224",
       "226"
@@ -7552,7 +7552,7 @@
       "coercion",
       "official duty"
     ],
-    "oldIPCSection": "New Provision",
+    "correspondingSection": "New Provision",
     "relatedSections": [
       "224",
       "225"
@@ -7583,7 +7583,7 @@
       "oath",
       "truth"
     ],
-    "oldIPCSection": "191",
+    "correspondingSection": "191",
     "relatedSections": [
       "228",
       "229"
@@ -7614,7 +7614,7 @@
       "fake records",
       "judicial proceeding"
     ],
-    "oldIPCSection": "192",
+    "correspondingSection": "192",
     "relatedSections": [
       "227",
       "229"
@@ -7645,7 +7645,7 @@
       "judicial proceeding",
       "fabrication"
     ],
-    "oldIPCSection": "193",
+    "correspondingSection": "193",
     "relatedSections": [
       "227",
       "228",
@@ -7677,7 +7677,7 @@
       "wrongful conviction",
       "death penalty"
     ],
-    "oldIPCSection": "194",
+    "correspondingSection": "194",
     "relatedSections": [
       "227",
       "228",
@@ -7709,7 +7709,7 @@
       "life imprisonment",
       "fabrication"
     ],
-    "oldIPCSection": "195",
+    "correspondingSection": "195",
     "relatedSections": [
       "229",
       "230",
@@ -7741,7 +7741,7 @@
       "witness intimidation",
       "coercion"
     ],
-    "oldIPCSection": "195A",
+    "correspondingSection": "195A",
     "relatedSections": [
       "231",
       "233"
@@ -7772,7 +7772,7 @@
       "forged documents",
       "judicial proceeding"
     ],
-    "oldIPCSection": "196",
+    "correspondingSection": "196",
     "relatedSections": [
       "229",
       "228",
@@ -7804,7 +7804,7 @@
       "false evidence",
       "misrepresentation"
     ],
-    "oldIPCSection": "197",
+    "correspondingSection": "197",
     "relatedSections": [
       "233",
       "235"
@@ -7835,7 +7835,7 @@
       "false evidence",
       "document fraud"
     ],
-    "oldIPCSection": "198",
+    "correspondingSection": "198",
     "relatedSections": [
       "234",
       "236"
@@ -7866,7 +7866,7 @@
       "evidence",
       "affidavit"
     ],
-    "oldIPCSection": "199",
+    "correspondingSection": "199",
     "relatedSections": [
       "235",
       "237"
@@ -7897,7 +7897,7 @@
       "false evidence",
       "judicial proceeding"
     ],
-    "oldIPCSection": "200",
+    "correspondingSection": "200",
     "relatedSections": [
       "236",
       "238"
@@ -7928,7 +7928,7 @@
       "obstruction of justice",
       "false information"
     ],
-    "oldIPCSection": "201",
+    "correspondingSection": "201",
     "relatedSections": [
       "239",
       "240"
@@ -7959,7 +7959,7 @@
       "legal duty",
       "information"
     ],
-    "oldIPCSection": "202",
+    "correspondingSection": "202",
     "relatedSections": [
       "238",
       "240"
@@ -7990,7 +7990,7 @@
       "misleading police",
       "obstruction of justice"
     ],
-    "oldIPCSection": "203",
+    "correspondingSection": "203",
     "relatedSections": [
       "238",
       "239"
@@ -8021,7 +8021,7 @@
       "electronic record",
       "court proceedings"
     ],
-    "oldIPCSection": "204",
+    "correspondingSection": "204",
     "relatedSections": [
       "238",
       "229"
@@ -8052,7 +8052,7 @@
       "court proceedings",
       "false identity"
     ],
-    "oldIPCSection": "205",
+    "correspondingSection": "205",
     "relatedSections": [
       "204",
       "248"
@@ -8083,7 +8083,7 @@
       "execution",
       "court decree"
     ],
-    "oldIPCSection": "206",
+    "correspondingSection": "206",
     "relatedSections": [
       "244",
       "245"
@@ -8114,7 +8114,7 @@
       "forfeiture",
       "deception"
     ],
-    "oldIPCSection": "207",
+    "correspondingSection": "207",
     "relatedSections": [
       "243",
       "245"
@@ -8145,7 +8145,7 @@
       "judicial fraud",
       "execution"
     ],
-    "oldIPCSection": "208",
+    "correspondingSection": "208",
     "relatedSections": [
       "243",
       "244",
@@ -8177,7 +8177,7 @@
       "judicial fraud",
       "dishonest claim"
     ],
-    "oldIPCSection": "209",
+    "correspondingSection": "209",
     "relatedSections": [
       "245",
       "247"
@@ -8208,7 +8208,7 @@
       "false claim",
       "property"
     ],
-    "oldIPCSection": "210",
+    "correspondingSection": "210",
     "relatedSections": [
       "245",
       "246"
@@ -8239,7 +8239,7 @@
       "malicious prosecution",
       "injury"
     ],
-    "oldIPCSection": "211",
+    "correspondingSection": "211",
     "relatedSections": [
       "242",
       "249"
@@ -8270,7 +8270,7 @@
       "fugitive",
       "screening offender"
     ],
-    "oldIPCSection": "212",
+    "correspondingSection": "212",
     "relatedSections": [
       "238",
       "250"
@@ -8301,7 +8301,7 @@
       "concealing offence",
       "bribery"
     ],
-    "oldIPCSection": "213",
+    "correspondingSection": "213",
     "relatedSections": [
       "249",
       "251"
@@ -8332,7 +8332,7 @@
       "concealing offence",
       "bribe"
     ],
-    "oldIPCSection": "214",
+    "correspondingSection": "214",
     "relatedSections": [
       "250",
       "252"
@@ -8363,7 +8363,7 @@
       "offender",
       "recovery"
     ],
-    "oldIPCSection": "215",
+    "correspondingSection": "215",
     "relatedSections": [
       "250",
       "251"
@@ -8394,7 +8394,7 @@
       "wanted person",
       "apprehension"
     ],
-    "oldIPCSection": "216",
+    "correspondingSection": "216",
     "relatedSections": [
       "249",
       "254"
@@ -8425,7 +8425,7 @@
       "harbouring",
       "criminal gang"
     ],
-    "oldIPCSection": "216A",
+    "correspondingSection": "216A",
     "relatedSections": [
       "253",
       "249"
@@ -8456,7 +8456,7 @@
       "forfeiture",
       "punishment"
     ],
-    "oldIPCSection": "217",
+    "correspondingSection": "217",
     "relatedSections": [
       "256",
       "259"
@@ -8487,7 +8487,7 @@
       "official document",
       "forfeiture"
     ],
-    "oldIPCSection": "218",
+    "correspondingSection": "218",
     "relatedSections": [
       "255",
       "257"
@@ -8518,7 +8518,7 @@
       "verdict",
       "public servant"
     ],
-    "oldIPCSection": "219",
+    "correspondingSection": "219",
     "relatedSections": [
       "256",
       "258"
@@ -8549,7 +8549,7 @@
       "public servant",
       "custody"
     ],
-    "oldIPCSection": "220",
+    "correspondingSection": "220",
     "relatedSections": [
       "257",
       "259"
@@ -8580,7 +8580,7 @@
       "apprehension",
       "public servant"
     ],
-    "oldIPCSection": "221",
+    "correspondingSection": "221",
     "relatedSections": [
       "255",
       "260"
@@ -8611,7 +8611,7 @@
       "public servant",
       "sentence"
     ],
-    "oldIPCSection": "222",
+    "correspondingSection": "222",
     "relatedSections": [
       "259",
       "261"
@@ -8642,7 +8642,7 @@
       "public servant",
       "negligence"
     ],
-    "oldIPCSection": "223",
+    "correspondingSection": "223",
     "relatedSections": [
       "259",
       "260",
@@ -8674,7 +8674,7 @@
       "custody",
       "apprehension"
     ],
-    "oldIPCSection": "224",
+    "correspondingSection": "224",
     "relatedSections": [
       "263",
       "265"
@@ -8705,7 +8705,7 @@
       "apprehension",
       "custody"
     ],
-    "oldIPCSection": "225",
+    "correspondingSection": "225",
     "relatedSections": [
       "262",
       "264"
@@ -8736,7 +8736,7 @@
       "apprehension",
       "negligence"
     ],
-    "oldIPCSection": "225A",
+    "correspondingSection": "225A",
     "relatedSections": [
       "261",
       "263",
@@ -8768,7 +8768,7 @@
       "rescue",
       "custody"
     ],
-    "oldIPCSection": "225B",
+    "correspondingSection": "225B",
     "relatedSections": [
       "262",
       "263",
@@ -8800,7 +8800,7 @@
       "punishment",
       "violation"
     ],
-    "oldIPCSection": "227",
+    "correspondingSection": "227",
     "relatedSections": [
       "269"
     ]
@@ -8830,7 +8830,7 @@
       "insult",
       "interruption"
     ],
-    "oldIPCSection": "228",
+    "correspondingSection": "228",
     "relatedSections": [
       "257"
     ]
@@ -8860,7 +8860,7 @@
       "judicial proceeding",
       "qualification"
     ],
-    "oldIPCSection": "229",
+    "correspondingSection": "229",
     "relatedSections": [
       "242",
       "267"
@@ -8891,7 +8891,7 @@
       "court appearance",
       "absconding"
     ],
-    "oldIPCSection": "229A",
+    "correspondingSection": "229A",
     "relatedSections": [
       "209",
       "266"
@@ -8922,7 +8922,7 @@
       "obstruction",
       "annoyance"
     ],
-    "oldIPCSection": "268",
+    "correspondingSection": "268",
     "relatedSections": [
       "271"
     ]
@@ -8952,7 +8952,7 @@
       "public servant",
       "negligence"
     ],
-    "oldIPCSection": "223",
+    "correspondingSection": "223",
     "relatedSections": [
       "259",
       "260",
@@ -8984,7 +8984,7 @@
       "custody",
       "apprehension"
     ],
-    "oldIPCSection": "224",
+    "correspondingSection": "224",
     "relatedSections": [
       "263",
       "265"
@@ -9015,7 +9015,7 @@
       "apprehension",
       "custody"
     ],
-    "oldIPCSection": "225",
+    "correspondingSection": "225",
     "relatedSections": [
       "262",
       "264"
@@ -9046,7 +9046,7 @@
       "apprehension",
       "negligence"
     ],
-    "oldIPCSection": "225A",
+    "correspondingSection": "225A",
     "relatedSections": [
       "261",
       "263",
@@ -9078,7 +9078,7 @@
       "rescue",
       "custody"
     ],
-    "oldIPCSection": "225B",
+    "correspondingSection": "225B",
     "relatedSections": [
       "262",
       "263",
@@ -9110,7 +9110,7 @@
       "punishment",
       "violation"
     ],
-    "oldIPCSection": "227",
+    "correspondingSection": "227",
     "relatedSections": [
       "269"
     ]
@@ -9140,7 +9140,7 @@
       "insult",
       "interruption"
     ],
-    "oldIPCSection": "228",
+    "correspondingSection": "228",
     "relatedSections": [
       "257"
     ]
@@ -9170,7 +9170,7 @@
       "judicial proceeding",
       "qualification"
     ],
-    "oldIPCSection": "229",
+    "correspondingSection": "229",
     "relatedSections": [
       "242",
       "267"
@@ -9201,7 +9201,7 @@
       "court appearance",
       "absconding"
     ],
-    "oldIPCSection": "229A",
+    "correspondingSection": "229A",
     "relatedSections": [
       "209",
       "266"
@@ -9232,7 +9232,7 @@
       "obstruction",
       "annoyance"
     ],
-    "oldIPCSection": "268",
+    "correspondingSection": "268",
     "relatedSections": [
       "271"
     ]
@@ -9262,7 +9262,7 @@
       "public road",
       "vehicle"
     ],
-    "oldIPCSection": "279",
+    "correspondingSection": "279",
     "relatedSections": [
       "282",
       "285"
@@ -9293,7 +9293,7 @@
       "boat",
       "rash conduct"
     ],
-    "oldIPCSection": "280",
+    "correspondingSection": "280",
     "relatedSections": [
       "283",
       "284"
@@ -9324,7 +9324,7 @@
       "navigation",
       "misleading signal"
     ],
-    "oldIPCSection": "281",
+    "correspondingSection": "281",
     "relatedSections": [
       "282",
       "284"
@@ -9355,7 +9355,7 @@
       "water transport",
       "hire"
     ],
-    "oldIPCSection": "282",
+    "correspondingSection": "282",
     "relatedSections": [
       "282",
       "283"
@@ -9386,7 +9386,7 @@
       "navigation",
       "danger"
     ],
-    "oldIPCSection": "283",
+    "correspondingSection": "283",
     "relatedSections": [
       "281",
       "282"
@@ -9417,7 +9417,7 @@
       "negligence",
       "safety"
     ],
-    "oldIPCSection": "284",
+    "correspondingSection": "284",
     "relatedSections": [
       "287",
       "288"
@@ -9448,7 +9448,7 @@
       "negligence",
       "safety"
     ],
-    "oldIPCSection": "285",
+    "correspondingSection": "285",
     "relatedSections": [
       "286",
       "288"
@@ -9479,7 +9479,7 @@
       "negligence",
       "danger"
     ],
-    "oldIPCSection": "286",
+    "correspondingSection": "286",
     "relatedSections": [
       "286",
       "287",
@@ -9511,7 +9511,7 @@
       "negligence",
       "equipment"
     ],
-    "oldIPCSection": "287",
+    "correspondingSection": "287",
     "relatedSections": [
       "288",
       "290"
@@ -9542,7 +9542,7 @@
       "demolition",
       "safety"
     ],
-    "oldIPCSection": "288",
+    "correspondingSection": "288",
     "relatedSections": [
       "289",
       "291"
@@ -9573,7 +9573,7 @@
       "danger",
       "public safety"
     ],
-    "oldIPCSection": "289",
+    "correspondingSection": "289",
     "relatedSections": [
       "286",
       "290"
@@ -9603,7 +9603,7 @@
       "annoyance",
       "public inconvenience"
     ],
-    "oldIPCSection": "290",
+    "correspondingSection": "290",
     "relatedSections": [
       "270",
       "293"
@@ -9634,7 +9634,7 @@
       "disobedience",
       "public servant"
     ],
-    "oldIPCSection": "291",
+    "correspondingSection": "291",
     "relatedSections": [
       "292",
       "223"
@@ -9665,7 +9665,7 @@
       "publication",
       "electronic content"
     ],
-    "oldIPCSection": "292",
+    "correspondingSection": "292",
     "relatedSections": [
       "295",
       "296"
@@ -9696,7 +9696,7 @@
       "minor",
       "distribution"
     ],
-    "oldIPCSection": "293",
+    "correspondingSection": "293",
     "relatedSections": [
       "294",
       "296"
@@ -9727,7 +9727,7 @@
       "song",
       "decency"
     ],
-    "oldIPCSection": "294",
+    "correspondingSection": "294",
     "relatedSections": [
       "294",
       "295"
@@ -9758,7 +9758,7 @@
       "unauthorised lottery",
       "lottery office"
     ],
-    "oldIPCSection": "294A",
+    "correspondingSection": "294A",
     "relatedSections": []
   },
   {
@@ -9786,7 +9786,7 @@
       "sacred object",
       "insult"
     ],
-    "oldIPCSection": "295",
+    "correspondingSection": "295",
     "relatedSections": [
       "299",
       "300",
@@ -9818,7 +9818,7 @@
       "malicious act",
       "beliefs"
     ],
-    "oldIPCSection": "295A",
+    "correspondingSection": "295A",
     "relatedSections": [
       "298",
       "300"
@@ -9849,7 +9849,7 @@
       "ceremony",
       "disturbance"
     ],
-    "oldIPCSection": "296",
+    "correspondingSection": "296",
     "relatedSections": [
       "299",
       "301"
@@ -9880,7 +9880,7 @@
       "corpse",
       "religious feelings"
     ],
-    "oldIPCSection": "297",
+    "correspondingSection": "297",
     "relatedSections": [
       "298",
       "300"
@@ -9911,7 +9911,7 @@
       "religion",
       "intentional insult"
     ],
-    "oldIPCSection": "298",
+    "correspondingSection": "298",
     "relatedSections": [
       "298",
       "299",
@@ -9948,7 +9948,7 @@
       "dishonest taking",
       "possession"
     ],
-    "oldIPCSection": "378 and 379",
+    "correspondingSection": "378 and 379",
     "relatedSections": [
       "304",
       "305",
@@ -9981,7 +9981,7 @@
       "grab",
       "sudden theft"
     ],
-    "oldIPCSection": "New provision under BNS",
+    "correspondingSection": "New provision under BNS",
     "relatedSections": [
       "303",
       "309"
@@ -10014,7 +10014,7 @@
       "government property",
       "transport theft"
     ],
-    "oldIPCSection": "380",
+    "correspondingSection": "380",
     "relatedSections": [
       "303",
       "306",
@@ -10045,7 +10045,7 @@
       "servant theft",
       "employer property"
     ],
-    "oldIPCSection": "381",
+    "correspondingSection": "381",
     "relatedSections": [
       "303",
       "305"
@@ -10075,7 +10075,7 @@
       "armed theft",
       "preparation for violence"
     ],
-    "oldIPCSection": "382",
+    "correspondingSection": "382",
     "relatedSections": [
       "303",
       "309"
@@ -10113,7 +10113,7 @@
       "fear",
       "valuable security"
     ],
-    "oldIPCSection": "383 to 389",
+    "correspondingSection": "383 to 389",
     "relatedSections": [
       "309"
     ]
@@ -10150,7 +10150,7 @@
       "extortion",
       "force"
     ],
-    "oldIPCSection": "390 to 394",
+    "correspondingSection": "390 to 394",
     "relatedSections": [
       "303",
       "304",
@@ -10194,7 +10194,7 @@
       "five persons",
       "armed gang"
     ],
-    "oldIPCSection": "391 to 402",
+    "correspondingSection": "391 to 402",
     "relatedSections": [
       "309"
     ]
@@ -10224,7 +10224,7 @@
       "deadly weapon",
       "grievous hurt"
     ],
-    "oldIPCSection": "397",
+    "correspondingSection": "397",
     "relatedSections": [
       "309",
       "310",
@@ -10255,7 +10255,7 @@
       "attempted dacoity",
       "deadly weapon"
     ],
-    "oldIPCSection": "398",
+    "correspondingSection": "398",
     "relatedSections": [
       "311",
       "309",
@@ -10287,7 +10287,7 @@
       "theft gang",
       "organized crime"
     ],
-    "oldIPCSection": "400",
+    "correspondingSection": "400",
     "relatedSections": [
       "310",
       "317"
@@ -10317,7 +10317,7 @@
       "lost property",
       "dishonest conversion"
     ],
-    "oldIPCSection": "403",
+    "correspondingSection": "403",
     "relatedSections": [
       "315",
       "316"
@@ -10346,7 +10346,7 @@
       "misappropriation",
       "inheritance"
     ],
-    "oldIPCSection": "404",
+    "correspondingSection": "404",
     "relatedSections": [
       "314",
       "316"
@@ -10382,7 +10382,7 @@
       "entrustment",
       "misuse of property"
     ],
-    "oldIPCSection": "405-409",
+    "correspondingSection": "405-409",
     "relatedSections": [
       "314",
       "317"
@@ -10418,7 +10418,7 @@
       "concealment",
       "retaining stolen goods"
     ],
-    "oldIPCSection": "410-414",
+    "correspondingSection": "410-414",
     "relatedSections": [
       "303",
       "314",
@@ -10455,7 +10455,7 @@
       "fraud",
       "property"
     ],
-    "oldIPCSection": "415-420",
+    "correspondingSection": "415-420",
     "relatedSections": [
       "319"
     ]
@@ -10484,7 +10484,7 @@
       "impersonation",
       "identity fraud"
     ],
-    "oldIPCSection": "416 and 419",
+    "correspondingSection": "416 and 419",
     "relatedSections": [
       "318"
     ]
@@ -10514,7 +10514,7 @@
       "concealment of assets",
       "debt avoidance"
     ],
-    "oldIPCSection": "421",
+    "correspondingSection": "421",
     "relatedSections": [
       "243",
       "244",
