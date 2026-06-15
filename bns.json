@@ -3632,7 +3632,8 @@
         "question": "Can a person be punished merely for being a member?",
         "answer": "Yes. Membership in an organised crime syndicate itself is punishable."
       }
-    ]
+    ],
+    "keywords": []
   },
   {
     "id": "BNS_112",
@@ -3657,7 +3658,8 @@
         "question": "Is card-skimming included?",
         "answer": "Yes. Theft through card skimming is specifically included."
       }
-    ]
+    ],
+    "keywords": []
   },
   {
     "id": "BNS_113",
@@ -3682,7 +3684,8 @@
         "question": "Who decides whether a case is registered under this section?",
         "answer": "An officer not below the rank of Superintendent of Police."
       }
-    ]
+    ],
+    "keywords": []
   },
   {
     "id": "BNS_114",
@@ -3702,7 +3705,8 @@
         "question": "Is physical injury necessary?",
         "answer": "No. Pain, disease, or infirmity is sufficient."
       }
-    ]
+    ],
+    "keywords": []
   },
   {
     "id": "BNS_114",
@@ -3722,7 +3726,10 @@
         "question": "Is physical injury necessary?",
         "answer": "No. Pain, disease, or infirmity is sufficient."
       }
-    ]
+      
+    ],
+
+    "keywords": []
   },
   {
     "id": "BNS_115",
@@ -3742,7 +3749,9 @@
         "question": "Does intention matter?",
         "answer": "Yes. The act must be intentional or done with knowledge that hurt is likely."
       }
-    ]
+    ],
+
+     "keywords": []
   },
   {
     "id": "BNS_116",
