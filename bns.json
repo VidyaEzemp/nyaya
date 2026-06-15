@@ -3617,15 +3617,7 @@
     "category": "Organised Crime",
     "officialText": "Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking of persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, committed by a person or group acting as part of an organised crime syndicate for material or financial benefit constitutes organised crime.",
     "simpleExplanation": "This section targets criminal gangs and syndicates involved in repeated serious crimes for financial or material gain. It covers both direct participation and support activities connected to organised criminal networks.",
-    "punishment": {
-      "ifDeathCaused": "Death penalty or imprisonment for life and fine of not less than ₹10 lakh.",
-      "otherCases": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh.",
-      "abetmentOrConspiracy": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh.",
-      "membership": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh.",
-      "harbouringOffender": "Imprisonment not less than 3 years and may extend to life imprisonment, and fine not less than ₹5 lakh.",
-      "possessingCrimeProceeds": "Imprisonment not less than 3 years and may extend to life imprisonment, and fine not less than ₹2 lakh.",
-      "unexplainedProperty": "Imprisonment not less than 3 years and may extend to 10 years, and fine not less than ₹1 lakh."
-    },
+    "punishment": "Death penalty or imprisonment for life and fine of not less than ₹10 lakh. , Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh., Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh., Imprisonment not less than 5 years and may extend to life imprisonment, and fine not less than ₹5 lakh. , Imprisonment not less than 3 years and may extend to life imprisonment, and fine not less than ₹5 lakh. , Imprisonment not less than 3 years and may extend to life imprisonment, and fine not less than ₹2 lakh. , Imprisonment not less than 3 years and may extend to 10 years, and fine not less than ₹1 lakh.",
     "examples": [
       "A criminal gang repeatedly conducts kidnappings and extortion for ransom.",
       "A syndicate traffics drugs across states for profit.",
@@ -3675,15 +3667,7 @@
     "category": "Terrorism",
     "officialText": "Any act intended to threaten the unity, integrity, sovereignty, security, or economic security of India, or intended to strike terror among people through violence, explosives, weapons, hazardous substances, kidnapping, destruction of property, disruption of essential services, or similar means constitutes a terrorist act.",
     "simpleExplanation": "This section criminalizes acts of terrorism, including violent attacks, bombings, hostage-taking, recruitment, training, financing, and support activities intended to threaten India or create terror among people.",
-    "punishment": {
-      "ifDeathCaused": "Death penalty or imprisonment for life and fine.",
-      "otherCases": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine.",
-      "conspiracyOrAbetment": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine.",
-      "trainingOrRecruitment": "Imprisonment not less than 5 years and may extend to life imprisonment, and fine.",
-      "membership": "Imprisonment up to life imprisonment and fine.",
-      "harbouringTerrorist": "Imprisonment not less than 3 years and may extend to life imprisonment, and fine.",
-      "possessingTerrorProperty": "Imprisonment up to life imprisonment and fine."
-    },
+    "punishment": "Death penalty or imprisonment for life and fine., Imprisonment not less than 5 years and may extend to life imprisonment, and fine., Imprisonment not less than 5 years and may extend to life imprisonment, and fine., Imprisonment not less than 5 years and may extend to life imprisonment, and fine., Imprisonment up to life imprisonment and fine. , Imprisonment not less than 3 years and may extend to life imprisonment, and fine., Imprisonment up to life imprisonment and fine.",
     "examples": [
       "Planting bombs to create fear among the public.",
       "Kidnapping individuals to force government action.",
@@ -3806,11 +3790,7 @@
     "category": "Grievous Hurt",
     "officialText": "Whoever voluntarily causes hurt, intending or knowing that grievous hurt is likely to be caused, and grievous hurt is actually caused, commits the offence of voluntarily causing grievous hurt.",
     "simpleExplanation": "A person commits this offence when they intentionally cause or knowingly risk causing serious injuries that qualify as grievous hurt.",
-    "punishment": {
-      "general": "Imprisonment up to 7 years and fine.",
-      "permanentDisabilityOrVegetativeState": "Rigorous imprisonment not less than 10 years and may extend to imprisonment for life.",
-      "hateCrimeByGroup": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "General : Imprisonment up to 7 years and fine.,Permanent Disability Or VegetativeState: Rigorous imprisonment not less than 10 years and may extend to imprisonment for life., Hate Crime By Group: Imprisonment up to 7 years and fine.",
     "examples": [
       "Breaking another person's leg during an assault.",
       "Attacking someone and causing permanent facial disfigurement.",
@@ -3847,10 +3827,7 @@
     "category": "Aggravated Hurt",
     "officialText": "Whoever voluntarily causes hurt or grievous hurt by dangerous weapons, fire, poison, corrosive substances, explosives, harmful substances, or animals commits an aggravated form of the offence.",
     "simpleExplanation": "This section provides enhanced punishment when hurt or grievous hurt is caused using dangerous methods or weapons that are capable of causing serious injury or death.",
-    "punishment": {
-      "hurt": "Imprisonment up to 3 years, or fine up to ₹20,000, or both.",
-      "grievousHurt": "Life imprisonment or imprisonment from 1 year up to 10 years and fine."
-    },
+    "punishment": "hurt: Imprisonment up to 3 years, or fine up to ₹20,000, or both. , grievousHurt: Life imprisonment or imprisonment from 1 year up to 10 years and fine.",
     "examples": [
       "Stabbing a person with a knife.",
       "Throwing acid or corrosive chemicals causing injury.",
@@ -3888,10 +3865,7 @@
     "category": "Extortion Related Violence",
     "officialText": "Whoever voluntarily causes hurt or grievous hurt to extort property or valuable security, or to compel a person to perform an illegal act or facilitate an offence, commits an offence under this section.",
     "simpleExplanation": "This section punishes the use of violence to force someone to hand over property, money, valuables, or participate in illegal activities.",
-    "punishment": {
-      "hurt": "Imprisonment up to 10 years and fine.",
-      "grievousHurt": "Life imprisonment or imprisonment up to 10 years and fine."
-    },
+    "punishment": "Hurt: Imprisonment up to 10 years and fine., GrievousHurt: Life imprisonment or imprisonment up to 10 years and fine.",
     "examples": [
       "Beating a person until they transfer money.",
       "Threatening and injuring someone to force them to sign property documents.",
@@ -3927,10 +3901,7 @@
     "category": "Coercive Violence",
     "officialText": "Whoever voluntarily causes hurt or grievous hurt to obtain a confession, information relating to an offence, restoration of property, satisfaction of a claim, or information leading to recovery of property commits an offence under this section.",
     "simpleExplanation": "This section criminalises torture or violence used to extract confessions, obtain information, recover property, or enforce claims.",
-    "punishment": {
-      "hurt": "Imprisonment up to 7 years and fine.",
-      "grievousHurt": "Imprisonment up to 10 years and fine."
-    },
+    "punishment": "Hurt: Imprisonment up to 7 years and fine.,GrievousHurt: Imprisonment up to 10 years and fine.",
     "examples": [
       "A police officer beats a suspect to obtain a confession.",
       "A person tortures another to discover where stolen goods are hidden.",
@@ -3967,10 +3938,7 @@
     "category": "Offences Against Public Servants",
     "officialText": "Whoever voluntarily causes hurt or grievous hurt to a public servant while discharging official duties, or to prevent or deter such duties, commits an offence under this section.",
     "simpleExplanation": "This section protects public servants from violence while performing their lawful duties.",
-    "punishment": {
-      "hurt": "Imprisonment up to 5 years, or fine, or both.",
-      "grievousHurt": "Imprisonment not less than 1 year and up to 10 years, and fine."
-    },
+    "punishment": "Hurt: Imprisonment up to 5 years, or fine, or both., Grievous Hurt: Imprisonment not less than 1 year and up to 10 years, and fine.",
     "examples": [
       "Assaulting a police officer during an arrest.",
       "Injuring a revenue officer to stop an inspection."
@@ -4003,10 +3971,7 @@
     "category": "Provocation",
     "officialText": "Provides reduced punishment where hurt or grievous hurt is caused due to grave and sudden provocation by the victim.",
     "simpleExplanation": "The law recognizes that a person may temporarily lose self-control due to serious and sudden provocation and therefore provides a lesser punishment.",
-    "punishment": {
-      "hurt": "Imprisonment up to 1 month, or fine up to ₹5,000, or both.",
-      "grievousHurt": "Imprisonment up to 5 years, or fine up to ₹10,000, or both."
-    },
+    "punishment": "Hurt: Imprisonment up to 1 month, or fine up to ₹5,000, or both., Grievous Hurt: Imprisonment up to 5 years, or fine up to ₹10,000, or both.",
     "examples": [
       "A person immediately reacts to a grave insult and causes hurt.",
       "A sudden provocation leads to an assault causing grievous hurt."
@@ -4070,10 +4035,7 @@
     "category": "Acid Attack",
     "officialText": "Whoever causes permanent or partial damage, deformity, burns, maiming, disfigurement, disability, grievous hurt, or a permanent vegetative state by throwing or administering acid commits an offence under this section.",
     "simpleExplanation": "This section specifically deals with acid attacks and attempted acid attacks, imposing severe punishment due to the devastating impact on victims.",
-    "punishment": {
-      "acidAttack": "Imprisonment not less than 10 years and may extend to life imprisonment, and fine.",
-      "attempt": "Imprisonment not less than 5 years and may extend to 7 years, and fine."
-    },
+    "punishment": "AcidAttack: Imprisonment not less than 10 years and may extend to life imprisonment, and fine., Attempt: Imprisonment not less than 5 years and may extend to 7 years, and fine.",
     "examples": [
       "Throwing acid on a person's face causing disfigurement.",
       "Attempting to throw acid but being stopped before contact."
@@ -4109,11 +4071,7 @@
     "category": "Negligent Acts",
     "officialText": "Whoever rashly or negligently acts in a manner that endangers human life or personal safety commits an offence.",
     "simpleExplanation": "This section punishes reckless or negligent conduct that creates danger to others.",
-    "punishment": {
-      "endangermentOnly": "Imprisonment up to 3 months, or fine up to ₹2,500, or both.",
-      "hurtCaused": "Imprisonment up to 6 months, or fine up to ₹5,000, or both.",
-      "grievousHurtCaused": "Imprisonment up to 3 years, or fine up to ₹10,000, or both."
-    },
+    "punishment": "EndangermentOnly: Imprisonment up to 3 months, or fine up to ₹2,500, or both., HurtCaused: Imprisonment up to 6 months, or fine up to ₹5,000, or both., GrievousHurtCaused: Imprisonment up to 3 years, or fine up to ₹10,000, or both.",
     "examples": [
       "Carelessly handling hazardous equipment.",
       "Reckless conduct causing serious injury."
@@ -4174,12 +4132,7 @@
     "category": "Personal Liberty",
     "officialText": "Whoever wrongfully restrains a person so as to prevent movement beyond certain limits is said to wrongfully confine that person.",
     "simpleExplanation": "Wrongful confinement occurs when a person is unlawfully kept within a restricted area and prevented from leaving.",
-    "punishment": {
-      "basic": "Imprisonment up to 1 year, or fine up to ₹5,000, or both.",
-      "threeDaysOrMore": "Imprisonment up to 3 years, or fine up to ₹10,000, or both.",
-      "tenDaysOrMore": "Imprisonment up to 5 years and fine not less than ₹10,000.",
-      "secretConfinement": "Additional imprisonment up to 3 years and fine."
-    },
+    "punishment": "Basic: Imprisonment up to 1 year, or fine up to ₹5,000, or both., ThreeDays Or More: Imprisonment up to 3 years, or fine up to ₹10,000, or both. TenDays Or More: Imprisonment up to 5 years and fine not less than ₹10,000., Secret Confinement: Additional imprisonment up to 3 years and fine.",
     "examples": [
       "Locking a person in a room.",
       "Preventing someone from leaving a building through armed guards."
@@ -4545,10 +4498,7 @@
     "category": "Child Exploitation",
     "officialText": "Punishes kidnapping, obtaining custody, or maiming a child for the purpose of begging.",
     "simpleExplanation": "This section protects children from being kidnapped, exploited, or mutilated for begging activities.",
-    "punishment": {
-      "kidnappingForBegging": "Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine.",
-      "maimingForBegging": "Imprisonment not less than 20 years and may extend to life imprisonment for remainder of natural life, and fine."
-    },
+    "punishment": "Kidnapping For Begging: Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine., Maiming For Begging: Imprisonment not less than 20 years and may extend to life imprisonment for remainder of natural life, and fine.",
     "examples": [
       "Kidnapping a child and forcing them to beg.",
       "Maiming a child to increase sympathy and collect alms."
@@ -4578,12 +4528,7 @@
     "category": "Aggravated Kidnapping and Abduction",
     "officialText": "Punishes kidnapping or abduction for murder, ransom, secret confinement, slavery, grievous hurt, or exploitation.",
     "simpleExplanation": "This section covers the most serious forms of kidnapping and abduction, including ransom kidnappings and kidnappings intended for murder or slavery.",
-    "punishment": {
-      "forMurder": "Life imprisonment or rigorous imprisonment up to 10 years and fine.",
-      "forRansom": "Death or imprisonment for life and fine.",
-      "forSecretConfinement": "Imprisonment up to 7 years and fine.",
-      "forGrievousHurtOrSlavery": "Imprisonment up to 10 years and fine."
-    },
+    "punishment": "For Murder: Life imprisonment or rigorous imprisonment up to 10 years and fine., For Ransom: Death or imprisonment for life and fine., For Secret Confinement: Imprisonment up to 7 years and fine., For Grievous Hurt Or Slavery: Imprisonment up to 10 years and fine.",
     "examples": [
       "Kidnapping a person and demanding ransom.",
       "Abducting a person to keep them secretly confined.",
@@ -4679,14 +4624,7 @@
     "category": "Human Trafficking",
     "officialText": "Whoever recruits, transports, harbours, transfers or receives a person for exploitation through threats, force, coercion, abduction, fraud, deception, abuse of power or inducement commits trafficking.",
     "simpleExplanation": "This section criminalizes human trafficking for exploitation including sexual exploitation, slavery, forced labour, beggary and organ removal.",
-    "punishment": {
-      "general": "Rigorous imprisonment not less than 7 years and up to 10 years, and fine.",
-      "multipleVictims": "Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine.",
-      "childVictim": "Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine.",
-      "multipleChildren": "Rigorous imprisonment not less than 14 years and may extend to life imprisonment, and fine.",
-      "repeatChildTrafficking": "Life imprisonment for remainder of natural life and fine.",
-      "publicServantInvolved": "Life imprisonment for remainder of natural life and fine."
-    },
+    "punishment": "General: Rigorous imprisonment not less than 7 years and up to 10 years, and fine., MultipleVictims: Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine., ChildVictim: Rigorous imprisonment not less than 10 years and may extend to life imprisonment, and fine., Multiple Children: Rigorous imprisonment not less than 14 years and may extend to life imprisonment, and fine., RepeatChildTrafficking: Life imprisonment for remainder of natural life and fine., PublicServantInvolved: Life imprisonment for remainder of natural life and fine.",
     "examples": [
       "Transporting persons through deception for forced labour.",
       "Recruiting children for commercial sexual exploitation."
@@ -4719,10 +4657,7 @@
     "category": "Human Trafficking",
     "officialText": "Punishes persons who knowingly engage trafficked persons for sexual exploitation.",
     "simpleExplanation": "This section targets individuals who exploit trafficked victims, especially for sexual purposes.",
-    "punishment": {
-      "childVictim": "Rigorous imprisonment not less than 5 years and up to 10 years, and fine.",
-      "adultVictim": "Rigorous imprisonment not less than 3 years and up to 7 years, and fine."
-    },
+    "punishment": "ChildVictim: Rigorous imprisonment not less than 5 years and up to 10 years, and fine., AdultVictim: Rigorous imprisonment not less than 3 years and up to 7 years, and fine.",
     "examples": [
       "Knowingly employing a trafficked child in prostitution.",
       "Using a trafficked adult for sexual exploitation."
@@ -9793,13 +9728,7 @@
     "category": "Extortion",
     "officialText": "Whoever intentionally puts any person in fear of injury and thereby dishonestly induces that person to deliver property, valuable security, or a document capable of becoming a valuable security commits extortion.",
     "simpleExplanation": "Extortion occurs when someone obtains property or valuables by threatening another person.",
-    "punishment": {
-      "extortion": "Imprisonment up to 7 years, or fine, or both.",
-      "attempt_to_cause_fear": "Imprisonment up to 2 years, or fine, or both.",
-      "fear_of_death_or_grievous_hurt": "Imprisonment up to 7 years and fine.",
-      "extortion_using_fear_of_death_or_grievous_hurt": "Imprisonment up to 10 years and fine.",
-      "fear_of_serious_criminal_accusation": "Imprisonment up to 10 years and fine."
-    },
+    "punishment": "Extortion: Imprisonment up to 7 years, or fine, or both., Attempt to cause fear: Imprisonment up to 2 years, or fine, or both., Fear of death or grievous hurt: Imprisonment up to 7 years and fine., Extortion using fear of death or grievous hurt: Imprisonment up to 10 years and fine., Fear of serious criminal accusation : Imprisonment up to 10 years and fine.",
     "examples": [
       "Threatening to reveal defamatory information unless money is paid.",
       "Demanding money by threatening harm to a family member.",
@@ -9830,12 +9759,7 @@
     "category": "Robbery",
     "officialText": "Robbery is theft or extortion accompanied by actual or threatened violence, instant hurt, instant death, or wrongful restraint.",
     "simpleExplanation": "Robbery is a more serious offence where theft or extortion is committed using immediate force, violence, or threats.",
-    "punishment": {
-      "robbery": "Rigorous imprisonment up to 10 years and fine.",
-      "highway_robbery_at_night": "Imprisonment may extend to 14 years.",
-      "attempted_robbery": "Rigorous imprisonment up to 7 years and fine.",
-      "robbery_causing_hurt": "Imprisonment for life, or rigorous imprisonment up to 10 years and fine."
-    },
+    "punishment": "Robbery: Rigorous imprisonment up to 10 years and fine., Highway robbery at night: Imprisonment may extend to 14 years., Attempted_robbery: Rigorous imprisonment up to 7 years and fine., Robbery causing hurt: Imprisonment for life, or rigorous imprisonment up to 10 years and fine.",
     "examples": [
       "Using a weapon to force a person to hand over money.",
       "Taking property after restraining a victim.",
@@ -9870,13 +9794,7 @@
     "category": "Dacoity",
     "officialText": "When five or more persons conjointly commit or attempt to commit robbery, or aid such commission or attempt, every such person commits dacoity.",
     "simpleExplanation": "Dacoity is robbery committed by a group of five or more persons acting together.",
-    "punishment": {
-      "dacoity": "Imprisonment for life or rigorous imprisonment up to 10 years and fine.",
-      "murder_during_dacoity": "Death, or imprisonment for life, or rigorous imprisonment not less than 10 years, and fine.",
-      "preparation_for_dacoity": "Rigorous imprisonment up to 10 years and fine.",
-      "assembly_for_dacoity": "Rigorous imprisonment up to 7 years and fine.",
-      "membership_of_dacoity_gang": "Imprisonment for life or rigorous imprisonment up to 10 years and fine."
-    },
+    "punishment": "Dacoity: Imprisonment for life or rigorous imprisonment up to 10 years and fine., Murder during dacoity: Death, or imprisonment for life, or rigorous imprisonment not less than 10 years, and fine., Preparation for dacoity: Rigorous imprisonment up to 10 years and fine., Assembly for dacoity: Rigorous imprisonment up to 7 years and fine., Membership of dacoity gang: Imprisonment for life or rigorous imprisonment up to 10 years and fine.",
     "examples": [
       "A gang of five persons jointly robbing a house.",
       "Five persons assembling with weapons to commit a planned robbery.",
@@ -10064,12 +9982,7 @@
     "category": "Criminal Breach of Trust",
     "officialText": "Whoever, being entrusted with property or dominion over property, dishonestly misappropriates, converts, uses, or disposes of it in violation of law or contractual obligations commits criminal breach of trust.",
     "simpleExplanation": "A person who is entrusted with property and dishonestly uses it for personal benefit commits criminal breach of trust.",
-    "punishment": {
-      "general": "Imprisonment up to 5 years, or fine, or both.",
-      "carrier_wharfinger_warehouse_keeper": "Imprisonment up to 7 years and fine.",
-      "clerk_or_servant": "Imprisonment up to 7 years and fine.",
-      "public_servant_banker_merchant_agent": "Imprisonment for life or imprisonment up to 10 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 5 years, or fine, or both., Carrier wharfinger warehouse keeper: Imprisonment up to 7 years and fine., Clerk or servant: Imprisonment up to 7 years and fine., Public servant banker merchant agent: Imprisonment for life or imprisonment up to 10 years and fine.",
     "examples": [
       "An employee diverting entrusted funds for personal use.",
       "A warehouse keeper selling stored goods without authority.",
@@ -10100,12 +10013,7 @@
     "category": "Receiving Stolen Property",
     "officialText": "Property obtained through theft, extortion, robbery, cheating, criminal misappropriation, or criminal breach of trust is designated as stolen property.",
     "simpleExplanation": "Receiving, retaining, concealing, or dealing in property known to be stolen is punishable.",
-    "punishment": {
-      "receiving_stolen_property": "Imprisonment up to 3 years, or fine, or both.",
-      "receiving_property_from_dacoity": "Imprisonment for life or rigorous imprisonment up to 10 years and fine.",
-      "habitual_dealing_in_stolen_property": "Imprisonment for life or imprisonment up to 10 years and fine.",
-      "assisting_concealment": "Imprisonment up to 3 years, or fine, or both."
-    },
+    "punishment": "Receiving stolen property: Imprisonment up to 3 years, or fine, or both., Receiving property from dacoity: Imprisonment for life or rigorous imprisonment up to 10 years and fine., Habitual dealing in stolen property: Imprisonment for life or imprisonment up to 10 years and fine., Assisting concealment: Imprisonment up to 3 years, or fine, or both.",
     "examples": [
       "Buying a stolen mobile phone knowing it was stolen.",
       "Habitually trading in stolen goods."
@@ -10137,11 +10045,7 @@
     "category": "Cheating",
     "officialText": "Whoever deceives another person and thereby dishonestly or fraudulently induces delivery of property or causes harm through such deception commits cheating.",
     "simpleExplanation": "Cheating occurs when someone deceives another person to gain property, benefits, or cause harm.",
-    "punishment": {
-      "general": "Imprisonment up to 3 years, or fine, or both.",
-      "breach_of_protective_duty": "Imprisonment up to 5 years, or fine, or both.",
-      "cheating_inducing_delivery_of_property": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 3 years, or fine, or both., Breach of protective duty :  Imprisonment up to 5 years, or fine, or both. , Cheating inducing delivery of property: Imprisonment up to 7 years and fine.",
     "examples": [
       "Obtaining money through false promises.",
       "Selling counterfeit goods as genuine products.",
@@ -10293,13 +10197,7 @@
     "category": "Mischief",
     "officialText": "Whoever intentionally or knowingly causes wrongful loss or damage by destroying property, reducing its value or utility, or affecting it injuriously commits mischief.",
     "simpleExplanation": "Mischief means intentionally damaging, destroying, or reducing the usefulness or value of property.",
-    "punishment": {
-      "general": "Imprisonment up to 6 months, or fine, or both.",
-      "damage_to_property": "Imprisonment up to 1 year, or fine, or both.",
-      "damage_between_20000_and_100000": "Imprisonment up to 2 years, or fine, or both.",
-      "damage_above_100000": "Imprisonment up to 5 years, or fine, or both.",
-      "with_preparation_for_death_hurt_restraint": "Imprisonment up to 5 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 6 months, or fine, or both., Damage to property: Imprisonment up to 1 year, or fine, or both., Damage between 20000 and 100000: Imprisonment up to 2 years, or fine, or both., Damage above 100000: Imprisonment up to 5 years, or fine, or both., With preparation for death hurt restraint: Imprisonment up to 5 years and fine.",
     "examples": [
       "Destroying another person's vehicle.",
       "Burning a document to cause financial loss.",
@@ -10340,15 +10238,7 @@
     "category": "Mischief",
     "officialText": "Punishes special forms of mischief involving water supply, roads, navigation, drainage, landmarks, fire, and explosive substances.",
     "simpleExplanation": "This section covers serious forms of property damage affecting public infrastructure, water resources, navigation systems, or buildings.",
-    "punishment": {
-      "water_supply_damage": "Imprisonment up to 5 years, or fine, or both.",
-      "road_bridge_navigation_damage": "Imprisonment up to 5 years, or fine, or both.",
-      "drainage_or_inundation_damage": "Imprisonment up to 5 years, or fine, or both.",
-      "navigation_signal_damage": "Imprisonment up to 7 years, or fine, or both.",
-      "landmark_damage": "Imprisonment up to 1 year, or fine, or both.",
-      "fire_or_explosive_damage_to_property": "Imprisonment up to 7 years and fine.",
-      "fire_or_explosive_damage_to_dwelling_or_place_of_worship": "Life imprisonment, or imprisonment up to 10 years and fine."
-    },
+    "punishment": "Water supply damage: Imprisonment up to 5 years, or fine, or both., Road bridge navigation damage: Imprisonment up to 5 years, or fine, or both., Drainage or inundation damage : Imprisonment up to 5 years, or fine, or both., Navigation signal damage : Imprisonment up to 7 years, or fine, or both., Landmark damage: Imprisonment up to 1 year, or fine, or both., Fire or explosive damage to property : Imprisonment up to 7 years and fine., Fire or explosive damage to dwelling or place of worship: Life imprisonment, or imprisonment up to 10 years and fine.",
     "examples": [
       "Damaging a bridge to make it unsafe.",
       "Destroying a railway navigation signal.",
@@ -10369,10 +10259,7 @@
     "category": "Mischief",
     "officialText": "Whoever commits mischief intending to destroy or render unsafe any rail, aircraft, decked vessel, or vessel of twenty tons burden or more.",
     "simpleExplanation": "Damaging transportation systems such as railways, aircraft, or large vessels is treated as a grave offence.",
-    "punishment": {
-      "destroy_or_render_unsafe": "Imprisonment up to 10 years and fine.",
-      "using_fire_or_explosives": "Life imprisonment, or imprisonment up to 10 years and fine."
-    },
+    "punishment": "Destroy or render unsafe : Imprisonment up to 10 years and fine., Using fire or explosives: Life imprisonment, or imprisonment up to 10 years and fine.",
     "examples": [
       "Sabotaging a railway track.",
       "Damaging an aircraft to make it unsafe for operation."
@@ -10412,10 +10299,7 @@
     "category": "Criminal Trespass",
     "officialText": "Entering property in another's possession with intent to commit an offence, intimidate, insult or annoy, or unlawfully remaining there with such intent constitutes criminal trespass. Entry into a dwelling, place of worship, or place of custody of property constitutes house-trespass.",
     "simpleExplanation": "Unauthorized entry onto another's property with wrongful intent is criminal trespass. Entering homes or similar places is house-trespass.",
-    "punishment": {
-      "criminal_trespass": "Imprisonment up to 3 months, or fine up to ₹5,000, or both.",
-      "house_trespass": "Imprisonment up to 1 year, or fine up to ₹5,000, or both."
-    },
+    "punishment": "Criminal trespass: Imprisonment up to 3 months, or fine up to ₹5,000, or both., House trespass: Imprisonment up to 1 year, or fine up to ₹5,000, or both.",
     "examples": [
       "Entering a property to intimidate the owner.",
       "Remaining in a building after being ordered to leave with intent to annoy occupants."
@@ -10456,16 +10340,7 @@
     "category": "Criminal Trespass",
     "officialText": "Prescribes punishments for lurking house-trespass or house-breaking, including aggravated forms committed at night, for committing other offences, with preparation for violence, or causing grievous hurt.",
     "simpleExplanation": "This section punishes secret house-trespass or house-breaking, with harsher penalties when committed at night, to commit another crime, or when violence is involved.",
-    "punishment": {
-      "basic_offence": "Imprisonment up to 2 years and fine.",
-      "after_sunset_before_sunrise": "Imprisonment up to 3 years and fine.",
-      "to_commit_other_imprisonable_offence": "Imprisonment up to 3 years and fine; if theft intended, up to 10 years.",
-      "night_time_for_other_offence": "Imprisonment up to 5 years and fine; if theft intended, up to 14 years.",
-      "with_preparation_for_hurt_or_assault": "Imprisonment up to 10 years and fine.",
-      "night_time_with_preparation_for_hurt": "Imprisonment up to 14 years and fine.",
-      "causing_grievous_hurt_or_attempting_death": "Life imprisonment or imprisonment up to 10 years and fine.",
-      "joint_liability_night_time_grievous_hurt": "Life imprisonment or imprisonment up to 10 years and fine."
-    },
+    "punishment": "Basic offence: Imprisonment up to 2 years and fine., After sunset before sunrise : Imprisonment up to 3 years and fine., To commit other imprisonable offence: Imprisonment up to 3 years and fine; if theft intended, up to 10 years., Right time for other offence : Imprisonment up to 5 years and fine; if theft intended, up to 14 years., With preparation for hurt or assault: Imprisonment up to 10 years and fine., Right time with preparation for hurt: Imprisonment up to 14 years and fine., Causing grievous hurt or attempting death: Life imprisonment or imprisonment up to 10 years and fine., Joint liability night time grievous_hurt: Life imprisonment or imprisonment up to 10 years and fine.",
     "examples": [
       "Breaking into a house at night to commit theft.",
       "Entering a house secretly with weapons to threaten occupants."
@@ -10485,12 +10360,7 @@
     "category": "Criminal Trespass",
     "officialText": "Punishes house-trespass committed for the purpose of committing offences punishable with death, life imprisonment, or other imprisonment.",
     "simpleExplanation": "Entering a house unlawfully with the intention of committing another crime attracts enhanced punishment based on the seriousness of the intended offence.",
-    "punishment": {
-      "offence_punishable_with_death": "Life imprisonment or rigorous imprisonment up to 10 years and fine.",
-      "offence_punishable_with_life_imprisonment": "Imprisonment up to 10 years and fine.",
-      "other_imprisonable_offence": "Imprisonment up to 2 years and fine.",
-      "if_theft_intended": "Imprisonment may extend to 7 years."
-    },
+    "punishment": "Offence punishable with death: Life imprisonment or rigorous imprisonment up to 10 years and fine., Offence punishable with life imprisonment : Imprisonment up to 10 years and fine., Other imprisonable offence: Imprisonment up to 2 years and fine., If theft intended: Imprisonment may extend to 7 years.",
     "examples": [
       "Entering a house intending to commit murder.",
       "House-trespass committed to carry out a theft."
@@ -10530,10 +10400,7 @@
     "category": "Criminal Trespass",
     "officialText": "Punishes breaking open or unfastening a closed receptacle containing property dishonestly or with intent to commit mischief.",
     "simpleExplanation": "Opening locked boxes, safes, containers, or similar receptacles without authority for dishonest purposes is punishable.",
-    "punishment": {
-      "general": "Imprisonment up to 2 years, or fine, or both.",
-      "entrusted_receptacle": "Imprisonment up to 3 years, or fine, or both."
-    },
+    "punishment": "General: Imprisonment up to 2 years, or fine, or both., Entrusted receptacle: Imprisonment up to 3 years, or fine, or both.",
     "examples": [
       "Breaking open a locked safe to access valuables.",
       "A custodian opening a sealed container entrusted to him without authority."
@@ -10574,11 +10441,7 @@
     "category": "Forgery",
     "officialText": "Whoever makes a false document or electronic record with intent to cause injury, support a claim, obtain property, induce a contract, or commit fraud commits forgery.",
     "simpleExplanation": "Creating or altering false documents or electronic records to deceive others or commit fraud is forgery.",
-    "punishment": {
-      "general_forgery": "Imprisonment up to 2 years, or fine, or both.",
-      "for_purpose_of_cheating": "Imprisonment up to 7 years and fine.",
-      "to_harm_reputation": "Imprisonment up to 3 years and fine."
-    },
+    "punishment": "General forgery: Imprisonment up to 2 years, or fine, or both., For purpose of cheating: Imprisonment up to 7 years and fine., To harm reputation: Imprisonment up to 3 years and fine.",
     "examples": [
       "Creating a fake property deed.",
       "Forging a document to obtain a loan.",
@@ -10641,10 +10504,7 @@
     "category": "Forgery",
     "officialText": "Punishes possession of forged documents or electronic records with knowledge that they are forged and intention to use them as genuine.",
     "simpleExplanation": "Keeping forged documents while intending to use them as genuine is itself an offence.",
-    "punishment": {
-      "documents_under_section_337": "Imprisonment up to 7 years and fine.",
-      "documents_under_section_338": "Life imprisonment or imprisonment up to 7 years and fine."
-    },
+    "punishment": "Documents under section 337: Imprisonment up to 7 years and fine., Documents under section 338: Life imprisonment or imprisonment up to 7 years and fine.",
     "examples": [
       "Possessing a forged Aadhaar card for future use.",
       "Holding a forged will knowing it is fake."
@@ -10684,12 +10544,7 @@
     "category": "Forgery",
     "officialText": "Punishes making, counterfeiting, possessing, or using counterfeit seals, plates, or instruments intended for committing forgery.",
     "simpleExplanation": "Creating or possessing fake seals, stamps, dies, or similar tools used to forge important documents is a criminal offence.",
-    "punishment": {
-      "for_forgery_under_section_338": "Life imprisonment or imprisonment up to 7 years and fine.",
-      "for_other_forgery_offences": "Imprisonment up to 7 years and fine.",
-      "mere_possession_of_counterfeit_instrument": "Imprisonment up to 3 years and fine.",
-      "using_counterfeit_instrument_as_genuine": "Same punishment as making or counterfeiting it."
-    },
+    "punishment": "For forgery under section 338: Life imprisonment or imprisonment up to 7 years and fine., For other forgery offences: Imprisonment up to 7 years and fine., Mere possession of counterfeit instrument: Imprisonment up to 3 years and fine., Using Counterfeit instrument as genuine: Same punishment as making or counterfeiting it.",
     "examples": [
       "Manufacturing a fake government seal for forging wills.",
       "Possessing a counterfeit stamp intended for creating forged certificates."
@@ -10709,10 +10564,7 @@
     "category": "Forgery",
     "officialText": "Punishes counterfeiting authentication devices, marks, or materials used to make forged documents appear genuine.",
     "simpleExplanation": "Making fake watermarks, authentication marks, security features, or possessing materials carrying such counterfeit marks is an offence.",
-    "punishment": {
-      "for_documents_under_section_338": "Life imprisonment or imprisonment up to 7 years and fine.",
-      "for_other_documents": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "For documents under section 338: Life imprisonment or imprisonment up to 7 years and fine., For other documents: Imprisonment up to 7 years and fine.",
     "examples": [
       "Counterfeiting a security watermark used on valuable securities.",
       "Creating fake authentication marks for official certificates."
@@ -10812,10 +10664,7 @@
     "category": "Property Marks",
     "officialText": "Punishes counterfeiting property marks and official marks used by public servants.",
     "simpleExplanation": "Creating fake ownership marks or government certification marks is a criminal offence.",
-    "punishment": {
-      "general_property_mark": "Imprisonment up to 2 years, or fine, or both.",
-      "public_servant_mark": "Imprisonment up to 3 years and fine."
-    },
+    "punishment": "General property mark : Imprisonment up to 2 years, or fine, or both., Public servant mark: Imprisonment up to 3 years and fine.",
     "examples": [
       "Counterfeiting a company's trademark ownership mark.",
       "Creating fake government quality certification marks."
@@ -10895,11 +10744,7 @@
     "category": "Criminal Intimidation",
     "officialText": "Whoever threatens another with injury to person, reputation or property with intent to cause alarm or compel an act or omission commits criminal intimidation.",
     "simpleExplanation": "Threatening someone to frighten them or force them to do something they are not legally required to do is criminal intimidation.",
-    "punishment": {
-      "general": "Imprisonment up to 2 years, or fine, or both.",
-      "serious_threats": "Imprisonment up to 7 years, or fine, or both.",
-      "anonymous_threats": "Additional imprisonment up to 2 years."
-    },
+    "punishment": "General: Imprisonment up to 2 years, or fine, or both., Serious threats: Imprisonment up to 7 years, or fine, or both., Anonymous threats: Additional imprisonment up to 2 years.",
     "examples": [
       "Threatening to burn a person's house if they file a lawsuit.",
       "Sending anonymous threats demanding money."
@@ -10938,10 +10783,7 @@
     "category": "Public Tranquillity",
     "officialText": "Punishes publication or circulation of false information, rumours or reports likely to cause mutiny, public alarm, public disorder, or communal hatred.",
     "simpleExplanation": "Spreading false rumours or misinformation that can create panic, violence, public disorder, or communal tension is an offence.",
-    "punishment": {
-      "general": "Imprisonment up to 3 years, or fine, or both.",
-      "place_of_worship": "Imprisonment up to 5 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 3 years, or fine, or both., Place of worship: Imprisonment up to 5 years and fine.",
     "examples": [
       "Spreading false rumours causing public panic.",
       "Publishing false information to create hatred between communities."
@@ -11000,11 +10842,7 @@
     "category": "Defamation",
     "officialText": "Punishes making or publishing imputations harming the reputation of a person, subject to statutory exceptions.",
     "simpleExplanation": "Making false statements or allegations that damage another person's reputation may amount to defamation.",
-    "punishment": {
-      "defamation": "Simple imprisonment up to 2 years, or fine, or both, or community service.",
-      "printing_defamatory_matter": "Simple imprisonment up to 2 years, or fine, or both.",
-      "selling_defamatory_matter": "Simple imprisonment up to 2 years, or fine, or both."
-    },
+    "punishment": "Defamation: Simple imprisonment up to 2 years, or fine, or both, or community service. , Printing defamatory matter: Simple imprisonment up to 2 years, or fine, or both., Selling defamatory matter: Simple imprisonment up to 2 years, or fine, or both.",
     "examples": [
       "Publishing false allegations damaging a person's reputation.",
       "Printing defamatory content knowing it to be defamatory."
