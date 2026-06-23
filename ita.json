@@ -1,0 +1,3920 @@
+[
+  {
+    "id": "ITA_001",
+    "sectionNumber": "1",
+    "title": "Short Title, Extent, Commencement and Application",
+    "chapter": "Chapter I - Preliminary",
+    "category": "Preliminary Provisions",
+    "officialText": "This Act may be called the Information Technology Act, 2000. It extends to the whole of India and applies also to any offence or contravention committed outside India by any person. It shall come into force on such date as the Central Government may appoint.",
+    "simpleExplanation": "This section gives the name of the law, explains where it applies, and states that it can apply to certain offences committed outside India involving computer systems located in India.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A cybercrime committed outside India against an Indian computer system may be covered under the Act.",
+      "The Central Government notifies the date on which provisions come into force."
+    ],
+    "faqs": [
+      {
+        "question": "Does the IT Act apply outside India?",
+        "answer": "Yes, in certain cases involving computer systems, networks, or resources located in India."
+      },
+      {
+        "question": "What is the purpose of this section?",
+        "answer": "It defines the name, territorial scope, and commencement of the Act."
+      }
+    ],
+    "keywords": [
+      "information technology act",
+      "application",
+      "extent",
+      "commencement",
+      "cyber law"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "2",
+      "75"
+    ]
+  },
+  {
+    "id": "ITA_002",
+    "sectionNumber": "2",
+    "title": "Definitions",
+    "chapter": "Chapter I - Preliminary",
+    "category": "Definitions",
+    "officialText": "This section defines various terms used throughout the Act including access, addressee, adjudicating officer, communication device, computer, computer network, computer resource, data, electronic record, intermediary, subscriber, and other expressions.",
+    "simpleExplanation": "This section provides meanings for important technical and legal terms used throughout the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The term 'computer resource' includes computers, networks, databases, and software.",
+      "The term 'electronic record' includes information stored in digital form."
+    ],
+    "faqs": [
+      {
+        "question": "Why are definitions important?",
+        "answer": "They ensure consistent interpretation of terms used throughout the Act."
+      },
+      {
+        "question": "What is an electronic record?",
+        "answer": "Information stored, received, or sent in electronic form."
+      }
+    ],
+    "keywords": [
+      "definitions",
+      "computer resource",
+      "electronic record",
+      "data",
+      "intermediary"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "1",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": "ITA_003",
+    "sectionNumber": "3",
+    "title": "Authentication of Electronic Records",
+    "chapter": "Chapter II - Digital Signature",
+    "category": "Electronic Authentication",
+    "officialText": "Subject to the provisions of this section, any subscriber may authenticate an electronic record by affixing his digital signature in the manner prescribed.",
+    "simpleExplanation": "This section recognizes the use of digital signatures to verify the authenticity of electronic records.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company signs a contract electronically using a digital signature.",
+      "A taxpayer digitally signs an online filing."
+    ],
+    "faqs": [
+      {
+        "question": "What is the purpose of a digital signature?",
+        "answer": "It helps verify the authenticity and integrity of an electronic record."
+      },
+      {
+        "question": "Can electronic documents be digitally signed?",
+        "answer": "Yes, as provided under the Act."
+      }
+    ],
+    "keywords": [
+      "digital signature",
+      "authentication",
+      "electronic record",
+      "cyber law",
+      "electronic document"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "3A",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "ITA_003A",
+    "sectionNumber": "3A",
+    "title": "Electronic Signature",
+    "chapter": "Chapter II - Digital Signature",
+    "category": "Electronic Authentication",
+    "officialText": "Notwithstanding anything contained in section 3, a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique as may be specified in the Second Schedule.",
+    "simpleExplanation": "This section expands authentication beyond digital signatures and recognizes other approved electronic signature methods.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An Aadhaar-based e-sign may be used for authentication.",
+      "An approved electronic authentication technique may validate a transaction."
+    ],
+    "faqs": [
+      {
+        "question": "How is an electronic signature different from a digital signature?",
+        "answer": "Electronic signatures include a broader range of approved authentication methods."
+      },
+      {
+        "question": "Who specifies approved electronic signature methods?",
+        "answer": "The Government specifies them through the Act and related rules."
+      }
+    ],
+    "keywords": [
+      "electronic signature",
+      "authentication",
+      "digital transaction",
+      "electronic record",
+      "e-sign"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "ITA_004",
+    "sectionNumber": "4",
+    "title": "Legal Recognition of Electronic Records",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Governance",
+    "officialText": "Where any law requires information or any matter to be in writing or in printed form, such requirement shall be deemed satisfied if the information is rendered or made available in an electronic form and is accessible for subsequent reference.",
+    "simpleExplanation": "This section gives legal validity to electronic records and documents, placing them on par with paper documents in many situations.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A digitally stored agreement can satisfy a legal requirement for a written document.",
+      "Electronic records may be accepted for compliance purposes."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronic records legally valid?",
+        "answer": "Yes, provided they meet the requirements specified in the Act."
+      },
+      {
+        "question": "Does a document need to be printed to be legally recognized?",
+        "answer": "No, electronic records can be legally recognized."
+      }
+    ],
+    "keywords": [
+      "electronic records",
+      "legal recognition",
+      "electronic governance",
+      "digital documents",
+      "e-governance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "id": "ITA_005",
+    "sectionNumber": "5",
+    "title": "Legal Recognition of Electronic Signatures",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Governance",
+    "officialText": "Where any law requires a signature or provides consequences for the absence of a signature, such requirement shall be deemed satisfied if the document is authenticated by means of a digital signature or electronic signature in the manner prescribed.",
+    "simpleExplanation": "This section gives legal recognition to digital and electronic signatures, allowing them to be used instead of handwritten signatures in many situations.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An online contract signed using a valid electronic signature is legally enforceable.",
+      "A digitally signed tax filing is accepted by authorities."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronic signatures legally valid?",
+        "answer": "Yes, if they comply with the requirements of the Act."
+      },
+      {
+        "question": "Can electronic signatures replace handwritten signatures?",
+        "answer": "In many cases, yes, subject to applicable laws."
+      }
+    ],
+    "keywords": [
+      "electronic signature",
+      "digital signature",
+      "legal validity",
+      "authentication",
+      "e-governance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "3",
+      "3A",
+      "4"
+    ]
+  },
+  {
+    "id": "ITA_006",
+    "sectionNumber": "6",
+    "title": "Use of Electronic Records and Electronic Signatures in Government and its Agencies",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Governance",
+    "officialText": "The appropriate Government and its agencies may accept, issue, create, retain, or process documents in electronic form and may use electronic signatures for official transactions in such manner as may be prescribed.",
+    "simpleExplanation": "This section allows government departments and agencies to use electronic records and electronic signatures for official work and public services.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A government department accepts online applications.",
+      "A digital certificate is issued electronically by a government authority."
+    ],
+    "faqs": [
+      {
+        "question": "Can government departments use electronic records?",
+        "answer": "Yes. The Act permits government agencies to use electronic records and electronic signatures."
+      },
+      {
+        "question": "Is electronic filing with government offices valid?",
+        "answer": "Yes, if permitted under applicable rules."
+      }
+    ],
+    "keywords": [
+      "government services",
+      "electronic records",
+      "electronic signatures",
+      "e-governance",
+      "digital government"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "4",
+      "5",
+      "6A"
+    ]
+  },
+  {
+    "id": "ITA_006A",
+    "sectionNumber": "6A",
+    "title": "Delivery of Services by Service Provider",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Governance",
+    "officialText": "The appropriate Government may authorize service providers to deliver services electronically on its behalf and collect, retain, and process information in accordance with prescribed conditions.",
+    "simpleExplanation": "This section allows governments to appoint authorized service providers to offer electronic public services to citizens.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A Common Service Centre provides government services online.",
+      "An authorized agency processes digital applications for government schemes."
+    ],
+    "faqs": [
+      {
+        "question": "Can private entities provide government services electronically?",
+        "answer": "Yes, if they are authorized by the Government."
+      },
+      {
+        "question": "What is the purpose of this section?",
+        "answer": "To facilitate efficient electronic delivery of government services."
+      }
+    ],
+    "keywords": [
+      "service provider",
+      "government services",
+      "electronic delivery",
+      "e-governance",
+      "citizen services"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "ITA_007",
+    "sectionNumber": "7",
+    "title": "Retention of Electronic Records",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Records",
+    "officialText": "Where any law requires records, documents, or information to be retained for a specified period, that requirement shall be deemed satisfied if the records are retained in electronic form and remain accessible and usable for future reference.",
+    "simpleExplanation": "This section allows records to be stored electronically instead of on paper, provided they remain accessible and reliable.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company stores invoices electronically for statutory compliance.",
+      "Government records are archived in digital form."
+    ],
+    "faqs": [
+      {
+        "question": "Can records be stored electronically instead of on paper?",
+        "answer": "Yes, if they remain accessible and usable."
+      },
+      {
+        "question": "Why is accessibility important?",
+        "answer": "Because retained records may need to be produced later for legal or administrative purposes."
+      }
+    ],
+    "keywords": [
+      "record retention",
+      "electronic storage",
+      "digital archive",
+      "electronic records",
+      "compliance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "7A",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "id": "ITA_007A",
+    "sectionNumber": "7A",
+    "title": "Audit of Documents, Records and Information Processed in Electronic Form",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Audit and Compliance",
+    "officialText": "Where records, documents, or information are maintained in electronic form, the appropriate Government may prescribe procedures for auditing such records and information.",
+    "simpleExplanation": "This section permits the Government to establish audit requirements for electronic records and information systems.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An organization undergoes an audit of its electronic record management system.",
+      "Digital transaction logs are reviewed for compliance."
+    ],
+    "faqs": [
+      {
+        "question": "Why are audits of electronic records necessary?",
+        "answer": "To ensure integrity, security, and compliance with legal requirements."
+      },
+      {
+        "question": "Who can prescribe audit procedures?",
+        "answer": "The appropriate Government."
+      }
+    ],
+    "keywords": [
+      "audit",
+      "electronic records",
+      "compliance",
+      "digital records",
+      "governance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "7",
+      "8",
+      "43"
+    ]
+  },
+  {
+    "id": "ITA_008",
+    "sectionNumber": "8",
+    "title": "Publication of Rules, Regulations, etc., in Electronic Gazette",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Official Publications",
+    "officialText": "Where any law requires publication of rules, regulations, notifications, or other matters in the Official Gazette, such requirement may be satisfied through publication in the Electronic Gazette.",
+    "simpleExplanation": "This section recognizes publication in an Electronic Gazette as legally valid for government notifications and rules.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A government notification is published in the Electronic Gazette.",
+      "Rules are officially notified through digital publication."
+    ],
+    "faqs": [
+      {
+        "question": "Is publication in an Electronic Gazette legally valid?",
+        "answer": "Yes, it has the same legal effect as publication in the Official Gazette."
+      },
+      {
+        "question": "What types of documents may be published electronically?",
+        "answer": "Rules, regulations, notifications, and other official publications."
+      }
+    ],
+    "keywords": [
+      "electronic gazette",
+      "official publication",
+      "government notification",
+      "rules",
+      "regulations"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "6",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "id": "ITA_009",
+    "sectionNumber": "9",
+    "title": "Sections 6, 7 and 8 Not to Confer Right to Insist on Electronic Form",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Limitations",
+    "officialText": "Nothing contained in sections 6, 7, and 8 shall confer a right upon any person to insist that any Ministry, Department, Government, authority, or body should accept, issue, create, retain, preserve, or process any document in electronic form.",
+    "simpleExplanation": "This section clarifies that people cannot compel government agencies to accept electronic documents unless the agency has chosen to provide such a facility.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A citizen cannot force a department to accept online submissions if electronic filing has not been enabled.",
+      "A government office may continue using paper-based processes where permitted."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person demand electronic processing from every government office?",
+        "answer": "No. Electronic processing is subject to government policies and facilities."
+      },
+      {
+        "question": "What is the purpose of this section?",
+        "answer": "To clarify the limits of electronic governance provisions."
+      }
+    ],
+    "keywords": [
+      "limitations",
+      "electronic governance",
+      "government authority",
+      "electronic records",
+      "administration"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "id": "ITA_010",
+    "sectionNumber": "10",
+    "title": "Power to Make Rules by Central Government in Respect of Electronic Signatures",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Rule Making Powers",
+    "officialText": "The Central Government may prescribe the type of electronic signatures, security procedures, and related matters necessary for implementing the provisions relating to electronic authentication.",
+    "simpleExplanation": "This section empowers the Central Government to establish rules governing electronic signatures and authentication methods.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Government specifies standards for secure electronic signatures.",
+      "Rules are issued regarding electronic authentication technologies."
+    ],
+    "faqs": [
+      {
+        "question": "Who regulates electronic signature standards?",
+        "answer": "The Central Government through rules made under the Act."
+      },
+      {
+        "question": "Why are rules necessary?",
+        "answer": "To ensure secure and reliable electronic authentication."
+      }
+    ],
+    "keywords": [
+      "electronic signature",
+      "rule making",
+      "authentication",
+      "security procedures",
+      "digital governance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "3",
+      "3A",
+      "5"
+    ]
+  },
+  {
+    "id": "ITA_010A",
+    "sectionNumber": "10A",
+    "title": "Validity of Contracts Formed Through Electronic Means",
+    "chapter": "Chapter III - Electronic Governance",
+    "category": "Electronic Contracts",
+    "officialText": "Where in a contract formation, the communication of proposals, acceptance of proposals, revocation of proposals and acceptances are expressed in electronic form or by means of an electronic record, such contract shall not be deemed unenforceable solely on the ground that electronic means were used for that purpose.",
+    "simpleExplanation": "This section recognizes electronic contracts and confirms that agreements made through emails, websites, apps, or other electronic means are legally valid.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A customer purchases goods through an e-commerce website.",
+      "A business agreement is concluded through email exchanges.",
+      "An online subscription agreement is accepted electronically."
+    ],
+    "faqs": [
+      {
+        "question": "Are online contracts legally valid?",
+        "answer": "Yes. Contracts formed electronically are legally enforceable under this section."
+      },
+      {
+        "question": "Can an email exchange create a valid contract?",
+        "answer": "Yes, provided the requirements of contract law are satisfied."
+      }
+    ],
+    "keywords": [
+      "electronic contract",
+      "online agreement",
+      "e-commerce",
+      "digital transaction",
+      "contract law"
+    ],
+    "correspondingSection": "Indian Contract Act provisions relating to contracts",
+    "relatedSections": [
+      "4",
+      "5",
+      "11"
+    ]
+  },
+  {
+    "id": "ITA_011",
+    "sectionNumber": "11",
+    "title": "Attribution of Electronic Records",
+    "chapter": "Chapter IV - Attribution, Acknowledgement and Dispatch of Electronic Records",
+    "category": "Electronic Records",
+    "officialText": "An electronic record shall be attributed to the originator if it was sent by the originator, by a person authorized to act on behalf of the originator, or by an information system programmed by or on behalf of the originator.",
+    "simpleExplanation": "This section determines when an electronic message or record is legally considered to have been sent by a particular person.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An email sent by an employee authorized by a company is treated as sent by the company.",
+      "An automated notification generated by a bank's system is attributed to the bank."
+    ],
+    "faqs": [
+      {
+        "question": "What does attribution mean?",
+        "answer": "It identifies who is legally responsible for an electronic record."
+      },
+      {
+        "question": "Can automated systems generate attributed records?",
+        "answer": "Yes. Records generated by authorized systems may be attributed to the originator."
+      }
+    ],
+    "keywords": [
+      "attribution",
+      "electronic records",
+      "originator",
+      "email",
+      "electronic communication"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "12",
+      "13"
+    ]
+  },
+  {
+    "id": "ITA_012",
+    "sectionNumber": "12",
+    "title": "Acknowledgement of Receipt",
+    "chapter": "Chapter IV - Attribution, Acknowledgement and Dispatch of Electronic Records",
+    "category": "Electronic Communications",
+    "officialText": "Where the originator has requested or agreed that receipt of an electronic record be acknowledged, the acknowledgement may be given by any communication or conduct sufficient to indicate receipt of the electronic record.",
+    "simpleExplanation": "This section explains how receipt of an electronic record may be acknowledged and when such acknowledgement becomes legally relevant.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A delivery receipt confirms receipt of an email.",
+      "An online system displays a confirmation message after submission."
+    ],
+    "faqs": [
+      {
+        "question": "Is an acknowledgement always required?",
+        "answer": "No. It is required only where requested or agreed upon."
+      },
+      {
+        "question": "Can an automated confirmation serve as acknowledgement?",
+        "answer": "Yes, if it indicates receipt of the electronic record."
+      }
+    ],
+    "keywords": [
+      "acknowledgement",
+      "receipt",
+      "electronic communication",
+      "confirmation",
+      "electronic record"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "ITA_013",
+    "sectionNumber": "13",
+    "title": "Time and Place of Dispatch and Receipt of Electronic Record",
+    "chapter": "Chapter IV - Attribution, Acknowledgement and Dispatch of Electronic Records",
+    "category": "Electronic Communications",
+    "officialText": "An electronic record is deemed dispatched when it enters a computer resource outside the control of the originator and deemed received when it enters the designated computer resource of the addressee. The section also specifies rules regarding the place of dispatch and receipt.",
+    "simpleExplanation": "This section determines when and where an electronic communication is considered sent and received for legal purposes.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An email is considered dispatched when it leaves the sender's mail server.",
+      "An online application is deemed received when it reaches the designated government portal."
+    ],
+    "faqs": [
+      {
+        "question": "Why is the time of receipt important?",
+        "answer": "It helps determine legal deadlines and obligations."
+      },
+      {
+        "question": "What if the addressee has designated a specific system?",
+        "answer": "Receipt occurs when the record enters that designated system."
+      }
+    ],
+    "keywords": [
+      "dispatch",
+      "receipt",
+      "electronic communication",
+      "time",
+      "place"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "11",
+      "12",
+      "14"
+    ]
+  },
+  {
+    "id": "ITA_014",
+    "sectionNumber": "14",
+    "title": "Secure Electronic Record",
+    "chapter": "Chapter V - Secure Electronic Records and Secure Electronic Signatures",
+    "category": "Information Security",
+    "officialText": "Where any security procedure has been applied to an electronic record at a specific point of time, such record shall be deemed to be a secure electronic record from that time until verification.",
+    "simpleExplanation": "This section explains when an electronic record is considered secure under the law.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A digitally signed document protected using approved security procedures becomes a secure electronic record.",
+      "An electronically stored document is verified using approved security mechanisms."
+    ],
+    "faqs": [
+      {
+        "question": "What is a secure electronic record?",
+        "answer": "An electronic record protected by approved security procedures."
+      },
+      {
+        "question": "Why is a secure electronic record important?",
+        "answer": "It helps establish trust and authenticity."
+      }
+    ],
+    "keywords": [
+      "secure electronic record",
+      "security",
+      "authentication",
+      "integrity",
+      "electronic record"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "15",
+      "16"
+    ]
+  },
+  {
+    "id": "ITA_015",
+    "sectionNumber": "15",
+    "title": "Secure Electronic Signature",
+    "chapter": "Chapter V - Secure Electronic Records and Secure Electronic Signatures",
+    "category": "Information Security",
+    "officialText": "An electronic signature shall be deemed secure if the signature creation data is uniquely linked to the signatory, capable of identifying the signatory, created under the signatory's control, and linked to the electronic record in a manner that reveals alterations.",
+    "simpleExplanation": "This section specifies the conditions under which an electronic signature is treated as secure and trustworthy.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A cryptographic digital signature satisfies the requirements of a secure electronic signature.",
+      "An electronic signature system detects tampering with a signed document."
+    ],
+    "faqs": [
+      {
+        "question": "What makes an electronic signature secure?",
+        "answer": "It must uniquely identify the signer and reveal any unauthorized changes."
+      },
+      {
+        "question": "Why are secure electronic signatures important?",
+        "answer": "They provide authenticity, integrity, and non-repudiation."
+      }
+    ],
+    "keywords": [
+      "secure electronic signature",
+      "authentication",
+      "digital signature",
+      "integrity",
+      "security"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "3",
+      "3A",
+      "14"
+    ]
+  },
+  {
+    "id": "ITA_016",
+    "sectionNumber": "16",
+    "title": "Security Procedure",
+    "chapter": "Chapter V - Secure Electronic Records and Secure Electronic Signatures",
+    "category": "Information Security",
+    "officialText": "The Central Government may prescribe security procedures having regard to the commercial circumstances prevailing at the time, the nature of the transaction, and such other relevant factors as it may consider appropriate.",
+    "simpleExplanation": "This section empowers the Central Government to specify security standards and procedures for electronic records and electronic signatures.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Government prescribes encryption standards for secure transactions.",
+      "Specific authentication procedures are mandated for sensitive electronic records."
+    ],
+    "faqs": [
+      {
+        "question": "Who decides the security procedures under the Act?",
+        "answer": "The Central Government prescribes the security procedures."
+      },
+      {
+        "question": "Why are security procedures important?",
+        "answer": "They help ensure the integrity, confidentiality, and authenticity of electronic records."
+      }
+    ],
+    "keywords": [
+      "security procedure",
+      "electronic records",
+      "authentication",
+      "encryption",
+      "information security"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "14",
+      "15",
+      "17"
+    ]
+  },
+  {
+    "id": "ITA_017",
+    "sectionNumber": "17",
+    "title": "Appointment of Controller and Other Officers",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Administration",
+    "officialText": "The Central Government may appoint a Controller of Certifying Authorities and such Deputy Controllers, Assistant Controllers, and other officers as it deems necessary for carrying out the purposes of this Act.",
+    "simpleExplanation": "This section provides for the appointment of the Controller of Certifying Authorities and supporting officers responsible for regulating digital certification systems.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Government appoints a Controller to oversee certifying authorities.",
+      "Assistant Controllers help regulate digital signature infrastructure."
+    ],
+    "faqs": [
+      {
+        "question": "Who is the Controller of Certifying Authorities?",
+        "answer": "An official appointed by the Central Government to regulate certifying authorities."
+      },
+      {
+        "question": "Why is the Controller important?",
+        "answer": "The Controller supervises the digital certification framework under the Act."
+      }
+    ],
+    "keywords": [
+      "controller",
+      "certifying authority",
+      "administration",
+      "digital signature",
+      "government officer"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "18",
+      "19",
+      "20"
+    ]
+  },
+  {
+    "id": "ITA_018",
+    "sectionNumber": "18",
+    "title": "Functions of Controller",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Administration",
+    "officialText": "The Controller shall exercise supervision over the activities of Certifying Authorities, certify public keys, lay down standards, specify qualifications for employees of Certifying Authorities, and perform such other functions as may be prescribed.",
+    "simpleExplanation": "This section describes the powers and duties of the Controller in supervising and regulating certifying authorities.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Controller audits a Certifying Authority.",
+      "The Controller establishes standards for digital signature operations."
+    ],
+    "faqs": [
+      {
+        "question": "What does the Controller do?",
+        "answer": "The Controller regulates and supervises Certifying Authorities."
+      },
+      {
+        "question": "Can the Controller set standards?",
+        "answer": "Yes. The Controller may prescribe technical and operational standards."
+      }
+    ],
+    "keywords": [
+      "controller",
+      "supervision",
+      "certifying authority",
+      "standards",
+      "regulation"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "19",
+      "20"
+    ]
+  },
+  {
+    "id": "ITA_019",
+    "sectionNumber": "19",
+    "title": "Recognition of Foreign Certifying Authorities",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "International Recognition",
+    "officialText": "The Controller may, with the previous approval of the Central Government and subject to prescribed conditions, recognize any foreign Certifying Authority for the purposes of this Act.",
+    "simpleExplanation": "This section allows foreign certifying authorities to be recognized in India, subject to approval and conditions.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A foreign digital certificate provider receives recognition in India.",
+      "International electronic transactions use recognized foreign certificates."
+    ],
+    "faqs": [
+      {
+        "question": "Can foreign Certifying Authorities operate in India?",
+        "answer": "They may be recognized under conditions approved by the Central Government."
+      },
+      {
+        "question": "Who grants recognition?",
+        "answer": "The Controller with prior approval of the Central Government."
+      }
+    ],
+    "keywords": [
+      "foreign certifying authority",
+      "international recognition",
+      "digital certificate",
+      "cross-border transactions",
+      "controller"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "id": "ITA_020",
+    "sectionNumber": "20",
+    "title": "Controller to Act as Repository",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Digital Certificate Infrastructure",
+    "officialText": "The Controller shall be the repository of all digital signature certificates containing the public keys certified by Certifying Authorities and shall maintain a database of such certificates in the prescribed manner.",
+    "simpleExplanation": "This section makes the Controller responsible for maintaining official records of digital signature certificates issued by Certifying Authorities.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Controller maintains a repository of certified public keys.",
+      "A digital certificate can be verified through records maintained under this section."
+    ],
+    "faqs": [
+      {
+        "question": "What is the repository maintained by the Controller?",
+        "answer": "It is a database containing certified public keys and digital signature certificates."
+      },
+      {
+        "question": "Why is the repository important?",
+        "answer": "It helps verify the authenticity of digital certificates."
+      }
+    ],
+    "keywords": [
+      "repository",
+      "digital certificate",
+      "public key",
+      "controller",
+      "certifying authority"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "18",
+      "21"
+    ]
+  },
+  {
+    "id": "ITA_021",
+    "sectionNumber": "21",
+    "title": "License to Issue Electronic Signature Certificates",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Licensing",
+    "officialText": "No person shall issue Electronic Signature Certificates unless such person has obtained a license granted by the Controller under this Act.",
+    "simpleExplanation": "This section requires organizations issuing Electronic Signature Certificates to obtain a license from the Controller of Certifying Authorities.",
+    "punishment": "Issuing certificates without a valid license may attract penalties under the Act.",
+    "examples": [
+      "A company must obtain a license before issuing digital signature certificates.",
+      "An unlicensed entity cannot legally function as a Certifying Authority."
+    ],
+    "faqs": [
+      {
+        "question": "Who can issue Electronic Signature Certificates?",
+        "answer": "Only entities licensed by the Controller."
+      },
+      {
+        "question": "Why is licensing required?",
+        "answer": "To ensure trust, security, and compliance in electronic authentication systems."
+      }
+    ],
+    "keywords": [
+      "license",
+      "electronic signature certificate",
+      "certifying authority",
+      "controller",
+      "authentication"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "22",
+      "23",
+      "24"
+    ]
+  },
+  {
+    "id": "ITA_022",
+    "sectionNumber": "22",
+    "title": "Application for License",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Licensing",
+    "officialText": "Every application for a license shall be made to the Controller in the prescribed form, accompanied by the prescribed fee and supporting documents.",
+    "simpleExplanation": "This section sets out the process for applying for a license to operate as a Certifying Authority.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company submits the prescribed application form and fee to obtain a license.",
+      "Supporting technical and security documents are provided with the application."
+    ],
+    "faqs": [
+      {
+        "question": "How does an organization apply for a license?",
+        "answer": "By submitting an application in the prescribed form with the required fee and documents."
+      },
+      {
+        "question": "Who reviews the application?",
+        "answer": "The Controller of Certifying Authorities."
+      }
+    ],
+    "keywords": [
+      "application",
+      "license",
+      "certifying authority",
+      "controller",
+      "approval"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "21",
+      "23",
+      "24"
+    ]
+  },
+  {
+    "id": "ITA_023",
+    "sectionNumber": "23",
+    "title": "Renewal of License",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Licensing",
+    "officialText": "A Certifying Authority may apply for renewal of its license in the prescribed manner and within the prescribed time before the expiry of the license.",
+    "simpleExplanation": "This section allows licensed Certifying Authorities to renew their licenses and continue operations.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A Certifying Authority applies for renewal before its current license expires.",
+      "The Controller reviews compliance before renewing the license."
+    ],
+    "faqs": [
+      {
+        "question": "Can a Certifying Authority renew its license?",
+        "answer": "Yes, by applying in the prescribed manner before expiry."
+      },
+      {
+        "question": "Why is renewal necessary?",
+        "answer": "To ensure continued compliance with legal and technical requirements."
+      }
+    ],
+    "keywords": [
+      "renewal",
+      "license",
+      "certifying authority",
+      "compliance",
+      "controller"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "21",
+      "22",
+      "24"
+    ]
+  },
+  {
+    "id": "ITA_024",
+    "sectionNumber": "24",
+    "title": "Procedure for Grant or Rejection of License",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Licensing",
+    "officialText": "The Controller may grant or reject a license after considering the application and ensuring compliance with the prescribed requirements. The applicant shall be given an opportunity of being heard before rejection.",
+    "simpleExplanation": "This section describes how the Controller decides whether to approve or reject a license application.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A compliant applicant receives a license to operate as a Certifying Authority.",
+      "An applicant is given an opportunity to explain deficiencies before rejection."
+    ],
+    "faqs": [
+      {
+        "question": "Can a license application be rejected?",
+        "answer": "Yes, if the applicant does not meet the prescribed requirements."
+      },
+      {
+        "question": "Must the applicant be heard before rejection?",
+        "answer": "Yes, an opportunity of being heard must be provided."
+      }
+    ],
+    "keywords": [
+      "grant license",
+      "rejection",
+      "certifying authority",
+      "controller",
+      "hearing"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "21",
+      "22",
+      "25"
+    ]
+  },
+  {
+    "id": "ITA_025",
+    "sectionNumber": "25",
+    "title": "Suspension of License",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Regulatory Action",
+    "officialText": "The Controller may suspend the license of a Certifying Authority if it has failed to comply with the provisions of this Act, subject to the prescribed procedure and opportunity of hearing. In urgent cases, temporary suspension may be ordered pending inquiry.",
+    "simpleExplanation": "This section empowers the Controller to suspend the license of a Certifying Authority that violates legal or regulatory requirements.",
+    "punishment": "Suspension of license to operate as a Certifying Authority.",
+    "examples": [
+      "A Certifying Authority fails to maintain required security standards and its license is suspended.",
+      "The Controller orders temporary suspension during an investigation."
+    ],
+    "faqs": [
+      {
+        "question": "When can a license be suspended?",
+        "answer": "When the Certifying Authority fails to comply with the Act or applicable regulations."
+      },
+      {
+        "question": "Is a hearing required before suspension?",
+        "answer": "Generally yes, except in urgent situations requiring immediate action."
+      }
+    ],
+    "keywords": [
+      "suspension",
+      "license",
+      "certifying authority",
+      "regulatory action",
+      "compliance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "24",
+      "26",
+      "27"
+    ]
+  },
+  {
+    "id": "ITA_026",
+    "sectionNumber": "26",
+    "title": "Notice of Suspension or Revocation of License",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Regulatory Action",
+    "officialText": "Where the license of a Certifying Authority is suspended or revoked, the Controller shall publish a public notice of such suspension or revocation, in the manner prescribed, and shall also communicate the same to the Certifying Authority.",
+    "simpleExplanation": "If a Certifying Authority’s license is suspended or revoked, the Controller must publicly notify it and inform the Certifying Authority.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Controller publishes a notice online that a Certifying Authority’s license has been suspended.",
+      "The suspended Certifying Authority is formally notified."
+    ],
+    "faqs": [
+      {
+        "question": "What happens when a license is suspended?",
+        "answer": "A public notice of the suspension or revocation is issued by the Controller."
+      },
+      {
+        "question": "Who is informed about the suspension or revocation?",
+        "answer": "Both the public and the affected Certifying Authority are informed."
+      }
+    ],
+    "keywords": [
+      "suspension notice",
+      "revocation notice",
+      "certifying authority",
+      "public notice",
+      "controller"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "25",
+      "27",
+      "28"
+    ]
+  },
+  {
+    "id": "ITA_027",
+    "sectionNumber": "27",
+    "title": "Power to Delegate",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Administration",
+    "officialText": "The Controller may, by order in writing, delegate any of his powers or functions under this Act to any Deputy Controller or Assistant Controller subject to such conditions and limitations as may be specified in the order.",
+    "simpleExplanation": "The Controller can delegate certain powers to Deputy or Assistant Controllers, as long as this delegation is in writing and follows specified conditions.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Controller delegates certain inspection powers to a Deputy Controller.",
+      "An Assistant Controller is authorized to manage license renewals under specified guidelines."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Controller delegate all powers?",
+        "answer": "The Controller can delegate powers, but within conditions specified in the delegation order."
+      },
+      {
+        "question": "To whom can powers be delegated?",
+        "answer": "Powers can be delegated to Deputy or Assistant Controllers."
+      }
+    ],
+    "keywords": [
+      "delegation",
+      "controller",
+      "assistant controller",
+      "deputy controller",
+      "administration"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "18",
+      "25"
+    ]
+  },
+  {
+    "id": "ITA_028",
+    "sectionNumber": "28",
+    "title": "Power to Investigate Contraventions",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Enforcement",
+    "officialText": "The Controller or any officer authorized by him shall investigate any contravention of the provisions of this Act, rules, or regulations made thereunder. For this purpose, they shall have the powers of a civil court to summon and enforce attendance, examine persons under oath, and inspect documents.",
+    "simpleExplanation": "The Controller (or authorized officers) can investigate violations of the Act and have civil court powers like summoning witnesses, examining under oath, and inspecting documents.",
+    "punishment": "Not applicable (investigatory power).",
+    "examples": [
+      "The Controller’s team investigates misuse of digital signature certificates by a Certifying Authority.",
+      "Documents are inspected during an investigation of non-compliance."
+    ],
+    "faqs": [
+      {
+        "question": "What powers does the Controller have during investigations?",
+        "answer": "The Controller can summon individuals, examine them under oath, and inspect documents."
+      },
+      {
+        "question": "Who can conduct these investigations?",
+        "answer": "The Controller or any officer authorized by the Controller."
+      }
+    ],
+    "keywords": [
+      "investigation",
+      "contravention",
+      "civil court powers",
+      "enforcement",
+      "controller"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "25",
+      "29",
+      "30"
+    ]
+  },
+  {
+    "id": "ITA_029",
+    "sectionNumber": "29",
+    "title": "Access to Computers and Data",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Enforcement",
+    "officialText": "The Controller or any person authorized by him shall have access to any computer system, apparatus, data, and any other materials connected with such system, necessary for ensuring compliance with the provisions of this Act.",
+    "simpleExplanation": "The Controller or authorized personnel can access computer systems and data to ensure compliance with the Act.",
+    "punishment": "Not applicable (enforcement access).",
+    "examples": [
+      "The Controller accesses a Certifying Authority’s systems to verify compliance with security standards.",
+      "Authorized officers inspect data storage to ensure electronic records are maintained properly."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Controller access private computer systems?",
+        "answer": "Yes, but only when it is necessary to ensure compliance with the Act."
+      },
+      {
+        "question": "What can be accessed during enforcement?",
+        "answer": "Computer systems, data, and related apparatus necessary for compliance checks."
+      }
+    ],
+    "keywords": [
+      "access to data",
+      "enforcement",
+      "compliance",
+      "controller",
+      "computer systems"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "28",
+      "30",
+      "43"
+    ]
+  },
+  {
+    "id": "ITA_030",
+    "sectionNumber": "30",
+    "title": "Certifying Authority to Follow Certain Procedures",
+    "chapter": "Chapter VI - Regulation of Certifying Authorities",
+    "category": "Compliance",
+    "officialText": "Every Certifying Authority shall ensure that every digital signature certificate issued has been issued by following the prescribed standards, procedures, and security safeguards. The Authority must also ensure that any subscriber information is protected and disclosed only in accordance with the Act.",
+    "simpleExplanation": "Certifying Authorities must follow prescribed procedures, maintain security standards, and protect subscriber information when issuing digital signature certificates.",
+    "punishment": "Non-compliance may lead to suspension or revocation of license under other sections.",
+    "examples": [
+      "A Certifying Authority ensures it verifies the identity of subscribers before issuing certificates.",
+      "Security procedures are followed to protect private key information during issuance."
+    ],
+    "faqs": [
+      {
+        "question": "What procedures must Certifying Authorities follow?",
+        "answer": "They must follow prescribed standards, security safeguards, and protect subscriber information."
+      },
+      {
+        "question": "What happens if a Certifying Authority does not follow procedures?",
+        "answer": "It may face suspension or revocation of its license under other sections of the Act."
+      }
+    ],
+    "keywords": [
+      "certifying authority",
+      "digital signature certificate",
+      "procedures",
+      "security safeguards",
+      "compliance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "21",
+      "25",
+      "31"
+    ]
+  },
+  {
+    "id": "ITA_031",
+    "sectionNumber": "31",
+    "title": "Issue of Electronic Signature Certificate",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Electronic Signature Certificates",
+    "officialText": "Every Certifying Authority shall issue an Electronic Signature Certificate only after receiving an application from the subscriber in the prescribed form and after satisfying itself regarding the identity of the applicant and compliance with the requirements of this Act.",
+    "simpleExplanation": "This section requires Certifying Authorities to verify the identity of applicants before issuing Electronic Signature Certificates.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A Certifying Authority verifies identity documents before issuing a Digital Signature Certificate.",
+      "An applicant submits the prescribed application and supporting documents."
+    ],
+    "faqs": [
+      {
+        "question": "Can a certificate be issued without verifying identity?",
+        "answer": "No. Identity verification is required before issuing the certificate."
+      },
+      {
+        "question": "Who issues Electronic Signature Certificates?",
+        "answer": "Licensed Certifying Authorities."
+      }
+    ],
+    "keywords": [
+      "electronic signature certificate",
+      "identity verification",
+      "certifying authority",
+      "subscriber",
+      "digital certificate"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "30",
+      "32",
+      "35"
+    ]
+  },
+  {
+    "id": "ITA_032",
+    "sectionNumber": "32",
+    "title": "Representations Upon Issuance of Electronic Signature Certificate",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Certification Obligations",
+    "officialText": "A Certifying Authority issuing an Electronic Signature Certificate represents that it has complied with the applicable provisions of this Act, verified the subscriber's identity, and ensured the accuracy of the information contained in the certificate.",
+    "simpleExplanation": "When issuing a certificate, the Certifying Authority assures users that proper verification and legal requirements have been followed.",
+    "punishment": "Non-compliance may attract action under the Act.",
+    "examples": [
+      "A Certifying Authority confirms the identity of the certificate holder before issuance.",
+      "Information contained in the certificate is verified for accuracy."
+    ],
+    "faqs": [
+      {
+        "question": "What does a Certifying Authority guarantee when issuing a certificate?",
+        "answer": "That required verification and compliance procedures have been completed."
+      },
+      {
+        "question": "Why is this representation important?",
+        "answer": "It helps establish trust in electronic transactions."
+      }
+    ],
+    "keywords": [
+      "representation",
+      "certificate issuance",
+      "verification",
+      "trust",
+      "certifying authority"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "31",
+      "33",
+      "34"
+    ]
+  },
+  {
+    "id": "ITA_033",
+    "sectionNumber": "33",
+    "title": "Acceptance of Electronic Signature Certificate",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Subscriber Obligations",
+    "officialText": "A subscriber shall be deemed to have accepted an Electronic Signature Certificate if the subscriber publishes or authorizes its publication to one or more persons, or otherwise demonstrates approval of the certificate.",
+    "simpleExplanation": "A person is considered to have accepted a certificate once they use it, publish it, or authorize others to rely upon it.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A subscriber begins using a Digital Signature Certificate for official filings.",
+      "A certificate is shared with business partners for verification purposes."
+    ],
+    "faqs": [
+      {
+        "question": "When is a certificate considered accepted?",
+        "answer": "When the subscriber uses, publishes, or authorizes reliance on it."
+      },
+      {
+        "question": "Why is acceptance important?",
+        "answer": "Acceptance creates legal responsibilities for the subscriber."
+      }
+    ],
+    "keywords": [
+      "acceptance",
+      "subscriber",
+      "certificate",
+      "electronic signature",
+      "digital signature"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "31",
+      "34",
+      "40"
+    ]
+  },
+  {
+    "id": "ITA_034",
+    "sectionNumber": "34",
+    "title": "Suspension of Electronic Signature Certificate",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Certificate Management",
+    "officialText": "A Certifying Authority may suspend an Electronic Signature Certificate on the request of the subscriber or any authorized person, or where necessary in the public interest, subject to the provisions of this Act.",
+    "simpleExplanation": "This section allows a certificate to be temporarily suspended when necessary for security, public interest, or at the request of the subscriber.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A subscriber requests suspension after suspecting compromise of private keys.",
+      "A certificate is suspended pending investigation of misuse."
+    ],
+    "faqs": [
+      {
+        "question": "Can a subscriber request suspension of a certificate?",
+        "answer": "Yes. A subscriber may request suspension in accordance with the Act."
+      },
+      {
+        "question": "Why might a certificate be suspended?",
+        "answer": "Due to security concerns, suspected misuse, or public interest."
+      }
+    ],
+    "keywords": [
+      "suspension",
+      "certificate",
+      "security",
+      "subscriber",
+      "digital signature"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "35",
+      "40",
+      "41"
+    ]
+  },
+  {
+    "id": "ITA_035",
+    "sectionNumber": "35",
+    "title": "Revocation of Electronic Signature Certificate",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Certificate Management",
+    "officialText": "A Certifying Authority may revoke an Electronic Signature Certificate upon request by the subscriber, upon death of the subscriber, dissolution of an organization, or where the certificate was obtained by fraud, misrepresentation, or other grounds specified under the Act.",
+    "simpleExplanation": "This section allows permanent cancellation of an Electronic Signature Certificate under specified circumstances.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A certificate is revoked after discovery of fraudulent information in the application.",
+      "An organization's certificate is revoked following its dissolution."
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between suspension and revocation?",
+        "answer": "Suspension is temporary, while revocation permanently cancels the certificate."
+      },
+      {
+        "question": "Can a certificate be revoked for fraud?",
+        "answer": "Yes. Fraud or misrepresentation is a valid ground for revocation."
+      }
+    ],
+    "keywords": [
+      "revocation",
+      "electronic signature certificate",
+      "fraud",
+      "misrepresentation",
+      "certificate management"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "34",
+      "36",
+      "37"
+    ]
+  },
+  {
+    "id": "ITA_036",
+    "sectionNumber": "36",
+    "title": "Notice of Suspension or Revocation",
+    "chapter": "Chapter VII - Electronic Signature Certificates",
+    "category": "Certificate Management",
+    "officialText": "Where an Electronic Signature Certificate is suspended or revoked, the Certifying Authority shall publish a notice of such suspension or revocation in the repository specified in the certificate and in such manner as may be prescribed.",
+    "simpleExplanation": "When a certificate is suspended or revoked, the Certifying Authority must publicly notify users through the prescribed repository so that others do not rely on an invalid certificate.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A revoked Digital Signature Certificate is marked as invalid in the public repository.",
+      "Users checking the certificate status can see that it has been revoked."
+    ],
+    "faqs": [
+      {
+        "question": "Why must suspension or revocation be published?",
+        "answer": "To prevent others from relying on an invalid or compromised certificate."
+      },
+      {
+        "question": "Where is the notice published?",
+        "answer": "In the repository specified by the Certifying Authority."
+      }
+    ],
+    "keywords": [
+      "revocation notice",
+      "certificate repository",
+      "digital signature",
+      "suspension",
+      "public notice"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "34",
+      "35",
+      "37"
+    ]
+  },
+  {
+    "id": "ITA_037",
+    "sectionNumber": "37",
+    "title": "Generating Key Pair",
+    "chapter": "Chapter VIII - Duties of Subscribers",
+    "category": "Subscriber Duties",
+    "officialText": "Every subscriber shall generate the key pair consisting of the private key and public key using a secure procedure prescribed by the Certifying Authority.",
+    "simpleExplanation": "Subscribers must generate cryptographic key pairs securely before obtaining or using Electronic Signature Certificates.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A subscriber generates a public-private key pair using approved software.",
+      "A secure hardware token is used to generate cryptographic keys."
+    ],
+    "faqs": [
+      {
+        "question": "What is a key pair?",
+        "answer": "A pair consisting of a private key and a corresponding public key used for electronic signatures."
+      },
+      {
+        "question": "Why must the key pair be generated securely?",
+        "answer": "To protect the integrity and authenticity of electronic signatures."
+      }
+    ],
+    "keywords": [
+      "key pair",
+      "private key",
+      "public key",
+      "cryptography",
+      "subscriber"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "id": "ITA_038",
+    "sectionNumber": "38",
+    "title": "Acceptance of Electronic Signature Certificate",
+    "chapter": "Chapter VIII - Duties of Subscribers",
+    "category": "Subscriber Duties",
+    "officialText": "By accepting an Electronic Signature Certificate, the subscriber certifies that the information provided to the Certifying Authority is accurate and that the private key will be used and protected in accordance with the Act.",
+    "simpleExplanation": "Once a subscriber accepts a certificate, they become responsible for ensuring that the information supplied is correct and that the private key remains secure.",
+    "punishment": "Liability may arise under other provisions for misuse or false information.",
+    "examples": [
+      "A subscriber confirms the accuracy of personal information provided during registration.",
+      "The certificate holder assumes responsibility for safeguarding the private key."
+    ],
+    "faqs": [
+      {
+        "question": "What responsibilities arise after accepting a certificate?",
+        "answer": "The subscriber must ensure the accuracy of information and protect the private key."
+      },
+      {
+        "question": "Can incorrect information create liability?",
+        "answer": "Yes. Providing false information may lead to legal consequences."
+      }
+    ],
+    "keywords": [
+      "certificate acceptance",
+      "subscriber duties",
+      "private key",
+      "accuracy",
+      "digital certificate"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "33",
+      "39",
+      "40"
+    ]
+  },
+  {
+    "id": "ITA_039",
+    "sectionNumber": "39",
+    "title": "Control of Private Key",
+    "chapter": "Chapter VIII - Duties of Subscribers",
+    "category": "Subscriber Duties",
+    "officialText": "Every subscriber shall exercise reasonable care to retain control of the private key corresponding to the public key listed in the Electronic Signature Certificate and take all steps to prevent its disclosure to unauthorized persons.",
+    "simpleExplanation": "Subscribers must keep their private keys secure and prevent unauthorized access or disclosure.",
+    "punishment": "Liability may arise if negligence leads to misuse of the private key.",
+    "examples": [
+      "A certificate holder stores the private key in a secure cryptographic token.",
+      "The private key is protected with strong passwords and access controls."
+    ],
+    "faqs": [
+      {
+        "question": "Why is protecting the private key important?",
+        "answer": "Because anyone with access to the private key may impersonate the subscriber."
+      },
+      {
+        "question": "What level of care is required?",
+        "answer": "Reasonable care to prevent disclosure and unauthorized use."
+      }
+    ],
+    "keywords": [
+      "private key",
+      "security",
+      "subscriber",
+      "digital signature",
+      "cryptography"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "37",
+      "38",
+      "40"
+    ]
+  },
+  {
+    "id": "ITA_040",
+    "sectionNumber": "40",
+    "title": "Duty of Subscriber in Case of Compromise of Private Key",
+    "chapter": "Chapter VIII - Duties of Subscribers",
+    "category": "Subscriber Duties",
+    "officialText": "If a private key has been compromised or is suspected to have been compromised, the subscriber shall communicate the same without delay to the Certifying Authority. The subscriber shall be liable for any consequences arising before such notification.",
+    "simpleExplanation": "If a subscriber believes that their private key has been stolen, leaked, or compromised, they must immediately notify the Certifying Authority.",
+    "punishment": "The subscriber may be liable for losses occurring before notifying the Certifying Authority.",
+    "examples": [
+      "A user immediately reports a stolen cryptographic token containing a private key.",
+      "A compromised private key is reported so that the certificate can be suspended."
+    ],
+    "faqs": [
+      {
+        "question": "What should a subscriber do if a private key is compromised?",
+        "answer": "Notify the Certifying Authority without delay."
+      },
+      {
+        "question": "Who bears responsibility before notification?",
+        "answer": "The subscriber may be liable for consequences arising before notifying the Certifying Authority."
+      }
+    ],
+    "keywords": [
+      "private key compromise",
+      "notification",
+      "subscriber duty",
+      "certificate security",
+      "digital signature"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "34",
+      "35",
+      "39"
+    ]
+  },
+  {
+    "id": "ITA_046",
+    "sectionNumber": "46",
+    "title": "Power to Adjudicate",
+    "chapter": "Chapter IX - Penalties, Compensation and Adjudication",
+    "category": "Adjudication",
+    "officialText": "The Central Government shall appoint an Adjudicating Officer for holding inquiries in relation to contraventions under this Act. The Adjudicating Officer shall have powers of a civil court and may impose penalties or award compensation in accordance with the provisions of the Act.",
+    "simpleExplanation": "This section empowers designated Adjudicating Officers to investigate violations of the IT Act and determine penalties or compensation.",
+    "punishment": "Not applicable. This section relates to adjudication powers.",
+    "examples": [
+      "An Adjudicating Officer hears a complaint involving unauthorized access to a computer system.",
+      "Compensation is awarded to a victim of a cyber contravention."
+    ],
+    "faqs": [
+      {
+        "question": "Who appoints the Adjudicating Officer?",
+        "answer": "The Central Government appoints the Adjudicating Officer."
+      },
+      {
+        "question": "What powers does an Adjudicating Officer have?",
+        "answer": "The officer has powers similar to those of a civil court for inquiries under the Act."
+      }
+    ],
+    "keywords": [
+      "adjudicating officer",
+      "compensation",
+      "civil court powers",
+      "inquiry",
+      "cyber law"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "43",
+      "47",
+      "48"
+    ]
+  },
+  {
+    "id": "ITA_047",
+    "sectionNumber": "47",
+    "title": "Factors to be Taken into Account by the Adjudicating Officer",
+    "chapter": "Chapter IX - Penalties, Compensation and Adjudication",
+    "category": "Adjudication",
+    "officialText": "While adjudging the quantum of compensation or penalty, the Adjudicating Officer shall consider the amount of unfair gain or advantage, the amount of loss caused to any person, and the repetitive nature of the default.",
+    "simpleExplanation": "This section guides Adjudicating Officers on how to determine the appropriate amount of compensation or penalty.",
+    "punishment": "Not applicable. This section provides factors for determining penalties.",
+    "examples": [
+      "A larger penalty may be imposed where substantial financial loss is caused.",
+      "Repeated violations may result in enhanced penalties."
+    ],
+    "faqs": [
+      {
+        "question": "What factors influence the amount of compensation?",
+        "answer": "Unfair gain, loss suffered by victims, and repetition of violations."
+      },
+      {
+        "question": "Does repeat misconduct matter?",
+        "answer": "Yes. Repeated violations are considered when determining penalties."
+      }
+    ],
+    "keywords": [
+      "compensation",
+      "penalty",
+      "unfair gain",
+      "loss",
+      "adjudication"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "46",
+      "48",
+      "49"
+    ]
+  },
+  {
+    "id": "ITA_048",
+    "sectionNumber": "48",
+    "title": "Establishment of Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "The Central Government may establish an Appellate Tribunal to hear appeals against the orders of Adjudicating Officers and other authorities under this Act.",
+    "simpleExplanation": "This section provides for an appellate mechanism through a Tribunal to review decisions made under the IT Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company appeals against an order imposing compensation for a cyber contravention.",
+      "An individual challenges an adjudication decision before the Tribunal."
+    ],
+    "faqs": [
+      {
+        "question": "Why is an Appellate Tribunal required?",
+        "answer": "To provide a mechanism for reviewing decisions made under the Act."
+      },
+      {
+        "question": "Who can approach the Tribunal?",
+        "answer": "Any person aggrieved by an appealable order under the Act."
+      }
+    ],
+    "keywords": [
+      "appellate tribunal",
+      "appeal",
+      "adjudication",
+      "review",
+      "cyber law"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "49",
+      "50",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_049",
+    "sectionNumber": "49",
+    "title": "Composition of Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "The Appellate Tribunal shall consist of a Chairperson and such other members as may be prescribed. The qualifications, appointment, and service conditions shall be determined by the Central Government.",
+    "simpleExplanation": "This section specifies the structure and membership of the Appellate Tribunal.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Tribunal is headed by a Chairperson appointed according to prescribed qualifications.",
+      "Members are appointed to hear cyber law appeals."
+    ],
+    "faqs": [
+      {
+        "question": "Who heads the Appellate Tribunal?",
+        "answer": "A Chairperson appointed in accordance with the Act."
+      },
+      {
+        "question": "Who determines qualifications for members?",
+        "answer": "The Central Government determines qualifications and conditions of service."
+      }
+    ],
+    "keywords": [
+      "chairperson",
+      "tribunal",
+      "membership",
+      "appeals",
+      "appointment"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "48",
+      "50",
+      "52"
+    ]
+  },
+  {
+    "id": "ITA_050",
+    "sectionNumber": "50",
+    "title": "Qualifications for Appointment as Chairperson and Members",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "A person shall not be qualified for appointment as Chairperson or Member of the Appellate Tribunal unless such person possesses the qualifications prescribed under the Act and relevant rules.",
+    "simpleExplanation": "This section establishes eligibility requirements for appointment to the Appellate Tribunal.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A person with the required judicial or administrative experience may be appointed.",
+      "Appointments must comply with statutory qualification requirements."
+    ],
+    "faqs": [
+      {
+        "question": "Who can become a Chairperson of the Tribunal?",
+        "answer": "Only persons meeting the qualifications prescribed by law."
+      },
+      {
+        "question": "Why are qualifications specified?",
+        "answer": "To ensure competent and impartial adjudication of appeals."
+      }
+    ],
+    "keywords": [
+      "qualifications",
+      "chairperson",
+      "member",
+      "tribunal",
+      "appointment"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "48",
+      "49",
+      "51"
+    ]
+  },
+  {
+    "id": "ITA_051",
+    "sectionNumber": "51",
+    "title": "Term of Office, Conditions of Service, etc., of Chairperson and Members",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Tribunal Administration",
+    "officialText": "The Chairperson and Members of the Appellate Tribunal shall hold office for such term and on such conditions as may be prescribed by the Central Government. Their salaries, allowances, and other service conditions shall be determined in accordance with the applicable rules.",
+    "simpleExplanation": "This section deals with the tenure, salary, allowances, and service conditions of the Chairperson and Members of the Appellate Tribunal.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A Chairperson serves for the prescribed term under government rules.",
+      "Service conditions are governed by statutory provisions."
+    ],
+    "faqs": [
+      {
+        "question": "Who determines the service conditions of Tribunal members?",
+        "answer": "The Central Government determines them through prescribed rules."
+      },
+      {
+        "question": "Does this section prescribe a fixed tenure?",
+        "answer": "The tenure is prescribed through applicable rules and regulations."
+      }
+    ],
+    "keywords": [
+      "term of office",
+      "service conditions",
+      "chairperson",
+      "tribunal",
+      "members"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "49",
+      "50",
+      "52"
+    ]
+  },
+  {
+    "id": "ITA_052",
+    "sectionNumber": "52",
+    "title": "Appeal to Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "Any person aggrieved by an order made by the Controller or an Adjudicating Officer under this Act may prefer an appeal to the Appellate Tribunal within the prescribed period and in the prescribed manner.",
+    "simpleExplanation": "This section grants the right to appeal against certain orders issued under the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company appeals against a compensation order issued by an Adjudicating Officer.",
+      "A Certifying Authority challenges a regulatory order before the Tribunal."
+    ],
+    "faqs": [
+      {
+        "question": "Who can file an appeal under this section?",
+        "answer": "Any person aggrieved by an eligible order under the Act."
+      },
+      {
+        "question": "Where is the appeal filed?",
+        "answer": "Before the Appellate Tribunal."
+      }
+    ],
+    "keywords": [
+      "appeal",
+      "appellate tribunal",
+      "controller",
+      "adjudicating officer",
+      "review"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "48",
+      "53",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_053",
+    "sectionNumber": "53",
+    "title": "Procedure for Filing Appeal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "Every appeal shall be filed in the prescribed form, accompanied by the prescribed fee and relevant supporting documents. The Tribunal may admit appeals filed after the prescribed period if sufficient cause is shown.",
+    "simpleExplanation": "This section explains the procedure and requirements for filing appeals before the Appellate Tribunal.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An appellant submits the prescribed form and appeal fee.",
+      "The Tribunal condones delay where sufficient cause is established."
+    ],
+    "faqs": [
+      {
+        "question": "Can delayed appeals be accepted?",
+        "answer": "Yes, if the Tribunal is satisfied that there was sufficient cause for the delay."
+      },
+      {
+        "question": "Must a fee be paid when filing an appeal?",
+        "answer": "Yes, the prescribed fee must generally accompany the appeal."
+      }
+    ],
+    "keywords": [
+      "appeal procedure",
+      "filing",
+      "tribunal",
+      "delay condonation",
+      "appeal fee"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "52",
+      "54",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_054",
+    "sectionNumber": "54",
+    "title": "Procedure and Powers of Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Tribunal Powers",
+    "officialText": "The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure but shall be guided by the principles of natural justice. The Tribunal shall have powers to regulate its own procedure and exercise powers similar to those of a civil court in specified matters.",
+    "simpleExplanation": "This section gives the Tribunal flexibility in conducting proceedings while requiring it to follow principles of fairness and natural justice.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Tribunal determines its own hearing procedures.",
+      "Witnesses may be summoned during appellate proceedings."
+    ],
+    "faqs": [
+      {
+        "question": "Must the Tribunal follow the Code of Civil Procedure?",
+        "answer": "No, but it must follow principles of natural justice."
+      },
+      {
+        "question": "Does the Tribunal have civil court powers?",
+        "answer": "Yes, for specified matters under the Act."
+      }
+    ],
+    "keywords": [
+      "natural justice",
+      "tribunal powers",
+      "civil court powers",
+      "appeal hearing",
+      "procedure"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "55",
+      "56",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_055",
+    "sectionNumber": "55",
+    "title": "Orders of Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "The Appellate Tribunal may confirm, modify, or set aside the order appealed against. The Tribunal shall endeavor to dispose of appeals expeditiously and communicate its decision to the parties concerned.",
+    "simpleExplanation": "This section empowers the Tribunal to uphold, change, or cancel decisions challenged before it.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Tribunal reduces the amount of compensation imposed by an Adjudicating Officer.",
+      "The Tribunal sets aside an order found to be legally incorrect."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Tribunal overturn an order?",
+        "answer": "Yes, it may confirm, modify, or set aside the order."
+      },
+      {
+        "question": "Are parties informed of the decision?",
+        "answer": "Yes, the Tribunal communicates its decision to the concerned parties."
+      }
+    ],
+    "keywords": [
+      "tribunal order",
+      "appeal decision",
+      "modify order",
+      "set aside",
+      "appellate tribunal"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "54",
+      "56",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_056",
+    "sectionNumber": "56",
+    "title": "Repealed",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Repealed Provisions",
+    "officialText": "Section 56 has been omitted by subsequent amendments to the Information Technology Act.",
+    "simpleExplanation": "This section is no longer in force and has been removed from the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "Courts do not apply this provision because it has been repealed."
+    ],
+    "faqs": [
+      {
+        "question": "Is Section 56 currently operative?",
+        "answer": "No. The section has been omitted by amendment."
+      }
+    ],
+    "keywords": [
+      "repealed",
+      "omitted",
+      "information technology act"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "55",
+      "57"
+    ]
+  },
+  {
+    "id": "ITA_057",
+    "sectionNumber": "57",
+    "title": "Appeal to High Court",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Appeals",
+    "officialText": "Any person aggrieved by a decision or order of the Appellate Tribunal may file an appeal to the High Court within sixty days from the date of communication of the decision or order on any question of fact or law arising out of such order.",
+    "simpleExplanation": "This section provides a further right of appeal to the High Court against decisions of the Appellate Tribunal.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company challenges an Appellate Tribunal order before the High Court.",
+      "A legal issue arising from a cyber law dispute is appealed to the High Court."
+    ],
+    "faqs": [
+      {
+        "question": "Can Tribunal decisions be challenged?",
+        "answer": "Yes. Aggrieved parties may appeal to the High Court."
+      },
+      {
+        "question": "What is the time limit for filing the appeal?",
+        "answer": "Generally within sixty days from communication of the order."
+      }
+    ],
+    "keywords": [
+      "high court appeal",
+      "tribunal order",
+      "judicial review",
+      "cyber law",
+      "appeal"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "52",
+      "55",
+      "58"
+    ]
+  },
+  {
+    "id": "ITA_058",
+    "sectionNumber": "58",
+    "title": "Procedure and Powers of Appellate Tribunal",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Tribunal Administration",
+    "officialText": "The Appellate Tribunal shall have powers to regulate its own procedure, hear appeals, summon witnesses, receive evidence, and perform other functions necessary for adjudication under the Act.",
+    "simpleExplanation": "This section outlines the powers available to the Tribunal to effectively hear and decide cases.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Tribunal summons witnesses during an appeal hearing.",
+      "Evidence is received and evaluated by the Tribunal."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Tribunal summon witnesses?",
+        "answer": "Yes. The Tribunal has powers similar to a civil court in specified matters."
+      },
+      {
+        "question": "Why are these powers necessary?",
+        "answer": "They enable effective adjudication of disputes under the Act."
+      }
+    ],
+    "keywords": [
+      "tribunal powers",
+      "witnesses",
+      "evidence",
+      "adjudication",
+      "appeal"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "54",
+      "57",
+      "59"
+    ]
+  },
+  {
+    "id": "ITA_059",
+    "sectionNumber": "59",
+    "title": "Right to Legal Representation",
+    "chapter": "Chapter X - Appellate Tribunal",
+    "category": "Procedural Rights",
+    "officialText": "The appellant may either appear in person or authorize one or more legal practitioners or other authorized representatives to present the case before the Appellate Tribunal.",
+    "simpleExplanation": "This section allows parties to represent themselves or appoint legal professionals to appear on their behalf.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A company appoints a lawyer to represent it before the Tribunal.",
+      "An individual appears personally to argue an appeal."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person appear without a lawyer?",
+        "answer": "Yes. A person may appear in person before the Tribunal."
+      },
+      {
+        "question": "Can legal practitioners represent parties?",
+        "answer": "Yes. Authorized legal representatives may appear on behalf of parties."
+      }
+    ],
+    "keywords": [
+      "legal representation",
+      "lawyer",
+      "tribunal",
+      "appeal",
+      "authorized representative"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "57",
+      "58",
+      "60"
+    ]
+  },
+  {
+    "id": "ITA_060",
+    "sectionNumber": "60",
+    "title": "Civil Court Not to Have Jurisdiction",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Jurisdiction",
+    "officialText": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of matters which an Adjudicating Officer or the Appellate Tribunal is empowered to determine under this Act. No injunction shall be granted by any court in respect of actions taken under powers conferred by this Act.",
+    "simpleExplanation": "This section prevents ordinary civil courts from hearing matters that are specifically assigned to authorities under the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A dispute assigned to an Adjudicating Officer cannot simultaneously be filed before a civil court.",
+      "A civil court cannot interfere with proceedings properly conducted under the Act."
+    ],
+    "faqs": [
+      {
+        "question": "Can a civil court hear matters covered by the IT Act adjudication process?",
+        "answer": "No. Jurisdiction is excluded where the Act provides a specialized mechanism."
+      },
+      {
+        "question": "Why is this provision included?",
+        "answer": "To avoid parallel proceedings and ensure specialized adjudication."
+      }
+    ],
+    "keywords": [
+      "civil court",
+      "jurisdiction",
+      "adjudicating officer",
+      "tribunal",
+      "cyber law"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "46",
+      "52",
+      "61"
+    ]
+  },
+  {
+    "id": "ITA_061",
+    "sectionNumber": "61",
+    "title": "Repealed",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Repealed Provisions",
+    "officialText": "Section 61 has been omitted by subsequent amendments to the Information Technology Act.",
+    "simpleExplanation": "This section is no longer in force and has been removed from the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "Courts do not apply this provision because it has been repealed."
+    ],
+    "faqs": [
+      {
+        "question": "Is Section 61 currently operative?",
+        "answer": "No. The section has been omitted by amendment."
+      }
+    ],
+    "keywords": [
+      "repealed",
+      "omitted",
+      "information technology act"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "60",
+      "62"
+    ]
+  },
+  {
+    "id": "ITA_062",
+    "sectionNumber": "62",
+    "title": "Repealed",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Repealed Provisions",
+    "officialText": "Section 62 has been omitted by subsequent amendments to the Information Technology Act.",
+    "simpleExplanation": "This section has been removed from the Act and is no longer applicable.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "No proceedings can be initiated under this repealed provision."
+    ],
+    "faqs": [
+      {
+        "question": "Can Section 62 be invoked today?",
+        "answer": "No. It has been omitted from the Act."
+      }
+    ],
+    "keywords": [
+      "repealed",
+      "omitted",
+      "IT Act amendment"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "61",
+      "63"
+    ]
+  },
+  {
+    "id": "ITA_063",
+    "sectionNumber": "63",
+    "title": "Repealed",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Repealed Provisions",
+    "officialText": "Section 63 has been omitted by subsequent amendments to the Information Technology Act.",
+    "simpleExplanation": "This provision has been repealed and is no longer operative.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The section remains part of historical versions of the Act but is not enforceable."
+    ],
+    "faqs": [
+      {
+        "question": "Why is Section 63 marked as repealed?",
+        "answer": "It was omitted through legislative amendment."
+      }
+    ],
+    "keywords": [
+      "repealed",
+      "omitted",
+      "historical provision"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "62",
+      "64"
+    ]
+  },
+  {
+    "id": "ITA_064",
+    "sectionNumber": "64",
+    "title": "Repealed",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Repealed Provisions",
+    "officialText": "Section 64 has been omitted by subsequent amendments to the Information Technology Act.",
+    "simpleExplanation": "This section is no longer part of the operative provisions of the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "Courts and authorities do not apply this repealed provision."
+    ],
+    "faqs": [
+      {
+        "question": "Is Section 64 enforceable?",
+        "answer": "No. It has been omitted from the Act."
+      }
+    ],
+    "keywords": [
+      "repealed",
+      "omitted",
+      "non-operative"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "63",
+      "65"
+    ]
+  },
+  {
+    "id": "ITA_065",
+    "sectionNumber": "65",
+    "title": "Tampering with Computer Source Documents",
+    "chapter": "Chapter XI - Offences",
+    "category": "Cyber Offences",
+    "officialText": "Whoever knowingly or intentionally conceals, destroys, or alters any computer source code used for a computer, computer program, computer system, or computer network, when such source code is required to be kept or maintained by law, shall be punishable under this section.",
+    "simpleExplanation": "This section makes it a criminal offence to intentionally destroy, modify, conceal, or tamper with computer source code that is legally required to be maintained.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹2 lakh, or both.",
+    "examples": [
+      "An employee intentionally deletes source code records required by law.",
+      "A programmer alters legally mandated source code logs to conceal misconduct.",
+      "Source code maintained for regulatory compliance is intentionally destroyed."
+    ],
+    "faqs": [
+      {
+        "question": "What is computer source code?",
+        "answer": "It includes the listing of programs, commands, design details, and related material used to operate a computer system."
+      },
+      {
+        "question": "Does accidental deletion constitute an offence?",
+        "answer": "No. The section requires knowing or intentional conduct."
+      }
+    ],
+    "keywords": [
+      "source code",
+      "tampering",
+      "computer program",
+      "cyber crime",
+      "digital evidence"
+    ],
+    "correspondingSection": "BNS provisions relating to destruction of evidence and records",
+    "relatedSections": [
+      "43",
+      "66",
+      "72"
+    ]
+  },
+  {
+    "id": "ITA_066",
+    "sectionNumber": "66",
+    "title": "Computer Related Offences",
+    "chapter": "Chapter XI - Offences",
+    "category": "Cyber Offences",
+    "officialText": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable under this section. The expressions 'dishonestly' and 'fraudulently' shall have the meanings assigned to them in the Bharatiya Nyaya Sanhita.",
+    "simpleExplanation": "This section makes acts such as unauthorized access, data theft, introduction of malware, disruption of services, and other acts listed in Section 43 criminal offences when done dishonestly or fraudulently.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹5 lakh, or both.",
+    "examples": [
+      "A hacker gains unauthorized access to a company's server and steals data.",
+      "A person intentionally introduces malware into another person's computer system.",
+      "An employee fraudulently accesses confidential databases."
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between Sections 43 and 66?",
+        "answer": "Section 43 provides civil liability and compensation, while Section 66 makes the same acts criminal when done dishonestly or fraudulently."
+      },
+      {
+        "question": "Is hacking covered under this section?",
+        "answer": "Yes. Many forms of hacking and unauthorized access are covered."
+      }
+    ],
+    "keywords": [
+      "hacking",
+      "unauthorized access",
+      "cyber crime",
+      "computer offence",
+      "data theft"
+    ],
+    "correspondingSection": "BNS provisions relating to fraud and unauthorized access",
+    "relatedSections": [
+      "43",
+      "65",
+      "66B"
+    ]
+  },
+  {
+    "id": "ITA_066A",
+    "sectionNumber": "66A",
+    "title": "Sending Offensive Messages Through Communication Service",
+    "chapter": "Chapter XI - Offences",
+    "category": "Repealed Provision",
+    "officialText": "This section was struck down as unconstitutional by the Supreme Court of India in Shreya Singhal v. Union of India (2015) and is no longer enforceable.",
+    "simpleExplanation": "Section 66A previously criminalized certain offensive online communications, but it was declared unconstitutional and cannot be used.",
+    "punishment": "Not applicable. Section struck down by the Supreme Court.",
+    "examples": [
+      "No prosecution can be initiated under Section 66A today."
+    ],
+    "faqs": [
+      {
+        "question": "Is Section 66A still valid law?",
+        "answer": "No. It was struck down by the Supreme Court in 2015."
+      },
+      {
+        "question": "Can police register a case under Section 66A?",
+        "answer": "No. It is unconstitutional and unenforceable."
+      }
+    ],
+    "keywords": [
+      "66A",
+      "Shreya Singhal",
+      "unconstitutional",
+      "repealed",
+      "online speech"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "66",
+      "67"
+    ]
+  },
+  {
+    "id": "ITA_066B",
+    "sectionNumber": "66B",
+    "title": "Punishment for Dishonestly Receiving Stolen Computer Resource or Communication Device",
+    "chapter": "Chapter XI - Offences",
+    "category": "Cyber Offences",
+    "officialText": "Whoever dishonestly receives or retains any stolen computer resource or communication device knowing or having reason to believe it to be stolen shall be punishable under this section.",
+    "simpleExplanation": "This section punishes persons who knowingly possess or receive stolen computers, mobile devices, or other digital resources.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "A person knowingly buys a stolen laptop.",
+      "An individual receives a stolen mobile phone and continues using it."
+    ],
+    "faqs": [
+      {
+        "question": "Must the person know the device is stolen?",
+        "answer": "Yes. Knowledge or reason to believe the item is stolen is required."
+      },
+      {
+        "question": "Does this apply to mobile phones?",
+        "answer": "Yes. Communication devices are covered."
+      }
+    ],
+    "keywords": [
+      "stolen device",
+      "computer resource",
+      "communication device",
+      "receiving stolen property",
+      "cyber offence"
+    ],
+    "correspondingSection": "BNS provisions relating to receiving stolen property",
+    "relatedSections": [
+      "66",
+      "66C",
+      "66D"
+    ]
+  },
+  {
+    "id": "ITA_066C",
+    "sectionNumber": "66C",
+    "title": "Punishment for Identity Theft",
+    "chapter": "Chapter XI - Offences",
+    "category": "Identity Crimes",
+    "officialText": "Whoever fraudulently or dishonestly makes use of the electronic signature, password, or any other unique identification feature of any other person shall be punishable under this section.",
+    "simpleExplanation": "This section criminalizes identity theft involving passwords, digital signatures, OTPs, Aadhaar-related credentials, and other unique identifiers.",
+    "punishment": "Imprisonment up to 3 years and fine up to ₹1 lakh.",
+    "examples": [
+      "Using another person's login credentials without permission.",
+      "Stealing and using someone's digital signature certificate.",
+      "Accessing accounts using stolen authentication details."
+    ],
+    "faqs": [
+      {
+        "question": "What is identity theft under the IT Act?",
+        "answer": "Fraudulent use of another person's electronic identity credentials."
+      },
+      {
+        "question": "Does this include password theft?",
+        "answer": "Yes. Passwords are specifically covered."
+      }
+    ],
+    "keywords": [
+      "identity theft",
+      "password",
+      "electronic signature",
+      "authentication",
+      "cyber fraud"
+    ],
+    "correspondingSection": "BNS provisions relating to impersonation and identity fraud",
+    "relatedSections": [
+      "66D",
+      "72",
+      "72A"
+    ]
+  },
+  {
+    "id": "ITA_066D",
+    "sectionNumber": "66D",
+    "title": "Punishment for Cheating by Personation Using Computer Resource",
+    "chapter": "Chapter XI - Offences",
+    "category": "Cyber Fraud",
+    "officialText": "Whoever, by means of any communication device or computer resource, cheats by personation shall be punishable under this section.",
+    "simpleExplanation": "This section covers online fraud where a person pretends to be someone else to deceive victims and obtain money, information, or other benefits.",
+    "punishment": "Imprisonment up to 3 years and fine up to ₹1 lakh.",
+    "examples": [
+      "A fraudster impersonates a bank official to obtain OTPs.",
+      "A scammer creates a fake online profile to cheat people.",
+      "A phishing email tricks victims into disclosing financial information."
+    ],
+    "faqs": [
+      {
+        "question": "What is personation?",
+        "answer": "Pretending to be another person to deceive someone."
+      },
+      {
+        "question": "Are phishing scams covered?",
+        "answer": "Yes. Many phishing and impersonation scams fall under this section."
+      }
+    ],
+    "keywords": [
+      "cyber fraud",
+      "personation",
+      "phishing",
+      "online scam",
+      "identity theft"
+    ],
+    "correspondingSection": "BNS provisions relating to cheating and impersonation",
+    "relatedSections": [
+      "66C",
+      "66E",
+      "420"
+    ]
+  },
+  {
+    "id": "ITA_066E",
+    "sectionNumber": "66E",
+    "title": "Punishment for Violation of Privacy",
+    "chapter": "Chapter XI - Offences",
+    "category": "Privacy Offences",
+    "officialText": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person, shall be punishable under this section.",
+    "simpleExplanation": "This section protects individuals from having images of their private body parts captured, shared, or transmitted without consent.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹2 lakh, or both.",
+    "examples": [
+      "Secretly taking photographs of a person in a changing room.",
+      "Sharing intimate images of a person without consent.",
+      "Recording a private area using a hidden camera."
+    ],
+    "faqs": [
+      {
+        "question": "What is considered a private area?",
+        "answer": "Private areas generally include genitals, buttocks, or female breasts, whether covered or uncovered."
+      },
+      {
+        "question": "Is consent important under this section?",
+        "answer": "Yes. The offence applies when images are captured, published, or transmitted without consent."
+      }
+    ],
+    "keywords": [
+      "privacy",
+      "intimate image",
+      "unauthorized photography",
+      "hidden camera",
+      "cyber crime"
+    ],
+    "correspondingSection": "BNS provisions relating to privacy and voyeurism",
+    "relatedSections": [
+      "66D",
+      "67",
+      "72"
+    ]
+  },
+  {
+    "id": "ITA_066F",
+    "sectionNumber": "66F",
+    "title": "Punishment for Cyber Terrorism",
+    "chapter": "Chapter XI - Offences",
+    "category": "National Security Offences",
+    "officialText": "Whoever, with intent to threaten the unity, integrity, security or sovereignty of India or to strike terror in the people, denies access to computer resources, attempts unauthorized access, introduces contaminants, or obtains restricted information likely to affect national security, commits cyber terrorism.",
+    "simpleExplanation": "This section deals with serious cyber attacks targeting national security, critical infrastructure, defense systems, or public safety.",
+    "punishment": "Imprisonment for life.",
+    "examples": [
+      "Launching a cyber attack on critical power grid infrastructure.",
+      "Accessing classified military computer systems.",
+      "Disrupting essential government networks to threaten national security."
+    ],
+    "faqs": [
+      {
+        "question": "What is cyber terrorism?",
+        "answer": "Cyber activities intended to threaten national security, sovereignty, or public safety."
+      },
+      {
+        "question": "What is the punishment?",
+        "answer": "Cyber terrorism is punishable with imprisonment for life."
+      }
+    ],
+    "keywords": [
+      "cyber terrorism",
+      "national security",
+      "critical infrastructure",
+      "cyber attack",
+      "sovereignty"
+    ],
+    "correspondingSection": "BNS provisions relating to terrorism and national security",
+    "relatedSections": [
+      "66",
+      "70",
+      "70A"
+    ]
+  },
+  {
+    "id": "ITA_067",
+    "sectionNumber": "67",
+    "title": "Punishment for Publishing or Transmitting Obscene Material in Electronic Form",
+    "chapter": "Chapter XI - Offences",
+    "category": "Obscene Content",
+    "officialText": "Whoever publishes or transmits or causes to be published or transmitted in electronic form any material which is lascivious or appeals to the prurient interest or tends to deprave and corrupt persons who are likely to read, see or hear it, shall be punishable under this section.",
+    "simpleExplanation": "This section criminalizes publishing or transmitting obscene content through electronic means such as websites, emails, social media, or messaging platforms.",
+    "punishment": "First conviction: imprisonment up to 3 years and fine up to ₹5 lakh. Subsequent conviction: imprisonment up to 5 years and fine up to ₹10 lakh.",
+    "examples": [
+      "Uploading obscene content to a website.",
+      "Distributing obscene videos through messaging applications.",
+      "Operating an online platform for obscene material."
+    ],
+    "faqs": [
+      {
+        "question": "Does this section apply to online publication?",
+        "answer": "Yes. It specifically covers electronic publication and transmission."
+      },
+      {
+        "question": "Are repeat offenders punished more severely?",
+        "answer": "Yes. Subsequent convictions carry higher penalties."
+      }
+    ],
+    "keywords": [
+      "obscene material",
+      "electronic publication",
+      "online content",
+      "transmission",
+      "cyber offence"
+    ],
+    "correspondingSection": "BNS provisions relating to obscenity",
+    "relatedSections": [
+      "67A",
+      "67B",
+      "79"
+    ]
+  },
+  {
+    "id": "ITA_067A",
+    "sectionNumber": "67A",
+    "title": "Punishment for Publishing or Transmitting Material Containing Sexually Explicit Act",
+    "chapter": "Chapter XI - Offences",
+    "category": "Sexually Explicit Content",
+    "officialText": "Whoever publishes or transmits or causes to be published or transmitted in electronic form any material containing sexually explicit acts or conduct shall be punishable under this section.",
+    "simpleExplanation": "This section imposes stricter penalties for publishing or transmitting sexually explicit content electronically.",
+    "punishment": "First conviction: imprisonment up to 5 years and fine up to ₹10 lakh. Subsequent conviction: imprisonment up to 7 years and fine up to ₹10 lakh.",
+    "examples": [
+      "Uploading sexually explicit videos to an online platform.",
+      "Sharing sexually explicit content through electronic communication channels."
+    ],
+    "faqs": [
+      {
+        "question": "How is Section 67A different from Section 67?",
+        "answer": "Section 67A specifically deals with sexually explicit acts and carries higher punishment."
+      },
+      {
+        "question": "Does it apply to online sharing?",
+        "answer": "Yes. Electronic publication or transmission is covered."
+      }
+    ],
+    "keywords": [
+      "sexually explicit content",
+      "electronic transmission",
+      "online publication",
+      "cyber offence",
+      "digital content"
+    ],
+    "correspondingSection": "BNS provisions relating to obscene and explicit content",
+    "relatedSections": [
+      "67",
+      "67B",
+      "66E"
+    ]
+  },
+  {
+    "id": "ITA_067B",
+    "sectionNumber": "67B",
+    "title": "Punishment for Publishing or Transmitting Material Depicting Children in Sexually Explicit Act, etc.",
+    "chapter": "Chapter XI - Offences",
+    "category": "Child Protection",
+    "officialText": "Whoever publishes, transmits, creates, collects, seeks, downloads, advertises, promotes, exchanges, or distributes material depicting children in sexually explicit acts or conduct, or facilitates child sexual exploitation through electronic means, shall be punishable under this section.",
+    "simpleExplanation": "This section criminalizes child sexual abuse material and other forms of online child sexual exploitation.",
+    "punishment": "First conviction: imprisonment up to 5 years and fine up to ₹10 lakh. Subsequent conviction: imprisonment up to 7 years and fine up to ₹10 lakh.",
+    "examples": [
+      "Sharing child sexual abuse material online.",
+      "Downloading or storing sexually explicit images involving children.",
+      "Operating websites that facilitate child exploitation."
+    ],
+    "faqs": [
+      {
+        "question": "Does merely downloading such material constitute an offence?",
+        "answer": "Yes. Downloading, collecting, or possessing such material may attract liability."
+      },
+      {
+        "question": "How does this relate to child protection laws?",
+        "answer": "This section complements protections provided under the POCSO Act."
+      }
+    ],
+    "keywords": [
+      "child sexual abuse material",
+      "child exploitation",
+      "CSAM",
+      "online abuse",
+      "child protection"
+    ],
+    "correspondingSection": "POCSO Sections 13, 14 and 15",
+    "relatedSections": [
+      "67",
+      "67A",
+      "POCSO_013",
+      "POCSO_014",
+      "POCSO_015"
+    ]
+  },
+  {
+    "id": "ITA_067C",
+    "sectionNumber": "67C",
+    "title": "Preservation and Retention of Information by Intermediaries",
+    "chapter": "Chapter XI - Offences",
+    "category": "Intermediary Compliance",
+    "officialText": "Intermediaries shall preserve and retain such information as may be specified by the Central Government for such duration and in such manner and format as prescribed. Failure to preserve and retain information shall be punishable under this section.",
+    "simpleExplanation": "This section requires intermediaries such as social media platforms, messaging services, ISPs, and online service providers to retain specified information for legal and investigative purposes.",
+    "punishment": "Imprisonment up to 3 years and fine.",
+    "examples": [
+      "A social media platform retains user activity logs as required by law.",
+      "An intermediary preserves records requested during a cybercrime investigation."
+    ],
+    "faqs": [
+      {
+        "question": "Who is an intermediary?",
+        "answer": "Entities that receive, store, transmit, or provide services related to electronic records."
+      },
+      {
+        "question": "What happens if records are not retained?",
+        "answer": "The intermediary may face criminal penalties under this section."
+      }
+    ],
+    "keywords": [
+      "intermediary",
+      "data retention",
+      "compliance",
+      "electronic records",
+      "cyber investigation"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "69",
+      "69A",
+      "79"
+    ]
+  },
+  {
+    "id": "ITA_068",
+    "sectionNumber": "68",
+    "title": "Power of Controller to Give Directions",
+    "chapter": "Chapter XI - Offences",
+    "category": "Regulatory Powers",
+    "officialText": "The Controller may direct a Certifying Authority or any employee thereof to take such measures or cease carrying on such activities as specified in the direction to ensure compliance with the provisions of this Act, rules, regulations, or orders made thereunder.",
+    "simpleExplanation": "This section empowers the Controller to issue directions to Certifying Authorities to ensure compliance with the IT Act.",
+    "punishment": "Failure to comply may result in imprisonment up to 2 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "The Controller directs a Certifying Authority to improve security controls.",
+      "A Certifying Authority is instructed to stop issuing certificates until compliance issues are resolved."
+    ],
+    "faqs": [
+      {
+        "question": "Who can receive directions under this section?",
+        "answer": "Certifying Authorities and their employees."
+      },
+      {
+        "question": "What happens if directions are ignored?",
+        "answer": "Failure to comply may result in criminal penalties."
+      }
+    ],
+    "keywords": [
+      "controller",
+      "directions",
+      "certifying authority",
+      "compliance",
+      "regulation"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "18",
+      "69"
+    ]
+  },
+  {
+    "id": "ITA_069",
+    "sectionNumber": "69",
+    "title": "Power to Issue Directions for Interception, Monitoring or Decryption",
+    "chapter": "Chapter XI - Offences",
+    "category": "Government Powers",
+    "officialText": "Where the Central Government or a State Government is satisfied that it is necessary or expedient in the interests of sovereignty, integrity, defence of India, security of the State, friendly relations with foreign States, public order, or for preventing incitement to cognizable offences, it may direct interception, monitoring, or decryption of information generated, transmitted, received, or stored in any computer resource.",
+    "simpleExplanation": "This section authorizes the Government, under specified circumstances, to intercept, monitor, or decrypt electronic information for national security, law enforcement, and public order purposes.",
+    "punishment": "Failure to assist or comply with lawful directions: imprisonment up to 7 years and fine.",
+    "examples": [
+      "Lawful interception of communications during a terrorism investigation.",
+      "Monitoring electronic communications relating to threats to national security."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Government intercept electronic communications?",
+        "answer": "Yes, subject to legal requirements and specified grounds under the Act."
+      },
+      {
+        "question": "What happens if a person refuses to comply?",
+        "answer": "Failure to comply may attract imprisonment up to seven years and fine."
+      }
+    ],
+    "keywords": [
+      "interception",
+      "monitoring",
+      "decryption",
+      "national security",
+      "government powers"
+    ],
+    "correspondingSection": "National security provisions",
+    "relatedSections": [
+      "69A",
+      "69B",
+      "70"
+    ]
+  },
+  {
+    "id": "ITA_069A",
+    "sectionNumber": "69A",
+    "title": "Power to Issue Directions for Blocking Public Access of Information",
+    "chapter": "Chapter XI - Offences",
+    "category": "Government Powers",
+    "officialText": "The Central Government may direct any agency of the Government or intermediary to block public access to any information generated, transmitted, received, stored, or hosted in any computer resource where necessary in the interests of sovereignty, integrity of India, defence, security of the State, friendly relations with foreign States, public order, or for preventing incitement to cognizable offences.",
+    "simpleExplanation": "This section allows the Government to order websites, applications, pages, or content to be blocked under specified legal circumstances.",
+    "punishment": "Failure to comply with blocking directions may result in imprisonment up to 7 years and fine.",
+    "examples": [
+      "Blocking access to websites promoting terrorism.",
+      "Restricting access to unlawful online content."
+    ],
+    "faqs": [
+      {
+        "question": "Can websites be blocked under this section?",
+        "answer": "Yes. The Government may direct blocking where legal requirements are satisfied."
+      },
+      {
+        "question": "Who must comply with blocking orders?",
+        "answer": "Intermediaries and concerned entities receiving the direction."
+      }
+    ],
+    "keywords": [
+      "blocking",
+      "website blocking",
+      "online content",
+      "government order",
+      "intermediary"
+    ],
+    "correspondingSection": "National security provisions",
+    "relatedSections": [
+      "69",
+      "69B",
+      "79"
+    ]
+  },
+  {
+    "id": "ITA_069B",
+    "sectionNumber": "69B",
+    "title": "Power to Authorize Monitoring and Collection of Traffic Data",
+    "chapter": "Chapter XI - Offences",
+    "category": "Government Powers",
+    "officialText": "The Central Government may authorize monitoring and collection of traffic data or information generated, transmitted, received, or stored in any computer resource for cyber security, identification, analysis, prevention, and investigation of cyber incidents.",
+    "simpleExplanation": "This section permits authorized monitoring and collection of traffic data for cybersecurity and cybercrime prevention purposes.",
+    "punishment": "Failure to assist authorized agencies may result in imprisonment up to 3 years and fine.",
+    "examples": [
+      "Collection of network traffic information to investigate a cyber attack.",
+      "Monitoring traffic patterns to identify malware activity."
+    ],
+    "faqs": [
+      {
+        "question": "What is traffic data?",
+        "answer": "Information relating to communications transmitted through computer resources."
+      },
+      {
+        "question": "Why is traffic data collected?",
+        "answer": "For cybersecurity, cyber incident response, and investigation purposes."
+      }
+    ],
+    "keywords": [
+      "traffic data",
+      "cyber security",
+      "monitoring",
+      "cyber incident",
+      "investigation"
+    ],
+    "correspondingSection": "Cybersecurity monitoring provisions",
+    "relatedSections": [
+      "69",
+      "69A",
+      "70"
+    ]
+  },
+  {
+    "id": "ITA_070",
+    "sectionNumber": "70",
+    "title": "Protected System",
+    "chapter": "Chapter XI - Offences",
+    "category": "Critical Infrastructure Protection",
+    "officialText": "The appropriate Government may declare any computer resource which directly or indirectly affects the facility of Critical Information Infrastructure to be a protected system. Unauthorized access to a protected system is prohibited.",
+    "simpleExplanation": "This section provides special protection to critical computer systems whose disruption could affect national security, public safety, economy, or essential services.",
+    "punishment": "Imprisonment up to 10 years and fine for unauthorized access.",
+    "examples": [
+      "Government defense networks designated as protected systems.",
+      "Critical power grid control systems receiving protected status."
+    ],
+    "faqs": [
+      {
+        "question": "What is a protected system?",
+        "answer": "A computer resource designated for special protection because of its critical importance."
+      },
+      {
+        "question": "What happens if someone accesses a protected system without authorization?",
+        "answer": "They may face imprisonment up to ten years and fine."
+      }
+    ],
+    "keywords": [
+      "protected system",
+      "critical infrastructure",
+      "national security",
+      "unauthorized access",
+      "critical information infrastructure"
+    ],
+    "correspondingSection": "Critical infrastructure protection provisions",
+    "relatedSections": [
+      "66F",
+      "70A",
+      "70B"
+    ]
+  },
+  {
+    "id": "ITA_071",
+    "sectionNumber": "71",
+    "title": "Penalty for Misrepresentation",
+    "chapter": "Chapter XI - Offences",
+    "category": "Fraud and Misrepresentation",
+    "officialText": "Whoever makes any misrepresentation or suppresses any material fact from the Controller or Certifying Authority for obtaining any license or Electronic Signature Certificate shall be punishable under this section.",
+    "simpleExplanation": "This section penalizes persons who obtain licenses or certificates through false information or concealment of important facts.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "Submitting forged documents to obtain a Digital Signature Certificate.",
+      "Concealing material information during a license application."
+    ],
+    "faqs": [
+      {
+        "question": "What is misrepresentation under this section?",
+        "answer": "Providing false information or suppressing important facts."
+      },
+      {
+        "question": "Who can be affected by such misrepresentation?",
+        "answer": "The Controller or a Certifying Authority."
+      }
+    ],
+    "keywords": [
+      "misrepresentation",
+      "false information",
+      "certificate",
+      "license",
+      "fraud"
+    ],
+    "correspondingSection": "BNS provisions relating to fraud",
+    "relatedSections": [
+      "72",
+      "73",
+      "74"
+    ]
+  },
+  {
+    "id": "ITA_072",
+    "sectionNumber": "72",
+    "title": "Penalty for Breach of Confidentiality and Privacy",
+    "chapter": "Chapter XI - Offences",
+    "category": "Privacy and Confidentiality",
+    "officialText": "Any person who, in pursuance of powers conferred under this Act, has secured access to any electronic record, book, register, correspondence, information, document, or other material and discloses such information without consent shall be punishable under this section.",
+    "simpleExplanation": "This section protects confidential information obtained through lawful authority from unauthorized disclosure.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "An official discloses confidential information obtained during an investigation.",
+      "A person with authorized access shares sensitive electronic records without permission."
+    ],
+    "faqs": [
+      {
+        "question": "Who can be punished under this section?",
+        "answer": "Persons who obtain information through powers granted under the Act and unlawfully disclose it."
+      },
+      {
+        "question": "Does consent matter?",
+        "answer": "Yes. Unauthorized disclosure without consent is punishable."
+      }
+    ],
+    "keywords": [
+      "confidentiality",
+      "privacy",
+      "unauthorized disclosure",
+      "electronic records",
+      "sensitive information"
+    ],
+    "correspondingSection": "BNS provisions relating to breach of confidentiality",
+    "relatedSections": [
+      "66E",
+      "71",
+      "72A"
+    ]
+  },
+  {
+    "id": "ITA_072A",
+    "sectionNumber": "72A",
+    "title": "Punishment for Disclosure of Information in Breach of Lawful Contract",
+    "chapter": "Chapter XI - Offences",
+    "category": "Privacy and Confidentiality",
+    "officialText": "Save as otherwise provided in this Act or any other law for the time being in force, any person, including an intermediary, who, while providing services under the terms of a lawful contract, has secured access to any material containing personal information about another person and, with intent to cause or knowing that he is likely to cause wrongful loss or wrongful gain, discloses such information without the consent of the person concerned or in breach of a lawful contract, shall be punishable.",
+    "simpleExplanation": "This section punishes unauthorized disclosure of personal information obtained under a lawful contract, such as by service providers, employers, or intermediaries.",
+    "punishment": "Imprisonment up to 3 years, or fine up to ₹5 lakh, or both.",
+    "examples": [
+      "A service provider sells customer personal data without consent.",
+      "An employee discloses confidential customer information to third parties."
+    ],
+    "faqs": [
+      {
+        "question": "Does this apply to companies handling customer data?",
+        "answer": "Yes. Unauthorized disclosure of personal information can attract liability."
+      },
+      {
+        "question": "Is consent important?",
+        "answer": "Yes. Disclosure without consent may constitute an offence."
+      }
+    ],
+    "keywords": [
+      "personal information",
+      "data disclosure",
+      "privacy",
+      "contract breach",
+      "confidentiality"
+    ],
+    "correspondingSection": "Data protection and privacy provisions",
+    "relatedSections": [
+      "43A",
+      "72",
+      "79"
+    ]
+  },
+  {
+    "id": "ITA_073",
+    "sectionNumber": "73",
+    "title": "Publishing Electronic Signature Certificate False in Certain Particulars",
+    "chapter": "Chapter XI - Offences",
+    "category": "Electronic Signature Offences",
+    "officialText": "No person shall publish an Electronic Signature Certificate or otherwise make it available to any other person knowing that the Certifying Authority listed in the certificate has not issued it, the subscriber has not accepted it, or the certificate has been revoked or suspended.",
+    "simpleExplanation": "This section prohibits publishing or using electronic signature certificates that are known to be invalid, unissued, revoked, or suspended.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "Using a revoked digital signature certificate in an online transaction.",
+      "Publishing a certificate falsely claiming it was issued by a Certifying Authority."
+    ],
+    "faqs": [
+      {
+        "question": "Can a revoked certificate be used?",
+        "answer": "No. Knowingly publishing or using a revoked certificate is punishable."
+      },
+      {
+        "question": "Does the person need knowledge of the defect?",
+        "answer": "Yes. Knowledge is an essential element of the offence."
+      }
+    ],
+    "keywords": [
+      "false certificate",
+      "digital signature",
+      "revoked certificate",
+      "electronic signature",
+      "certifying authority"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "74",
+      "35",
+      "36"
+    ]
+  },
+  {
+    "id": "ITA_074",
+    "sectionNumber": "74",
+    "title": "Publication for Fraudulent Purpose",
+    "chapter": "Chapter XI - Offences",
+    "category": "Fraud",
+    "officialText": "Whoever knowingly creates, publishes, or otherwise makes available an Electronic Signature Certificate for any fraudulent or unlawful purpose shall be punishable under this section.",
+    "simpleExplanation": "This section targets the fraudulent use of electronic signature certificates and related digital authentication mechanisms.",
+    "punishment": "Imprisonment up to 2 years, or fine up to ₹1 lakh, or both.",
+    "examples": [
+      "Creating a fake digital certificate to impersonate another person.",
+      "Using a certificate to facilitate online fraud."
+    ],
+    "faqs": [
+      {
+        "question": "What is a fraudulent purpose?",
+        "answer": "Any dishonest or unlawful objective involving misuse of electronic signature certificates."
+      },
+      {
+        "question": "Does this cover fake certificates?",
+        "answer": "Yes. Fraudulent creation or use of certificates is covered."
+      }
+    ],
+    "keywords": [
+      "fraudulent certificate",
+      "electronic signature",
+      "digital fraud",
+      "cyber crime",
+      "authentication"
+    ],
+    "correspondingSection": "BNS provisions relating to fraud and forgery",
+    "relatedSections": [
+      "71",
+      "73",
+      "66C"
+    ]
+  },
+  {
+    "id": "ITA_075",
+    "sectionNumber": "75",
+    "title": "Act to Apply for Offences or Contraventions Committed Outside India",
+    "chapter": "Chapter XII - Network Service Providers Not to Be Liable in Certain Cases",
+    "category": "Extraterritorial Application",
+    "officialText": "The provisions of this Act shall apply to any offence or contravention committed outside India by any person, irrespective of nationality, if the act involves a computer, computer system, computer network, or computer resource located in India.",
+    "simpleExplanation": "This section gives the IT Act extraterritorial reach, allowing action against cyber offences committed outside India if Indian computer resources are affected.",
+    "punishment": "Punishment depends on the specific offence committed.",
+    "examples": [
+      "A foreign hacker attacks a server located in India.",
+      "A cybercrime committed abroad affects an Indian banking system."
+    ],
+    "faqs": [
+      {
+        "question": "Can the IT Act apply to foreign nationals?",
+        "answer": "Yes, where Indian computer resources are involved."
+      },
+      {
+        "question": "Why is this provision important?",
+        "answer": "Cybercrimes often cross national boundaries."
+      }
+    ],
+    "keywords": [
+      "extraterritorial",
+      "international cybercrime",
+      "foreign offender",
+      "computer resource",
+      "jurisdiction"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "1",
+      "66",
+      "81"
+    ]
+  },
+  {
+    "id": "ITA_076",
+    "sectionNumber": "76",
+    "title": "Confiscation",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Enforcement",
+    "officialText": "Any computer, computer system, computer network, communication device, data, information, or other accessories involved in contravention of the provisions of this Act may be confiscated by order of the competent authority.",
+    "simpleExplanation": "This section allows authorities to seize computers, devices, and related equipment involved in cyber offences.",
+    "punishment": "Confiscation of equipment and related materials.",
+    "examples": [
+      "Computers used for hacking activities are confiscated.",
+      "Devices used in cyber fraud investigations are seized."
+    ],
+    "faqs": [
+      {
+        "question": "Can computers be seized under the IT Act?",
+        "answer": "Yes. Equipment involved in contraventions may be confiscated."
+      },
+      {
+        "question": "Who orders confiscation?",
+        "answer": "The competent authority under the Act."
+      }
+    ],
+    "keywords": [
+      "confiscation",
+      "seizure",
+      "computer system",
+      "cyber crime",
+      "enforcement"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "78",
+      "80",
+      "81"
+    ]
+  },
+  {
+    "id": "ITA_077",
+    "sectionNumber": "77",
+    "title": "Compensation, Penalties or Confiscation Not to Interfere with Other Punishment",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "General Provisions",
+    "officialText": "No compensation awarded, penalty imposed, or confiscation made under this Act shall prevent the imposition of any other punishment to which the person affected is liable under any other law for the time being in force.",
+    "simpleExplanation": "This section clarifies that penalties, compensation, or confiscation under the IT Act do not prevent additional criminal or civil action under other laws.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A hacker may be liable under both the IT Act and the Bharatiya Nyaya Sanhita.",
+      "Confiscation of equipment does not prevent criminal prosecution."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person be punished under another law as well?",
+        "answer": "Yes. Action under the IT Act does not prevent proceedings under other applicable laws."
+      }
+    ],
+    "keywords": [
+      "compensation",
+      "confiscation",
+      "additional punishment",
+      "other laws",
+      "cyber offences"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "43",
+      "66",
+      "76"
+    ]
+  },
+  {
+    "id": "ITA_077A",
+    "sectionNumber": "77A",
+    "title": "Compounding of Offences",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Criminal Procedure",
+    "officialText": "A court of competent jurisdiction may compound offences under this Act, other than offences punishable with imprisonment for a term exceeding three years or offences affecting the socio-economic conditions of the country or involving a child below the age of eighteen years.",
+    "simpleExplanation": "This section permits settlement of certain offences under the IT Act, subject to legal limitations.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A minor cyber offence may be settled through compounding.",
+      "Serious offences such as cyber terrorism cannot be compounded."
+    ],
+    "faqs": [
+      {
+        "question": "Can all IT Act offences be compounded?",
+        "answer": "No. Serious offences and offences involving children cannot be compounded."
+      },
+      {
+        "question": "Who can approve compounding?",
+        "answer": "A court of competent jurisdiction."
+      }
+    ],
+    "keywords": [
+      "compounding",
+      "settlement",
+      "court",
+      "offence",
+      "criminal procedure"
+    ],
+    "correspondingSection": "BNSS compounding provisions",
+    "relatedSections": [
+      "77B",
+      "66",
+      "67B"
+    ]
+  },
+  {
+    "id": "ITA_077B",
+    "sectionNumber": "77B",
+    "title": "Offences with Three Years Imprisonment to be Bailable",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Bail and Procedure",
+    "officialText": "Notwithstanding anything contained in the Code of Criminal Procedure, offences punishable with imprisonment of three years and above under this Act shall be cognizable and offences punishable with imprisonment of three years or less shall be bailable.",
+    "simpleExplanation": "This section determines whether certain offences under the IT Act are bailable or cognizable based on the prescribed punishment.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An offence punishable up to three years may generally be bailable.",
+      "A more serious offence may be treated as cognizable."
+    ],
+    "faqs": [
+      {
+        "question": "Are all IT Act offences bailable?",
+        "answer": "No. Classification depends on the punishment prescribed."
+      },
+      {
+        "question": "Why is this section important?",
+        "answer": "It determines arrest and bail procedures."
+      }
+    ],
+    "keywords": [
+      "bailable",
+      "cognizable",
+      "bail",
+      "criminal procedure",
+      "offence classification"
+    ],
+    "correspondingSection": "BNSS provisions relating to bail and cognizable offences",
+    "relatedSections": [
+      "77A",
+      "78",
+      "80"
+    ]
+  },
+  {
+    "id": "ITA_078",
+    "sectionNumber": "78",
+    "title": "Power to Investigate Offences",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Investigation",
+    "officialText": "Notwithstanding anything contained in the Code of Criminal Procedure, a police officer not below the rank of Inspector shall investigate any offence under this Act.",
+    "simpleExplanation": "This section specifies that investigations under the IT Act must be conducted by police officers of at least Inspector rank.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A cybercrime complaint is investigated by a Cyber Crime Inspector.",
+      "A Sub-Inspector cannot independently investigate an IT Act offence unless authorized by law."
+    ],
+    "faqs": [
+      {
+        "question": "Who can investigate IT Act offences?",
+        "answer": "A police officer not below the rank of Inspector."
+      },
+      {
+        "question": "Why is a minimum rank prescribed?",
+        "answer": "To ensure investigations are handled by sufficiently experienced officers."
+      }
+    ],
+    "keywords": [
+      "investigation",
+      "police inspector",
+      "cyber crime",
+      "law enforcement",
+      "criminal investigation"
+    ],
+    "correspondingSection": "BNSS investigation provisions",
+    "relatedSections": [
+      "77B",
+      "79",
+      "80"
+    ]
+  },
+  {
+    "id": "ITA_079",
+    "sectionNumber": "79",
+    "title": "Exemption from Liability of Intermediary in Certain Cases",
+    "chapter": "Chapter XII - Intermediaries",
+    "category": "Intermediary Liability",
+    "officialText": "An intermediary shall not be liable for any third-party information, data, or communication link made available or hosted by it, provided that the intermediary observes due diligence and complies with the requirements prescribed under this Act and related rules.",
+    "simpleExplanation": "This section provides 'safe harbor' protection to intermediaries such as social media platforms, hosting providers, and online services, provided they comply with legal requirements.",
+    "punishment": "Safe harbor protection may be lost if statutory obligations are not met.",
+    "examples": [
+      "A social media platform is generally not liable for user-generated content if it follows due diligence requirements.",
+      "An intermediary removes unlawful content after receiving lawful notice."
+    ],
+    "faqs": [
+      {
+        "question": "What is intermediary safe harbor?",
+        "answer": "Protection from liability for content posted by users, subject to compliance with legal obligations."
+      },
+      {
+        "question": "Can safe harbor protection be lost?",
+        "answer": "Yes. Failure to comply with due diligence requirements may remove the protection."
+      }
+    ],
+    "keywords": [
+      "intermediary",
+      "safe harbor",
+      "social media",
+      "hosting provider",
+      "due diligence"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "67C",
+      "69A",
+      "81"
+    ]
+  },
+  {
+    "id": "ITA_080",
+    "sectionNumber": "80",
+    "title": "Power of Police Officer and Other Officers to Enter, Search, etc.",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Search and Seizure",
+    "officialText": "Any police officer not below the rank of Inspector or any other officer authorized by the Central Government or State Government may enter any public place and search and arrest without warrant any person reasonably suspected of having committed or being about to commit an offence under this Act.",
+    "simpleExplanation": "This section grants search, seizure, and arrest powers in relation to offences under the IT Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A cybercrime suspect is arrested during a lawful search operation.",
+      "Investigators seize devices suspected to be involved in cyber offences."
+    ],
+    "faqs": [
+      {
+        "question": "Can arrest be made without a warrant?",
+        "answer": "Yes, where the requirements of this section are satisfied."
+      },
+      {
+        "question": "What places can be searched?",
+        "answer": "Public places and locations as permitted under the law."
+      }
+    ],
+    "keywords": [
+      "search",
+      "seizure",
+      "arrest",
+      "police powers",
+      "cyber crime"
+    ],
+    "correspondingSection": "BNSS search and seizure provisions",
+    "relatedSections": [
+      "76",
+      "78",
+      "81"
+    ]
+  },
+  {
+    "id": "ITA_081",
+    "sectionNumber": "81",
+    "title": "Act to Have Overriding Effect",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Overriding Effect",
+    "officialText": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force. Provided that nothing contained in this Act shall restrict any person from exercising rights conferred under the Copyright Act, 1957 or the Patents Act, 1970.",
+    "simpleExplanation": "This section gives the IT Act overriding effect over inconsistent laws while preserving rights available under intellectual property laws.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "Where another law conflicts with the IT Act regarding electronic records, the IT Act may prevail.",
+      "Copyright and patent rights remain protected despite the overriding clause."
+    ],
+    "faqs": [
+      {
+        "question": "What does overriding effect mean?",
+        "answer": "The IT Act prevails over conflicting provisions in other laws."
+      },
+      {
+        "question": "Are intellectual property rights affected?",
+        "answer": "No. Rights under the Copyright Act and Patents Act remain protected."
+      }
+    ],
+    "keywords": [
+      "overriding effect",
+      "legal conflict",
+      "electronic records",
+      "copyright",
+      "patents"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "1",
+      "75",
+      "79"
+    ]
+  },
+  {
+    "id": "ITA_082",
+    "sectionNumber": "82",
+    "title": "Chairperson, Members, Officers and Employees to be Public Servants",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Public Servants",
+    "officialText": "The Chairperson, Members, officers and employees of the Appellate Tribunal, the Controller, Deputy Controllers, Assistant Controllers and other officers and employees appointed under this Act shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code.",
+    "simpleExplanation": "This section treats officials working under the Information Technology Act as public servants, making them subject to legal duties and protections applicable to public officials.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A Controller of Certifying Authorities is treated as a public servant while performing official duties.",
+      "Tribunal members are subject to laws applicable to public servants."
+    ],
+    "faqs": [
+      {
+        "question": "Why are these officials considered public servants?",
+        "answer": "To ensure accountability and provide legal protection while performing official duties."
+      },
+      {
+        "question": "Does this status impose responsibilities?",
+        "answer": "Yes. Public servants are subject to legal obligations and anti-corruption laws."
+      }
+    ],
+    "keywords": [
+      "public servant",
+      "controller",
+      "tribunal",
+      "government officer",
+      "official duties"
+    ],
+    "correspondingSection": "BNS provisions relating to public servants",
+    "relatedSections": [
+      "17",
+      "46",
+      "83"
+    ]
+  },
+  {
+    "id": "ITA_083",
+    "sectionNumber": "83",
+    "title": "Power to Give Directions",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Government Powers",
+    "officialText": "The Central Government may give directions to any State Government regarding the carrying into execution of the provisions of this Act, and the State Government shall comply with such directions.",
+    "simpleExplanation": "This section allows the Central Government to issue directions to State Governments to ensure effective implementation of the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Central Government issues directions regarding cybersecurity enforcement.",
+      "States are instructed to implement specific compliance measures under the Act."
+    ],
+    "faqs": [
+      {
+        "question": "Who can issue directions under this section?",
+        "answer": "The Central Government."
+      },
+      {
+        "question": "Must State Governments comply?",
+        "answer": "Yes. State Governments are required to carry out such directions."
+      }
+    ],
+    "keywords": [
+      "central government",
+      "directions",
+      "state government",
+      "implementation",
+      "administration"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "68",
+      "84",
+      "87"
+    ]
+  },
+  {
+    "id": "ITA_084",
+    "sectionNumber": "84",
+    "title": "Protection of Action Taken in Good Faith",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Legal Protection",
+    "officialText": "No suit, prosecution or other legal proceeding shall lie against the Central Government, State Government, Controller, Certifying Authority, or any officer for anything done or intended to be done in good faith under this Act or any rules, regulations or orders made thereunder.",
+    "simpleExplanation": "This section protects officials and authorities from legal action when they act honestly and in good faith while carrying out their duties under the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "An official carrying out lawful duties under the Act is protected if acting in good faith.",
+      "A Certifying Authority is protected for bona fide actions taken in compliance with the law."
+    ],
+    "faqs": [
+      {
+        "question": "What does good faith mean?",
+        "answer": "Acting honestly and without malicious intent while exercising legal authority."
+      },
+      {
+        "question": "Does this protect unlawful actions?",
+        "answer": "No. The protection applies only to actions taken in good faith."
+      }
+    ],
+    "keywords": [
+      "good faith",
+      "legal protection",
+      "government",
+      "controller",
+      "certifying authority"
+    ],
+    "correspondingSection": "BNSS provisions relating to acts done in good faith",
+    "relatedSections": [
+      "82",
+      "85",
+      "87"
+    ]
+  },
+  {
+    "id": "ITA_085",
+    "sectionNumber": "85",
+    "title": "Offences by Companies",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Corporate Liability",
+    "officialText": "Where a company commits an offence under this Act, every person who, at the time the offence was committed, was in charge of and responsible for the conduct of the business of the company shall be deemed guilty and liable to be proceeded against and punished accordingly. However, such person shall not be liable if he proves that the offence was committed without his knowledge or that he exercised due diligence to prevent it.",
+    "simpleExplanation": "This section makes company officers responsible for offences committed by the company unless they can show lack of knowledge or that they took reasonable steps to prevent the offence.",
+    "punishment": "Punishment depends on the underlying offence committed by the company.",
+    "examples": [
+      "A company illegally discloses personal data and responsible executives may face liability.",
+      "Directors may be prosecuted if a cybercrime is committed through company operations."
+    ],
+    "faqs": [
+      {
+        "question": "Can company directors be held liable?",
+        "answer": "Yes, if they were responsible for the conduct of the company's business."
+      },
+      {
+        "question": "Is there any defense available?",
+        "answer": "Yes. A person may avoid liability by proving lack of knowledge or due diligence."
+      }
+    ],
+    "keywords": [
+      "company liability",
+      "director liability",
+      "corporate offence",
+      "due diligence",
+      "compliance"
+    ],
+    "correspondingSection": "BNS provisions relating to corporate liability",
+    "relatedSections": [
+      "43A",
+      "72A",
+      "86"
+    ]
+  },
+  {
+    "id": "ITA_086",
+    "sectionNumber": "86",
+    "title": "Removal of Difficulties",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Administrative Powers",
+    "officialText": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make provisions not inconsistent with this Act for removing the difficulty, provided such power is exercised within the prescribed period.",
+    "simpleExplanation": "This section allows the Central Government to issue orders to address implementation difficulties that may arise under the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Government issues a clarification to resolve implementation issues after amendments.",
+      "Administrative gaps are addressed through official orders."
+    ],
+    "faqs": [
+      {
+        "question": "Why is a removal of difficulties clause included?",
+        "answer": "To help resolve unforeseen implementation issues without requiring immediate legislative amendments."
+      },
+      {
+        "question": "Can the Government override the Act using this power?",
+        "answer": "No. Any order must be consistent with the provisions of the Act."
+      }
+    ],
+    "keywords": [
+      "removal of difficulties",
+      "official gazette",
+      "government order",
+      "implementation",
+      "administration"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "83",
+      "84",
+      "87"
+    ]
+  },
+  {
+    "id": "ITA_087",
+    "sectionNumber": "87",
+    "title": "Power of Central Government to Make Rules",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Rule Making Powers",
+    "officialText": "The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act. Such rules may provide for matters required to be prescribed under various provisions of the Act.",
+    "simpleExplanation": "This section empowers the Central Government to frame detailed rules necessary for implementing the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Government issues rules governing electronic signatures.",
+      "Cybersecurity compliance requirements are prescribed through rules."
+    ],
+    "faqs": [
+      {
+        "question": "Who can make rules under the IT Act?",
+        "answer": "The Central Government."
+      },
+      {
+        "question": "Why are rules needed?",
+        "answer": "Rules provide detailed procedures for implementing the Act."
+      }
+    ],
+    "keywords": [
+      "rule making",
+      "central government",
+      "official gazette",
+      "implementation",
+      "regulations"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "88",
+      "89",
+      "94"
+    ]
+  },
+  {
+    "id": "ITA_088",
+    "sectionNumber": "88",
+    "title": "Power of Controller to Make Regulations",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Regulatory Powers",
+    "officialText": "The Controller may, with the previous approval of the Central Government and by notification in the Official Gazette, make regulations consistent with this Act and the rules made thereunder to carry out the purposes of the Act.",
+    "simpleExplanation": "This section authorizes the Controller of Certifying Authorities to make regulations for matters within his jurisdiction.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The Controller issues regulations regarding digital certificate management.",
+      "Technical standards are prescribed for Certifying Authorities."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Controller make regulations independently?",
+        "answer": "No. Prior approval of the Central Government is required."
+      },
+      {
+        "question": "What is the purpose of these regulations?",
+        "answer": "To facilitate effective implementation of the Act."
+      }
+    ],
+    "keywords": [
+      "controller",
+      "regulations",
+      "certifying authority",
+      "digital signatures",
+      "governance"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "17",
+      "18",
+      "87"
+    ]
+  },
+  {
+    "id": "ITA_089",
+    "sectionNumber": "89",
+    "title": "Laying of Rules and Regulations Before Parliament",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Parliamentary Oversight",
+    "officialText": "Every rule and regulation made under this Act shall be laid before each House of Parliament while it is in session for a total period of thirty days. Parliament may modify or annul such rule or regulation.",
+    "simpleExplanation": "This section ensures parliamentary oversight of rules and regulations made under the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "New IT Rules are presented before Parliament after publication.",
+      "Parliament reviews regulations framed under the Act."
+    ],
+    "faqs": [
+      {
+        "question": "Can Parliament modify rules made under the Act?",
+        "answer": "Yes. Parliament may modify or annul such rules or regulations."
+      },
+      {
+        "question": "Why is this requirement included?",
+        "answer": "To ensure democratic oversight of delegated legislation."
+      }
+    ],
+    "keywords": [
+      "parliament",
+      "rules",
+      "regulations",
+      "oversight",
+      "delegated legislation"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "87",
+      "88",
+      "90"
+    ]
+  },
+  {
+    "id": "ITA_090",
+    "sectionNumber": "90",
+    "title": "Power of State Government to Make Rules",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Rule Making Powers",
+    "officialText": "The State Government may, by notification in the Official Gazette, make rules to carry out provisions of this Act in respect of matters within its jurisdiction, subject to the provisions of the Act and rules made by the Central Government.",
+    "simpleExplanation": "This section allows State Governments to make rules for matters assigned to them under the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A State Government issues procedural rules for implementation within the state.",
+      "State authorities prescribe local compliance mechanisms."
+    ],
+    "faqs": [
+      {
+        "question": "Can State Governments make rules under the IT Act?",
+        "answer": "Yes, for matters within their jurisdiction."
+      },
+      {
+        "question": "Must state rules comply with central rules?",
+        "answer": "Yes. State rules cannot conflict with the Act or central rules."
+      }
+    ],
+    "keywords": [
+      "state government",
+      "rules",
+      "implementation",
+      "official gazette",
+      "administration"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "83",
+      "87",
+      "89"
+    ]
+  },
+  {
+    "id": "ITA_091",
+    "sectionNumber": "91",
+    "title": "Repeal and Savings",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Repeal and Savings",
+    "officialText": "Certain provisions previously governing electronic records and related matters stand repealed, but actions, rights, obligations, liabilities, proceedings, and legal effects accrued under those provisions are preserved.",
+    "simpleExplanation": "This section ensures that repeal of earlier provisions does not invalidate actions already taken under them.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A certificate issued before a legislative change remains valid.",
+      "Pending proceedings continue despite repeal of earlier provisions."
+    ],
+    "faqs": [
+      {
+        "question": "What is a savings clause?",
+        "answer": "It preserves legal rights and actions despite repeal of earlier provisions."
+      },
+      {
+        "question": "Do pending proceedings continue?",
+        "answer": "Yes. Existing rights and proceedings are generally preserved."
+      }
+    ],
+    "keywords": [
+      "repeal",
+      "savings",
+      "legal continuity",
+      "existing rights",
+      "proceedings"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "92",
+      "93",
+      "94"
+    ]
+  },
+  {
+    "id": "ITA_092",
+    "sectionNumber": "92",
+    "title": "Amendment of Certain Enactments",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Consequential Amendments",
+    "officialText": "The enactments specified in the Schedules to this Act shall stand amended in the manner provided therein to recognize electronic records, electronic signatures, and electronic commerce.",
+    "simpleExplanation": "This section facilitates amendments to other laws so that electronic records and digital transactions receive legal recognition.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "Evidence laws are amended to recognize electronic records.",
+      "Commercial laws are updated to accommodate electronic transactions."
+    ],
+    "faqs": [
+      {
+        "question": "Why are other laws amended?",
+        "answer": "To ensure consistency with electronic governance and digital transactions."
+      },
+      {
+        "question": "Which laws are affected?",
+        "answer": "Various laws specified in the Schedules to the Act."
+      }
+    ],
+    "keywords": [
+      "amendments",
+      "electronic records",
+      "digital transactions",
+      "legal recognition",
+      "schedules"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "93",
+      "94"
+    ]
+  },
+  {
+    "id": "ITA_093",
+    "sectionNumber": "93",
+    "title": "Schedules to the Act",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "Schedules",
+    "officialText": "The First Schedule, Second Schedule, and other Schedules appended to this Act form an integral part of the Act and specify matters such as excluded documents, approved electronic signature techniques, and consequential amendments.",
+    "simpleExplanation": "This section recognizes the legal importance of the Schedules attached to the Information Technology Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "The First Schedule lists documents excluded from electronic recognition.",
+      "The Second Schedule specifies approved electronic signature methods."
+    ],
+    "faqs": [
+      {
+        "question": "Are the Schedules legally binding?",
+        "answer": "Yes. They form part of the Act."
+      },
+      {
+        "question": "What information is contained in the Schedules?",
+        "answer": "Technical specifications, exclusions, and consequential amendments."
+      }
+    ],
+    "keywords": [
+      "schedules",
+      "electronic signatures",
+      "excluded documents",
+      "technical standards",
+      "legal annexures"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "92",
+      "94"
+    ]
+  },
+  {
+    "id": "ITA_094",
+    "sectionNumber": "94",
+    "title": "Continuation of Legal Effect of Electronic Transactions",
+    "chapter": "Chapter XIII - Miscellaneous",
+    "category": "General Provisions",
+    "officialText": "Electronic records, electronic signatures, digital certificates, and actions lawfully performed under the provisions of this Act shall continue to enjoy legal recognition and validity in accordance with applicable law.",
+    "simpleExplanation": "This section reinforces the continuing legal validity of electronic records, signatures, and transactions recognized under the Act.",
+    "punishment": "Not applicable.",
+    "examples": [
+      "A valid electronically signed contract remains enforceable.",
+      "Digital certificates issued under the Act continue to have legal effect."
+    ],
+    "faqs": [
+      {
+        "question": "Do electronic transactions remain legally valid?",
+        "answer": "Yes. Transactions recognized under the Act continue to enjoy legal validity."
+      },
+      {
+        "question": "Why is this provision important?",
+        "answer": "It supports confidence in electronic commerce and governance."
+      }
+    ],
+    "keywords": [
+      "electronic transactions",
+      "legal validity",
+      "electronic records",
+      "digital signatures",
+      "e-commerce"
+    ],
+    "correspondingSection": "Not applicable",
+    "relatedSections": [
+      "4",
+      "5",
+      "91"
+    ]
+  }
+]
