@@ -1,0 +1,4315 @@
+[
+  {
+    "id": "BSA_1",
+    "sectionNumber": "1",
+    "title": "Short Title, Application and Commencement",
+    "chapter": "Chapter I - Preliminary",
+    "category": "Preliminary",
+    "officialText": "This Act may be called the Bharatiya Sakshya Adhiniyam, 2023. It applies to all judicial proceedings in or before any Court, including Courts-martial, but not to affidavits or proceedings before an arbitrator. It shall come into force on a date notified by the Central Government.",
+    "simpleExplanation": "This section gives the name of the law, explains where it applies, and states that the Government decides the date on which it becomes effective.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Rules of evidence in a criminal trial are governed by this Act.",
+      "The Act does not apply to arbitration proceedings."
+    ],
+    "faqs": [
+      {
+        "question": "Does BSA apply to all courts?",
+        "answer": "Yes, it applies to all judicial proceedings before Courts, including Courts-martial."
+      },
+      {
+        "question": "Does BSA apply to arbitration?",
+        "answer": "No, arbitration proceedings are specifically excluded."
+      }
+    ],
+    "keywords": [
+      "BSA",
+      "application",
+      "commencement",
+      "court",
+      "judicial proceedings"
+    ],
+    "oldEvidenceActSection": "1",
+    "relatedSections": [
+      "2"
+    ]
+  },
+  {
+    "id": "BSA_2",
+    "sectionNumber": "2",
+    "title": "Definitions",
+    "chapter": "Chapter I - Preliminary",
+    "category": "Definitions",
+    "officialText": "Defines important terms including Court, conclusive proof, disproved, document, evidence, fact, facts in issue, may presume, not proved, proved, relevant and shall presume.",
+    "simpleExplanation": "This section provides the meanings of key legal terms used throughout the Act.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Emails and digital records are considered documents.",
+      "Witness testimony is oral evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronic records considered documents?",
+        "answer": "Yes, electronic and digital records are included within the definition of documents."
+      },
+      {
+        "question": "What is a fact in issue?",
+        "answer": "A fact that directly determines the existence or non-existence of a legal right, liability or claim."
+      }
+    ],
+    "keywords": [
+      "definitions",
+      "evidence",
+      "document",
+      "fact",
+      "court"
+    ],
+    "oldEvidenceActSection": "3",
+    "relatedSections": [
+      "3"
+    ]
+  },
+  {
+    "id": "BSA_3",
+    "sectionNumber": "3",
+    "title": "Evidence May Be Given of Facts in Issue and Relevant Facts",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Relevant Facts",
+    "officialText": "Evidence may be given of every fact in issue and of such other facts as are declared relevant under this Adhiniyam and of no others.",
+    "simpleExplanation": "Only facts directly connected to the case or declared relevant by law can be proved in court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "In a murder case, evidence relating to the death and accused's actions is admissible.",
+      "Irrelevant personal matters cannot generally be introduced as evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Can any fact be introduced as evidence?",
+        "answer": "No. Only facts in issue and legally relevant facts may be proved."
+      },
+      {
+        "question": "Why is relevance important?",
+        "answer": "It prevents courts from being distracted by unrelated matters."
+      }
+    ],
+    "keywords": [
+      "facts in issue",
+      "relevant facts",
+      "evidence",
+      "admissibility"
+    ],
+    "oldEvidenceActSection": "5",
+    "relatedSections": [
+      "4",
+      "5"
+    ]
+  },
+  {
+    "id": "BSA_4",
+    "sectionNumber": "4",
+    "title": "Relevancy of Facts Forming Part of Same Transaction",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Res Gestae",
+    "officialText": "Facts connected with a fact in issue or relevant fact so as to form part of the same transaction are relevant whether they occurred at the same time and place or at different times and places.",
+    "simpleExplanation": "Events that are part of the same incident or transaction can be considered together as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Statements made during a fight leading to murder may be relevant.",
+      "Events immediately before or after a crime may be admissible."
+    ],
+    "faqs": [
+      {
+        "question": "What is the doctrine of Res Gestae?",
+        "answer": "It allows facts forming part of the same transaction to be treated as relevant evidence."
+      },
+      {
+        "question": "Must all events occur at the same place?",
+        "answer": "No. Connected events may occur at different times and places."
+      }
+    ],
+    "keywords": [
+      "same transaction",
+      "res gestae",
+      "relevancy"
+    ],
+    "oldEvidenceActSection": "6",
+    "relatedSections": [
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": "BSA_5",
+    "sectionNumber": "5",
+    "title": "Facts Which Are Occasion, Cause or Effect",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Cause and Effect",
+    "officialText": "Facts that are the occasion, cause, effect, state of things, or opportunity connected with relevant facts or facts in issue are relevant.",
+    "simpleExplanation": "Facts showing how or why an event happened may be admitted as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A victim carrying money before a robbery may be relevant.",
+      "Marks of struggle near a murder scene may be relevant."
+    ],
+    "faqs": [
+      {
+        "question": "Can surrounding circumstances be proved?",
+        "answer": "Yes, if they explain the occurrence or opportunity for the event."
+      },
+      {
+        "question": "Why are causes and effects relevant?",
+        "answer": "They help establish the sequence of events."
+      }
+    ],
+    "keywords": [
+      "cause",
+      "effect",
+      "occasion",
+      "circumstances"
+    ],
+    "oldEvidenceActSection": "7",
+    "relatedSections": [
+      "4",
+      "6"
+    ]
+  },
+  {
+    "id": "BSA_6",
+    "sectionNumber": "6",
+    "title": "Motive, Preparation and Previous or Subsequent Conduct",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Motive and Conduct",
+    "officialText": "Facts showing motive, preparation, and conduct before or after an event are relevant when connected with a fact in issue or relevant fact.",
+    "simpleExplanation": "The court may consider a person's motive, planning, and behavior before or after an event.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Buying poison before a poisoning incident.",
+      "Destroying evidence after a crime."
+    ],
+    "faqs": [
+      {
+        "question": "Why is motive important?",
+        "answer": "Motive may explain why a person committed an act."
+      },
+      {
+        "question": "Can conduct after a crime be relevant?",
+        "answer": "Yes. Absconding or concealing evidence may be relevant."
+      }
+    ],
+    "keywords": [
+      "motive",
+      "preparation",
+      "conduct",
+      "evidence"
+    ],
+    "oldEvidenceActSection": "8",
+    "relatedSections": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": "BSA_7",
+    "sectionNumber": "7",
+    "title": "Facts Necessary to Explain or Introduce Relevant Facts",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Explanatory Facts",
+    "officialText": "Facts necessary to explain, introduce, support or rebut a fact in issue or relevant fact, or to establish identity, time, place or relationship are relevant.",
+    "simpleExplanation": "Supporting facts that help understand the main facts of the case may be admitted.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Identifying where an incident took place.",
+      "Showing the relationship between parties."
+    ],
+    "faqs": [
+      {
+        "question": "Can background information be relevant?",
+        "answer": "Yes, if it helps explain facts in issue."
+      },
+      {
+        "question": "Can identity-related facts be proved?",
+        "answer": "Yes, identity is specifically covered."
+      }
+    ],
+    "keywords": [
+      "identity",
+      "time",
+      "place",
+      "relationship",
+      "explanation"
+    ],
+    "oldEvidenceActSection": "9",
+    "relatedSections": [
+      "6",
+      "8"
+    ]
+  },
+  {
+    "id": "BSA_8",
+    "sectionNumber": "8",
+    "title": "Things Said or Done by Conspirator in Reference to Common Design",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Conspiracy",
+    "officialText": "Where there is reasonable ground to believe that persons have conspired together, anything said, done or written by any conspirator in reference to the common intention is relevant against all conspirators.",
+    "simpleExplanation": "Actions and statements of one conspirator may be used against other conspirators.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Messages exchanged between conspirators.",
+      "Funds collected to further a conspiracy."
+    ],
+    "faqs": [
+      {
+        "question": "Can one conspirator's actions affect others?",
+        "answer": "Yes, if they relate to the common conspiracy."
+      },
+      {
+        "question": "What must be shown first?",
+        "answer": "There must be reasonable grounds to believe a conspiracy exists."
+      }
+    ],
+    "keywords": [
+      "conspiracy",
+      "common design",
+      "co-conspirator"
+    ],
+    "oldEvidenceActSection": "10",
+    "relatedSections": [
+      "9"
+    ]
+  },
+  {
+    "id": "BSA_9",
+    "sectionNumber": "9",
+    "title": "When Facts Not Otherwise Relevant Become Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Probability and Inconsistency",
+    "officialText": "Facts not otherwise relevant become relevant if they are inconsistent with a fact in issue or make the existence or non-existence of a fact highly probable or improbable.",
+    "simpleExplanation": "Even normally irrelevant facts can become relevant if they strongly support or contradict a disputed fact.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Proof that the accused was in another city during the crime.",
+      "Evidence eliminating other suspects."
+    ],
+    "faqs": [
+      {
+        "question": "What is an alibi?",
+        "answer": "An alibi is evidence showing the accused was elsewhere, making commission of the offence improbable."
+      },
+      {
+        "question": "Can indirect facts become relevant?",
+        "answer": "Yes, if they affect probability regarding facts in issue."
+      }
+    ],
+    "keywords": [
+      "alibi",
+      "probability",
+      "inconsistency",
+      "relevance"
+    ],
+    "oldEvidenceActSection": "11",
+    "relatedSections": [
+      "10"
+    ]
+  },
+  {
+    "id": "BSA_10",
+    "sectionNumber": "10",
+    "title": "Facts Tending to Enable Court to Determine Amount of Damages",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Damages",
+    "officialText": "In suits where damages are claimed, any fact which helps the Court determine the amount of damages to be awarded is relevant.",
+    "simpleExplanation": "Evidence affecting the amount of compensation can be considered by the Court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Medical expenses in an injury claim.",
+      "Loss of income due to wrongful conduct."
+    ],
+    "faqs": [
+      {
+        "question": "What are damages?",
+        "answer": "Damages are monetary compensation awarded for loss or injury."
+      },
+      {
+        "question": "Can financial loss be proved?",
+        "answer": "Yes, facts helping calculate compensation are relevant."
+      }
+    ],
+    "keywords": [
+      "damages",
+      "compensation",
+      "civil suit"
+    ],
+    "oldEvidenceActSection": "12",
+    "relatedSections": [
+      "11"
+    ]
+  },
+
+  {
+    "id": "BSA_11",
+    "sectionNumber": "11",
+    "title": "Facts Relevant When Right or Custom Is in Question",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Rights and Customs",
+    "officialText": "Where the question is as to the existence of any right or custom, transactions by which the right or custom was created, claimed, modified, recognized, asserted, denied or exercised are relevant.",
+    "simpleExplanation": "When a court is deciding whether a right or custom exists, past acts showing recognition or exercise of that right can be used as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Evidence showing villagers have used a pathway for decades.",
+      "Documents recognizing a customary right to use water from a pond."
+    ],
+    "faqs": [
+      {
+        "question": "Can old records prove a customary right?",
+        "answer": "Yes. Historical records and transactions showing the exercise of the right are relevant."
+      },
+      {
+        "question": "Why are customs important in evidence law?",
+        "answer": "Customs may create legal rights and obligations that courts must recognize."
+      }
+    ],
+    "keywords": ["custom", "right", "tradition", "usage"],
+    "oldEvidenceActSection": "13",
+    "relatedSections": ["12", "14"]
+  },
+  {
+    "id": "BSA_12",
+    "sectionNumber": "12",
+    "title": "Facts Showing Existence of State of Mind or Body",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Mental and Physical Condition",
+    "officialText": "Facts showing the existence of any state of mind such as intention, knowledge, good faith, negligence, rashness, ill-will or goodwill, or the existence of any state of body or bodily feeling, are relevant when such state is in issue.",
+    "simpleExplanation": "Evidence can be used to prove a person's intention, knowledge, negligence, health, or physical condition when relevant to a case.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Threatening messages showing intention to harm.",
+      "Medical records proving physical condition."
+    ],
+    "faqs": [
+      {
+        "question": "Can intention be proved through surrounding facts?",
+        "answer": "Yes. Conduct and circumstances may show a person's intention."
+      },
+      {
+        "question": "Can medical records be relevant evidence?",
+        "answer": "Yes. They may prove a person's physical condition."
+      }
+    ],
+    "keywords": ["intention", "knowledge", "negligence", "health"],
+    "oldEvidenceActSection": "14",
+    "relatedSections": ["13", "15"]
+  },
+  {
+    "id": "BSA_13",
+    "sectionNumber": "13",
+    "title": "Facts Bearing on Question Whether Act Was Accidental or Intentional",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Accident and Intention",
+    "officialText": "When there is a question whether an act was accidental or intentional, the existence of similar occurrences may be relevant to determine the nature of the act.",
+    "simpleExplanation": "Past similar incidents may help determine whether an act happened by accident or on purpose.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Repeated insurance claims for suspicious fires.",
+      "Multiple similar acts showing a deliberate pattern."
+    ],
+    "faqs": [
+      {
+        "question": "Can previous similar incidents be considered?",
+        "answer": "Yes. They may help establish intention or accident."
+      },
+      {
+        "question": "Why are patterns of behavior relevant?",
+        "answer": "They help determine whether conduct was deliberate or accidental."
+      }
+    ],
+    "keywords": ["accident", "intention", "pattern", "similar occurrence"],
+    "oldEvidenceActSection": "15",
+    "relatedSections": ["12", "14"]
+  },
+  {
+    "id": "BSA_14",
+    "sectionNumber": "14",
+    "title": "Existence of Course of Business When Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Course of Business",
+    "officialText": "Evidence showing the ordinary course of business, trade, professional practice or official conduct is relevant when it helps determine a fact in issue.",
+    "simpleExplanation": "Courts may consider how things are normally done in business or official practice when deciding a case.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Bank records showing normal transaction procedures.",
+      "Official records showing standard administrative practices."
+    ],
+    "faqs": [
+      {
+        "question": "Why is the ordinary course of business relevant?",
+        "answer": "It helps determine whether an event likely occurred in the normal manner."
+      },
+      {
+        "question": "Can business records support a claim?",
+        "answer": "Yes. Regular business practices may be relevant evidence."
+      }
+    ],
+    "keywords": ["business practice", "trade", "official conduct"],
+    "oldEvidenceActSection": "16",
+    "relatedSections": ["15", "17"]
+  },
+  {
+    "id": "BSA_15",
+    "sectionNumber": "15",
+    "title": "Admissions",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Statements suggesting an inference as to any fact in issue or relevant fact, made by persons specified under this Adhiniyam, are admissions and may be relevant.",
+    "simpleExplanation": "A person's own statements can sometimes be used as evidence against them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A party admits owing money in a dispute.",
+      "An accused admits being present at a location."
+    ],
+    "faqs": [
+      {
+        "question": "What is an admission?",
+        "answer": "A statement that suggests a fact relevant to the case."
+      },
+      {
+        "question": "Can admissions be used as evidence?",
+        "answer": "Yes. Admissions are generally relevant evidence."
+      }
+    ],
+    "keywords": ["admission", "statement", "evidence"],
+    "oldEvidenceActSection": "17",
+    "relatedSections": ["16", "17", "18"]
+  },
+  {
+    "id": "BSA_16",
+    "sectionNumber": "16",
+    "title": "Admissions by Party to Proceeding or His Agent",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Admissions made by a party to a proceeding, or by an authorized agent, are relevant against that party subject to the provisions of this Adhiniyam.",
+    "simpleExplanation": "Statements made by a person or their authorized representative can be used against them in court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A company's manager admits liability on behalf of the company.",
+      "An authorized agent acknowledges a debt."
+    ],
+    "faqs": [
+      {
+        "question": "Can an agent's statement bind the principal?",
+        "answer": "Yes, if the agent is authorized to act on behalf of the principal."
+      },
+      {
+        "question": "Are all statements by agents admissible?",
+        "answer": "Only those made within the scope of their authority."
+      }
+    ],
+    "keywords": ["agent", "party", "admission", "authority"],
+    "oldEvidenceActSection": "18",
+    "relatedSections": ["15", "17"]
+  },
+  {
+    "id": "BSA_17",
+    "sectionNumber": "17",
+    "title": "Admissions by Persons Whose Position Must Be Proved",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Statements made by persons whose position or liability must be proved against a party are relevant admissions in specified circumstances.",
+    "simpleExplanation": "Statements by persons connected to a dispute may be admissible when their role or liability is relevant.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A predecessor in title acknowledges a property right.",
+      "A partner admits a business liability."
+    ],
+    "faqs": [
+      {
+        "question": "Why are statements by related persons relevant?",
+        "answer": "Because their legal position may directly affect the dispute."
+      },
+      {
+        "question": "Can such statements affect another party's case?",
+        "answer": "Yes, where the law recognizes their connection."
+      }
+    ],
+    "keywords": ["admission", "liability", "position", "relationship"],
+    "oldEvidenceActSection": "19",
+    "relatedSections": ["16", "18"]
+  },
+  {
+    "id": "BSA_18",
+    "sectionNumber": "18",
+    "title": "Admissions by Persons Expressly Referred to by Party",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Statements made by persons expressly referred to by a party for information concerning a matter in dispute are relevant admissions.",
+    "simpleExplanation": "If a person refers another person as a source of information, statements from that source may become relevant.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A buyer refers a surveyor for information about land boundaries.",
+      "A party relies on an expert's statement regarding ownership."
+    ],
+    "faqs": [
+      {
+        "question": "Can a referred expert's statement become evidence?",
+        "answer": "Yes, if the party specifically referred to that person for information."
+      },
+      {
+        "question": "Why does the law recognize such statements?",
+        "answer": "Because the party accepted that person as a source of information."
+      }
+    ],
+    "keywords": ["admission", "reference", "information source"],
+    "oldEvidenceActSection": "20",
+    "relatedSections": ["17", "19"]
+  },
+  {
+    "id": "BSA_19",
+    "sectionNumber": "19",
+    "title": "Proof of Admissions Against Persons Making Them",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Admissions are relevant and may be proved against the person who makes them or against their representatives in interest, subject to exceptions provided by law.",
+    "simpleExplanation": "A person's admission can generally be used as evidence against that person.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A written acknowledgment of debt is used against the debtor.",
+      "An admission made by a property owner is used in a title dispute."
+    ],
+    "faqs": [
+      {
+        "question": "Can an admission be used against the maker?",
+        "answer": "Yes. Admissions are generally admissible against the person who made them."
+      },
+      {
+        "question": "Can admissions affect legal successors?",
+        "answer": "Yes, in certain circumstances involving representatives in interest."
+      }
+    ],
+    "keywords": ["proof", "admission", "evidence"],
+    "oldEvidenceActSection": "21",
+    "relatedSections": ["20"]
+  },
+  {
+    "id": "BSA_20",
+    "sectionNumber": "20",
+    "title": "When Oral Admissions as to Contents of Documents Are Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Oral admissions regarding the contents of documents are generally not relevant unless the document itself cannot be produced or falls within recognized exceptions.",
+    "simpleExplanation": "Courts usually require the document itself rather than someone's oral description of it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness cannot normally prove a contract merely by describing its contents.",
+      "Oral evidence may be allowed where the original document is lost."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person orally describe a document instead of producing it?",
+        "answer": "Generally no. The document itself should be produced whenever possible."
+      },
+      {
+        "question": "Are there exceptions?",
+        "answer": "Yes. Oral admissions may be relevant where the law permits secondary evidence."
+      }
+    ],
+    "keywords": ["oral admission", "document", "secondary evidence"],
+    "oldEvidenceActSection": "22",
+    "relatedSections": ["21", "56", "57"]
+  },
+
+  {
+    "id": "BSA_21",
+    "sectionNumber": "21",
+    "title": "When Oral Admissions as to Contents of Electronic Records Are Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Oral admissions regarding the contents of electronic records are relevant only when the genuineness of the electronic record itself is in question.",
+    "simpleExplanation": "A person generally cannot prove the contents of an electronic record merely by speaking about it unless the authenticity of the electronic record is disputed.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness describes the contents of an email whose authenticity is disputed.",
+      "Oral evidence is given regarding a deleted electronic message."
+    ],
+    "faqs": [
+      {
+        "question": "Can oral evidence be used to prove an electronic record?",
+        "answer": "Generally no, unless the authenticity of the electronic record is in question."
+      },
+      {
+        "question": "Why is the electronic record itself preferred?",
+        "answer": "Because the original electronic record is considered the best evidence of its contents."
+      }
+    ],
+    "keywords": ["electronic record", "oral admission", "authenticity"],
+    "oldEvidenceActSection": "22A",
+    "relatedSections": ["20", "57", "61"]
+  },
+  {
+    "id": "BSA_22",
+    "sectionNumber": "22",
+    "title": "Admissions in Civil Cases When Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Admissions made upon an express condition that evidence of them shall not be given, or under circumstances from which the Court can infer that the parties agreed together that evidence of them should not be given, are not relevant.",
+    "simpleExplanation": "Statements made during confidential settlement discussions usually cannot be used as evidence in court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Settlement negotiations between parties.",
+      "A confidential mediation discussion."
+    ],
+    "faqs": [
+      {
+        "question": "Can settlement discussions be used in court?",
+        "answer": "Generally no, if they were made under an agreement of confidentiality."
+      },
+      {
+        "question": "Why are such admissions excluded?",
+        "answer": "To encourage parties to negotiate and settle disputes freely."
+      }
+    ],
+    "keywords": ["civil cases", "confidential admissions", "settlement"],
+    "oldEvidenceActSection": "23",
+    "relatedSections": ["15", "23"]
+  },
+  {
+    "id": "BSA_23",
+    "sectionNumber": "23",
+    "title": "Confessions Caused by Inducement, Threat or Promise",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "A confession is irrelevant if it appears to the Court to have been caused by inducement, threat or promise having reference to the charge and proceeding from a person in authority.",
+    "simpleExplanation": "Confessions obtained through pressure, threats or promises cannot generally be used as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A confession made after police promise release.",
+      "A confession obtained through intimidation."
+    ],
+    "faqs": [
+      {
+        "question": "Can a forced confession be used as evidence?",
+        "answer": "No. A confession obtained by inducement, threat or promise is generally inadmissible."
+      },
+      {
+        "question": "Why is this rule important?",
+        "answer": "It protects individuals from coercive interrogation practices."
+      }
+    ],
+    "keywords": ["confession", "threat", "promise", "inducement"],
+    "oldEvidenceActSection": "24",
+    "relatedSections": ["24", "25", "26"]
+  },
+  {
+    "id": "BSA_24",
+    "sectionNumber": "24",
+    "title": "Confession to Police Officer",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "No confession made to a police officer shall be proved as against a person accused of an offence, except as otherwise provided by law.",
+    "simpleExplanation": "Confessions made directly to police officers are generally not admissible against the accused.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An accused confesses during police questioning.",
+      "A statement made at a police station."
+    ],
+    "faqs": [
+      {
+        "question": "Can a confession to a police officer be used in court?",
+        "answer": "Generally no, except in circumstances specifically permitted by law."
+      },
+      {
+        "question": "Why does the law restrict police confessions?",
+        "answer": "To prevent coercion and ensure fairness."
+      }
+    ],
+    "keywords": ["police confession", "admissibility", "accused"],
+    "oldEvidenceActSection": "25",
+    "relatedSections": ["23", "25"]
+  },
+  {
+    "id": "BSA_25",
+    "sectionNumber": "25",
+    "title": "Confession While in Police Custody",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "No confession made by a person while in police custody shall be proved against him unless made in the immediate presence of a Magistrate.",
+    "simpleExplanation": "A confession by a person in police custody is generally inadmissible unless a Magistrate is present.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A confession made before a Magistrate while in custody.",
+      "A custodial confession without Magistrate supervision."
+    ],
+    "faqs": [
+      {
+        "question": "Can a confession in police custody be admitted?",
+        "answer": "Only if it is made in the immediate presence of a Magistrate."
+      },
+      {
+        "question": "What is the purpose of Magistrate supervision?",
+        "answer": "To ensure the confession is voluntary."
+      }
+    ],
+    "keywords": ["custodial confession", "magistrate", "police custody"],
+    "oldEvidenceActSection": "26",
+    "relatedSections": ["24", "26"]
+  },
+  {
+    "id": "BSA_26",
+    "sectionNumber": "26",
+    "title": "How Much of Information Received from Accused May Be Proved",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Discovery Statements",
+    "officialText": "When any fact is discovered in consequence of information received from an accused person in custody, so much of that information as distinctly relates to the fact thereby discovered may be proved.",
+    "simpleExplanation": "Only the portion of an accused person's statement that directly leads to discovery of evidence can be admitted.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Recovery of a weapon based on the accused's disclosure.",
+      "Discovery of stolen property from a location revealed by the accused."
+    ],
+    "faqs": [
+      {
+        "question": "Can police use information leading to discovery of evidence?",
+        "answer": "Yes. The part of the statement directly connected to the discovery is admissible."
+      },
+      {
+        "question": "Why is this exception allowed?",
+        "answer": "Because the discovery itself supports the reliability of the information."
+      }
+    ],
+    "keywords": ["discovery", "recovery", "accused statement"],
+    "oldEvidenceActSection": "27",
+    "relatedSections": ["25", "27"]
+  },
+  {
+    "id": "BSA_27",
+    "sectionNumber": "27",
+    "title": "Confession After Removal of Improper Influence",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "A confession is not irrelevant merely because it was made after an inducement, threat or promise ceased to operate, if the Court is satisfied that its influence had been fully removed.",
+    "simpleExplanation": "A later confession may be accepted if the earlier pressure or inducement no longer influenced the accused.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An accused voluntarily repeats a confession before a Magistrate.",
+      "A confession made after removal of coercive circumstances."
+    ],
+    "faqs": [
+      {
+        "question": "Can a later confession become admissible?",
+        "answer": "Yes, if the Court is satisfied that earlier improper influence no longer existed."
+      },
+      {
+        "question": "Who decides whether the influence was removed?",
+        "answer": "The Court evaluates the circumstances."
+      }
+    ],
+    "keywords": ["voluntary confession", "influence removed"],
+    "oldEvidenceActSection": "28",
+    "relatedSections": ["23", "24"]
+  },
+  {
+    "id": "BSA_28",
+    "sectionNumber": "28",
+    "title": "Confession Otherwise Relevant Not Made Irrelevant Because of Secrecy or Deception",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "A confession otherwise relevant does not become irrelevant merely because it was made under a promise of secrecy, by deception, while intoxicated, or in answer to questions that the accused was not bound to answer.",
+    "simpleExplanation": "Certain circumstances do not automatically make a voluntary confession inadmissible.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A confession made to an undercover officer.",
+      "A confession made after being assured confidentiality."
+    ],
+    "faqs": [
+      {
+        "question": "Does secrecy automatically invalidate a confession?",
+        "answer": "No. A voluntary confession may still be admissible."
+      },
+      {
+        "question": "Can deception affect admissibility?",
+        "answer": "Not necessarily, if the confession is otherwise legally valid."
+      }
+    ],
+    "keywords": ["confession", "secrecy", "deception"],
+    "oldEvidenceActSection": "29",
+    "relatedSections": ["27", "29"]
+  },
+  {
+    "id": "BSA_29",
+    "sectionNumber": "29",
+    "title": "Consideration of Proved Confession Affecting Maker and Others Jointly Tried",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Confessions",
+    "officialText": "When more persons than one are being tried jointly and a confession made by one of them affecting himself and others is proved, the Court may take such confession into consideration against all such persons.",
+    "simpleExplanation": "A confession by one accused may be considered against co-accused who are being tried together.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "One conspirator confesses and implicates others.",
+      "Jointly tried accused in a robbery case."
+    ],
+    "faqs": [
+      {
+        "question": "Can one accused's confession affect another accused?",
+        "answer": "Yes, when they are being jointly tried and the confession implicates both."
+      },
+      {
+        "question": "Is such confession sufficient by itself for conviction?",
+        "answer": "Courts generally seek corroborating evidence."
+      }
+    ],
+    "keywords": ["co-accused", "joint trial", "confession"],
+    "oldEvidenceActSection": "30",
+    "relatedSections": ["30"]
+  },
+  {
+    "id": "BSA_30",
+    "sectionNumber": "30",
+    "title": "Admissions Not Conclusive Proof but May Operate as Estoppel",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Admissions",
+    "officialText": "Admissions are not conclusive proof of the matters admitted, but they may operate as estoppels under the provisions of law.",
+    "simpleExplanation": "An admission is important evidence but does not automatically prove a fact beyond dispute.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A person admits ownership of property but later disputes details.",
+      "A party's admission is considered along with other evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Is an admission final proof?",
+        "answer": "No. It is strong evidence but not conclusive proof."
+      },
+      {
+        "question": "What is estoppel?",
+        "answer": "A legal principle preventing a person from denying a statement previously made and relied upon by others."
+      }
+    ],
+    "keywords": ["admission", "estoppel", "proof"],
+    "oldEvidenceActSection": "31",
+    "relatedSections": ["15", "19"]
+  },
+
+  {
+    "id": "BSA_31",
+    "sectionNumber": "31",
+    "title": "Cases in Which Statement of Relevant Fact by Person Who Is Dead or Cannot Be Found, etc., Is Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Statements by Unavailable Persons",
+    "officialText": "Statements made by a person who is dead, cannot be found, has become incapable of giving evidence, or whose attendance cannot be procured without unreasonable delay or expense, are relevant in circumstances specified under this Adhiniyam.",
+    "simpleExplanation": "Certain statements made by unavailable persons can be admitted as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A dying declaration made by a victim.",
+      "A statement by a witness who later becomes mentally incapable."
+    ],
+    "faqs": [
+      {
+        "question": "Can a dead person's statement be used in court?",
+        "answer": "Yes, in situations specifically recognized by law."
+      },
+      {
+        "question": "Why are such statements admissible?",
+        "answer": "Because the person cannot be produced as a witness."
+      }
+    ],
+    "keywords": ["dying declaration", "unavailable witness", "statement"],
+    "oldEvidenceActSection": "32",
+    "relatedSections": ["32", "33"]
+  },
+  {
+    "id": "BSA_32",
+    "sectionNumber": "32",
+    "title": "Relevancy of Certain Evidence for Proving Subsequent Proceedings",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Former Testimony",
+    "officialText": "Evidence given by a witness in a previous judicial proceeding or before an authorized authority is relevant in a later proceeding when the witness cannot be produced and other legal conditions are satisfied.",
+    "simpleExplanation": "Earlier testimony may sometimes be used when the witness is unavailable.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Evidence recorded in an earlier trial.",
+      "Deposition of a witness who has since died."
+    ],
+    "faqs": [
+      {
+        "question": "Can earlier testimony be reused?",
+        "answer": "Yes, if legal requirements are fulfilled."
+      },
+      {
+        "question": "Must the opposing party have had a chance to cross-examine?",
+        "answer": "Generally yes."
+      }
+    ],
+    "keywords": ["former testimony", "deposition", "witness"],
+    "oldEvidenceActSection": "33",
+    "relatedSections": ["31", "33"]
+  },
+  {
+    "id": "BSA_33",
+    "sectionNumber": "33",
+    "title": "Entries in Books of Account Including Electronic Records",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Documentary Evidence",
+    "officialText": "Entries in books of account, including those maintained electronically, are relevant whenever they refer to matters into which the Court has to inquire, but such entries alone are not sufficient to charge any person with liability.",
+    "simpleExplanation": "Business records can be evidence, but additional proof is usually required.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Ledger entries showing business transactions.",
+      "Digital accounting software records."
+    ],
+    "faqs": [
+      {
+        "question": "Can account books be used as evidence?",
+        "answer": "Yes, but they usually require supporting evidence."
+      },
+      {
+        "question": "Are electronic accounting records included?",
+        "answer": "Yes."
+      }
+    ],
+    "keywords": ["account books", "electronic records", "ledger"],
+    "oldEvidenceActSection": "34",
+    "relatedSections": ["34", "35"]
+  },
+  {
+    "id": "BSA_34",
+    "sectionNumber": "34",
+    "title": "Relevancy of Entry in Public Record",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Public Documents",
+    "officialText": "Entries in public or official records made by a public servant in the discharge of official duties are relevant facts.",
+    "simpleExplanation": "Government records can be used as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Birth and death records.",
+      "Land registration entries."
+    ],
+    "faqs": [
+      {
+        "question": "Are government records admissible as evidence?",
+        "answer": "Yes, if made in official discharge of duties."
+      }
+    ],
+    "keywords": ["public records", "official records", "government documents"],
+    "oldEvidenceActSection": "35",
+    "relatedSections": ["35", "36"]
+  },
+  {
+    "id": "BSA_35",
+    "sectionNumber": "35",
+    "title": "Relevancy of Statements in Maps, Charts and Plans",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Public Documents",
+    "officialText": "Statements contained in maps, charts or plans made under the authority of Government are relevant facts.",
+    "simpleExplanation": "Official maps and plans may be relied upon as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Government survey maps.",
+      "Official town planning maps."
+    ],
+    "faqs": [
+      {
+        "question": "Can government maps be used in court?",
+        "answer": "Yes, they are generally admissible as relevant evidence."
+      }
+    ],
+    "keywords": ["maps", "charts", "plans", "government records"],
+    "oldEvidenceActSection": "36",
+    "relatedSections": ["34", "36"]
+  },
+  {
+    "id": "BSA_36",
+    "sectionNumber": "36",
+    "title": "Relevancy of Statements as to Facts of Public Nature",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Public Facts",
+    "officialText": "Statements relating to matters of public nature contained in published books, reports or official documents are relevant.",
+    "simpleExplanation": "Published materials discussing public matters may be considered by the Court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Government statistical reports.",
+      "Official gazette publications."
+    ],
+    "faqs": [
+      {
+        "question": "Can official reports be used as evidence?",
+        "answer": "Yes, for matters of public nature."
+      }
+    ],
+    "keywords": ["public facts", "reports", "gazette"],
+    "oldEvidenceActSection": "37",
+    "relatedSections": ["35", "37"]
+  },
+  {
+    "id": "BSA_37",
+    "sectionNumber": "37",
+    "title": "Relevancy of Statements in Law Books",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Legal Reference",
+    "officialText": "Statements regarding foreign law, law reports, and recognized legal texts may be relevant when the Court has to form an opinion on such matters.",
+    "simpleExplanation": "Authoritative legal books may be referred to in court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Foreign law references.",
+      "Recognized legal commentaries."
+    ],
+    "faqs": [
+      {
+        "question": "Can legal textbooks be cited in court?",
+        "answer": "Yes, when relevant to a legal issue before the Court."
+      }
+    ],
+    "keywords": ["law books", "foreign law", "legal opinion"],
+    "oldEvidenceActSection": "38",
+    "relatedSections": ["36", "38"]
+  },
+  {
+    "id": "BSA_38",
+    "sectionNumber": "38",
+    "title": "What Evidence to Be Given When Statement Forms Part of a Conversation, Document or Electronic Record",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Completeness Rule",
+    "officialText": "When part of a conversation, document, electronic record, book or series of letters is given in evidence, so much of the remainder as is necessary to understand the context shall also be given.",
+    "simpleExplanation": "Evidence should not be presented out of context.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A complete email thread is produced instead of a single message.",
+      "The full conversation is considered for context."
+    ],
+    "faqs": [
+      {
+        "question": "Can only part of a document be shown in court?",
+        "answer": "Only if the remaining parts are not needed for context."
+      }
+    ],
+    "keywords": ["context", "document", "electronic record"],
+    "oldEvidenceActSection": "39",
+    "relatedSections": ["39", "40"]
+  },
+  {
+    "id": "BSA_39",
+    "sectionNumber": "39",
+    "title": "Previous Judgments Relevant to Bar a Second Suit or Trial",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Judgments",
+    "officialText": "The existence of a judgment, order or decree which by law prevents a Court from taking cognizance of a suit or holding a trial is relevant.",
+    "simpleExplanation": "Previous court decisions may prevent the same matter from being tried again.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A criminal acquittal relevant to a plea of double jeopardy.",
+      "A civil decree barring a subsequent suit."
+    ],
+    "faqs": [
+      {
+        "question": "Why are previous judgments relevant?",
+        "answer": "They may legally prevent a fresh proceeding on the same issue."
+      }
+    ],
+    "keywords": ["judgment", "res judicata", "double jeopardy"],
+    "oldEvidenceActSection": "40",
+    "relatedSections": ["40", "41"]
+  },
+  {
+    "id": "BSA_40",
+    "sectionNumber": "40",
+    "title": "Relevancy of Certain Judgments in Probate, Matrimonial, Admiralty or Insolvency Jurisdiction",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Judgments",
+    "officialText": "Final judgments, orders or decrees of competent Courts exercising probate, matrimonial, admiralty or insolvency jurisdiction are relevant and may have conclusive effect in specified circumstances.",
+    "simpleExplanation": "Certain specialized court judgments are recognized as important evidence of legal status or rights.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A probate order proving validity of a will.",
+      "A divorce decree proving marital status."
+    ],
+    "faqs": [
+      {
+        "question": "Can a probate order be used as evidence?",
+        "answer": "Yes, it is relevant and may be conclusive in certain matters."
+      },
+      {
+        "question": "What types of judgments are covered?",
+        "answer": "Probate, matrimonial, admiralty and insolvency judgments."
+      }
+    ],
+    "keywords": ["probate", "matrimonial", "insolvency", "judgment"],
+    "oldEvidenceActSection": "41",
+    "relatedSections": ["39", "41", "42"]
+  },
+
+  {
+    "id": "BSA_41",
+    "sectionNumber": "41",
+    "title": "Relevancy and Effect of Judgments, Orders or Decrees Other Than Those Mentioned in Section 40",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Judgments",
+    "officialText": "Judgments, orders or decrees other than those mentioned in section 40 are relevant if they relate to matters of a public nature relevant to the inquiry, but such judgments are not conclusive proof of the matters stated therein.",
+    "simpleExplanation": "Certain judgments concerning public matters may be relevant, but they do not automatically prove the facts they contain.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A judgment relating to public rights over a pathway.",
+      "A court order concerning public access to a water body."
+    ],
+    "faqs": [
+      {
+        "question": "Are all judgments conclusive proof?",
+        "answer": "No. Many judgments are only relevant evidence and not conclusive proof."
+      },
+      {
+        "question": "When can such judgments be used?",
+        "answer": "When they relate to matters of public nature relevant to the case."
+      }
+    ],
+    "keywords": ["judgment", "public rights", "relevant evidence"],
+    "oldEvidenceActSection": "42",
+    "relatedSections": ["40", "42"]
+  },
+  {
+    "id": "BSA_42",
+    "sectionNumber": "42",
+    "title": "Judgments, Orders or Decrees Other Than Those Mentioned in Sections 39, 40 and 41 When Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Judgments",
+    "officialText": "Judgments, orders or decrees not covered by sections 39, 40 or 41 are irrelevant unless the existence of such judgment, order or decree is itself a fact in issue or is otherwise relevant under another provision of this Adhiniyam.",
+    "simpleExplanation": "Most judgments are not relevant unless the judgment itself is directly connected to the dispute.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A previous judgment becomes relevant because its existence is disputed.",
+      "A decree forms part of the facts in issue."
+    ],
+    "faqs": [
+      {
+        "question": "Can any judgment be introduced as evidence?",
+        "answer": "No. Only judgments that are legally relevant can be introduced."
+      },
+      {
+        "question": "When does a judgment become relevant?",
+        "answer": "When the judgment itself is a fact in issue or is otherwise made relevant by law."
+      }
+    ],
+    "keywords": ["judgment", "decree", "relevancy"],
+    "oldEvidenceActSection": "43",
+    "relatedSections": ["39", "40", "41", "43"]
+  },
+  {
+    "id": "BSA_43",
+    "sectionNumber": "43",
+    "title": "Fraud or Collusion in Obtaining Judgment, or Lack of Jurisdiction",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Judgments",
+    "officialText": "Any party may show that a judgment, order or decree which is relevant under sections 39, 40 or 41 was delivered by a Court not competent to deliver it, or was obtained by fraud or collusion.",
+    "simpleExplanation": "A party can challenge a judgment by proving it was obtained improperly or by a court without jurisdiction.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A decree obtained through forged documents.",
+      "A judgment passed by a court lacking jurisdiction."
+    ],
+    "faqs": [
+      {
+        "question": "Can a judgment be challenged as fraudulent?",
+        "answer": "Yes. Fraud, collusion or lack of jurisdiction may be proved."
+      },
+      {
+        "question": "Why is this provision important?",
+        "answer": "It prevents reliance on improperly obtained judgments."
+      }
+    ],
+    "keywords": ["fraud", "collusion", "jurisdiction", "judgment"],
+    "oldEvidenceActSection": "44",
+    "relatedSections": ["40", "41", "42"]
+  },
+  {
+    "id": "BSA_44",
+    "sectionNumber": "44",
+    "title": "Opinions of Experts",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Expert Opinion",
+    "officialText": "When the Court has to form an opinion upon a point of foreign law, science, art, identity of handwriting, finger impressions, digital signatures or other specialized matters, the opinions of persons specially skilled in such fields are relevant facts.",
+    "simpleExplanation": "Expert opinions may be used when specialized knowledge is needed to decide a case.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A forensic expert identifies fingerprints.",
+      "A cyber expert verifies a digital signature."
+    ],
+    "faqs": [
+      {
+        "question": "Who is an expert under this section?",
+        "answer": "A person with specialized knowledge, skill, training or experience in a relevant field."
+      },
+      {
+        "question": "Can expert opinions decide a case?",
+        "answer": "Expert opinions assist the Court, but the final decision is made by the Court."
+      }
+    ],
+    "keywords": ["expert", "forensics", "digital signature", "science"],
+    "oldEvidenceActSection": "45",
+    "relatedSections": ["45", "46"]
+  },
+  {
+    "id": "BSA_45",
+    "sectionNumber": "45",
+    "title": "Facts Bearing Upon Opinions of Experts",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Expert Opinion",
+    "officialText": "Facts which support or are inconsistent with expert opinions are relevant when such opinions are themselves relevant.",
+    "simpleExplanation": "Evidence that strengthens or weakens an expert's opinion may also be considered.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Laboratory reports supporting a forensic conclusion.",
+      "Evidence contradicting an expert's findings."
+    ],
+    "faqs": [
+      {
+        "question": "Can an expert opinion be challenged?",
+        "answer": "Yes. Facts supporting or contradicting it may be introduced."
+      },
+      {
+        "question": "Why are supporting facts important?",
+        "answer": "They help the Court assess the reliability of expert evidence."
+      }
+    ],
+    "keywords": ["expert opinion", "supporting facts", "reliability"],
+    "oldEvidenceActSection": "46",
+    "relatedSections": ["44", "46"]
+  },
+  {
+    "id": "BSA_46",
+    "sectionNumber": "46",
+    "title": "Opinion as to Handwriting and Electronic Signature",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Expert Opinion",
+    "officialText": "When the Court must determine whether handwriting, a signature or an electronic signature belongs to a particular person, the opinion of a person acquainted with such handwriting, signature or electronic signature is relevant.",
+    "simpleExplanation": "People familiar with a person's handwriting or signature may give evidence about it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A colleague identifies an employee's handwriting.",
+      "A digital expert verifies an electronic signature."
+    ],
+    "faqs": [
+      {
+        "question": "Who can identify handwriting?",
+        "answer": "A person familiar with the handwriting or an expert."
+      },
+      {
+        "question": "Are electronic signatures covered?",
+        "answer": "Yes. Electronic signatures are specifically recognized."
+      }
+    ],
+    "keywords": ["handwriting", "signature", "electronic signature"],
+    "oldEvidenceActSection": "47",
+    "relatedSections": ["44", "47"]
+  },
+  {
+    "id": "BSA_47",
+    "sectionNumber": "47",
+    "title": "Opinion as to Existence of General Custom or Right",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Custom and Usage",
+    "officialText": "When the Court must form an opinion about the existence of a general custom or right, the opinions of persons likely to know of its existence are relevant.",
+    "simpleExplanation": "Knowledgeable persons may testify regarding local customs and rights.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Village elders testify regarding a customary pathway.",
+      "Community leaders explain traditional rights."
+    ],
+    "faqs": [
+      {
+        "question": "Can local customs be proved through witnesses?",
+        "answer": "Yes. Persons likely to know about the custom may give evidence."
+      },
+      {
+        "question": "Why are customs important?",
+        "answer": "Customs can influence legal rights and obligations."
+      }
+    ],
+    "keywords": ["custom", "usage", "right", "opinion"],
+    "oldEvidenceActSection": "48",
+    "relatedSections": ["11", "48"]
+  },
+  {
+    "id": "BSA_48",
+    "sectionNumber": "48",
+    "title": "Opinion as to Usages, Tenets, etc.",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Custom and Usage",
+    "officialText": "When the Court must form an opinion regarding usages, tenets of a body of persons, constitution or governance of organizations, the opinions of persons having special means of knowledge are relevant.",
+    "simpleExplanation": "Experts or knowledgeable individuals may explain customs, traditions or organizational practices.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Religious scholars explain religious practices.",
+      "Association members explain internal governance rules."
+    ],
+    "faqs": [
+      {
+        "question": "Who can testify about customs or tenets?",
+        "answer": "Persons with special knowledge or experience regarding them."
+      },
+      {
+        "question": "Can organizational rules be explained by members?",
+        "answer": "Yes, where they have special knowledge of such rules."
+      }
+    ],
+    "keywords": ["usage", "tenet", "custom", "organization"],
+    "oldEvidenceActSection": "49",
+    "relatedSections": ["47", "49"]
+  },
+  {
+    "id": "BSA_49",
+    "sectionNumber": "49",
+    "title": "Opinion on Relationship",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Relationship",
+    "officialText": "When the Court has to form an opinion regarding the relationship between persons, the opinion expressed by conduct of persons having special means of knowledge on the subject is relevant.",
+    "simpleExplanation": "People who know a family well may give evidence about family relationships.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Relatives testify regarding family lineage.",
+      "Long-time family friends identify relationships."
+    ],
+    "faqs": [
+      {
+        "question": "Can family members testify about relationships?",
+        "answer": "Yes. Their conduct and knowledge may be relevant."
+      },
+      {
+        "question": "What types of relationships are covered?",
+        "answer": "Family and other legally relevant personal relationships."
+      }
+    ],
+    "keywords": ["relationship", "family", "kinship"],
+    "oldEvidenceActSection": "50",
+    "relatedSections": ["50"]
+  },
+  {
+    "id": "BSA_50",
+    "sectionNumber": "50",
+    "title": "Grounds of Opinion When Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Opinion Evidence",
+    "officialText": "Whenever the opinion of any living person is relevant, the grounds on which that opinion is based are also relevant.",
+    "simpleExplanation": "The Court may examine not only an opinion but also the reasons supporting it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An expert explains the scientific basis of a conclusion.",
+      "A witness describes why they believe a signature is genuine."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Court ask how an opinion was formed?",
+        "answer": "Yes. The reasons supporting an opinion are relevant."
+      },
+      {
+        "question": "Why are grounds of opinion important?",
+        "answer": "They help the Court evaluate the credibility and reliability of the opinion."
+      }
+    ],
+    "keywords": ["opinion", "grounds", "reasoning", "evidence"],
+    "oldEvidenceActSection": "51",
+    "relatedSections": ["44", "45", "46"]
+  },
+
+  {
+    "id": "BSA_51",
+    "sectionNumber": "51",
+    "title": "Opinion as to Digital Signature Certificate",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Electronic Evidence",
+    "officialText": "When the Court has to form an opinion as to a digital signature certificate, the opinion of the Certifying Authority which issued the certificate is a relevant fact.",
+    "simpleExplanation": "The Court may rely on the Certifying Authority's opinion regarding a digital signature certificate.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A Certifying Authority confirms issuance of a digital signature certificate.",
+      "A dispute arises regarding the authenticity of a digital signature."
+    ],
+    "faqs": [
+      {
+        "question": "Who issues a digital signature certificate?",
+        "answer": "A licensed Certifying Authority issues digital signature certificates."
+      },
+      {
+        "question": "Can the Certifying Authority's opinion be used in court?",
+        "answer": "Yes. It is a relevant fact under this section."
+      }
+    ],
+    "keywords": [
+      "digital signature",
+      "certifying authority",
+      "electronic evidence"
+    ],
+    "oldEvidenceActSection": "47A",
+    "relatedSections": [
+      "44",
+      "46",
+      "52"
+    ]
+  },
+  {
+    "id": "BSA_52",
+    "sectionNumber": "52",
+    "title": "Relevancy of Character in Civil Cases",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Character Evidence",
+    "officialText": "In civil cases, evidence of a person's character is generally irrelevant unless the character itself is directly in issue.",
+    "simpleExplanation": "A person's general reputation usually does not matter in civil disputes unless character is specifically involved in the case.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A property dispute where a party's character is irrelevant.",
+      "A defamation case where reputation becomes directly relevant."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person's reputation be used in a civil case?",
+        "answer": "Generally no, unless character itself is a matter in dispute."
+      },
+      {
+        "question": "When does character become relevant?",
+        "answer": "When the case directly concerns reputation or character."
+      }
+    ],
+    "keywords": [
+      "character",
+      "civil case",
+      "reputation"
+    ],
+    "oldEvidenceActSection": "52",
+    "relatedSections": [
+      "53",
+      "54"
+    ]
+  },
+  {
+    "id": "BSA_53",
+    "sectionNumber": "53",
+    "title": "In Criminal Cases Previous Good Character Relevant",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Character Evidence",
+    "officialText": "In criminal proceedings, evidence that the accused possesses a good character is relevant.",
+    "simpleExplanation": "An accused person may introduce evidence showing a good reputation or character.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Community leaders testify about the accused's good reputation.",
+      "Evidence of honest conduct is produced during trial."
+    ],
+    "faqs": [
+      {
+        "question": "Can an accused show good character in court?",
+        "answer": "Yes. Evidence of previous good character is relevant."
+      },
+      {
+        "question": "Why is good character relevant?",
+        "answer": "It may help the Court assess the probability of the alleged conduct."
+      }
+    ],
+    "keywords": [
+      "good character",
+      "criminal case",
+      "accused"
+    ],
+    "oldEvidenceActSection": "53",
+    "relatedSections": [
+      "52",
+      "54"
+    ]
+  },
+  {
+    "id": "BSA_54",
+    "sectionNumber": "54",
+    "title": "Previous Bad Character Not Relevant Except in Reply",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Character Evidence",
+    "officialText": "Evidence of the accused's bad character is generally irrelevant unless evidence of good character has first been given or the law otherwise permits it.",
+    "simpleExplanation": "The prosecution cannot usually attack an accused's character unless character has already been raised as an issue.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "The prosecution introduces bad-character evidence after the accused relies on good character.",
+      "Prior misconduct becomes relevant under a specific legal exception."
+    ],
+    "faqs": [
+      {
+        "question": "Can the prosecution introduce bad character evidence?",
+        "answer": "Generally not, unless the accused has first raised the issue of good character."
+      },
+      {
+        "question": "Why is this restriction imposed?",
+        "answer": "To ensure fairness and prevent prejudice."
+      }
+    ],
+    "keywords": [
+      "bad character",
+      "criminal trial",
+      "reputation"
+    ],
+    "oldEvidenceActSection": "54",
+    "relatedSections": [
+      "53",
+      "55"
+    ]
+  },
+  {
+    "id": "BSA_55",
+    "sectionNumber": "55",
+    "title": "Character as Affecting Damages",
+    "chapter": "Chapter II - Relevancy of Facts",
+    "category": "Character Evidence",
+    "officialText": "In civil cases, evidence of character may be relevant where it affects the amount of damages to be awarded.",
+    "simpleExplanation": "A person's reputation may be considered when calculating compensation in certain cases.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Damages in a defamation suit depend on reputation.",
+      "Compensation is influenced by harm to professional standing."
+    ],
+    "faqs": [
+      {
+        "question": "Can character affect compensation?",
+        "answer": "Yes. In some civil cases, character may influence the amount of damages."
+      },
+      {
+        "question": "Which cases commonly involve this rule?",
+        "answer": "Defamation and reputation-related claims."
+      }
+    ],
+    "keywords": [
+      "damages",
+      "character",
+      "compensation",
+      "defamation"
+    ],
+    "oldEvidenceActSection": "55",
+    "relatedSections": [
+      "10",
+      "52"
+    ]
+  },
+  {
+    "id": "BSA_56",
+    "sectionNumber": "56",
+    "title": "Proof of Facts by Oral Evidence",
+    "chapter": "Chapter III - Facts Which Need Not Be Proved",
+    "category": "Oral Evidence",
+    "officialText": "All facts, except the contents of documents or electronic records, may be proved by oral evidence.",
+    "simpleExplanation": "Witnesses may testify about facts they know, but documents and electronic records must generally be proved through the records themselves.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness describes what they saw during an accident.",
+      "A contract must be proved by producing the contract itself."
+    ],
+    "faqs": [
+      {
+        "question": "Can all facts be proved through oral testimony?",
+        "answer": "No. Contents of documents and electronic records generally require documentary proof."
+      },
+      {
+        "question": "What is oral evidence?",
+        "answer": "Evidence given by a witness through spoken testimony."
+      }
+    ],
+    "keywords": [
+      "oral evidence",
+      "witness",
+      "testimony"
+    ],
+    "oldEvidenceActSection": "59",
+    "relatedSections": [
+      "57",
+      "58"
+    ]
+  },
+  {
+    "id": "BSA_57",
+    "sectionNumber": "57",
+    "title": "Oral Evidence Must Be Direct",
+    "chapter": "Chapter III - Facts Which Need Not Be Proved",
+    "category": "Oral Evidence",
+    "officialText": "Oral evidence must, in all cases, be direct. A witness must testify to facts personally seen, heard or perceived, subject to exceptions provided by law.",
+    "simpleExplanation": "Witnesses must normally testify about things they directly experienced rather than what others told them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An eyewitness describes what they personally saw.",
+      "A witness recounts a conversation they directly heard."
+    ],
+    "faqs": [
+      {
+        "question": "What is direct evidence?",
+        "answer": "Evidence based on the witness's own perception."
+      },
+      {
+        "question": "Why is hearsay generally excluded?",
+        "answer": "Because the original source cannot be properly tested through cross-examination."
+      }
+    ],
+    "keywords": [
+      "direct evidence",
+      "hearsay",
+      "witness"
+    ],
+    "oldEvidenceActSection": "60",
+    "relatedSections": [
+      "56",
+      "58"
+    ]
+  },
+  {
+    "id": "BSA_58",
+    "sectionNumber": "58",
+    "title": "Proof of Contents of Documents",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "The contents of documents may be proved either by primary evidence or by secondary evidence in cases permitted by this Adhiniyam.",
+    "simpleExplanation": "Documents are usually proved through originals, though copies may be allowed in certain situations.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An original agreement is produced in court.",
+      "A certified copy is admitted where the original is unavailable."
+    ],
+    "faqs": [
+      {
+        "question": "What is primary evidence?",
+        "answer": "The original document itself."
+      },
+      {
+        "question": "Can copies be used as evidence?",
+        "answer": "Yes, where secondary evidence is legally permissible."
+      }
+    ],
+    "keywords": [
+      "documentary evidence",
+      "primary evidence",
+      "secondary evidence"
+    ],
+    "oldEvidenceActSection": "61",
+    "relatedSections": [
+      "59",
+      "60"
+    ]
+  },
+  {
+    "id": "BSA_59",
+    "sectionNumber": "59",
+    "title": "Primary Evidence",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "Primary evidence means the document itself produced for the inspection of the Court. In the case of electronic or digital records, primary evidence includes the original electronic record and related storage media.",
+    "simpleExplanation": "The best evidence of a document is usually the original document itself.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "The original sale deed is produced before the Court.",
+      "The original digital file is presented as evidence."
+    ],
+    "faqs": [
+      {
+        "question": "What is primary evidence?",
+        "answer": "The original document or original electronic record."
+      },
+      {
+        "question": "Why is primary evidence preferred?",
+        "answer": "Because it is considered the most reliable form of documentary proof."
+      }
+    ],
+    "keywords": [
+      "primary evidence",
+      "original document",
+      "electronic record"
+    ],
+    "oldEvidenceActSection": "62",
+    "relatedSections": [
+      "58",
+      "60"
+    ]
+  },
+  {
+    "id": "BSA_60",
+    "sectionNumber": "60",
+    "title": "Secondary Evidence",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "Secondary evidence includes certified copies, copies made from the original, counterparts, oral accounts of document contents and other forms of evidence permitted under this Adhiniyam when primary evidence cannot be produced.",
+    "simpleExplanation": "When the original document is unavailable for legally acceptable reasons, certain alternative forms of proof may be used.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certified copy of a government record.",
+      "A photocopy admitted after proving loss of the original."
+    ],
+    "faqs": [
+      {
+        "question": "When can secondary evidence be used?",
+        "answer": "When conditions specified by law justify the absence of the original document."
+      },
+      {
+        "question": "Is a photocopy always admissible?",
+        "answer": "No. The Court must be satisfied that secondary evidence is legally permissible."
+      }
+    ],
+    "keywords": [
+      "secondary evidence",
+      "certified copy",
+      "document copy"
+    ],
+    "oldEvidenceActSection": "63",
+    "relatedSections": [
+      "58",
+      "59",
+      "61"
+    ]
+  },
+
+  {
+    "id": "BSA_61",
+    "sectionNumber": "61",
+    "title": "Proof of Contents of Documents by Primary Evidence",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Primary Evidence",
+    "officialText": "Documents shall be proved by primary evidence except in cases where secondary evidence is admissible under this Adhiniyam.",
+    "simpleExplanation": "The original document should normally be produced in court to prove its contents.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Producing the original sale deed in a property dispute.",
+      "Submitting the original contract before the Court."
+    ],
+    "faqs": [
+      {
+        "question": "Is the original document normally required?",
+        "answer": "Yes. Documents are generally proved through primary evidence."
+      },
+      {
+        "question": "When can this rule be relaxed?",
+        "answer": "When the law permits secondary evidence."
+      }
+    ],
+    "keywords": ["primary evidence", "original document", "proof"],
+    "oldEvidenceActSection": "64",
+    "relatedSections": ["58", "59", "60", "62"]
+  },
+  {
+    "id": "BSA_62",
+    "sectionNumber": "62",
+    "title": "Cases in Which Secondary Evidence Relating to Documents May Be Given",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Secondary Evidence",
+    "officialText": "Secondary evidence may be given when the original is lost, destroyed, in possession of the opposite party, cannot be produced without unreasonable delay, or in other circumstances recognized by law.",
+    "simpleExplanation": "Copies and other forms of secondary evidence may be used when the original document cannot reasonably be produced.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certified copy is used after the original is destroyed in a fire.",
+      "A copy is produced when the original is held by the opposing party."
+    ],
+    "faqs": [
+      {
+        "question": "Can a photocopy be used as evidence?",
+        "answer": "Yes, if the conditions for secondary evidence are satisfied."
+      },
+      {
+        "question": "Must the Court be informed why the original is unavailable?",
+        "answer": "Yes. The party relying on secondary evidence must explain the absence of the original."
+      }
+    ],
+    "keywords": ["secondary evidence", "copy", "lost document"],
+    "oldEvidenceActSection": "65",
+    "relatedSections": ["60", "61", "63"]
+  },
+  {
+    "id": "BSA_63",
+    "sectionNumber": "63",
+    "title": "Special Provisions as to Evidence Relating to Electronic Records",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Electronic Evidence",
+    "officialText": "Electronic and digital records may be proved in accordance with the provisions of this Adhiniyam governing electronic evidence and authentication.",
+    "simpleExplanation": "Electronic records such as emails, messages and digital files can be used as evidence if legal requirements are met.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Producing an email as evidence.",
+      "Using CCTV footage in a criminal trial."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronic records admissible in court?",
+        "answer": "Yes, subject to the requirements of the Adhiniyam."
+      },
+      {
+        "question": "Does this include digital documents?",
+        "answer": "Yes. Electronic and digital records are covered."
+      }
+    ],
+    "keywords": ["electronic record", "digital evidence", "email"],
+    "oldEvidenceActSection": "65A",
+    "relatedSections": ["64", "65"]
+  },
+  {
+    "id": "BSA_64",
+    "sectionNumber": "64",
+    "title": "Admissibility of Electronic Records",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Electronic Evidence",
+    "officialText": "Electronic records are admissible as evidence when the conditions specified under this Adhiniyam regarding authenticity, integrity and reliability are fulfilled.",
+    "simpleExplanation": "Digital evidence must satisfy legal standards before it can be accepted by a court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A computer-generated report is admitted after verification.",
+      "Digital transaction logs are accepted as evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Can electronic evidence be treated like paper documents?",
+        "answer": "Yes, if the legal conditions for admissibility are satisfied."
+      },
+      {
+        "question": "Why are authenticity requirements important?",
+        "answer": "To ensure that digital evidence has not been altered or manipulated."
+      }
+    ],
+    "keywords": ["electronic evidence", "admissibility", "digital records"],
+    "oldEvidenceActSection": "65B",
+    "relatedSections": ["63", "65"]
+  },
+  {
+    "id": "BSA_65",
+    "sectionNumber": "65",
+    "title": "Certificate for Electronic Records",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Electronic Evidence",
+    "officialText": "Where required by law, a certificate identifying the electronic record and describing the manner of its production may be produced to establish admissibility.",
+    "simpleExplanation": "A certificate may be required to prove that an electronic record is genuine and was properly produced.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certificate accompanies CCTV footage submitted in court.",
+      "An IT administrator certifies computer-generated records."
+    ],
+    "faqs": [
+      {
+        "question": "Why is a certificate required for some electronic records?",
+        "answer": "To establish authenticity and reliability."
+      },
+      {
+        "question": "Who can issue such a certificate?",
+        "answer": "A person responsible for the operation or management of the relevant electronic system."
+      }
+    ],
+    "keywords": ["certificate", "electronic record", "authentication"],
+    "oldEvidenceActSection": "65B",
+    "relatedSections": ["63", "64", "66"]
+  },
+  {
+    "id": "BSA_66",
+    "sectionNumber": "66",
+    "title": "Rules Regarding Electronic Signatures",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Electronic Evidence",
+    "officialText": "Electronic signatures may be proved by evidence showing that the signature belongs to the person concerned and was affixed through a reliable process.",
+    "simpleExplanation": "Electronic signatures are legally recognized and may be verified through appropriate evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Verification of a digitally signed contract.",
+      "Authentication of an electronically signed government filing."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronic signatures legally valid?",
+        "answer": "Yes, when they satisfy applicable legal requirements."
+      },
+      {
+        "question": "How can an electronic signature be proved?",
+        "answer": "Through evidence establishing its authenticity and ownership."
+      }
+    ],
+    "keywords": ["electronic signature", "digital signature", "authentication"],
+    "oldEvidenceActSection": "67A",
+    "relatedSections": ["51", "64", "67"]
+  },
+  {
+    "id": "BSA_67",
+    "sectionNumber": "67",
+    "title": "Proof of Signature and Handwriting",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Proof of Documents",
+    "officialText": "When the signature or handwriting of a person is alleged to be that person's, it must be proved to be in that person's handwriting or signature.",
+    "simpleExplanation": "A disputed signature or handwriting must be verified before it can be relied upon.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Verification of a handwritten will.",
+      "Proof of signature on a contract."
+    ],
+    "faqs": [
+      {
+        "question": "How is handwriting proved in court?",
+        "answer": "Through expert evidence, familiar witnesses, or comparison by the Court."
+      },
+      {
+        "question": "Can a disputed signature invalidate a document?",
+        "answer": "Yes, if authenticity cannot be established."
+      }
+    ],
+    "keywords": ["signature", "handwriting", "document verification"],
+    "oldEvidenceActSection": "67",
+    "relatedSections": ["46", "66", "68"]
+  },
+  {
+    "id": "BSA_68",
+    "sectionNumber": "68",
+    "title": "Proof of Execution of Documents Required by Law to Be Attested",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Attested Documents",
+    "officialText": "If a document is required by law to be attested, at least one attesting witness must ordinarily be called to prove its execution, if available.",
+    "simpleExplanation": "Documents like wills that require attestation must generally be proved through an attesting witness.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An attesting witness proves execution of a will.",
+      "A witness confirms signing of an attested deed."
+    ],
+    "faqs": [
+      {
+        "question": "Must an attesting witness always be called?",
+        "answer": "Generally yes, if such witness is available and capable of giving evidence."
+      },
+      {
+        "question": "What is an attested document?",
+        "answer": "A document signed in the presence of witnesses who certify its execution."
+      }
+    ],
+    "keywords": ["attestation", "witness", "will", "execution"],
+    "oldEvidenceActSection": "68",
+    "relatedSections": ["69", "70"]
+  },
+  {
+    "id": "BSA_69",
+    "sectionNumber": "69",
+    "title": "Proof Where No Attesting Witness Found",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Attested Documents",
+    "officialText": "Where no attesting witness can be found, execution may be proved by other evidence showing the signature of the attesting witness and the person executing the document.",
+    "simpleExplanation": "Alternative methods may be used when attesting witnesses are unavailable.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A deceased witness cannot testify, so signature evidence is produced.",
+      "Handwriting experts verify signatures."
+    ],
+    "faqs": [
+      {
+        "question": "What if all attesting witnesses are unavailable?",
+        "answer": "Execution may be proved through other legally recognized evidence."
+      },
+      {
+        "question": "Can handwriting evidence help?",
+        "answer": "Yes, it may be used to establish authenticity."
+      }
+    ],
+    "keywords": ["attesting witness", "signature proof", "execution"],
+    "oldEvidenceActSection": "69",
+    "relatedSections": ["68", "70"]
+  },
+  {
+    "id": "BSA_70",
+    "sectionNumber": "70",
+    "title": "Admission of Execution by Party to Attested Document",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Attested Documents",
+    "officialText": "If a party admits the execution of an attested document, such admission may be sufficient proof against that party.",
+    "simpleExplanation": "When a person admits signing a document, further proof may not be necessary against that person.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A party admits signing a mortgage deed.",
+      "An executant acknowledges execution of a will."
+    ],
+    "faqs": [
+      {
+        "question": "Does admission of signature simplify proof?",
+        "answer": "Yes. The admission may itself be sufficient proof against the person making it."
+      },
+      {
+        "question": "Is further evidence always required after admission?",
+        "answer": "Generally no, unless the law specifically requires additional proof."
+      }
+    ],
+    "keywords": ["admission", "execution", "attested document"],
+    "oldEvidenceActSection": "70",
+    "relatedSections": ["68", "69", "71"]
+  },
+
+  {
+    "id": "BSA_71",
+    "sectionNumber": "71",
+    "title": "Proof When Attesting Witness Denies Execution",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Attested Documents",
+    "officialText": "If the attesting witness denies or does not recollect the execution of the document, its execution may be proved by other evidence.",
+    "simpleExplanation": "Even if an attesting witness refuses to confirm or cannot remember the execution of a document, the document may still be proved through other evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An attesting witness forgets signing a will, but handwriting evidence proves execution.",
+      "A witness denies execution, yet other records establish authenticity."
+    ],
+    "faqs": [
+      {
+        "question": "Can a document be proved if an attesting witness denies it?",
+        "answer": "Yes. Other admissible evidence may be used."
+      },
+      {
+        "question": "Why is this provision necessary?",
+        "answer": "To prevent genuine documents from failing solely because a witness is uncooperative or forgetful."
+      }
+    ],
+    "keywords": ["attesting witness", "execution", "proof"],
+    "oldEvidenceActSection": "71",
+    "relatedSections": ["68", "69", "70"]
+  },
+  {
+    "id": "BSA_72",
+    "sectionNumber": "72",
+    "title": "Proof of Document Not Required by Law to Be Attested",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "A document not required by law to be attested may be proved as if it was unattested.",
+    "simpleExplanation": "Documents that do not legally require attestation can be proved through ordinary methods of proof.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A private agreement is proved through signatures and witnesses.",
+      "A business contract is admitted without attesting witnesses."
+    ],
+    "faqs": [
+      {
+        "question": "Must every document have an attesting witness?",
+        "answer": "No. Only documents that legally require attestation."
+      },
+      {
+        "question": "How is such a document proved?",
+        "answer": "By normal evidence such as signatures, admissions or witness testimony."
+      }
+    ],
+    "keywords": ["document", "attestation", "proof"],
+    "oldEvidenceActSection": "72",
+    "relatedSections": ["67", "68"]
+  },
+  {
+    "id": "BSA_73",
+    "sectionNumber": "73",
+    "title": "Comparison of Signature, Writing or Seal",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Proof of Documents",
+    "officialText": "The Court may compare a disputed signature, writing or seal with one proved to be genuine and may direct any person present in Court to write words or figures for comparison.",
+    "simpleExplanation": "A judge may compare disputed handwriting or signatures with genuine samples.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A disputed signature is compared with signatures on bank records.",
+      "The Court asks a person to provide a handwriting sample."
+    ],
+    "faqs": [
+      {
+        "question": "Can a judge compare signatures directly?",
+        "answer": "Yes. The Court has the power to compare signatures and handwriting."
+      },
+      {
+        "question": "Can a person be asked to provide a sample?",
+        "answer": "Yes. The Court may direct this for comparison purposes."
+      }
+    ],
+    "keywords": ["signature", "handwriting", "comparison"],
+    "oldEvidenceActSection": "73",
+    "relatedSections": ["67", "74"]
+  },
+  {
+    "id": "BSA_74",
+    "sectionNumber": "74",
+    "title": "Proof as to Verification of Digital Signature",
+    "chapter": "Chapter IV - Documentary Evidence",
+    "category": "Electronic Evidence",
+    "officialText": "The Court may direct verification of a digital signature through the relevant public key or other legally recognized verification process.",
+    "simpleExplanation": "Digital signatures may be verified using technical methods recognized by law.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Verification of a digitally signed agreement.",
+      "Authentication of an electronically filed return."
+    ],
+    "faqs": [
+      {
+        "question": "How are digital signatures verified?",
+        "answer": "Through cryptographic verification and other approved methods."
+      },
+      {
+        "question": "Can the Court order verification?",
+        "answer": "Yes. The Court may direct verification of the digital signature."
+      }
+    ],
+    "keywords": ["digital signature", "verification", "electronic evidence"],
+    "oldEvidenceActSection": "73A",
+    "relatedSections": ["51", "66", "75"]
+  },
+  {
+    "id": "BSA_75",
+    "sectionNumber": "75",
+    "title": "Public and Private Documents",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Public Documents",
+    "officialText": "Documents are classified as public documents and private documents in accordance with this Adhiniyam.",
+    "simpleExplanation": "The law distinguishes between documents created by public authorities and those created by private individuals.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A birth certificate is a public document.",
+      "A personal agreement is a private document."
+    ],
+    "faqs": [
+      {
+        "question": "What is a public document?",
+        "answer": "A document created or maintained by a public authority in the discharge of official duties."
+      },
+      {
+        "question": "What is a private document?",
+        "answer": "Any document that is not classified as a public document."
+      }
+    ],
+    "keywords": ["public document", "private document"],
+    "oldEvidenceActSection": "74",
+    "relatedSections": ["76", "77"]
+  },
+  {
+    "id": "BSA_76",
+    "sectionNumber": "76",
+    "title": "Public Documents",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Public Documents",
+    "officialText": "Documents forming the acts or records of acts of sovereign authorities, official bodies, tribunals and public officers are public documents.",
+    "simpleExplanation": "Government records and official documents are considered public documents.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Court judgments.",
+      "Government notifications."
+    ],
+    "faqs": [
+      {
+        "question": "Are court records public documents?",
+        "answer": "Yes. Judicial records are public documents."
+      },
+      {
+        "question": "Why is classification important?",
+        "answer": "Different rules apply to proving public and private documents."
+      }
+    ],
+    "keywords": ["government records", "official documents", "public records"],
+    "oldEvidenceActSection": "74",
+    "relatedSections": ["75", "77"]
+  },
+  {
+    "id": "BSA_77",
+    "sectionNumber": "77",
+    "title": "Private Documents",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Private Documents",
+    "officialText": "All documents other than public documents are private documents.",
+    "simpleExplanation": "Any document not classified as public is treated as a private document.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A lease agreement.",
+      "A personal letter."
+    ],
+    "faqs": [
+      {
+        "question": "Is a personal contract a private document?",
+        "answer": "Yes. It is not a public document."
+      },
+      {
+        "question": "Do private documents require proof?",
+        "answer": "Yes. Their authenticity must be established."
+      }
+    ],
+    "keywords": ["private documents", "contracts", "letters"],
+    "oldEvidenceActSection": "75",
+    "relatedSections": ["75", "76"]
+  },
+  {
+    "id": "BSA_78",
+    "sectionNumber": "78",
+    "title": "Certified Copies of Public Documents",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Certified Copies",
+    "officialText": "Every public officer having custody of a public document shall provide certified copies upon request and payment of prescribed fees.",
+    "simpleExplanation": "People can obtain certified copies of public records from the authority holding them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Obtaining a certified copy of a court order.",
+      "Receiving a certified land record."
+    ],
+    "faqs": [
+      {
+        "question": "Can I obtain a certified copy of a public document?",
+        "answer": "Yes, subject to applicable rules and fees."
+      },
+      {
+        "question": "Who issues the certified copy?",
+        "answer": "The public officer having custody of the document."
+      }
+    ],
+    "keywords": ["certified copy", "public record", "copy"],
+    "oldEvidenceActSection": "76",
+    "relatedSections": ["79", "80"]
+  },
+  {
+    "id": "BSA_79",
+    "sectionNumber": "79",
+    "title": "Proof of Documents by Production of Certified Copies",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Certified Copies",
+    "officialText": "Certified copies may be produced in proof of the contents of public documents or parts thereof.",
+    "simpleExplanation": "Certified copies can generally be used instead of the original public document.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Submitting a certified copy of a birth certificate.",
+      "Producing a certified court record."
+    ],
+    "faqs": [
+      {
+        "question": "Do I need the original public document?",
+        "answer": "Usually not. A certified copy is generally sufficient."
+      },
+      {
+        "question": "Why are certified copies accepted?",
+        "answer": "Because they are officially authenticated."
+      }
+    ],
+    "keywords": ["certified copies", "public documents", "proof"],
+    "oldEvidenceActSection": "77",
+    "relatedSections": ["78", "80"]
+  },
+  {
+    "id": "BSA_80",
+    "sectionNumber": "80",
+    "title": "Proof of Official Documents",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Official Records",
+    "officialText": "Official documents and records may be proved in the manner prescribed by this Adhiniyam, including through certified copies and other recognized methods.",
+    "simpleExplanation": "The law provides special methods for proving official records and government documents.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certified copy of a government notification.",
+      "Official land registration records."
+    ],
+    "faqs": [
+      {
+        "question": "How are official records proved?",
+        "answer": "Typically through certified copies or other legally recognized forms of proof."
+      },
+      {
+        "question": "Are government records reliable evidence?",
+        "answer": "Yes. Official records are generally given significant evidentiary value."
+      }
+    ],
+    "keywords": ["official records", "government documents", "public evidence"],
+    "oldEvidenceActSection": "78",
+    "relatedSections": ["76", "78", "79"]
+  },
+
+  {
+    "id": "BSA_81",
+    "sectionNumber": "81",
+    "title": "Presumption as to Genuineness of Certified Copies",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "The Court shall presume genuine every document purporting to be a certificate, certified copy or other document declared by law to be admissible as evidence, if duly certified by the authorized officer.",
+    "simpleExplanation": "Certified copies issued by authorized officials are presumed to be genuine unless proven otherwise.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certified copy of a court judgment.",
+      "A certified land ownership record."
+    ],
+    "faqs": [
+      {
+        "question": "Does the Court automatically accept certified copies?",
+        "answer": "Yes, the Court generally presumes them to be genuine."
+      }
+    ],
+    "keywords": ["certified copy", "presumption", "genuine document"],
+    "oldEvidenceActSection": "79",
+    "relatedSections": ["78", "79", "82"]
+  },
+  {
+    "id": "BSA_82",
+    "sectionNumber": "82",
+    "title": "Presumption as to Documents Produced as Record of Evidence",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "Whenever a document purports to be a record or memorandum of evidence given by a witness in a judicial proceeding and is duly certified, the Court shall presume it genuine.",
+    "simpleExplanation": "Certified records of witness testimony are presumed to be authentic.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Certified deposition from an earlier trial.",
+      "Recorded testimony from a commission proceeding."
+    ],
+    "faqs": [
+      {
+        "question": "Can earlier witness testimony be relied upon?",
+        "answer": "Yes, certified records are presumed genuine."
+      }
+    ],
+    "keywords": ["evidence record", "deposition", "judicial proceeding"],
+    "oldEvidenceActSection": "80",
+    "relatedSections": ["32", "81", "83"]
+  },
+  {
+    "id": "BSA_83",
+    "sectionNumber": "83",
+    "title": "Presumption as to Gazettes, Newspapers and Other Official Publications",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "The Court shall presume the genuineness of Official Gazettes, newspapers, journals and other official publications produced before it.",
+    "simpleExplanation": "Official publications and newspapers are presumed authentic unless proven otherwise.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Government Gazette notification.",
+      "Published government report."
+    ],
+    "faqs": [
+      {
+        "question": "Are government gazettes accepted as genuine?",
+        "answer": "Yes, the Court presumes them to be authentic."
+      }
+    ],
+    "keywords": ["gazette", "newspaper", "official publication"],
+    "oldEvidenceActSection": "81",
+    "relatedSections": ["81", "84"]
+  },
+  {
+    "id": "BSA_84",
+    "sectionNumber": "84",
+    "title": "Presumption as to Powers of Attorney",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "The Court shall presume that every document purporting to be a power of attorney and executed before, and authenticated by, a competent authority was duly executed and authenticated.",
+    "simpleExplanation": "Properly authenticated powers of attorney are presumed valid.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A notarized power of attorney.",
+      "A power of attorney authenticated by a diplomatic officer."
+    ],
+    "faqs": [
+      {
+        "question": "Is a notarized power of attorney presumed valid?",
+        "answer": "Yes, unless evidence shows otherwise."
+      }
+    ],
+    "keywords": ["power of attorney", "authentication", "presumption"],
+    "oldEvidenceActSection": "85",
+    "relatedSections": ["85", "86"]
+  },
+  {
+    "id": "BSA_85",
+    "sectionNumber": "85",
+    "title": "Presumption as to Electronic Agreements",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Electronic Evidence",
+    "officialText": "The Court shall presume that an electronic record purporting to be an agreement containing electronic signatures was concluded by affixing such signatures.",
+    "simpleExplanation": "Electronic agreements signed electronically are presumed valid.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An electronically signed employment contract.",
+      "A digitally executed service agreement."
+    ],
+    "faqs": [
+      {
+        "question": "Are electronically signed contracts legally recognized?",
+        "answer": "Yes, subject to the provisions of law."
+      }
+    ],
+    "keywords": ["electronic agreement", "digital signature", "contract"],
+    "oldEvidenceActSection": "85A",
+    "relatedSections": ["64", "66", "86"]
+  },
+  {
+    "id": "BSA_86",
+    "sectionNumber": "86",
+    "title": "Presumption as to Electronic Records and Electronic Signatures",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Electronic Evidence",
+    "officialText": "The Court shall presume that secure electronic records and secure electronic signatures have not been altered since the specific point of time to which the security status relates.",
+    "simpleExplanation": "Secure electronic records are presumed authentic and unaltered.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A secure digitally signed tax filing.",
+      "A secure government electronic certificate."
+    ],
+    "faqs": [
+      {
+        "question": "What is a secure electronic record?",
+        "answer": "An electronic record protected through approved security procedures."
+      }
+    ],
+    "keywords": ["secure electronic record", "digital signature", "authenticity"],
+    "oldEvidenceActSection": "85B",
+    "relatedSections": ["64", "65", "85"]
+  },
+  {
+    "id": "BSA_87",
+    "sectionNumber": "87",
+    "title": "Presumption as to Electronic Signature Certificates",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Electronic Evidence",
+    "officialText": "The Court shall presume that information listed in an electronic signature certificate is correct unless contrary evidence is produced.",
+    "simpleExplanation": "Details contained in a valid electronic signature certificate are presumed accurate.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Identity details in a digital signature certificate.",
+      "Certificate information issued by a Certifying Authority."
+    ],
+    "faqs": [
+      {
+        "question": "Can the information in a digital certificate be challenged?",
+        "answer": "Yes, but it is presumed correct unless disproved."
+      }
+    ],
+    "keywords": ["electronic signature certificate", "certifying authority"],
+    "oldEvidenceActSection": "85C",
+    "relatedSections": ["51", "66", "86"]
+  },
+  {
+    "id": "BSA_88",
+    "sectionNumber": "88",
+    "title": "Presumption as to Certified Copies of Foreign Judicial Records",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "Certified copies of foreign judicial records, properly certified according to law, shall be presumed genuine.",
+    "simpleExplanation": "Certified copies of court records from foreign countries are presumed authentic.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A certified judgment from a foreign court.",
+      "Foreign probate records."
+    ],
+    "faqs": [
+      {
+        "question": "Can foreign court records be used in Indian courts?",
+        "answer": "Yes, if properly certified."
+      }
+    ],
+    "keywords": ["foreign judgment", "certified copy", "foreign court"],
+    "oldEvidenceActSection": "86",
+    "relatedSections": ["81", "89"]
+  },
+  {
+    "id": "BSA_89",
+    "sectionNumber": "89",
+    "title": "Presumption as to Books, Maps and Charts",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Presumptions",
+    "officialText": "The Court may presume that books, maps and charts commonly offered for public sale and containing relevant statements were published by the persons stated therein.",
+    "simpleExplanation": "Published books, maps and charts are presumed to be authentic publications.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An officially published atlas.",
+      "A commercially published legal reference book."
+    ],
+    "faqs": [
+      {
+        "question": "Are published books automatically accepted as evidence?",
+        "answer": "The Court may presume their authenticity, subject to relevance."
+      }
+    ],
+    "keywords": ["books", "maps", "charts", "publication"],
+    "oldEvidenceActSection": "87",
+    "relatedSections": ["35", "36", "90"]
+  },
+  {
+    "id": "BSA_90",
+    "sectionNumber": "90",
+    "title": "Presumption as to Electronic Messages",
+    "chapter": "Chapter V - Public Documents",
+    "category": "Electronic Evidence",
+    "officialText": "The Court may presume that an electronic message forwarded by the originator through an electronic mail server corresponds with the message fed into the system, but shall not presume who sent the message.",
+    "simpleExplanation": "The Court may assume an email or electronic message matches what was originally transmitted, but not automatically who sent it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An email produced in a contractual dispute.",
+      "A message exchanged through an electronic communication platform."
+    ],
+    "faqs": [
+      {
+        "question": "Does an email prove who sent it?",
+        "answer": "Not automatically. The sender's identity must still be established."
+      },
+      {
+        "question": "What is presumed under this section?",
+        "answer": "That the message corresponds with what was originally transmitted."
+      }
+    ],
+    "keywords": ["email", "electronic message", "electronic communication"],
+    "oldEvidenceActSection": "88A",
+    "relatedSections": ["63", "64", "91"]
+  },
+
+  {
+    "id": "BSA_91",
+    "sectionNumber": "91",
+    "title": "Presumption as to Due Execution of Documents Not Produced",
+    "chapter": "Chapter V - Presumptions as to Documents",
+    "category": "Presumptions",
+    "officialText": "The Court may presume that a document called for and not produced after notice was duly executed, attested and stamped in the manner required by law.",
+    "simpleExplanation": "If a person fails to produce a document after being required to do so, the Court may draw adverse presumptions regarding it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A party refuses to produce a contract despite notice.",
+      "A person withholds a document relevant to the dispute."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Court draw conclusions if a document is withheld?",
+        "answer": "Yes. The Court may presume facts unfavorable to the party withholding it."
+      }
+    ],
+    "keywords": ["presumption", "withheld document", "notice"],
+    "oldEvidenceActSection": "89",
+    "relatedSections": ["92", "98"]
+  },
+  {
+    "id": "BSA_92",
+    "sectionNumber": "92",
+    "title": "Presumption as to Documents Thirty Years Old",
+    "chapter": "Chapter V - Presumptions as to Documents",
+    "category": "Ancient Documents",
+    "officialText": "Where a document, purporting or proved to be thirty years old, is produced from proper custody, the Court may presume that the signature and every other part of such document is genuine.",
+    "simpleExplanation": "Old documents kept in proper custody may be presumed genuine without requiring strict proof.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A 35-year-old land deed produced from government records.",
+      "An old family settlement document preserved in proper custody."
+    ],
+    "faqs": [
+      {
+        "question": "What is meant by proper custody?",
+        "answer": "Custody where the document would naturally be expected to be found."
+      }
+    ],
+    "keywords": ["ancient document", "30 years old", "proper custody"],
+    "oldEvidenceActSection": "90",
+    "relatedSections": ["93", "94"]
+  },
+  {
+    "id": "BSA_93",
+    "sectionNumber": "93",
+    "title": "Presumption as to Electronic Records Five Years Old",
+    "chapter": "Chapter V - Presumptions as to Documents",
+    "category": "Electronic Evidence",
+    "officialText": "Where an electronic record is at least five years old and is produced from proper custody, the Court may presume the authenticity of the electronic signature and related electronic record.",
+    "simpleExplanation": "Certain older electronic records may benefit from a presumption of authenticity.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A digitally signed record maintained in official archives.",
+      "An authenticated electronic contract stored in a secure system."
+    ],
+    "faqs": [
+      {
+        "question": "How old must the electronic record be?",
+        "answer": "At least five years old."
+      }
+    ],
+    "keywords": ["electronic record", "digital signature", "presumption"],
+    "oldEvidenceActSection": "90A",
+    "relatedSections": ["64", "86", "92"]
+  },
+  {
+    "id": "BSA_94",
+    "sectionNumber": "94",
+    "title": "Evidence of Terms of Contracts, Grants and Other Dispositions Reduced to Form of Document",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "When the terms of a contract, grant or disposition of property have been reduced to the form of a document, no evidence shall be given in proof of those terms except the document itself or secondary evidence where admissible.",
+    "simpleExplanation": "If an agreement is written down, its contents must generally be proved through the document itself.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A written lease agreement.",
+      "A registered sale deed."
+    ],
+    "faqs": [
+      {
+        "question": "Can oral testimony replace a written contract?",
+        "answer": "Generally no. The written document is the best evidence."
+      }
+    ],
+    "keywords": ["contract", "document", "best evidence rule"],
+    "oldEvidenceActSection": "91",
+    "relatedSections": ["58", "61", "95"]
+  },
+  {
+    "id": "BSA_95",
+    "sectionNumber": "95",
+    "title": "Exclusion of Evidence of Oral Agreement",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Oral Evidence",
+    "officialText": "When the terms of a document have been proved, no evidence of any oral agreement or statement shall be admitted for the purpose of contradicting, varying, adding to or subtracting from its terms, subject to recognized exceptions.",
+    "simpleExplanation": "A written document usually cannot be altered by later oral claims.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A party claims different payment terms than those written in the contract.",
+      "An oral promise contradicting a registered agreement."
+    ],
+    "faqs": [
+      {
+        "question": "Can oral evidence change a written contract?",
+        "answer": "Generally no, except in legally recognized situations."
+      }
+    ],
+    "keywords": ["oral agreement", "written contract", "documentary evidence"],
+    "oldEvidenceActSection": "92",
+    "relatedSections": ["94", "96"]
+  },
+  {
+    "id": "BSA_96",
+    "sectionNumber": "96",
+    "title": "Exclusion of Evidence to Explain or Amend Ambiguous Document",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Interpretation of Documents",
+    "officialText": "When the language of a document is ambiguous or defective on its face, evidence cannot be given to explain its meaning or supply omissions.",
+    "simpleExplanation": "Courts generally do not allow oral evidence to fix obvious ambiguities in a document.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A contract omits an essential term.",
+      "A document contains irreconcilable wording."
+    ],
+    "faqs": [
+      {
+        "question": "Can oral evidence clarify a facially ambiguous document?",
+        "answer": "Generally no."
+      }
+    ],
+    "keywords": ["ambiguity", "document interpretation"],
+    "oldEvidenceActSection": "93",
+    "relatedSections": ["95", "97"]
+  },
+  {
+    "id": "BSA_97",
+    "sectionNumber": "97",
+    "title": "Evidence as to Meaning of Language Used in Document",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Interpretation of Documents",
+    "officialText": "When language used in a document is plain but applies inaccurately to existing facts, evidence may be given to show the meaning intended by the parties.",
+    "simpleExplanation": "Evidence may sometimes be used to identify what a document actually refers to.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A property description partly matches multiple locations.",
+      "A contract refers to the wrong survey number."
+    ],
+    "faqs": [
+      {
+        "question": "Can external evidence help identify what a document refers to?",
+        "answer": "Yes, in certain circumstances."
+      }
+    ],
+    "keywords": ["document interpretation", "external evidence"],
+    "oldEvidenceActSection": "94",
+    "relatedSections": ["96", "98"]
+  },
+  {
+    "id": "BSA_98",
+    "sectionNumber": "98",
+    "title": "Evidence as to Application of Language to Existing Facts",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Interpretation of Documents",
+    "officialText": "Where the language of a document applies partly to one set of facts and partly to another, evidence may be given to determine the intended application.",
+    "simpleExplanation": "Evidence may be used to resolve uncertainty about what a document refers to.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A will describes property that could refer to two different parcels.",
+      "A contract identifies a person by an incomplete description."
+    ],
+    "faqs": [
+      {
+        "question": "Why is additional evidence allowed here?",
+        "answer": "To identify the correct subject matter intended by the document."
+      }
+    ],
+    "keywords": ["document interpretation", "uncertainty", "identification"],
+    "oldEvidenceActSection": "95",
+    "relatedSections": ["97", "99"]
+  },
+  {
+    "id": "BSA_99",
+    "sectionNumber": "99",
+    "title": "Evidence as to Meaning of Illegible Characters, Foreign or Technical Expressions",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Interpretation of Documents",
+    "officialText": "Evidence may be given to explain illegible writing, abbreviations, technical terms, local expressions, foreign words or similar matters used in a document.",
+    "simpleExplanation": "Specialized or unclear language in a document may be explained through evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A technical engineering term in a contract.",
+      "An old handwritten abbreviation in a deed."
+    ],
+    "faqs": [
+      {
+        "question": "Can experts explain technical terms in documents?",
+        "answer": "Yes. Expert or other relevant evidence may be used."
+      }
+    ],
+    "keywords": ["technical terms", "foreign language", "document explanation"],
+    "oldEvidenceActSection": "98",
+    "relatedSections": ["44", "97", "100"]
+  },
+  {
+    "id": "BSA_100",
+    "sectionNumber": "100",
+    "title": "Who May Give Evidence of Agreement Varying Terms of Document",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Documentary Evidence",
+    "officialText": "Persons who are not parties to a document, or their representatives in interest, may give evidence of facts showing a separate oral agreement affecting the document in circumstances recognized by law.",
+    "simpleExplanation": "Certain non-parties may provide evidence regarding agreements connected with a document.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A third party testifies about a collateral agreement.",
+      "Evidence of a separate arrangement affecting contractual rights."
+    ],
+    "faqs": [
+      {
+        "question": "Can someone who is not a party to a contract give evidence about it?",
+        "answer": "Yes, in circumstances recognized by law."
+      }
+    ],
+    "keywords": ["oral agreement", "third party", "documentary evidence"],
+    "oldEvidenceActSection": "99",
+    "relatedSections": ["94", "95", "101"]
+  },
+
+  {
+    "id": "BSA_101",
+    "sectionNumber": "101",
+    "title": "Interpretation of Wills and Documents with Reference to Existing Facts",
+    "chapter": "Chapter VI - Exclusion of Oral Evidence by Documentary Evidence",
+    "category": "Interpretation of Documents",
+    "officialText": "Evidence may be given of surrounding circumstances to determine the meaning of language used in wills and other documents when the language is ambiguous in its application to existing facts.",
+    "simpleExplanation": "Courts may consider surrounding circumstances to understand what a will or document was intended to mean.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A will refers to 'my house in Delhi' when the testator owned multiple houses.",
+      "A document describes property using outdated local names."
+    ],
+    "faqs": [
+      {
+        "question": "Can courts consider surrounding circumstances when interpreting a will?",
+        "answer": "Yes, where necessary to determine the intended meaning."
+      }
+    ],
+    "keywords": ["will", "interpretation", "surrounding circumstances"],
+    "oldEvidenceActSection": "100",
+    "relatedSections": ["97", "98", "100"]
+  },
+  {
+    "id": "BSA_102",
+    "sectionNumber": "102",
+    "title": "Burden of Proof",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Burden of Proof",
+    "officialText": "Whoever desires a Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts must prove that those facts exist.",
+    "simpleExplanation": "The person making a claim must prove the facts supporting that claim.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A plaintiff claiming damages must prove the loss suffered.",
+      "A prosecution must prove the accused committed the offence."
+    ],
+    "faqs": [
+      {
+        "question": "Who has the burden of proof?",
+        "answer": "The person who asserts a fact generally has the burden of proving it."
+      }
+    ],
+    "keywords": ["burden of proof", "claim", "evidence"],
+    "oldEvidenceActSection": "101",
+    "relatedSections": ["103", "104"]
+  },
+  {
+    "id": "BSA_103",
+    "sectionNumber": "103",
+    "title": "On Whom Burden of Proof Lies",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Burden of Proof",
+    "officialText": "The burden of proof in a suit or proceeding lies on the person who would fail if no evidence at all were given on either side.",
+    "simpleExplanation": "The burden falls on the party who would lose if neither side produced evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A plaintiff must prove ownership in a property dispute.",
+      "A complainant must establish the basis of a claim."
+    ],
+    "faqs": [
+      {
+        "question": "How is the burden of proof determined?",
+        "answer": "It generally rests on the party who would fail if no evidence were presented."
+      }
+    ],
+    "keywords": ["burden", "proof", "legal proceeding"],
+    "oldEvidenceActSection": "102",
+    "relatedSections": ["102", "104"]
+  },
+  {
+    "id": "BSA_104",
+    "sectionNumber": "104",
+    "title": "Burden of Proof as to Particular Fact",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Burden of Proof",
+    "officialText": "The burden of proof as to any particular fact lies on the person who wishes the Court to believe in its existence, unless otherwise provided by law.",
+    "simpleExplanation": "Anyone asserting a specific fact must prove it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A person claiming an alibi must prove it.",
+      "A party alleging forgery must provide evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove a specific fact?",
+        "answer": "The person relying on that fact."
+      }
+    ],
+    "keywords": ["particular fact", "burden", "evidence"],
+    "oldEvidenceActSection": "103",
+    "relatedSections": ["102", "105"]
+  },
+  {
+    "id": "BSA_105",
+    "sectionNumber": "105",
+    "title": "Burden of Proving Fact Necessary to Make Evidence Admissible",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Admissibility",
+    "officialText": "The burden of proving any fact necessary to enable a person to give evidence or make evidence admissible lies on the person wishing to give such evidence.",
+    "simpleExplanation": "If special facts are required before evidence can be admitted, the party presenting the evidence must prove those facts.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Proving loss of an original document before producing a copy.",
+      "Establishing authenticity of an electronic record."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove that evidence is admissible?",
+        "answer": "The party seeking to rely on the evidence."
+      }
+    ],
+    "keywords": ["admissibility", "evidence", "burden"],
+    "oldEvidenceActSection": "104",
+    "relatedSections": ["62", "63", "106"]
+  },
+  {
+    "id": "BSA_106",
+    "sectionNumber": "106",
+    "title": "Burden of Proving That Case Falls Within Exceptions",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Exceptions",
+    "officialText": "When a person is accused of an offence, the burden of proving the existence of circumstances bringing the case within any exception, exemption or special provision lies upon that person.",
+    "simpleExplanation": "An accused relying on a legal exception must prove the facts supporting that exception.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An accused claims private defence.",
+      "An accused relies on a statutory exemption."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove a legal exception?",
+        "answer": "The person claiming the benefit of the exception."
+      }
+    ],
+    "keywords": ["exception", "defence", "accused"],
+    "oldEvidenceActSection": "105",
+    "relatedSections": ["107", "108"]
+  },
+  {
+    "id": "BSA_107",
+    "sectionNumber": "107",
+    "title": "Burden of Proving Fact Especially Within Knowledge",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Special Knowledge",
+    "officialText": "When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him.",
+    "simpleExplanation": "A person must prove facts that are uniquely known to them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A person explains how certain money came into their possession.",
+      "A passenger proves possession of a valid ticket."
+    ],
+    "faqs": [
+      {
+        "question": "What is a fact especially within knowledge?",
+        "answer": "A fact known primarily or exclusively to a particular person."
+      }
+    ],
+    "keywords": ["special knowledge", "burden of proof"],
+    "oldEvidenceActSection": "106",
+    "relatedSections": ["106", "108"]
+  },
+  {
+    "id": "BSA_108",
+    "sectionNumber": "108",
+    "title": "Burden of Proving Death of Person Known to Have Been Alive Within Thirty Years",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Presumptions",
+    "officialText": "When the question is whether a person is alive or dead, and it is shown that he was alive within thirty years, the burden of proving death lies on the person who asserts it.",
+    "simpleExplanation": "If a person was known to be alive within the last thirty years, anyone claiming that the person is dead must prove it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A dispute over inheritance rights.",
+      "A claim involving the death of a missing person."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove death in such cases?",
+        "answer": "The person claiming that the individual is dead."
+      }
+    ],
+    "keywords": ["death", "presumption", "burden"],
+    "oldEvidenceActSection": "107",
+    "relatedSections": ["109"]
+  },
+  {
+    "id": "BSA_109",
+    "sectionNumber": "109",
+    "title": "Burden of Proving That Person Is Alive Who Has Not Been Heard of for Seven Years",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Presumptions",
+    "officialText": "When a person has not been heard of for seven years by those who would naturally have heard of him if he had been alive, the burden of proving that he is alive shifts to the person asserting it.",
+    "simpleExplanation": "After seven years of unexplained absence, the law may presume a person is dead unless someone proves otherwise.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A missing person in an inheritance dispute.",
+      "Insurance claims involving a disappeared individual."
+    ],
+    "faqs": [
+      {
+        "question": "What happens if a person has been missing for seven years?",
+        "answer": "The burden shifts to anyone claiming the person is still alive."
+      }
+    ],
+    "keywords": ["missing person", "presumption of death", "seven years"],
+    "oldEvidenceActSection": "108",
+    "relatedSections": ["108", "110"]
+  },
+  {
+    "id": "BSA_110",
+    "sectionNumber": "110",
+    "title": "Burden of Proof as to Relationship in Certain Cases",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Relationships",
+    "officialText": "Where persons are shown to have acted as partners, landlord and tenant, principal and agent, or in other recognized relationships, the burden of proving that the relationship has ceased lies on the person asserting such cessation.",
+    "simpleExplanation": "If a relationship is shown to exist, the person claiming it ended must prove that it has ended.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A former partner claims a partnership ended.",
+      "A landlord alleges a tenancy has been terminated."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove that a relationship has ended?",
+        "answer": "The person claiming the relationship no longer exists."
+      }
+    ],
+    "keywords": ["relationship", "partnership", "agency", "tenancy"],
+    "oldEvidenceActSection": "109",
+    "relatedSections": ["49", "111"]
+  },
+
+  {
+    "id": "BSA_111",
+    "sectionNumber": "111",
+    "title": "Burden of Proof as to Ownership",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Possession and Ownership",
+    "officialText": "When a person is shown to be in possession of property, the burden of proving that he is not the owner lies on the person who affirms that he is not the owner.",
+    "simpleExplanation": "A person in possession of property is generally presumed to be its owner unless someone proves otherwise.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A person occupying land is presumed to own it until contrary evidence is produced.",
+      "Possession of movable property creates a presumption of ownership."
+    ],
+    "faqs": [
+      {
+        "question": "Does possession prove ownership?",
+        "answer": "Possession creates a presumption of ownership unless rebutted."
+      }
+    ],
+    "keywords": ["ownership", "possession", "presumption"],
+    "oldEvidenceActSection": "110",
+    "relatedSections": ["110", "112"]
+  },
+  {
+    "id": "BSA_112",
+    "sectionNumber": "112",
+    "title": "Proof of Good Faith in Transactions Where One Party Is in Position of Active Confidence",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Good Faith",
+    "officialText": "When a transaction occurs between parties where one stands in a position of active confidence, the burden of proving good faith lies upon the party in that position.",
+    "simpleExplanation": "A person in a position of trust must prove that a transaction was fair and made in good faith.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A guardian transfers property belonging to a ward.",
+      "A trustee enters into a transaction involving trust property."
+    ],
+    "faqs": [
+      {
+        "question": "Who must prove fairness in a fiduciary relationship?",
+        "answer": "The person holding the position of trust."
+      }
+    ],
+    "keywords": ["good faith", "fiduciary relationship", "trust"],
+    "oldEvidenceActSection": "111",
+    "relatedSections": ["113", "114"]
+  },
+  {
+    "id": "BSA_113",
+    "sectionNumber": "113",
+    "title": "Birth During Marriage, Conclusive Proof of Legitimacy",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Conclusive Proof",
+    "officialText": "The fact that a child was born during the continuance of a valid marriage, or within a specified period after its dissolution, shall be conclusive proof of legitimacy unless non-access is proved.",
+    "simpleExplanation": "A child born during a valid marriage is presumed legitimate unless strong evidence proves otherwise.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A child born during marriage is presumed to be the legitimate child of the spouses.",
+      "Inheritance disputes involving legitimacy."
+    ],
+    "faqs": [
+      {
+        "question": "Can legitimacy be challenged?",
+        "answer": "Only by proving circumstances such as non-access between the spouses."
+      }
+    ],
+    "keywords": ["legitimacy", "marriage", "child"],
+    "oldEvidenceActSection": "112",
+    "relatedSections": ["114"]
+  },
+  {
+    "id": "BSA_114",
+    "sectionNumber": "114",
+    "title": "Court May Presume Existence of Certain Facts",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Presumptions",
+    "officialText": "The Court may presume the existence of any fact which it thinks likely to have happened, having regard to the common course of natural events, human conduct and public and private business.",
+    "simpleExplanation": "Courts may draw reasonable conclusions from ordinary human behavior and surrounding circumstances.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A letter properly posted is presumed delivered.",
+      "Possession of recently stolen property may indicate involvement in theft."
+    ],
+    "faqs": [
+      {
+        "question": "What is a presumption?",
+        "answer": "A conclusion that the Court may draw from known facts."
+      }
+    ],
+    "keywords": ["presumption", "human conduct", "natural events"],
+    "oldEvidenceActSection": "114",
+    "relatedSections": ["115", "116"]
+  },
+  {
+    "id": "BSA_115",
+    "sectionNumber": "115",
+    "title": "Presumption as to Absence of Consent in Certain Prosecutions",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Criminal Presumptions",
+    "officialText": "In prosecutions for specified sexual offences, where sexual intercourse is proved and the question is whether it was without consent, the Court shall presume absence of consent if the victim states that consent was not given.",
+    "simpleExplanation": "In certain sexual offence cases, the victim's statement regarding lack of consent carries a legal presumption.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A victim testifies that consent was not given in a sexual offence case."
+    ],
+    "faqs": [
+      {
+        "question": "Does the victim's statement matter in proving consent?",
+        "answer": "Yes. In specified cases, the Court must presume absence of consent."
+      }
+    ],
+    "keywords": ["consent", "sexual offences", "presumption"],
+    "oldEvidenceActSection": "114A",
+    "relatedSections": ["114", "116"]
+  },
+  {
+    "id": "BSA_116",
+    "sectionNumber": "116",
+    "title": "Presumption as to Certain Offences",
+    "chapter": "Chapter VII - Burden of Proof",
+    "category": "Criminal Presumptions",
+    "officialText": "The Court may draw presumptions in specified circumstances relating to criminal conduct as provided by law.",
+    "simpleExplanation": "Certain facts may legally allow the Court to presume involvement in an offence unless rebutted.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Possession of stolen property shortly after theft.",
+      "Evidence creating a statutory presumption under criminal law."
+    ],
+    "faqs": [
+      {
+        "question": "Are criminal presumptions automatic?",
+        "answer": "No. They apply only in situations specifically recognized by law."
+      }
+    ],
+    "keywords": ["criminal presumption", "offence", "evidence"],
+    "oldEvidenceActSection": "114B",
+    "relatedSections": ["114", "115"]
+  },
+  {
+    "id": "BSA_117",
+    "sectionNumber": "117",
+    "title": "Estoppel",
+    "chapter": "Chapter VIII - Estoppel",
+    "category": "Estoppel",
+    "officialText": "When one person has, by declaration, act or omission, intentionally caused another person to believe a thing to be true and act upon that belief, neither he nor his representative shall deny the truth of that thing in a proceeding between them.",
+    "simpleExplanation": "A person cannot later deny a fact that they previously led someone else to believe and rely upon.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A landlord represents ownership and later cannot deny it against a tenant who relied on that representation.",
+      "A party induces another to act on a promise."
+    ],
+    "faqs": [
+      {
+        "question": "What is estoppel?",
+        "answer": "A legal rule preventing a person from denying a fact they previously represented as true."
+      }
+    ],
+    "keywords": ["estoppel", "representation", "reliance"],
+    "oldEvidenceActSection": "115",
+    "relatedSections": ["118", "119"]
+  },
+  {
+    "id": "BSA_118",
+    "sectionNumber": "118",
+    "title": "Estoppel of Tenant and Licensee",
+    "chapter": "Chapter VIII - Estoppel",
+    "category": "Estoppel",
+    "officialText": "A tenant or licensee cannot deny that the landlord or licensor had title to the property at the beginning of the tenancy or licence.",
+    "simpleExplanation": "A tenant generally cannot challenge the landlord's title while enjoying the tenancy.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A tenant disputes ownership of the landlord after entering into a lease.",
+      "A licensee challenges the licensor's authority after accepting the licence."
+    ],
+    "faqs": [
+      {
+        "question": "Can a tenant deny the landlord's ownership?",
+        "answer": "Generally no, regarding the title existing at the commencement of the tenancy."
+      }
+    ],
+    "keywords": ["tenant", "landlord", "licence", "estoppel"],
+    "oldEvidenceActSection": "116",
+    "relatedSections": ["117", "119"]
+  },
+  {
+    "id": "BSA_119",
+    "sectionNumber": "119",
+    "title": "Estoppel of Acceptor of Bill of Exchange, Bailee or Licensee",
+    "chapter": "Chapter VIII - Estoppel",
+    "category": "Estoppel",
+    "officialText": "Certain persons, including acceptors of bills of exchange, bailees and licensees, are prevented from denying specific facts that they previously accepted or acknowledged.",
+    "simpleExplanation": "People who have accepted legal relationships or obligations cannot later deny the facts underlying those relationships.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A bailee cannot deny the bailor's title to the goods.",
+      "An acceptor of a bill cannot deny the authority of the drawer."
+    ],
+    "faqs": [
+      {
+        "question": "Why are bailees subject to estoppel?",
+        "answer": "Because they accepted possession based on the bailor's rights."
+      }
+    ],
+    "keywords": ["bailee", "bill of exchange", "estoppel"],
+    "oldEvidenceActSection": "117",
+    "relatedSections": ["117", "118", "120"]
+  },
+  {
+    "id": "BSA_120",
+    "sectionNumber": "120",
+    "title": "Who May Testify",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Competency of Witnesses",
+    "officialText": "All persons shall be competent to testify unless the Court considers that they are prevented from understanding questions or giving rational answers because of tender years, extreme old age, disease or similar causes.",
+    "simpleExplanation": "Almost everyone can be a witness if they are capable of understanding questions and giving sensible answers.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A child who understands questions may testify.",
+      "An elderly witness may testify if mentally capable."
+    ],
+    "faqs": [
+      {
+        "question": "Can children be witnesses?",
+        "answer": "Yes, if they are capable of understanding and answering questions rationally."
+      },
+      {
+        "question": "Who decides witness competency?",
+        "answer": "The Court."
+      }
+    ],
+    "keywords": ["witness", "competency", "testimony"],
+    "oldEvidenceActSection": "118",
+    "relatedSections": ["121", "122"]
+  },
+
+  {
+    "id": "BSA_121",
+    "sectionNumber": "121",
+    "title": "Judges and Magistrates",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Competency of Witnesses",
+    "officialText": "No Judge or Magistrate shall be compelled to answer questions regarding his own conduct in Court or anything which came to his knowledge in Court in his judicial capacity, except upon the special order of a superior Court.",
+    "simpleExplanation": "Judges and Magistrates cannot normally be forced to testify about their judicial actions or knowledge obtained while performing judicial duties.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A Judge cannot be compelled to explain why a particular ruling was made.",
+      "A Magistrate cannot be questioned about confidential judicial deliberations."
+    ],
+    "faqs": [
+      {
+        "question": "Can a Judge be called as a witness about a case he decided?",
+        "answer": "Generally no, unless a superior Court specifically orders it."
+      }
+    ],
+    "keywords": ["judge", "magistrate", "judicial privilege"],
+    "oldEvidenceActSection": "121",
+    "relatedSections": ["122", "123"]
+  },
+  {
+    "id": "BSA_122",
+    "sectionNumber": "122",
+    "title": "Communications During Marriage",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Privileged Communications",
+    "officialText": "No person who is or has been married shall be compelled or permitted to disclose any communication made during marriage by the spouse, except in specified circumstances such as proceedings between the spouses or cases involving offences committed by one spouse against the other.",
+    "simpleExplanation": "Private communications between spouses are generally protected from disclosure in court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A husband cannot reveal confidential statements made by his wife during marriage.",
+      "A wife cannot disclose private marital communications without legal justification."
+    ],
+    "faqs": [
+      {
+        "question": "Are conversations between spouses confidential?",
+        "answer": "Yes, they are generally protected by law."
+      },
+      {
+        "question": "Are there exceptions?",
+        "answer": "Yes, such as disputes between spouses or crimes committed against one another."
+      }
+    ],
+    "keywords": ["marriage", "spousal communication", "privilege"],
+    "oldEvidenceActSection": "122",
+    "relatedSections": ["121", "123"]
+  },
+  {
+    "id": "BSA_123",
+    "sectionNumber": "123",
+    "title": "Evidence as to Affairs of State",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Privileged Communications",
+    "officialText": "No person shall be permitted to give evidence derived from unpublished official records relating to affairs of State except with the permission of the department concerned.",
+    "simpleExplanation": "Sensitive government records cannot be disclosed in court without proper authorization.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Confidential national security documents.",
+      "Unpublished intelligence reports."
+    ],
+    "faqs": [
+      {
+        "question": "Can secret government records be disclosed in court?",
+        "answer": "Only with appropriate governmental permission."
+      }
+    ],
+    "keywords": ["state affairs", "government records", "confidentiality"],
+    "oldEvidenceActSection": "123",
+    "relatedSections": ["124", "125"]
+  },
+  {
+    "id": "BSA_124",
+    "sectionNumber": "124",
+    "title": "Official Communications",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Privileged Communications",
+    "officialText": "A public officer shall not be compelled to disclose communications made to him in official confidence when the public interest would suffer from such disclosure.",
+    "simpleExplanation": "Government officials may withhold confidential official communications if disclosure would harm public interest.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Confidential reports submitted to a government department.",
+      "Sensitive administrative communications."
+    ],
+    "faqs": [
+      {
+        "question": "Can a public officer refuse to reveal confidential communications?",
+        "answer": "Yes, if disclosure would harm public interest."
+      }
+    ],
+    "keywords": ["public officer", "official confidence", "public interest"],
+    "oldEvidenceActSection": "124",
+    "relatedSections": ["123", "125"]
+  },
+  {
+    "id": "BSA_125",
+    "sectionNumber": "125",
+    "title": "Information as to Commission of Offences",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Privileged Communications",
+    "officialText": "No Magistrate, police officer or revenue officer shall be compelled to disclose the source of information regarding the commission of an offence.",
+    "simpleExplanation": "Authorities are not required to reveal the identity of informants who report crimes.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A police informant reports illegal activities.",
+      "An anonymous source provides information about a crime."
+    ],
+    "faqs": [
+      {
+        "question": "Can police be forced to reveal an informant's identity?",
+        "answer": "Generally no."
+      }
+    ],
+    "keywords": ["informant", "police", "source protection"],
+    "oldEvidenceActSection": "125",
+    "relatedSections": ["123", "124", "126"]
+  },
+  {
+    "id": "BSA_126",
+    "sectionNumber": "126",
+    "title": "Professional Communications",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Legal Privilege",
+    "officialText": "No advocate shall disclose communications made to him by or on behalf of a client in the course of professional employment, except in circumstances permitted by law.",
+    "simpleExplanation": "Conversations between lawyers and clients are generally confidential.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A client discusses legal strategy with an advocate.",
+      "A lawyer receives confidential case information."
+    ],
+    "faqs": [
+      {
+        "question": "Can a lawyer reveal confidential client information?",
+        "answer": "Generally no, except in legally recognized circumstances."
+      }
+    ],
+    "keywords": ["advocate", "client", "legal privilege"],
+    "oldEvidenceActSection": "126",
+    "relatedSections": ["127", "128"]
+  },
+  {
+    "id": "BSA_127",
+    "sectionNumber": "127",
+    "title": "Section 126 to Apply to Interpreters and Clerks",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Legal Privilege",
+    "officialText": "The protections relating to professional communications apply equally to interpreters, clerks and assistants employed by advocates.",
+    "simpleExplanation": "People assisting lawyers must also keep client information confidential.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A law firm's clerk handles confidential documents.",
+      "An interpreter assists during a legal consultation."
+    ],
+    "faqs": [
+      {
+        "question": "Do legal assistants have confidentiality obligations?",
+        "answer": "Yes, the same privilege extends to them."
+      }
+    ],
+    "keywords": ["interpreter", "clerk", "confidentiality"],
+    "oldEvidenceActSection": "127",
+    "relatedSections": ["126", "128"]
+  },
+  {
+    "id": "BSA_128",
+    "sectionNumber": "128",
+    "title": "Privilege Not Waived by Volunteering Evidence",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Legal Privilege",
+    "officialText": "If a party gives evidence voluntarily, it does not automatically amount to consent for disclosure of privileged professional communications.",
+    "simpleExplanation": "A person does not lose legal privilege merely by becoming a witness.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A client testifies in court but does not waive lawyer-client privilege.",
+      "A witness voluntarily gives evidence while preserving confidential communications."
+    ],
+    "faqs": [
+      {
+        "question": "Does testifying waive legal privilege?",
+        "answer": "Not automatically."
+      }
+    ],
+    "keywords": ["privilege", "waiver", "evidence"],
+    "oldEvidenceActSection": "128",
+    "relatedSections": ["126", "127", "129"]
+  },
+  {
+    "id": "BSA_129",
+    "sectionNumber": "129",
+    "title": "Confidential Communications with Legal Advisers",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Legal Privilege",
+    "officialText": "No person shall be compelled to disclose confidential communications made between him and his legal adviser unless he offers himself as a witness and certain conditions are satisfied.",
+    "simpleExplanation": "Private communications with legal advisers are protected from disclosure.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A client seeks legal advice regarding a dispute.",
+      "Confidential legal consultation records."
+    ],
+    "faqs": [
+      {
+        "question": "Can a court force disclosure of legal advice?",
+        "answer": "Generally no, because legal communications are privileged."
+      }
+    ],
+    "keywords": ["legal adviser", "confidential communication", "privilege"],
+    "oldEvidenceActSection": "129",
+    "relatedSections": ["126", "128", "130"]
+  },
+  {
+    "id": "BSA_130",
+    "sectionNumber": "130",
+    "title": "Production of Title Deeds of Witness Not a Party",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Witness Protection",
+    "officialText": "No witness who is not a party to a proceeding shall be compelled to produce title deeds, documents relating to property or documents that may incriminate him, unless he has agreed in writing to do so.",
+    "simpleExplanation": "A witness who is not involved in the case cannot generally be forced to produce personal title documents.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A third party is asked to produce property ownership documents.",
+      "A witness refuses to provide documents unrelated to the dispute."
+    ],
+    "faqs": [
+      {
+        "question": "Can a non-party witness be forced to produce title deeds?",
+        "answer": "Generally no, unless legal conditions are met."
+      }
+    ],
+    "keywords": ["title deed", "witness", "document production"],
+    "oldEvidenceActSection": "130",
+    "relatedSections": ["129", "131"]
+  },
+
+
+  {
+    "id": "BSA_131",
+    "sectionNumber": "131",
+    "title": "Production of Documents or Electronic Records Which Another Person Could Refuse to Produce",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Privilege",
+    "officialText": "No person shall be compelled to produce documents or electronic records in his possession which another person would be entitled to refuse to produce if they were in that person's possession.",
+    "simpleExplanation": "A person cannot be forced to produce documents that are protected by someone else's legal privilege.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A clerk cannot be forced to produce privileged client documents.",
+      "An employee cannot disclose privileged legal communications belonging to the employer."
+    ],
+    "faqs": [
+      {
+        "question": "Can privilege be bypassed by obtaining documents from someone else?",
+        "answer": "No. Privilege continues even when documents are held by another person."
+      }
+    ],
+    "keywords": ["privilege", "documents", "electronic records"],
+    "oldEvidenceActSection": "131",
+    "relatedSections": ["126", "127", "129", "130"]
+  },
+  {
+    "id": "BSA_132",
+    "sectionNumber": "132",
+    "title": "Witness Not Excused from Answering on Ground That Answer May Criminate",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Witness Protection",
+    "officialText": "A witness shall not be excused from answering a relevant question on the ground that the answer may incriminate him, but such answer shall not subject him to arrest, prosecution or be proved against him in any criminal proceeding, except for giving false evidence.",
+    "simpleExplanation": "A witness must answer relevant questions, but receives protection against self-incrimination based on those answers.",
+    "punishment": "Protection from prosecution except for perjury.",
+    "examples": [
+      "A witness admits participation in a transaction under questioning.",
+      "A witness answers questions that may expose wrongdoing but receives statutory protection."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness refuse to answer because it may incriminate them?",
+        "answer": "No, but the answer generally cannot be used against them later."
+      }
+    ],
+    "keywords": ["self-incrimination", "witness", "protection"],
+    "oldEvidenceActSection": "132",
+    "relatedSections": ["133", "134"]
+  },
+  {
+    "id": "BSA_133",
+    "sectionNumber": "133",
+    "title": "Accomplice",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Witness Competency",
+    "officialText": "An accomplice shall be a competent witness against an accused person and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice.",
+    "simpleExplanation": "A person involved in the crime can testify against the accused and such testimony is legally admissible.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "One participant in a conspiracy testifies against another.",
+      "An accomplice provides evidence about the commission of an offence."
+    ],
+    "faqs": [
+      {
+        "question": "Can an accomplice be a witness?",
+        "answer": "Yes, an accomplice is a competent witness."
+      }
+    ],
+    "keywords": ["accomplice", "witness", "testimony"],
+    "oldEvidenceActSection": "133",
+    "relatedSections": ["114", "134"]
+  },
+  {
+    "id": "BSA_134",
+    "sectionNumber": "134",
+    "title": "Number of Witnesses",
+    "chapter": "Chapter IX - Witnesses",
+    "category": "Witnesses",
+    "officialText": "No particular number of witnesses shall in any case be required for the proof of any fact.",
+    "simpleExplanation": "A fact can be proved by a single credible witness; there is no minimum number of witnesses required.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A conviction based on testimony of a single reliable eyewitness.",
+      "A civil claim proved through one credible witness."
+    ],
+    "faqs": [
+      {
+        "question": "Are multiple witnesses always required?",
+        "answer": "No. Quality of evidence is more important than quantity."
+      }
+    ],
+    "keywords": ["witnesses", "proof", "evidence"],
+    "oldEvidenceActSection": "134",
+    "relatedSections": ["120", "133", "135"]
+  },
+  {
+    "id": "BSA_135",
+    "sectionNumber": "135",
+    "title": "Order of Production and Examination of Witnesses",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Procedure",
+    "officialText": "The order in which witnesses are produced and examined shall be regulated by the law and practice relating to civil and criminal procedure.",
+    "simpleExplanation": "Procedural laws determine the sequence in which witnesses are called and examined.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Prosecution witnesses examined before defence witnesses.",
+      "Witness examination follows procedural court rules."
+    ],
+    "faqs": [
+      {
+        "question": "Who decides the order of witnesses?",
+        "answer": "The applicable procedural law and the Court."
+      }
+    ],
+    "keywords": ["witness examination", "procedure", "order"],
+    "oldEvidenceActSection": "135",
+    "relatedSections": ["136", "137"]
+  },
+  {
+    "id": "BSA_136",
+    "sectionNumber": "136",
+    "title": "Judge to Decide as to Admissibility of Evidence",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Admissibility",
+    "officialText": "The Judge shall determine whether evidence is admissible and may require proof of relevant preliminary facts before admitting evidence.",
+    "simpleExplanation": "The Judge decides whether evidence can be accepted and considered by the Court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A Judge decides whether a document is admissible.",
+      "A Court verifies authenticity before admitting evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Who determines admissibility of evidence?",
+        "answer": "The Judge."
+      }
+    ],
+    "keywords": ["admissibility", "judge", "evidence"],
+    "oldEvidenceActSection": "136",
+    "relatedSections": ["105", "137", "138"]
+  },
+  {
+    "id": "BSA_137",
+    "sectionNumber": "137",
+    "title": "Examination-in-Chief, Cross-Examination and Re-Examination",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "Examination of a witness by the party calling him is examination-in-chief; by the adverse party is cross-examination; and subsequent examination by the party calling him is re-examination.",
+    "simpleExplanation": "This section defines the three stages of witness examination.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A prosecution witness is cross-examined by the defence.",
+      "A witness is re-examined to clarify answers."
+    ],
+    "faqs": [
+      {
+        "question": "What is cross-examination?",
+        "answer": "Questioning of a witness by the opposing party."
+      }
+    ],
+    "keywords": ["cross-examination", "re-examination", "witness"],
+    "oldEvidenceActSection": "137",
+    "relatedSections": ["138", "139"]
+  },
+  {
+    "id": "BSA_138",
+    "sectionNumber": "138",
+    "title": "Order of Examinations",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "Witnesses shall first be examined-in-chief, then cross-examined, and then re-examined if necessary. Re-examination shall be directed to explanation of matters referred to in cross-examination.",
+    "simpleExplanation": "The law prescribes the sequence of witness examination and limits re-examination to clarification.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness clarifies an inconsistency raised during cross-examination.",
+      "The Court permits further questioning on new matters."
+    ],
+    "faqs": [
+      {
+        "question": "Can new matters be introduced during re-examination?",
+        "answer": "Only with permission of the Court."
+      }
+    ],
+    "keywords": ["examination", "cross-examination", "re-examination"],
+    "oldEvidenceActSection": "138",
+    "relatedSections": ["137", "139", "140"]
+  },
+  {
+    "id": "BSA_139",
+    "sectionNumber": "139",
+    "title": "Cross-Examination of Person Called to Produce Document",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "A person summoned merely to produce a document does not become a witness by that fact alone and cannot be cross-examined unless called as a witness.",
+    "simpleExplanation": "Someone who only brings a document to court is not automatically subject to cross-examination.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A records custodian produces official records.",
+      "A bank officer submits account statements without giving testimony."
+    ],
+    "faqs": [
+      {
+        "question": "Can a person producing documents be cross-examined?",
+        "answer": "Only if they are called and examined as a witness."
+      }
+    ],
+    "keywords": ["document production", "cross-examination", "witness"],
+    "oldEvidenceActSection": "139",
+    "relatedSections": ["137", "138", "140"]
+  },
+  {
+    "id": "BSA_140",
+    "sectionNumber": "140",
+    "title": "Witnesses to Character",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Character Evidence",
+    "officialText": "Witnesses who testify regarding the character of a person may be cross-examined and re-examined like any other witness.",
+    "simpleExplanation": "Character witnesses are subject to the same examination procedures as other witnesses.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness testifies about the accused's reputation.",
+      "A character witness is cross-examined regarding their knowledge."
+    ],
+    "faqs": [
+      {
+        "question": "Can character witnesses be cross-examined?",
+        "answer": "Yes. They are treated like any other witness."
+      }
+    ],
+    "keywords": ["character witness", "reputation", "cross-examination"],
+    "oldEvidenceActSection": "140",
+    "relatedSections": ["45", "137", "138", "141"]
+  },
+
+  {
+    "id": "BSA_141",
+    "sectionNumber": "141",
+    "title": "Leading Questions",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "Any question suggesting the answer which the person putting it wishes or expects to receive is called a leading question.",
+    "simpleExplanation": "A leading question hints at the answer the examiner wants the witness to give.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "You saw the accused running away, didn't you?",
+      "The agreement was signed on Monday, correct?"
+    ],
+    "faqs": [
+      {
+        "question": "What is a leading question?",
+        "answer": "A question that suggests its own answer."
+      }
+    ],
+    "keywords": ["leading question", "witness", "examination"],
+    "oldEvidenceActSection": "141",
+    "relatedSections": ["142", "143"]
+  },
+  {
+    "id": "BSA_142",
+    "sectionNumber": "142",
+    "title": "When Leading Questions Must Not Be Asked",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "Leading questions shall not be asked in examination-in-chief or re-examination unless the Court permits them.",
+    "simpleExplanation": "A lawyer generally cannot suggest answers to their own witness unless the Court allows it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A prosecutor cannot ordinarily ask leading questions to their own witness.",
+      "The Court may permit leading questions on introductory matters."
+    ],
+    "faqs": [
+      {
+        "question": "Can leading questions be asked in examination-in-chief?",
+        "answer": "Only with the permission of the Court."
+      }
+    ],
+    "keywords": ["leading questions", "examination-in-chief", "re-examination"],
+    "oldEvidenceActSection": "142",
+    "relatedSections": ["141", "143"]
+  },
+  {
+    "id": "BSA_143",
+    "sectionNumber": "143",
+    "title": "When Leading Questions May Be Asked",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "Leading questions may be asked in cross-examination.",
+    "simpleExplanation": "A lawyer may ask questions suggesting answers while questioning the opposing witness.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "You never saw the accused at the scene, did you?",
+      "You signed the document voluntarily, correct?"
+    ],
+    "faqs": [
+      {
+        "question": "Are leading questions allowed in cross-examination?",
+        "answer": "Yes, they are generally permitted."
+      }
+    ],
+    "keywords": ["cross-examination", "leading questions"],
+    "oldEvidenceActSection": "143",
+    "relatedSections": ["141", "142", "144"]
+  },
+  {
+    "id": "BSA_144",
+    "sectionNumber": "144",
+    "title": "Evidence as to Matters in Writing",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Documentary Evidence",
+    "officialText": "A witness may be questioned about matters reduced to writing, and if intended to contradict the witness by the writing, attention must first be drawn to those parts to be used for contradiction.",
+    "simpleExplanation": "Before using a document to contradict a witness, the relevant portions must be shown to the witness.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Using a prior statement to challenge a witness's testimony.",
+      "Referring to a written report during cross-examination."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness be contradicted using a written statement?",
+        "answer": "Yes, after their attention is drawn to the relevant portion."
+      }
+    ],
+    "keywords": ["contradiction", "written statement", "witness"],
+    "oldEvidenceActSection": "145",
+    "relatedSections": ["145", "146"]
+  },
+  {
+    "id": "BSA_145",
+    "sectionNumber": "145",
+    "title": "Cross-Examination as to Previous Statements in Writing",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "A witness may be cross-examined regarding previous written statements relevant to the matter in question.",
+    "simpleExplanation": "Earlier statements made by a witness can be used during cross-examination.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Comparing court testimony with a police statement.",
+      "Questioning inconsistencies in earlier affidavits."
+    ],
+    "faqs": [
+      {
+        "question": "Can prior statements be used in cross-examination?",
+        "answer": "Yes, especially to test consistency and credibility."
+      }
+    ],
+    "keywords": ["previous statement", "cross-examination", "credibility"],
+    "oldEvidenceActSection": "145",
+    "relatedSections": ["144", "146"]
+  },
+  {
+    "id": "BSA_146",
+    "sectionNumber": "146",
+    "title": "Questions Lawful in Cross-Examination",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "A witness may be asked questions to test veracity, discover identity and position in life, or shake credibility by injuring character.",
+    "simpleExplanation": "Cross-examination can explore a witness's truthfulness, background and credibility.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Questions regarding a witness's bias.",
+      "Questions testing the witness's reliability."
+    ],
+    "faqs": [
+      {
+        "question": "What is the purpose of cross-examination?",
+        "answer": "To test truthfulness, reliability and credibility."
+      }
+    ],
+    "keywords": ["cross-examination", "credibility", "veracity"],
+    "oldEvidenceActSection": "146",
+    "relatedSections": ["147", "148"]
+  },
+  {
+    "id": "BSA_147",
+    "sectionNumber": "147",
+    "title": "When Witness to Be Compelled to Answer",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Duties",
+    "officialText": "If a question relates to a matter relevant to the proceeding, the witness is generally bound to answer it.",
+    "simpleExplanation": "Witnesses must answer relevant questions unless protected by a legal privilege.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A witness answering questions about facts directly related to the dispute.",
+      "A witness providing information about events they observed."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness refuse to answer a relevant question?",
+        "answer": "Generally no, unless protected by law."
+      }
+    ],
+    "keywords": ["witness", "relevant question", "duty to answer"],
+    "oldEvidenceActSection": "147",
+    "relatedSections": ["132", "146", "148"]
+  },
+  {
+    "id": "BSA_148",
+    "sectionNumber": "148",
+    "title": "Court to Decide When Question Shall Be Asked and When Witness Compelled to Answer",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Judicial Discretion",
+    "officialText": "The Court shall decide whether a witness should be compelled to answer questions affecting credibility but not directly relevant to the case.",
+    "simpleExplanation": "Judges control whether certain sensitive credibility-related questions may be asked.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Questions about past conduct unrelated to the case.",
+      "Questions affecting personal reputation."
+    ],
+    "faqs": [
+      {
+        "question": "Who decides whether a witness must answer certain questions?",
+        "answer": "The Court."
+      }
+    ],
+    "keywords": ["judicial discretion", "credibility", "witness"],
+    "oldEvidenceActSection": "148",
+    "relatedSections": ["146", "147", "149"]
+  },
+  {
+    "id": "BSA_149",
+    "sectionNumber": "149",
+    "title": "Question Not to Be Asked Without Reasonable Grounds",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "No question intended to impeach a witness's character shall be asked unless there are reasonable grounds for believing the imputation to be true.",
+    "simpleExplanation": "Lawyers cannot make baseless accusations against witnesses.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An advocate cannot allege fraud without some basis.",
+      "Character attacks require reasonable grounds."
+    ],
+    "faqs": [
+      {
+        "question": "Can an advocate ask any question about a witness's character?",
+        "answer": "No. There must be reasonable grounds for the allegation."
+      }
+    ],
+    "keywords": ["character", "reasonable grounds", "cross-examination"],
+    "oldEvidenceActSection": "149",
+    "relatedSections": ["148", "150"]
+  },
+  {
+    "id": "BSA_150",
+    "sectionNumber": "150",
+    "title": "Procedure of Court in Case of Question Being Asked Without Reasonable Grounds",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Professional Conduct",
+    "officialText": "If the Court believes a question was asked without reasonable grounds, it may report the circumstances to the appropriate authority controlling the advocate or representative responsible.",
+    "simpleExplanation": "Lawyers who ask improper questions without justification may face professional consequences.",
+    "punishment": "Professional disciplinary action may be initiated.",
+    "examples": [
+      "A lawyer makes a serious allegation against a witness without evidence.",
+      "The Court reports misconduct to the Bar Council."
+    ],
+    "faqs": [
+      {
+        "question": "What happens if a lawyer asks baseless questions?",
+        "answer": "The Court may report the matter to the relevant disciplinary authority."
+      }
+    ],
+    "keywords": ["professional misconduct", "advocate", "disciplinary action"],
+    "oldEvidenceActSection": "150",
+    "relatedSections": ["148", "149", "151"]
+  },
+
+  {
+    "id": "BSA_151",
+    "sectionNumber": "151",
+    "title": "Indecent and Scandalous Questions",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "The Court may forbid any questions or inquiries which appear to be indecent or scandalous, unless they directly relate to facts in issue or are necessary to determine relevant facts.",
+    "simpleExplanation": "Courts can stop offensive or scandalous questioning unless it is genuinely necessary for deciding the case.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Questions about a witness's private life unrelated to the case.",
+      "Embarrassing allegations with no connection to the dispute."
+    ],
+    "faqs": [
+      {
+        "question": "Can a lawyer ask any personal question during cross-examination?",
+        "answer": "No. The Court may prohibit indecent or scandalous questions."
+      }
+    ],
+    "keywords": ["indecent questions", "scandalous questions", "cross-examination"],
+    "oldEvidenceActSection": "151",
+    "relatedSections": ["149", "150", "152"]
+  },
+  {
+    "id": "BSA_152",
+    "sectionNumber": "152",
+    "title": "Questions Intended to Insult or Annoy",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Cross-Examination",
+    "officialText": "The Court shall forbid any question which appears intended to insult or annoy, or which though proper in itself appears needlessly offensive in form.",
+    "simpleExplanation": "Courts must stop questions that are asked merely to harass, insult or embarrass a witness.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Using abusive language while questioning a witness.",
+      "Asking humiliating questions with no legal purpose."
+    ],
+    "faqs": [
+      {
+        "question": "Can the Court stop insulting questions?",
+        "answer": "Yes. The Court is required to prevent such questioning."
+      }
+    ],
+    "keywords": ["insulting questions", "annoying questions", "witness protection"],
+    "oldEvidenceActSection": "152",
+    "relatedSections": ["151", "153"]
+  },
+  {
+    "id": "BSA_153",
+    "sectionNumber": "153",
+    "title": "Exclusion of Evidence to Contradict Answers to Questions Testing Veracity",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Credibility",
+    "officialText": "When a witness answers questions intended solely to test credibility, evidence generally cannot be introduced to contradict those answers, except in certain cases recognized by law.",
+    "simpleExplanation": "A witness's answers to some credibility-related questions are usually final and cannot be challenged through separate evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Questions about unrelated past conduct.",
+      "Questions affecting only the witness's credibility."
+    ],
+    "faqs": [
+      {
+        "question": "Can contradictory evidence always be produced against a witness's answer?",
+        "answer": "No. Certain answers regarding credibility cannot generally be contradicted."
+      }
+    ],
+    "keywords": ["credibility", "contradiction", "veracity"],
+    "oldEvidenceActSection": "153",
+    "relatedSections": ["146", "154"]
+  },
+  {
+    "id": "BSA_154",
+    "sectionNumber": "154",
+    "title": "Question by Party to His Own Witness",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Hostile Witness",
+    "officialText": "The Court may, in its discretion, permit the person who calls a witness to put questions that might be asked in cross-examination by the adverse party.",
+    "simpleExplanation": "If a witness becomes hostile, the party who called the witness may cross-examine that witness with the Court's permission.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A prosecution witness changes their version in Court.",
+      "A witness refuses to support the party who called them."
+    ],
+    "faqs": [
+      {
+        "question": "What is a hostile witness?",
+        "answer": "A witness who becomes adverse to the party who called them."
+      }
+    ],
+    "keywords": ["hostile witness", "cross-examination", "witness"],
+    "oldEvidenceActSection": "154",
+    "relatedSections": ["143", "155"]
+  },
+  {
+    "id": "BSA_155",
+    "sectionNumber": "155",
+    "title": "Impeaching Credit of Witness",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Credibility",
+    "officialText": "The credit of a witness may be impeached by evidence showing that the witness is unworthy of credit, has been bribed, or has made previous inconsistent statements.",
+    "simpleExplanation": "A witness's credibility can be challenged using legally admissible evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Showing that a witness accepted a bribe.",
+      "Producing prior inconsistent statements."
+    ],
+    "faqs": [
+      {
+        "question": "How can a witness's credibility be challenged?",
+        "answer": "By proving bias, corruption, prior inconsistent statements or other factors affecting reliability."
+      }
+    ],
+    "keywords": ["credibility", "impeachment", "witness"],
+    "oldEvidenceActSection": "155",
+    "relatedSections": ["145", "154", "156"]
+  },
+  {
+    "id": "BSA_156",
+    "sectionNumber": "156",
+    "title": "Questions Tending to Corroborate Evidence of Relevant Fact",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Corroboration",
+    "officialText": "When a witness testifies about a relevant fact, the witness may be questioned regarding surrounding circumstances that support or corroborate the testimony.",
+    "simpleExplanation": "Questions may be asked to strengthen and confirm a witness's testimony.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Asking where and when the witness saw the event.",
+      "Questioning a witness about related surrounding facts."
+    ],
+    "faqs": [
+      {
+        "question": "Why are corroborative questions asked?",
+        "answer": "To strengthen confidence in the witness's testimony."
+      }
+    ],
+    "keywords": ["corroboration", "witness", "evidence"],
+    "oldEvidenceActSection": "156",
+    "relatedSections": ["157", "158"]
+  },
+  {
+    "id": "BSA_157",
+    "sectionNumber": "157",
+    "title": "Former Statements of Witness May Be Proved to Corroborate Later Testimony",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Corroboration",
+    "officialText": "A witness's previous statements relating to the same fact, made at or about the time when the fact occurred or before a legally competent authority, may be proved to corroborate testimony.",
+    "simpleExplanation": "Earlier statements can be used to support a witness's testimony in Court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A complaint made immediately after an incident.",
+      "A statement given during investigation."
+    ],
+    "faqs": [
+      {
+        "question": "Can previous statements support a witness's testimony?",
+        "answer": "Yes, if they meet the legal requirements for corroboration."
+      }
+    ],
+    "keywords": ["corroboration", "previous statement", "witness"],
+    "oldEvidenceActSection": "157",
+    "relatedSections": ["145", "156", "158"]
+  },
+  {
+    "id": "BSA_158",
+    "sectionNumber": "158",
+    "title": "What Matters May Be Proved in Connection with Proved Statement Relevant Under Sections 26 or 27",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Corroboration",
+    "officialText": "Whenever any statement relevant under specified provisions is proved, matters may also be proved in order to contradict or corroborate it or to test the accuracy and truthfulness of the statement.",
+    "simpleExplanation": "When certain statements are admitted into evidence, related facts may also be introduced to verify or challenge them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "Testing the reliability of a dying declaration.",
+      "Corroborating an admission made by a party."
+    ],
+    "faqs": [
+      {
+        "question": "Can related facts be introduced to test a statement's reliability?",
+        "answer": "Yes. The law permits corroboration and contradiction in such cases."
+      }
+    ],
+    "keywords": ["corroboration", "contradiction", "statement"],
+    "oldEvidenceActSection": "158",
+    "relatedSections": ["26", "27", "157", "159"]
+  },
+  {
+    "id": "BSA_159",
+    "sectionNumber": "159",
+    "title": "Refreshing Memory",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "A witness may refresh memory by referring to writings made by the witness at the time of the transaction or soon thereafter, or by referring to documents known to be accurate.",
+    "simpleExplanation": "Witnesses may consult records to help remember details while testifying.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A doctor refers to medical records.",
+      "A police officer consults investigation notes."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness look at notes while giving evidence?",
+        "answer": "Yes, under circumstances permitted by law."
+      }
+    ],
+    "keywords": ["refresh memory", "documents", "witness"],
+    "oldEvidenceActSection": "159",
+    "relatedSections": ["160"]
+  },
+  {
+    "id": "BSA_160",
+    "sectionNumber": "160",
+    "title": "Testimony to Facts Stated in Document Mentioned in Section 159",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "A witness may testify to facts mentioned in documents used for refreshing memory even if the witness has no independent recollection of the facts, provided the witness is confident that the record was correctly made.",
+    "simpleExplanation": "A witness may rely on accurate records even when personal memory has faded.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A clerk testifies using regularly maintained records.",
+      "A medical professional relies on treatment notes."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness testify without independently remembering the event?",
+        "answer": "Yes, if the witness trusts the accuracy of records made at the relevant time."
+      }
+    ],
+    "keywords": ["refresh memory", "records", "testimony"],
+    "oldEvidenceActSection": "160",
+    "relatedSections": ["159", "161"]
+  },
+
+  {
+    "id": "BSA_161",
+    "sectionNumber": "161",
+    "title": "Right of Adverse Party as to Writing Used to Refresh Memory",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Witness Examination",
+    "officialText": "Any writing referred to by a witness for the purpose of refreshing memory shall be produced and shown to the adverse party if required, and such party may cross-examine the witness thereon.",
+    "simpleExplanation": "If a witness uses notes or records to refresh memory, the opposing party has the right to inspect those records and ask questions about them.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A police officer refers to investigation notes while testifying.",
+      "A doctor refreshes memory using medical records."
+    ],
+    "faqs": [
+      {
+        "question": "Can the opposing party inspect documents used to refresh memory?",
+        "answer": "Yes. The adverse party has a right to inspect and cross-examine regarding those documents."
+      }
+    ],
+    "keywords": ["refresh memory", "cross-examination", "documents"],
+    "oldEvidenceActSection": "161",
+    "relatedSections": ["159", "160", "162"]
+  },
+  {
+    "id": "BSA_162",
+    "sectionNumber": "162",
+    "title": "Production of Documents",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Documentary Evidence",
+    "officialText": "A witness summoned to produce a document shall, if it is in his possession or power, bring it to Court notwithstanding any objection as to its production or admissibility, and the Court shall decide such objection.",
+    "simpleExplanation": "A witness must bring the required document to Court, and the Court will decide whether it can be used as evidence.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A bank officer produces account records.",
+      "A company official brings requested business documents."
+    ],
+    "faqs": [
+      {
+        "question": "Can a witness refuse to bring a summoned document?",
+        "answer": "Generally no. The witness must produce it, and the Court decides admissibility."
+      }
+    ],
+    "keywords": ["production of documents", "summons", "admissibility"],
+    "oldEvidenceActSection": "162",
+    "relatedSections": ["130", "131", "163"]
+  },
+  {
+    "id": "BSA_163",
+    "sectionNumber": "163",
+    "title": "Giving, as Evidence, of Document Called for and Produced on Notice",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Documentary Evidence",
+    "officialText": "When a party calls for a document and the document is produced and inspected, that party is bound to give it as evidence if the producing party so requires.",
+    "simpleExplanation": "A party who requests and inspects a document may have to rely on it as evidence if the other party demands it.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A plaintiff requests and inspects a contract produced by the defendant.",
+      "A party examines business records produced after notice."
+    ],
+    "faqs": [
+      {
+        "question": "What happens if a party inspects a document after calling for it?",
+        "answer": "The party may be required to formally use it as evidence."
+      }
+    ],
+    "keywords": ["document inspection", "evidence", "notice"],
+    "oldEvidenceActSection": "163",
+    "relatedSections": ["162", "164"]
+  },
+  {
+    "id": "BSA_164",
+    "sectionNumber": "164",
+    "title": "Using as Evidence of Document Production of Which Was Refused on Notice",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Documentary Evidence",
+    "officialText": "When a party refuses to produce a document after notice, that party cannot afterwards use the document as evidence without consent of the other party or permission of the Court.",
+    "simpleExplanation": "A party who refuses to produce a document cannot later rely on it unless allowed by the Court.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A defendant withholds a document but later attempts to rely on it.",
+      "A party ignores a notice to produce records."
+    ],
+    "faqs": [
+      {
+        "question": "Can a withheld document later be used in Court?",
+        "answer": "Only with consent of the other party or permission of the Court."
+      }
+    ],
+    "keywords": ["document refusal", "evidence", "notice to produce"],
+    "oldEvidenceActSection": "164",
+    "relatedSections": ["163", "165"]
+  },
+  {
+    "id": "BSA_165",
+    "sectionNumber": "165",
+    "title": "Judge's Power to Put Questions or Order Production",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Powers of Court",
+    "officialText": "The Judge may ask any question, in any form, at any time, of any witness or party, and may order production of any document or thing in order to discover or obtain proper proof of relevant facts.",
+    "simpleExplanation": "The Judge has broad powers to ask questions and seek documents necessary for finding the truth.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A Judge directly questions a witness to clarify testimony.",
+      "A Court orders production of additional records."
+    ],
+    "faqs": [
+      {
+        "question": "Can a Judge directly question witnesses?",
+        "answer": "Yes. The Judge may ask questions to discover relevant facts."
+      }
+    ],
+    "keywords": ["judge powers", "questions", "documents"],
+    "oldEvidenceActSection": "165",
+    "relatedSections": ["136", "166"]
+  },
+  {
+    "id": "BSA_166",
+    "sectionNumber": "166",
+    "title": "Power of Jury or Assessors to Put Questions",
+    "chapter": "Chapter X - Examination of Witnesses",
+    "category": "Court Procedure",
+    "officialText": "Where assessors are appointed in accordance with law, they may put questions to witnesses through or with the permission of the Judge.",
+    "simpleExplanation": "Persons assisting the Court may ask questions through the Judge when permitted by law.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "An assessor seeks clarification on a witness's testimony.",
+      "Questions are routed through the presiding Judge."
+    ],
+    "faqs": [
+      {
+        "question": "Can assessors ask questions directly?",
+        "answer": "Only in accordance with the law and under the Judge's supervision."
+      }
+    ],
+    "keywords": ["assessor", "questions", "court procedure"],
+    "oldEvidenceActSection": "166",
+    "relatedSections": ["165", "167"]
+  },
+  {
+    "id": "BSA_167",
+    "sectionNumber": "167",
+    "title": "No New Trial for Improper Admission or Rejection of Evidence",
+    "chapter": "Chapter XI - Miscellaneous",
+    "category": "Miscellaneous",
+    "officialText": "The improper admission or rejection of evidence shall not by itself be a ground for a new trial or reversal of a decision if sufficient evidence exists to justify the decision and no substantial injustice has occurred.",
+    "simpleExplanation": "A case will not automatically be retried merely because some evidence was wrongly admitted or excluded, unless it affected the outcome.",
+    "punishment": "Not Applicable",
+    "examples": [
+      "A minor evidentiary error that does not affect the final judgment.",
+      "A decision supported by ample independent evidence."
+    ],
+    "faqs": [
+      {
+        "question": "Will every evidentiary mistake result in a retrial?",
+        "answer": "No. Only errors causing substantial injustice are likely to affect the outcome."
+      }
+    ],
+    "keywords": ["evidence", "appeal", "retrial"],
+    "oldEvidenceActSection": "167",
+    "relatedSections": []
+  }
+]
