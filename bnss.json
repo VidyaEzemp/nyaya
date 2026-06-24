@@ -24,7 +24,7 @@
       "commencement",
       "BNSS"
     ],
-    "oldCrPCSection": "1",
+    "correspondingSection": "1",
     "relatedSections": [
       "2"
     ]
@@ -55,7 +55,7 @@
       "victim",
       "cognizable offence"
     ],
-    "oldCrPCSection": "2",
+    "correspondingSection": "2",
     "relatedSections": [
       "1",
       "3"
@@ -86,7 +86,7 @@
       "executive magistrate",
       "interpretation"
     ],
-    "oldCrPCSection": "3",
+    "correspondingSection": "3",
     "relatedSections": [
       "2",
       "4"
@@ -117,7 +117,7 @@
       "BNS",
       "procedure"
     ],
-    "oldCrPCSection": "4",
+    "correspondingSection": "4",
     "relatedSections": [
       "5"
     ]
@@ -146,7 +146,7 @@
       "special law",
       "local law"
     ],
-    "oldCrPCSection": "5",
+    "correspondingSection": "5",
     "relatedSections": [
       "4"
     ]
@@ -175,7 +175,7 @@
       "sessions court",
       "magistrate"
     ],
-    "oldCrPCSection": "6",
+    "correspondingSection": "6",
     "relatedSections": [
       "7",
       "8"
@@ -206,7 +206,7 @@
       "sub-division",
       "jurisdiction"
     ],
-    "oldCrPCSection": "7",
+    "correspondingSection": "7",
     "relatedSections": [
       "6",
       "8"
@@ -236,7 +236,7 @@
       "sessions judge",
       "high court"
     ],
-    "oldCrPCSection": "9",
+    "correspondingSection": "9",
     "relatedSections": [
       "9",
       "10"
@@ -267,7 +267,7 @@
       "first class",
       "second class"
     ],
-    "oldCrPCSection": "11",
+    "correspondingSection": "11",
     "relatedSections": [
       "10",
       "11"
@@ -297,7 +297,7 @@
       "CJM",
       "district court"
     ],
-    "oldCrPCSection": "12",
+    "correspondingSection": "12",
     "relatedSections": [
       "9",
       "11"
@@ -327,7 +327,7 @@
       "judicial powers",
       "high court"
     ],
-    "oldCrPCSection": "13",
+    "correspondingSection": "13",
     "relatedSections": [
       "9",
       "10",
@@ -358,7 +358,7 @@
       "magistrate",
       "district"
     ],
-    "oldCrPCSection": "14",
+    "correspondingSection": "14",
     "relatedSections": [
       "11",
       "13"
@@ -388,7 +388,7 @@
       "chief judicial magistrate",
       "sessions judge"
     ],
-    "oldCrPCSection": "15",
+    "correspondingSection": "15",
     "relatedSections": [
       "12",
       "14"
@@ -418,7 +418,7 @@
       "district magistrate",
       "state government"
     ],
-    "oldCrPCSection": "20",
+    "correspondingSection": "20",
     "relatedSections": [
       "15",
       "16"
@@ -447,7 +447,7 @@
       "special executive magistrate",
       "executive powers"
     ],
-    "oldCrPCSection": "21",
+    "correspondingSection": "21",
     "relatedSections": [
       "14",
       "16"
@@ -477,7 +477,7 @@
       "jurisdiction",
       "district"
     ],
-    "oldCrPCSection": "22",
+    "correspondingSection": "22",
     "relatedSections": [
       "14",
       "17"
@@ -507,7 +507,7 @@
       "district magistrate",
       "subordination"
     ],
-    "oldCrPCSection": "23",
+    "correspondingSection": "23",
     "relatedSections": [
       "16",
       "18"
@@ -537,7 +537,7 @@
       "additional public prosecutor",
       "special public prosecutor"
     ],
-    "oldCrPCSection": "24",
+    "correspondingSection": "24",
     "relatedSections": [
       "19",
       "20"
@@ -567,7 +567,7 @@
       "APP",
       "prosecution"
     ],
-    "oldCrPCSection": "25",
+    "correspondingSection": "25",
     "relatedSections": [
       "18",
       "20"
@@ -597,7 +597,7 @@
       "director of prosecution",
       "criminal prosecution"
     ],
-    "oldCrPCSection": "25A",
+    "correspondingSection": "25A",
     "relatedSections": [
       "18",
       "19",
@@ -629,7 +629,7 @@
       "director",
       "criminal cases"
     ],
-    "oldCrPCSection": "25A",
+    "correspondingSection": "25A",
     "relatedSections": [
       "18",
       "19",
@@ -661,7 +661,7 @@
       "jurisdiction",
       "offence"
     ],
-    "oldCrPCSection": "26",
+    "correspondingSection": "26",
     "relatedSections": [
       "23",
       "24"
@@ -692,7 +692,7 @@
       "high court",
       "punishment"
     ],
-    "oldCrPCSection": "28",
+    "correspondingSection": "28",
     "relatedSections": [
       "24",
       "25"
@@ -723,7 +723,7 @@
       "punishment",
       "court powers"
     ],
-    "oldCrPCSection": "29",
+    "correspondingSection": "29",
     "relatedSections": [
       "23",
       "25"
@@ -754,7 +754,7 @@
       "imprisonment",
       "sentence"
     ],
-    "oldCrPCSection": "30",
+    "correspondingSection": "30",
     "relatedSections": [
       "24",
       "26"
@@ -784,7 +784,7 @@
       "concurrent sentence",
       "consecutive sentence"
     ],
-    "oldCrPCSection": "31",
+    "correspondingSection": "31",
     "relatedSections": [
       "25",
       "27"
@@ -815,7 +815,7 @@
       "high court",
       "state government"
     ],
-    "oldCrPCSection": "32",
+    "correspondingSection": "32",
     "relatedSections": [
       "28"
     ]
@@ -845,7 +845,7 @@
       "appointment",
       "promotion"
     ],
-    "oldCrPCSection": "33",
+    "correspondingSection": "33",
     "relatedSections": [
       "27",
       "29"
@@ -875,7 +875,7 @@
       "powers",
       "authority"
     ],
-    "oldCrPCSection": "34",
+    "correspondingSection": "34",
     "relatedSections": [
       "28",
       "30"
@@ -906,7 +906,7 @@
       "magistrate",
       "continuity"
     ],
-    "oldCrPCSection": "35",
+    "correspondingSection": "35",
     "relatedSections": [
       "31"
     ]
@@ -936,7 +936,7 @@
       "SHO",
       "jurisdiction"
     ],
-    "oldCrPCSection": "36",
+    "correspondingSection": "36",
     "relatedSections": [
       "32",
       "33"
@@ -967,7 +967,7 @@
       "magistrate",
       "public order"
     ],
-    "oldCrPCSection": "37",
+    "correspondingSection": "37",
     "relatedSections": [
       "31",
       "33"
@@ -998,7 +998,7 @@
       "assistance",
       "court order"
     ],
-    "oldCrPCSection": "38",
+    "correspondingSection": "38",
     "relatedSections": [
       "32",
       "34"
@@ -1029,7 +1029,7 @@
       "police",
       "offence"
     ],
-    "oldCrPCSection": "39",
+    "correspondingSection": "39",
     "relatedSections": [
       "35"
     ]
@@ -1058,7 +1058,7 @@
       "crime reporting",
       "police assistance"
     ],
-    "oldCrPCSection": "40",
+    "correspondingSection": "40",
     "relatedSections": [
       "34",
       "36"
@@ -1089,7 +1089,7 @@
       "name",
       "address"
     ],
-    "oldCrPCSection": "42",
+    "correspondingSection": "42",
     "relatedSections": [
       "37",
       "38"
@@ -1119,7 +1119,7 @@
       "private person",
       "cognizable offence"
     ],
-    "oldCrPCSection": "43",
+    "correspondingSection": "43",
     "relatedSections": [
       "36",
       "38"
@@ -1149,7 +1149,7 @@
       "arrest",
       "custody"
     ],
-    "oldCrPCSection": "44",
+    "correspondingSection": "44",
     "relatedSections": [
       "37",
       "39"
@@ -1180,7 +1180,7 @@
       "protection",
       "government sanction"
     ],
-    "oldCrPCSection": "45",
+    "correspondingSection": "45",
     "relatedSections": [
       "40"
     ]
@@ -1210,7 +1210,7 @@
       "police",
       "detention"
     ],
-    "oldCrPCSection": "46",
+    "correspondingSection": "46",
     "relatedSections": [
       "41",
       "42"
@@ -1241,7 +1241,7 @@
       "custody",
       "judicial powers"
     ],
-    "oldCrPCSection": "44",
+    "correspondingSection": "44",
     "relatedSections": [
       "40",
       "42"
@@ -1272,7 +1272,7 @@
       "arrest",
       "official duty"
     ],
-    "oldCrPCSection": "45",
+    "correspondingSection": "45",
     "relatedSections": [
       "41",
       "43"
@@ -1303,7 +1303,7 @@
       "force",
       "police powers"
     ],
-    "oldCrPCSection": "46",
+    "correspondingSection": "46",
     "relatedSections": [
       "44",
       "45"
@@ -1334,7 +1334,7 @@
       "premises",
       "entry"
     ],
-    "oldCrPCSection": "47",
+    "correspondingSection": "47",
     "relatedSections": [
       "43",
       "45"
@@ -1365,7 +1365,7 @@
       "arrest",
       "police"
     ],
-    "oldCrPCSection": "48",
+    "correspondingSection": "48",
     "relatedSections": [
       "44",
       "46"
@@ -1396,7 +1396,7 @@
       "custody",
       "arrest"
     ],
-    "oldCrPCSection": "49",
+    "correspondingSection": "49",
     "relatedSections": [
       "47"
     ]
@@ -1426,7 +1426,7 @@
       "rights",
       "accused"
     ],
-    "oldCrPCSection": "50",
+    "correspondingSection": "50",
     "relatedSections": [
       "48"
     ]
@@ -1456,7 +1456,7 @@
       "rights",
       "custody"
     ],
-    "oldCrPCSection": "50A",
+    "correspondingSection": "50A",
     "relatedSections": [
       "47",
       "49"
@@ -1487,7 +1487,7 @@
       "arrested person",
       "receipt"
     ],
-    "oldCrPCSection": "51",
+    "correspondingSection": "51",
     "relatedSections": [
       "50"
     ]
@@ -1517,7 +1517,7 @@
       "arrest",
       "evidence"
     ],
-    "oldCrPCSection": "52",
+    "correspondingSection": "52",
     "relatedSections": [
       "49",
       "51"
@@ -1548,7 +1548,7 @@
       "evidence",
       "doctor"
     ],
-    "oldCrPCSection": "53",
+    "correspondingSection": "53",
     "relatedSections": [
       "52",
       "53"
@@ -1579,7 +1579,7 @@
       "DNA",
       "evidence"
     ],
-    "oldCrPCSection": "53A",
+    "correspondingSection": "53A",
     "relatedSections": [
       "51",
       "53"
@@ -1610,7 +1610,7 @@
       "injuries",
       "health"
     ],
-    "oldCrPCSection": "54",
+    "correspondingSection": "54",
     "relatedSections": [
       "52",
       "54"
@@ -1641,7 +1641,7 @@
       "TIP",
       "evidence"
     ],
-    "oldCrPCSection": "54A",
+    "correspondingSection": "54A",
     "relatedSections": [
       "53",
       "55"
@@ -1671,7 +1671,7 @@
       "arrest",
       "written order"
     ],
-    "oldCrPCSection": "55",
+    "correspondingSection": "55",
     "relatedSections": [
       "54",
       "56"
@@ -1702,7 +1702,7 @@
       "safety",
       "accused"
     ],
-    "oldCrPCSection": "55A",
+    "correspondingSection": "55A",
     "relatedSections": [
       "57"
     ]
@@ -1732,7 +1732,7 @@
       "custody",
       "production"
     ],
-    "oldCrPCSection": "56",
+    "correspondingSection": "56",
     "relatedSections": [
       "58"
     ]
@@ -1762,7 +1762,7 @@
       "detention",
       "magistrate"
     ],
-    "oldCrPCSection": "57",
+    "correspondingSection": "57",
     "relatedSections": [
       "57",
       "59"
@@ -1792,7 +1792,7 @@
       "district magistrate",
       "police station"
     ],
-    "oldCrPCSection": "58",
+    "correspondingSection": "58",
     "relatedSections": [
       "58",
       "60"
@@ -1823,7 +1823,7 @@
       "bond",
       "custody"
     ],
-    "oldCrPCSection": "59",
+    "correspondingSection": "59",
     "relatedSections": [
       "59",
       "61"
@@ -1854,7 +1854,7 @@
       "re-arrest",
       "pursuit"
     ],
-    "oldCrPCSection": "60",
+    "correspondingSection": "60",
     "relatedSections": [
       "60",
       "62"
@@ -1884,7 +1884,7 @@
       "procedure",
       "legal authority"
     ],
-    "oldCrPCSection": "60A",
+    "correspondingSection": "60A",
     "relatedSections": [
       "61",
       "63"
@@ -1915,7 +1915,7 @@
       "appearance",
       "seal"
     ],
-    "oldCrPCSection": "61",
+    "correspondingSection": "61",
     "relatedSections": [
       "64",
       "65"
@@ -1945,7 +1945,7 @@
       "service",
       "electronic communication"
     ],
-    "oldCrPCSection": "62",
+    "correspondingSection": "62",
     "relatedSections": [
       "65",
       "70"
@@ -1976,7 +1976,7 @@
       "society",
       "summons"
     ],
-    "oldCrPCSection": "63",
+    "correspondingSection": "63",
     "relatedSections": [
       "64",
       "66"
@@ -2006,7 +2006,7 @@
       "service",
       "summons"
     ],
-    "oldCrPCSection": "64",
+    "correspondingSection": "64",
     "relatedSections": [
       "67"
     ]
@@ -2035,7 +2035,7 @@
       "service",
       "summons"
     ],
-    "oldCrPCSection": "65",
+    "correspondingSection": "65",
     "relatedSections": [
       "66",
       "68"
@@ -2065,7 +2065,7 @@
       "summons",
       "service"
     ],
-    "oldCrPCSection": "66",
+    "correspondingSection": "66",
     "relatedSections": [
       "69"
     ]
@@ -2094,7 +2094,7 @@
       "summons",
       "service"
     ],
-    "oldCrPCSection": "67",
+    "correspondingSection": "67",
     "relatedSections": [
       "70"
     ]
@@ -2124,7 +2124,7 @@
       "affidavit",
       "electronic service"
     ],
-    "oldCrPCSection": "68",
+    "correspondingSection": "68",
     "relatedSections": [
       "71",
       "72"
@@ -2154,7 +2154,7 @@
       "summons",
       "electronic service"
     ],
-    "oldCrPCSection": "69",
+    "correspondingSection": "69",
     "relatedSections": [
       "70",
       "72"
@@ -2184,7 +2184,7 @@
       "arrest",
       "court order"
     ],
-    "oldCrPCSection": "70",
+    "correspondingSection": "70",
     "relatedSections": [
       "73",
       "74"
@@ -2214,7 +2214,7 @@
       "police officer",
       "execution"
     ],
-    "oldCrPCSection": "71",
+    "correspondingSection": "71",
     "relatedSections": [
       "72",
       "74"
@@ -2244,7 +2244,7 @@
       "private person",
       "execution"
     ],
-    "oldCrPCSection": "72",
+    "correspondingSection": "72",
     "relatedSections": [
       "73",
       "75"
@@ -2274,7 +2274,7 @@
       "execution",
       "multiple officers"
     ],
-    "oldCrPCSection": "73",
+    "correspondingSection": "73",
     "relatedSections": [
       "74",
       "76"
@@ -2304,7 +2304,7 @@
       "India",
       "jurisdiction"
     ],
-    "oldCrPCSection": "77",
+    "correspondingSection": "77",
     "relatedSections": [
       "77",
       "80"
@@ -2334,7 +2334,7 @@
       "jurisdiction",
       "execution"
     ],
-    "oldCrPCSection": "78",
+    "correspondingSection": "78",
     "relatedSections": [
       "78",
       "80"
@@ -2364,7 +2364,7 @@
       "endorsement",
       "police"
     ],
-    "oldCrPCSection": "79",
+    "correspondingSection": "79",
     "relatedSections": [
       "77",
       "79"
@@ -2394,7 +2394,7 @@
       "warrant",
       "transfer"
     ],
-    "oldCrPCSection": "80",
+    "correspondingSection": "80",
     "relatedSections": [
       "80"
     ]
@@ -2424,7 +2424,7 @@
       "warrant",
       "arrest"
     ],
-    "oldCrPCSection": "81",
+    "correspondingSection": "81",
     "relatedSections": [
       "81",
       "82"
@@ -2455,7 +2455,7 @@
       "warrant",
       "appearance"
     ],
-    "oldCrPCSection": "82",
+    "correspondingSection": "82",
     "relatedSections": [
       "82",
       "83"
@@ -2486,7 +2486,7 @@
       "absconding",
       "court"
     ],
-    "oldCrPCSection": "83",
+    "correspondingSection": "83",
     "relatedSections": [
       "81",
       "83",
@@ -2518,7 +2518,7 @@
       "attachment",
       "property"
     ],
-    "oldCrPCSection": "84",
+    "correspondingSection": "84",
     "relatedSections": [
       "82",
       "84"
@@ -2549,7 +2549,7 @@
       "sale",
       "property"
     ],
-    "oldCrPCSection": "85",
+    "correspondingSection": "85",
     "relatedSections": [
       "83",
       "85"
@@ -2579,7 +2579,7 @@
       "summons",
       "court order"
     ],
-    "oldCrPCSection": "87",
+    "correspondingSection": "87",
     "relatedSections": [
       "86"
     ]
@@ -2608,7 +2608,7 @@
       "appearance",
       "surety"
     ],
-    "oldCrPCSection": "88",
+    "correspondingSection": "88",
     "relatedSections": [
       "87"
     ]
@@ -2637,7 +2637,7 @@
       "breach",
       "arrest"
     ],
-    "oldCrPCSection": "89",
+    "correspondingSection": "89",
     "relatedSections": [
       "86",
       "88"
@@ -2667,7 +2667,7 @@
       "warrant",
       "procedure"
     ],
-    "oldCrPCSection": "90",
+    "correspondingSection": "90",
     "relatedSections": [
       "89",
       "91"
@@ -2698,7 +2698,7 @@
       "evidence",
       "summons"
     ],
-    "oldCrPCSection": "91",
+    "correspondingSection": "91",
     "relatedSections": [
       "90"
     ]
@@ -2728,7 +2728,7 @@
       "evidence",
       "documents"
     ],
-    "oldCrPCSection": "92",
+    "correspondingSection": "92",
     "relatedSections": [
       "89",
       "91"
@@ -2759,7 +2759,7 @@
       "electronic records",
       "evidence"
     ],
-    "oldCrPCSection": "93",
+    "correspondingSection": "93",
     "relatedSections": [
       "92",
       "93"
@@ -2790,7 +2790,7 @@
       "counterfeit currency",
       "search"
     ],
-    "oldCrPCSection": "94",
+    "correspondingSection": "94",
     "relatedSections": [
       "91",
       "93"
@@ -2820,7 +2820,7 @@
       "investigation",
       "court order"
     ],
-    "oldCrPCSection": "95",
+    "correspondingSection": "95",
     "relatedSections": [
       "94"
     ]
@@ -2849,7 +2849,7 @@
       "forfeiture",
       "search warrant"
     ],
-    "oldCrPCSection": "95",
+    "correspondingSection": "95",
     "relatedSections": [
       "95"
     ]
@@ -2878,7 +2878,7 @@
       "high court",
       "publication"
     ],
-    "oldCrPCSection": "96",
+    "correspondingSection": "96",
     "relatedSections": [
       "94",
       "96"
@@ -2908,7 +2908,7 @@
       "search warrant",
       "rescue"
     ],
-    "oldCrPCSection": "97",
+    "correspondingSection": "97",
     "relatedSections": [
       "97"
     ]
@@ -2938,7 +2938,7 @@
       "child",
       "woman"
     ],
-    "oldCrPCSection": "98",
+    "correspondingSection": "98",
     "relatedSections": [
       "96",
       "98"
@@ -2968,7 +2968,7 @@
       "execution",
       "police"
     ],
-    "oldCrPCSection": "99",
+    "correspondingSection": "99",
     "relatedSections": [
       "99"
     ]
@@ -2998,7 +2998,7 @@
       "entry",
       "warrant"
     ],
-    "oldCrPCSection": "100",
+    "correspondingSection": "100",
     "relatedSections": [
       "100"
     ]
@@ -3028,7 +3028,7 @@
       "property",
       "jurisdiction"
     ],
-    "oldCrPCSection": "101",
+    "correspondingSection": "101",
     "relatedSections": [
       "101"
     ]
@@ -3058,7 +3058,7 @@
       "restoration",
       "unlawful detention"
     ],
-    "oldCrPCSection": "98",
+    "correspondingSection": "98",
     "relatedSections": [
       "100",
       "102"
@@ -3088,7 +3088,7 @@
       "execution",
       "procedure"
     ],
-    "oldCrPCSection": "99",
+    "correspondingSection": "99",
     "relatedSections": [
       "101",
       "103"
@@ -3119,7 +3119,7 @@
       "seizure list",
       "occupant"
     ],
-    "oldCrPCSection": "100",
+    "correspondingSection": "100",
     "relatedSections": [
       "102",
       "104"
@@ -3149,7 +3149,7 @@
       "jurisdiction",
       "search warrant"
     ],
-    "oldCrPCSection": "101",
+    "correspondingSection": "101",
     "relatedSections": [
       "103",
       "105"
@@ -3180,7 +3180,7 @@
       "seizure",
       "digital evidence"
     ],
-    "oldCrPCSection": "New Provision",
+    "correspondingSection": "New Provision",
     "relatedSections": [
       "104",
       "106"
@@ -3210,7 +3210,7 @@
       "stolen property",
       "police powers"
     ],
-    "oldCrPCSection": "102",
+    "correspondingSection": "102",
     "relatedSections": [
       "107"
     ]
@@ -3240,7 +3240,7 @@
       "forfeiture",
       "restoration"
     ],
-    "oldCrPCSection": "103",
+    "correspondingSection": "103",
     "relatedSections": [
       "106",
       "108"
@@ -3270,7 +3270,7 @@
       "search",
       "supervision"
     ],
-    "oldCrPCSection": "103",
+    "correspondingSection": "103",
     "relatedSections": [
       "109"
     ]
@@ -3299,7 +3299,7 @@
       "document",
       "evidence"
     ],
-    "oldCrPCSection": "104",
+    "correspondingSection": "104",
     "relatedSections": [
       "108",
       "110"
@@ -3330,7 +3330,7 @@
       "warrant",
       "reciprocal arrangements"
     ],
-    "oldCrPCSection": "105",
+    "correspondingSection": "105",
     "relatedSections": [
       "111"
     ]
@@ -3361,7 +3361,7 @@
       "tracing",
       "identifying"
     ],
-    "oldCrPCSection": "105A",
+    "correspondingSection": "105A",
     "relatedSections": [
       "112",
       "113"
@@ -3391,7 +3391,7 @@
       "foreign evidence",
       "international investigation"
     ],
-    "oldCrPCSection": "166A",
+    "correspondingSection": "166A",
     "relatedSections": [
       "111",
       "113"
@@ -3421,7 +3421,7 @@
       "international assistance",
       "evidence"
     ],
-    "oldCrPCSection": "166B",
+    "correspondingSection": "166B",
     "relatedSections": [
       "112",
       "114"
@@ -3451,7 +3451,7 @@
       "custody",
       "international cooperation"
     ],
-    "oldCrPCSection": "166A related provision",
+    "correspondingSection": "166A related provision",
     "relatedSections": [
       "113",
       "115"
@@ -3481,7 +3481,7 @@
       "forfeiture",
       "criminal assets"
     ],
-    "oldCrPCSection": "105C",
+    "correspondingSection": "105C",
     "relatedSections": [
       "116",
       "117"
@@ -3511,7 +3511,7 @@
       "tracing assets",
       "crime proceeds"
     ],
-    "oldCrPCSection": "105D",
+    "correspondingSection": "105D",
     "relatedSections": [
       "117",
       "118"
@@ -3542,7 +3542,7 @@
       "property",
       "crime proceeds"
     ],
-    "oldCrPCSection": "105E",
+    "correspondingSection": "105E",
     "relatedSections": [
       "116",
       "118"
@@ -3572,7 +3572,7 @@
       "forfeited property",
       "management"
     ],
-    "oldCrPCSection": "105F",
+    "correspondingSection": "105F",
     "relatedSections": [
       "117",
       "119"
@@ -3602,7 +3602,7 @@
       "proceeds of crime",
       "show cause"
     ],
-    "oldCrPCSection": "105G",
+    "correspondingSection": "105G",
     "relatedSections": [
       "118",
       "120"
@@ -3632,7 +3632,7 @@
       "proceeds of crime",
       "confiscation"
     ],
-    "oldCrPCSection": "105H",
+    "correspondingSection": "105H",
     "relatedSections": [
       "119",
       "121"
@@ -3663,7 +3663,7 @@
       "property",
       "market value"
     ],
-    "oldCrPCSection": "105-I",
+    "correspondingSection": "105-I",
     "relatedSections": [
       "120",
       "122"
@@ -3694,7 +3694,7 @@
       "void",
       "forfeiture"
     ],
-    "oldCrPCSection": "105-J",
+    "correspondingSection": "105-J",
     "relatedSections": [
       "121",
       "123"
@@ -3724,7 +3724,7 @@
       "contracting state",
       "international cooperation"
     ],
-    "oldCrPCSection": "105-K",
+    "correspondingSection": "105-K",
     "relatedSections": [
       "124"
     ]
@@ -3753,7 +3753,7 @@
       "notification",
       "international assistance"
     ],
-    "oldCrPCSection": "105-L",
+    "correspondingSection": "105-L",
     "relatedSections": [
       "123",
       "125"
@@ -3783,7 +3783,7 @@
       "security",
       "conviction"
     ],
-    "oldCrPCSection": "106",
+    "correspondingSection": "106",
     "relatedSections": [
       "126"
     ]
@@ -3812,7 +3812,7 @@
       "preventive action",
       "bond"
     ],
-    "oldCrPCSection": "107",
+    "correspondingSection": "107",
     "relatedSections": [
       "127"
     ]
@@ -3841,7 +3841,7 @@
       "public order",
       "security bond"
     ],
-    "oldCrPCSection": "108",
+    "correspondingSection": "108",
     "relatedSections": [
       "128"
     ]
@@ -3870,7 +3870,7 @@
       "cognizable offence",
       "security"
     ],
-    "oldCrPCSection": "109",
+    "correspondingSection": "109",
     "relatedSections": [
       "129"
     ]
@@ -3899,7 +3899,7 @@
       "security",
       "bond"
     ],
-    "oldCrPCSection": "110",
+    "correspondingSection": "110",
     "relatedSections": [
       "130"
     ]
@@ -3929,7 +3929,7 @@
       "surety",
       "magistrate"
     ],
-    "oldCrPCSection": "111",
+    "correspondingSection": "111",
     "relatedSections": [
       "131",
       "132"
@@ -3959,7 +3959,7 @@
       "court",
       "security proceedings"
     ],
-    "oldCrPCSection": "112",
+    "correspondingSection": "112",
     "relatedSections": [
       "130",
       "132"
@@ -3989,7 +3989,7 @@
       "warrant",
       "appearance"
     ],
-    "oldCrPCSection": "113",
+    "correspondingSection": "113",
     "relatedSections": [
       "131",
       "133"
@@ -4019,7 +4019,7 @@
       "summons",
       "warrant"
     ],
-    "oldCrPCSection": "114",
+    "correspondingSection": "114",
     "relatedSections": [
       "132",
       "134"
@@ -4049,7 +4049,7 @@
       "advocate",
       "exemption"
     ],
-    "oldCrPCSection": "115",
+    "correspondingSection": "115",
     "relatedSections": [
       "133",
       "135"
@@ -4079,7 +4079,7 @@
       "evidence",
       "security proceedings"
     ],
-    "oldCrPCSection": "116",
+    "correspondingSection": "116",
     "relatedSections": [
       "136"
     ]
@@ -4108,7 +4108,7 @@
       "security",
       "sureties"
     ],
-    "oldCrPCSection": "117",
+    "correspondingSection": "117",
     "relatedSections": [
       "137"
     ]
@@ -4137,7 +4137,7 @@
       "inquiry",
       "proceedings"
     ],
-    "oldCrPCSection": "118",
+    "correspondingSection": "118",
     "relatedSections": [
       "136",
       "138"
@@ -4165,7 +4165,7 @@
       "bond period",
       "security"
     ],
-    "oldCrPCSection": "119",
+    "correspondingSection": "119",
     "relatedSections": [
       "139"
     ]
@@ -4193,7 +4193,7 @@
       "conditions",
       "surety"
     ],
-    "oldCrPCSection": "120",
+    "correspondingSection": "120",
     "relatedSections": [
       "140"
     ]
@@ -4222,7 +4222,7 @@
       "bond",
       "security"
     ],
-    "oldCrPCSection": "121",
+    "correspondingSection": "121",
     "relatedSections": [
       "141"
     ]
@@ -4252,7 +4252,7 @@
       "imprisonment",
       "surety"
     ],
-    "oldCrPCSection": "122",
+    "correspondingSection": "122",
     "relatedSections": [
       "142",
       "143"
@@ -4282,7 +4282,7 @@
       "security",
       "imprisonment"
     ],
-    "oldCrPCSection": "123",
+    "correspondingSection": "123",
     "relatedSections": [
       "141",
       "143"
@@ -4311,7 +4311,7 @@
       "security",
       "release"
     ],
-    "oldCrPCSection": "124",
+    "correspondingSection": "124",
     "relatedSections": [
       "144"
     ]
@@ -4339,7 +4339,7 @@
       "magistrate",
       "nuisance"
     ],
-    "oldCrPCSection": "133",
+    "correspondingSection": "133",
     "relatedSections": [
       "145"
     ]
@@ -4368,7 +4368,7 @@
       "public safety",
       "order"
     ],
-    "oldCrPCSection": "133",
+    "correspondingSection": "133",
     "relatedSections": [
       "146",
       "147"
@@ -4398,7 +4398,7 @@
       "notification",
       "order"
     ],
-    "oldCrPCSection": "134",
+    "correspondingSection": "134",
     "relatedSections": [
       "145",
       "147"
@@ -4428,7 +4428,7 @@
       "order",
       "magistrate"
     ],
-    "oldCrPCSection": "135",
+    "correspondingSection": "135",
     "relatedSections": [
       "148"
     ]
@@ -4456,7 +4456,7 @@
       "order",
       "enforcement"
     ],
-    "oldCrPCSection": "136",
+    "correspondingSection": "136",
     "relatedSections": [
       "149"
     ]
@@ -4484,7 +4484,7 @@
       "inquiry",
       "pathway"
     ],
-    "oldCrPCSection": "137",
+    "correspondingSection": "137",
     "relatedSections": [
       "150"
     ]
@@ -4512,7 +4512,7 @@
       "inquiry",
       "nuisance"
     ],
-    "oldCrPCSection": "138",
+    "correspondingSection": "138",
     "relatedSections": [
       "151"
     ]
@@ -4542,7 +4542,7 @@
       "armed forces",
       "public order"
     ],
-    "oldCrPCSection": "132",
+    "correspondingSection": "132",
     "relatedSections": [
       "148",
       "149",
@@ -4573,7 +4573,7 @@
       "dangerous building",
       "dangerous animal"
     ],
-    "oldCrPCSection": "133",
+    "correspondingSection": "133",
     "relatedSections": [
       "153",
       "154",
@@ -4604,7 +4604,7 @@
       "notification",
       "proclamation"
     ],
-    "oldCrPCSection": "134",
+    "correspondingSection": "134",
     "relatedSections": [
       "152",
       "154"
@@ -4634,7 +4634,7 @@
       "appearance",
       "AV conferencing"
     ],
-    "oldCrPCSection": "135",
+    "correspondingSection": "135",
     "relatedSections": [
       "155"
     ]
@@ -4663,7 +4663,7 @@
       "non-compliance",
       "order absolute"
     ],
-    "oldCrPCSection": "136",
+    "correspondingSection": "136",
     "relatedSections": [
       "154",
       "160"
@@ -4693,7 +4693,7 @@
       "river",
       "inquiry"
     ],
-    "oldCrPCSection": "137",
+    "correspondingSection": "137",
     "relatedSections": [
       "157"
     ]
@@ -4721,7 +4721,7 @@
       "evidence",
       "summons case"
     ],
-    "oldCrPCSection": "138",
+    "correspondingSection": "138",
     "relatedSections": [
       "158",
       "160"
@@ -4751,7 +4751,7 @@
       "local investigation",
       "inspection"
     ],
-    "oldCrPCSection": "139",
+    "correspondingSection": "139",
     "relatedSections": [
       "159"
     ]
@@ -4780,7 +4780,7 @@
       "costs",
       "expert report"
     ],
-    "oldCrPCSection": "140",
+    "correspondingSection": "140",
     "relatedSections": [
       "158",
       "160"
@@ -4811,7 +4811,7 @@
       "costs",
       "disobedience"
     ],
-    "oldCrPCSection": "141",
+    "correspondingSection": "141",
     "relatedSections": [
       "161"
     ]
@@ -4840,7 +4840,7 @@
       "imminent danger",
       "public safety"
     ],
-    "oldCrPCSection": "142",
+    "correspondingSection": "142",
     "relatedSections": [
       "152",
       "160",
@@ -4871,7 +4871,7 @@
       "prohibition",
       "magistrate"
     ],
-    "oldCrPCSection": "143",
+    "correspondingSection": "143",
     "relatedSections": [
       "161",
       "163"
@@ -4902,7 +4902,7 @@
       "public order",
       "riot"
     ],
-    "oldCrPCSection": "144",
+    "correspondingSection": "144",
     "relatedSections": [
       "162",
       "164"
@@ -4932,7 +4932,7 @@
       "water dispute",
       "breach of peace"
     ],
-    "oldCrPCSection": "145",
+    "correspondingSection": "145",
     "relatedSections": [
       "165",
       "166"
@@ -4962,7 +4962,7 @@
       "receiver",
       "property dispute"
     ],
-    "oldCrPCSection": "146",
+    "correspondingSection": "146",
     "relatedSections": [
       "164",
       "166"
@@ -4992,7 +4992,7 @@
       "right of way",
       "water rights"
     ],
-    "oldCrPCSection": "147",
+    "correspondingSection": "147",
     "relatedSections": [
       "164",
       "167"
@@ -5022,7 +5022,7 @@
       "inspection",
       "evidence"
     ],
-    "oldCrPCSection": "148",
+    "correspondingSection": "148",
     "relatedSections": [
       "164",
       "165",
@@ -5053,7 +5053,7 @@
       "prevention",
       "cognizable offence"
     ],
-    "oldCrPCSection": "149",
+    "correspondingSection": "149",
     "relatedSections": [
       "169",
       "170"
@@ -5083,7 +5083,7 @@
       "information",
       "cognizable offence"
     ],
-    "oldCrPCSection": "150",
+    "correspondingSection": "150",
     "relatedSections": [
       "168",
       "170"
@@ -5113,7 +5113,7 @@
       "cognizable offence",
       "police powers"
     ],
-    "oldCrPCSection": "151",
+    "correspondingSection": "151",
     "relatedSections": [
       "168",
       "169"
@@ -5147,7 +5147,7 @@
       "police powers",
       "prevention"
     ],
-    "oldCrPCSection": "152",
+    "correspondingSection": "152",
     "relatedSections": [
       "168",
       "172"
@@ -5181,7 +5181,7 @@
       "police",
       "detention"
     ],
-    "oldCrPCSection": "153",
+    "correspondingSection": "153",
     "relatedSections": [
       "171",
       "173"
@@ -5219,7 +5219,7 @@
       "cognizable offence",
       "information"
     ],
-    "oldCrPCSection": "154",
+    "correspondingSection": "154",
     "relatedSections": [
       "174",
       "175"
@@ -5253,7 +5253,7 @@
       "magistrate",
       "investigation"
     ],
-    "oldCrPCSection": "155",
+    "correspondingSection": "155",
     "relatedSections": [
       "173",
       "175"
@@ -5286,7 +5286,7 @@
       "investigation",
       "cognizable offence"
     ],
-    "oldCrPCSection": "156",
+    "correspondingSection": "156",
     "relatedSections": [
       "176",
       "178"
@@ -5326,7 +5326,7 @@
       "crime scene",
       "magistrate report"
     ],
-    "oldCrPCSection": "157",
+    "correspondingSection": "157",
     "relatedSections": [
       "175",
       "177",
@@ -5362,7 +5362,7 @@
       "magistrate",
       "investigation"
     ],
-    "oldCrPCSection": "158",
+    "correspondingSection": "158",
     "relatedSections": [
       "176",
       "178"
@@ -5401,7 +5401,7 @@
       "investigation",
       "oversight"
     ],
-    "oldCrPCSection": "159",
+    "correspondingSection": "159",
     "relatedSections": [
       "175",
       "176",
@@ -5442,7 +5442,7 @@
       "senior citizen",
       "women"
     ],
-    "oldCrPCSection": "160",
+    "correspondingSection": "160",
     "relatedSections": [
       "180"
     ]
@@ -5480,7 +5480,7 @@
       "audio-video",
       "police examination"
     ],
-    "oldCrPCSection": "161",
+    "correspondingSection": "161",
     "relatedSections": [
       "179",
       "181",
@@ -5527,7 +5527,7 @@
       "instrument",
       "counterfeit tools"
     ],
-    "oldCrPCSection": "",
+    "correspondingSection": "",
     "relatedSections": [
       "178",
       "179",
@@ -5566,7 +5566,7 @@
       "voluntary statement",
       "confession"
     ],
-    "oldCrPCSection": "163",
+    "correspondingSection": "163",
     "relatedSections": [
       "181",
       "183"
@@ -5602,7 +5602,7 @@
       "voluntary confession",
       "video recording"
     ],
-    "oldCrPCSection": "164",
+    "correspondingSection": "164",
     "relatedSections": [
       "181",
       "182",
@@ -5638,7 +5638,7 @@
       "DNA evidence",
       "forensic evidence"
     ],
-    "oldCrPCSection": "164A",
+    "correspondingSection": "164A",
     "relatedSections": [
       "183",
       "185"
@@ -5670,7 +5670,7 @@
       "evidence",
       "videography"
     ],
-    "oldCrPCSection": "165",
+    "correspondingSection": "165",
     "relatedSections": [
       "186",
       "192"
@@ -5706,7 +5706,7 @@
       "evidence",
       "police powers"
     ],
-    "oldCrPCSection": "166",
+    "correspondingSection": "166",
     "relatedSections": [
       "185",
       "187",
@@ -5744,7 +5744,7 @@
       "sixty days",
       "magistrate"
     ],
-    "oldCrPCSection": "167",
+    "correspondingSection": "167",
     "relatedSections": [
       "176",
       "188",
@@ -5777,7 +5777,7 @@
       "police station",
       "reporting"
     ],
-    "oldCrPCSection": "168",
+    "correspondingSection": "168",
     "relatedSections": [
       "187",
       "189",
@@ -5814,7 +5814,7 @@
       "bail bond",
       "accused"
     ],
-    "oldCrPCSection": "169",
+    "correspondingSection": "169",
     "relatedSections": [
       "188",
       "190",
@@ -5851,7 +5851,7 @@
       "bailable offence",
       "prosecution"
     ],
-    "oldCrPCSection": "170",
+    "correspondingSection": "170",
     "relatedSections": [
       "188",
       "189",
@@ -5889,7 +5889,7 @@
       "court attendance",
       "restraint"
     ],
-    "oldCrPCSection": "171",
+    "correspondingSection": "171",
     "relatedSections": [
       "190",
       "192"
@@ -5924,7 +5924,7 @@
       "police records",
       "criminal court"
     ],
-    "oldCrPCSection": "172",
+    "correspondingSection": "172",
     "relatedSections": [
       "180",
       "191",
@@ -5961,7 +5961,7 @@
       "supplementary report",
       "magistrate"
     ],
-    "oldCrPCSection": "173",
+    "correspondingSection": "173",
     "relatedSections": [
       "188",
       "189",
@@ -5999,7 +5999,7 @@
       "unnatural death",
       "police inquiry"
     ],
-    "oldCrPCSection": "174",
+    "correspondingSection": "174",
     "relatedSections": [
       "195",
       "196"
@@ -6034,7 +6034,7 @@
       "inquest",
       "death inquiry"
     ],
-    "oldCrPCSection": "175",
+    "correspondingSection": "175",
     "relatedSections": [
       "194",
       "196"
@@ -6070,7 +6070,7 @@
       "cause of death",
       "exhumation"
     ],
-    "oldCrPCSection": "176",
+    "correspondingSection": "176",
     "relatedSections": [
       "194",
       "195",
@@ -6101,7 +6101,7 @@
       "criminal court",
       "local area"
     ],
-    "oldCrPCSection": "177",
+    "correspondingSection": "177",
     "relatedSections": [
       "198",
       "199"
@@ -6131,7 +6131,7 @@
       "multiple locations",
       "trial venue"
     ],
-    "oldCrPCSection": "178",
+    "correspondingSection": "178",
     "relatedSections": [
       "197",
       "199",
@@ -6162,7 +6162,7 @@
       "place of trial",
       "criminal courts"
     ],
-    "oldCrPCSection": "179",
+    "correspondingSection": "179",
     "relatedSections": [
       "197",
       "198",
@@ -6193,7 +6193,7 @@
       "criminal trial",
       "related acts"
     ],
-    "oldCrPCSection": "180",
+    "correspondingSection": "180",
     "relatedSections": [
       "198",
       "199",
@@ -6231,7 +6231,7 @@
       "criminal breach of trust",
       "jurisdiction"
     ],
-    "oldCrPCSection": "181",
+    "correspondingSection": "181",
     "relatedSections": [
       "202",
       "203",
@@ -6264,7 +6264,7 @@
       "telecommunication",
       "jurisdiction"
     ],
-    "oldCrPCSection": "182",
+    "correspondingSection": "182",
     "relatedSections": [
       "201",
       "203"
@@ -6296,7 +6296,7 @@
       "travel offence",
       "jurisdiction"
     ],
-    "oldCrPCSection": "183",
+    "correspondingSection": "183",
     "relatedSections": [
       "201",
       "202",
@@ -6328,7 +6328,7 @@
       "jurisdiction",
       "criminal procedure"
     ],
-    "oldCrPCSection": "184",
+    "correspondingSection": "184",
     "relatedSections": [
       "203",
       "205"
@@ -6357,7 +6357,7 @@
       "sessions division",
       "state government"
     ],
-    "oldCrPCSection": "185",
+    "correspondingSection": "185",
     "relatedSections": [
       "204",
       "206"
@@ -6386,7 +6386,7 @@
       "high court",
       "cognizance"
     ],
-    "oldCrPCSection": "186",
+    "correspondingSection": "186",
     "relatedSections": [
       "205",
       "207"
@@ -6416,7 +6416,7 @@
       "outside jurisdiction",
       "magistrate"
     ],
-    "oldCrPCSection": "187",
+    "correspondingSection": "187",
     "relatedSections": [
       "206",
       "208"
@@ -6447,7 +6447,7 @@
       "Indian citizen",
       "central government sanction"
     ],
-    "oldCrPCSection": "188",
+    "correspondingSection": "188",
     "relatedSections": [
       "207",
       "209"
@@ -6477,7 +6477,7 @@
       "depositions",
       "consular evidence"
     ],
-    "oldCrPCSection": "189",
+    "correspondingSection": "189",
     "relatedSections": [
       "208",
       "210"
@@ -6509,7 +6509,7 @@
       "police report",
       "criminal proceedings"
     ],
-    "oldCrPCSection": "190",
+    "correspondingSection": "190",
     "relatedSections": [
       "211",
       "212",
@@ -6541,7 +6541,7 @@
       "magistrate",
       "cognizance"
     ],
-    "oldCrPCSection": "191",
+    "correspondingSection": "191",
     "relatedSections": [
       "210",
       "212"
@@ -6570,7 +6570,7 @@
       "chief judicial magistrate",
       "trial"
     ],
-    "oldCrPCSection": "192",
+    "correspondingSection": "192",
     "relatedSections": [
       "211",
       "223"
@@ -6599,7 +6599,7 @@
       "committal",
       "cognizance"
     ],
-    "oldCrPCSection": "193",
+    "correspondingSection": "193",
     "relatedSections": [
       "214",
       "223"
@@ -6627,7 +6627,7 @@
       "additional sessions judge",
       "case allocation"
     ],
-    "oldCrPCSection": "194",
+    "correspondingSection": "194",
     "relatedSections": [
       "213",
       "215"
@@ -6657,7 +6657,7 @@
       "false evidence",
       "public justice"
     ],
-    "oldCrPCSection": "195",
+    "correspondingSection": "195",
     "relatedSections": [
       "216",
       "217"
@@ -6685,7 +6685,7 @@
       "witness protection",
       "threatening witness"
     ],
-    "oldCrPCSection": "195A",
+    "correspondingSection": "195A",
     "relatedSections": [
       "215",
       "217"
@@ -6714,7 +6714,7 @@
       "offences against state",
       "criminal conspiracy"
     ],
-    "oldCrPCSection": "196",
+    "correspondingSection": "196",
     "relatedSections": [
       "218"
     ]
@@ -6743,7 +6743,7 @@
       "sanction",
       "official duty"
     ],
-    "oldCrPCSection": "197",
+    "correspondingSection": "197",
     "relatedSections": [
       "217",
       "219"
@@ -6772,7 +6772,7 @@
       "aggrieved person",
       "complaint"
     ],
-    "oldCrPCSection": "198",
+    "correspondingSection": "198",
     "relatedSections": [
       "220",
       "221"
@@ -6800,7 +6800,7 @@
       "special complaint",
       "aggrieved person"
     ],
-    "oldCrPCSection": "198A",
+    "correspondingSection": "198A",
     "relatedSections": [
       "219",
       "221"
@@ -6829,7 +6829,7 @@
       "marital relationship",
       "wife complaint"
     ],
-    "oldCrPCSection": "198B",
+    "correspondingSection": "198B",
     "relatedSections": [
       "220",
       "222"
@@ -6860,7 +6860,7 @@
       "public servant",
       "complaint"
     ],
-    "oldCrPCSection": "199",
+    "correspondingSection": "199",
     "relatedSections": [
       "223"
     ]
@@ -6889,7 +6889,7 @@
       "magistrate",
       "witness"
     ],
-    "oldCrPCSection": "200",
+    "correspondingSection": "200",
     "relatedSections": [
       "224",
       "225"
@@ -6918,7 +6918,7 @@
       "complaint",
       "proper court"
     ],
-    "oldCrPCSection": "201",
+    "correspondingSection": "201",
     "relatedSections": [
       "223",
       "225"
@@ -6948,7 +6948,7 @@
       "preliminary inquiry",
       "investigation"
     ],
-    "oldCrPCSection": "202",
+    "correspondingSection": "202",
     "relatedSections": [
       "223",
       "224",
@@ -6978,7 +6978,7 @@
       "complaint",
       "magistrate"
     ],
-    "oldCrPCSection": "203",
+    "correspondingSection": "203",
     "relatedSections": [
       "225",
       "227"
@@ -7007,7 +7007,7 @@
       "warrant",
       "process"
     ],
-    "oldCrPCSection": "204",
+    "correspondingSection": "204",
     "relatedSections": [
       "228",
       "229"
@@ -7036,7 +7036,7 @@
       "advocate",
       "accused"
     ],
-    "oldCrPCSection": "205",
+    "correspondingSection": "205",
     "relatedSections": [
       "227",
       "229"
@@ -7065,7 +7065,7 @@
       "fine",
       "guilty plea"
     ],
-    "oldCrPCSection": "206",
+    "correspondingSection": "206",
     "relatedSections": [
       "227",
       "230"
@@ -7094,7 +7094,7 @@
       "documents",
       "accused rights"
     ],
-    "oldCrPCSection": "207",
+    "correspondingSection": "207",
     "relatedSections": [
       "231",
       "232"
@@ -7123,7 +7123,7 @@
       "documents",
       "evidence"
     ],
-    "oldCrPCSection": "208",
+    "correspondingSection": "208",
     "relatedSections": [
       "230",
       "232"
@@ -7152,7 +7152,7 @@
       "sessions court",
       "public prosecutor"
     ],
-    "oldCrPCSection": "209",
+    "correspondingSection": "209",
     "relatedSections": [
       "231",
       "233"
@@ -7180,7 +7180,7 @@
       "complaint case",
       "police investigation"
     ],
-    "oldCrPCSection": "210",
+    "correspondingSection": "210",
     "relatedSections": [
       "232",
       "234"
@@ -7209,7 +7209,7 @@
       "offence",
       "criminal procedure"
     ],
-    "oldCrPCSection": "211",
+    "correspondingSection": "211",
     "relatedSections": [
       "235",
       "236"
@@ -7239,7 +7239,7 @@
       "place",
       "charge"
     ],
-    "oldCrPCSection": "212",
+    "correspondingSection": "212",
     "relatedSections": [
       "234",
       "236"
@@ -7268,7 +7268,7 @@
       "charge",
       "notice"
     ],
-    "oldCrPCSection": "213",
+    "correspondingSection": "213",
     "relatedSections": [
       "235",
       "237"
@@ -7297,7 +7297,7 @@
       "charge",
       "legal meaning"
     ],
-    "oldCrPCSection": "214",
+    "correspondingSection": "214",
     "relatedSections": [
       "236",
       "238"
@@ -7326,7 +7326,7 @@
       "charge",
       "failure of justice"
     ],
-    "oldCrPCSection": "215",
+    "correspondingSection": "215",
     "relatedSections": [
       "239"
     ]
@@ -7354,7 +7354,7 @@
       "amendment",
       "trial"
     ],
-    "oldCrPCSection": "216",
+    "correspondingSection": "216",
     "relatedSections": [
       "240"
     ]
@@ -7381,7 +7381,7 @@
       "witness recall",
       "altered charge"
     ],
-    "oldCrPCSection": "217",
+    "correspondingSection": "217",
     "relatedSections": [
       "239",
       "241"
@@ -7409,7 +7409,7 @@
       "separate charges",
       "distinct offences"
     ],
-    "oldCrPCSection": "218",
+    "correspondingSection": "218",
     "relatedSections": [
       "242",
       "243"
@@ -7437,7 +7437,7 @@
       "same kind",
       "joint trial"
     ],
-    "oldCrPCSection": "219",
+    "correspondingSection": "219",
     "relatedSections": [
       "241",
       "243"
@@ -7465,7 +7465,7 @@
       "same transaction",
       "multiple offences"
     ],
-    "oldCrPCSection": "220",
+    "correspondingSection": "220",
     "relatedSections": [
       "242",
       "244"
@@ -7493,7 +7493,7 @@
       "alternative charge",
       "doubtful offence"
     ],
-    "oldCrPCSection": "221",
+    "correspondingSection": "221",
     "relatedSections": [
       "243",
       "245"
@@ -7521,7 +7521,7 @@
       "minor offence",
       "included offence"
     ],
-    "oldCrPCSection": "222",
+    "correspondingSection": "222",
     "relatedSections": [
       "244",
       "246"
@@ -7549,7 +7549,7 @@
       "joint trial",
       "co-accused"
     ],
-    "oldCrPCSection": "223",
+    "correspondingSection": "223",
     "relatedSections": [
       "247"
     ]
@@ -7577,7 +7577,7 @@
       "charges",
       "acquittal"
     ],
-    "oldCrPCSection": "224",
+    "correspondingSection": "224",
     "relatedSections": [
       "248"
     ]
@@ -7604,7 +7604,7 @@
       "public prosecutor",
       "sessions court"
     ],
-    "oldCrPCSection": "225",
+    "correspondingSection": "225",
     "relatedSections": [
       "249",
       "250"
@@ -7632,7 +7632,7 @@
       "opening statement",
       "prosecution"
     ],
-    "oldCrPCSection": "226",
+    "correspondingSection": "226",
     "relatedSections": [
       "250"
     ]
@@ -7660,7 +7660,7 @@
       "sessions trial",
       "prima facie case"
     ],
-    "oldCrPCSection": "227",
+    "correspondingSection": "227",
     "relatedSections": [
       "251"
     ]
@@ -7690,7 +7690,7 @@
       "trial",
       "accused"
     ],
-    "oldCrPCSection": "228",
+    "correspondingSection": "228",
     "relatedSections": [
       "250",
       "252"
@@ -7719,7 +7719,7 @@
       "conviction",
       "sessions trial"
     ],
-    "oldCrPCSection": "229",
+    "correspondingSection": "229",
     "relatedSections": [
       "251",
       "253"
@@ -7748,7 +7748,7 @@
       "witness",
       "trial"
     ],
-    "oldCrPCSection": "230",
+    "correspondingSection": "230",
     "relatedSections": [
       "252",
       "254"
@@ -7779,7 +7779,7 @@
       "cross-examination",
       "video conferencing"
     ],
-    "oldCrPCSection": "231",
+    "correspondingSection": "231",
     "relatedSections": [
       "253",
       "255"
@@ -7808,7 +7808,7 @@
       "lack of evidence",
       "judgment"
     ],
-    "oldCrPCSection": "232",
+    "correspondingSection": "232",
     "relatedSections": [
       "254",
       "256"
@@ -7837,7 +7837,7 @@
       "witness",
       "evidence"
     ],
-    "oldCrPCSection": "233",
+    "correspondingSection": "233",
     "relatedSections": [
       "255",
       "257"
@@ -7867,7 +7867,7 @@
       "prosecution",
       "defence"
     ],
-    "oldCrPCSection": "234",
+    "correspondingSection": "234",
     "relatedSections": [
       "256",
       "258"
@@ -7896,7 +7896,7 @@
       "conviction",
       "sentence"
     ],
-    "oldCrPCSection": "235",
+    "correspondingSection": "235",
     "relatedSections": [
       "257",
       "259"
@@ -7925,7 +7925,7 @@
       "sentencing",
       "evidence"
     ],
-    "oldCrPCSection": "236",
+    "correspondingSection": "236",
     "relatedSections": [
       "258",
       "260"
@@ -7954,7 +7954,7 @@
       "compensation",
       "sessions court"
     ],
-    "oldCrPCSection": "237",
+    "correspondingSection": "237",
     "relatedSections": [
       "259",
       "261"
@@ -7984,7 +7984,7 @@
       "fair trial",
       "accused rights"
     ],
-    "oldCrPCSection": "238",
+    "correspondingSection": "238",
     "relatedSections": [
       "230",
       "262"
@@ -8013,7 +8013,7 @@
       "groundless charge",
       "magistrate"
     ],
-    "oldCrPCSection": "239",
+    "correspondingSection": "239",
     "relatedSections": [
       "261",
       "263"
@@ -8042,7 +8042,7 @@
       "prima facie case",
       "magistrate"
     ],
-    "oldCrPCSection": "240",
+    "correspondingSection": "240",
     "relatedSections": [
       "262",
       "264"
@@ -8071,7 +8071,7 @@
       "conviction",
       "magistrate"
     ],
-    "oldCrPCSection": "241",
+    "correspondingSection": "241",
     "relatedSections": [
       "263",
       "265"
@@ -8101,7 +8101,7 @@
       "witness",
       "cross-examination"
     ],
-    "oldCrPCSection": "242",
+    "correspondingSection": "242",
     "relatedSections": [
       "264",
       "266"
@@ -8132,7 +8132,7 @@
       "documents",
       "evidence"
     ],
-    "oldCrPCSection": "243",
+    "correspondingSection": "243",
     "relatedSections": [
       "265",
       "267"
@@ -8161,7 +8161,7 @@
       "prosecution evidence",
       "witness"
     ],
-    "oldCrPCSection": "244",
+    "correspondingSection": "244",
     "relatedSections": [
       "266",
       "268"
@@ -8190,7 +8190,7 @@
       "complaint case",
       "prima facie"
     ],
-    "oldCrPCSection": "245",
+    "correspondingSection": "245",
     "relatedSections": [
       "267",
       "269"
@@ -8220,7 +8220,7 @@
       "cross-examination",
       "witness"
     ],
-    "oldCrPCSection": "246",
+    "correspondingSection": "246",
     "relatedSections": [
       "268",
       "270"
@@ -8249,7 +8249,7 @@
       "trial",
       "accused"
     ],
-    "oldCrPCSection": "247",
+    "correspondingSection": "247",
     "relatedSections": [
       "269",
       "271"
@@ -8285,7 +8285,7 @@
       "previous conviction",
       "magistrate"
     ],
-    "oldCrPCSection": "248",
+    "correspondingSection": "248",
     "relatedSections": [
       "269",
       "270",
@@ -8316,7 +8316,7 @@
       "discharge",
       "complaint case"
     ],
-    "oldCrPCSection": "249",
+    "correspondingSection": "249",
     "relatedSections": [
       "271",
       "273"
@@ -8352,7 +8352,7 @@
       "complaint",
       "informant"
     ],
-    "oldCrPCSection": "250",
+    "correspondingSection": "250",
     "relatedSections": [
       "272",
       "274"
@@ -8387,7 +8387,7 @@
       "discharge",
       "magistrate"
     ],
-    "oldCrPCSection": "251",
+    "correspondingSection": "251",
     "relatedSections": [
       "273",
       "275"
@@ -8421,7 +8421,7 @@
       "summons case",
       "magistrate"
     ],
-    "oldCrPCSection": "252",
+    "correspondingSection": "252",
     "relatedSections": [
       "274",
       "276"
@@ -8452,7 +8452,7 @@
       "fine",
       "summons case"
     ],
-    "oldCrPCSection": "253",
+    "correspondingSection": "253",
     "relatedSections": [
       "275",
       "277"
@@ -8482,7 +8482,7 @@
       "summons case",
       "not guilty"
     ],
-    "oldCrPCSection": "254",
+    "correspondingSection": "254",
     "relatedSections": [
       "276",
       "278"
@@ -8512,7 +8512,7 @@
       "conviction",
       "judgment"
     ],
-    "oldCrPCSection": "255",
+    "correspondingSection": "255",
     "relatedSections": [
       "277",
       "279"
@@ -8541,7 +8541,7 @@
       "absence",
       "acquittal"
     ],
-    "oldCrPCSection": "256",
+    "correspondingSection": "256",
     "relatedSections": [
       "278",
       "280"
@@ -8570,7 +8570,7 @@
       "complaint",
       "acquittal"
     ],
-    "oldCrPCSection": "257",
+    "correspondingSection": "257",
     "relatedSections": [
       "279",
       "281"
@@ -8599,7 +8599,7 @@
       "discharge",
       "acquittal"
     ],
-    "oldCrPCSection": "258",
+    "correspondingSection": "258",
     "relatedSections": [
       "280",
       "282"
@@ -8628,7 +8628,7 @@
       "summons case",
       "warrant case"
     ],
-    "oldCrPCSection": "259",
+    "correspondingSection": "259",
     "relatedSections": [
       "281",
       "283"
@@ -8657,7 +8657,7 @@
       "magistrate",
       "expedited trial"
     ],
-    "oldCrPCSection": "260",
+    "correspondingSection": "260",
     "relatedSections": [
       "284",
       "285"
@@ -8685,7 +8685,7 @@
       "second class magistrate",
       "summary trial"
     ],
-    "oldCrPCSection": "261",
+    "correspondingSection": "261",
     "relatedSections": [
       "283",
       "285"
@@ -8714,7 +8714,7 @@
       "imprisonment",
       "procedure"
     ],
-    "oldCrPCSection": "262",
+    "correspondingSection": "262",
     "relatedSections": [
       "283",
       "284",
@@ -8746,7 +8746,7 @@
       "magistrate",
       "proceedings"
     ],
-    "oldCrPCSection": "263",
+    "correspondingSection": "263",
     "relatedSections": [
       "285",
       "287"
@@ -8777,7 +8777,7 @@
       "evidence",
       "reasons"
     ],
-    "oldCrPCSection": "264",
+    "correspondingSection": "264",
     "relatedSections": [
       "286",
       "288"
@@ -8808,7 +8808,7 @@
       "record",
       "high court"
     ],
-    "oldCrPCSection": "265",
+    "correspondingSection": "265",
     "relatedSections": [
       "287",
       "289"
@@ -8838,7 +8838,7 @@
       "eligible offences",
       "socio-economic offences"
     ],
-    "oldCrPCSection": "265A",
+    "correspondingSection": "265A",
     "relatedSections": [
       "290",
       "291"
@@ -8868,7 +8868,7 @@
       "voluntary",
       "in-camera"
     ],
-    "oldCrPCSection": "265B",
+    "correspondingSection": "265B",
     "relatedSections": [
       "289",
       "291",
@@ -8900,7 +8900,7 @@
       "accused",
       "settlement"
     ],
-    "oldCrPCSection": "265C",
+    "correspondingSection": "265C",
     "relatedSections": [
       "290",
       "292"
@@ -8930,7 +8930,7 @@
       "settlement",
       "plea bargaining"
     ],
-    "oldCrPCSection": "265D",
+    "correspondingSection": "265D",
     "relatedSections": [
       "291",
       "293"
@@ -8960,7 +8960,7 @@
       "compensation",
       "first-time offender"
     ],
-    "oldCrPCSection": "265E",
+    "correspondingSection": "265E",
     "relatedSections": [
       "292",
       "294"
@@ -8989,7 +8989,7 @@
       "open court",
       "plea bargaining"
     ],
-    "oldCrPCSection": "265F",
+    "correspondingSection": "265F",
     "relatedSections": [
       "293",
       "295"
@@ -9020,7 +9020,7 @@
       "special leave petition",
       "writ petition"
     ],
-    "oldCrPCSection": "265G",
+    "correspondingSection": "265G",
     "relatedSections": [
       "294",
       "296"
@@ -9051,7 +9051,7 @@
       "bail",
       "trial"
     ],
-    "oldCrPCSection": "265H",
+    "correspondingSection": "265H",
     "relatedSections": [
       "295",
       "297"
@@ -9081,7 +9081,7 @@
       "custody",
       "sentence"
     ],
-    "oldCrPCSection": "265I",
+    "correspondingSection": "265I",
     "relatedSections": [
       "296",
       "298",
@@ -9111,7 +9111,7 @@
       "overriding effect",
       "public prosecutor"
     ],
-    "oldCrPCSection": "265J",
+    "correspondingSection": "265J",
     "relatedSections": [
       "297",
       "299"
@@ -9141,7 +9141,7 @@
       "statements",
       "evidence"
     ],
-    "oldCrPCSection": "265K",
+    "correspondingSection": "265K",
     "relatedSections": [
       "290",
       "298",
@@ -9172,7 +9172,7 @@
       "juvenile justice act",
       "plea bargaining"
     ],
-    "oldCrPCSection": "265L",
+    "correspondingSection": "265L",
     "relatedSections": [
       "299",
       "301"
@@ -9202,7 +9202,7 @@
       "detained",
       "borstal institution"
     ],
-    "oldCrPCSection": "267 Explanation",
+    "correspondingSection": "267 Explanation",
     "relatedSections": [
       "302"
     ]
@@ -9232,7 +9232,7 @@
       "court order",
       "witness"
     ],
-    "oldCrPCSection": "267",
+    "correspondingSection": "267",
     "relatedSections": [
       "301",
       "303",
@@ -9262,7 +9262,7 @@
       "public order",
       "prisoner transfer"
     ],
-    "oldCrPCSection": "268",
+    "correspondingSection": "268",
     "relatedSections": [
       "302",
       "304"
@@ -9293,7 +9293,7 @@
       "sickness",
       "remand"
     ],
-    "oldCrPCSection": "269",
+    "correspondingSection": "269",
     "relatedSections": [
       "303",
       "305"
@@ -9323,7 +9323,7 @@
       "court attendance",
       "production"
     ],
-    "oldCrPCSection": "270",
+    "correspondingSection": "270",
     "relatedSections": [
       "304",
       "306"
@@ -9354,7 +9354,7 @@
       "evidence",
       "examination"
     ],
-    "oldCrPCSection": "271",
+    "correspondingSection": "271",
     "relatedSections": [
       "302",
       "319",
@@ -9385,7 +9385,7 @@
       "state government",
       "judicial proceedings"
     ],
-    "oldCrPCSection": "272",
+    "correspondingSection": "272",
     "relatedSections": [
       "312",
       "314"
@@ -9416,7 +9416,7 @@
       "fair trial",
       "video conferencing"
     ],
-    "oldCrPCSection": "273",
+    "correspondingSection": "273",
     "relatedSections": [
       "309",
       "314"
@@ -9447,7 +9447,7 @@
       "evidence",
       "record"
     ],
-    "oldCrPCSection": "274",
+    "correspondingSection": "274",
     "relatedSections": [
       "310",
       "313"
@@ -9478,7 +9478,7 @@
       "recording",
       "video evidence"
     ],
-    "oldCrPCSection": "275",
+    "correspondingSection": "275",
     "relatedSections": [
       "309",
       "311"
@@ -9509,7 +9509,7 @@
       "judge",
       "record"
     ],
-    "oldCrPCSection": "276",
+    "correspondingSection": "276",
     "relatedSections": [
       "310",
       "312"
@@ -9540,7 +9540,7 @@
       "court language",
       "record"
     ],
-    "oldCrPCSection": "277",
+    "correspondingSection": "277",
     "relatedSections": [
       "307",
       "313",
@@ -9572,7 +9572,7 @@
       "evidence",
       "correction"
     ],
-    "oldCrPCSection": "278",
+    "correspondingSection": "278",
     "relatedSections": [
       "312",
       "314"
@@ -9603,7 +9603,7 @@
       "accused rights",
       "evidence"
     ],
-    "oldCrPCSection": "279",
+    "correspondingSection": "279",
     "relatedSections": [
       "312",
       "313",
@@ -9635,7 +9635,7 @@
       "credibility",
       "evidence"
     ],
-    "oldCrPCSection": "280",
+    "correspondingSection": "280",
     "relatedSections": [
       "314",
       "316"
@@ -9666,7 +9666,7 @@
       "record",
       "signature"
     ],
-    "oldCrPCSection": "281",
+    "correspondingSection": "281",
     "relatedSections": [
       "313",
       "317"
@@ -9697,7 +9697,7 @@
       "evidence",
       "court"
     ],
-    "oldCrPCSection": "282",
+    "correspondingSection": "282",
     "relatedSections": [
       "314",
       "318"
@@ -9727,7 +9727,7 @@
       "recording",
       "rules"
     ],
-    "oldCrPCSection": "283",
+    "correspondingSection": "283",
     "relatedSections": [
       "319"
     ]
@@ -9757,7 +9757,7 @@
       "evidence",
       "attendance"
     ],
-    "oldCrPCSection": "284",
+    "correspondingSection": "284",
     "relatedSections": [
       "320",
       "321"
@@ -9786,7 +9786,7 @@
       "chief judicial magistrate",
       "witness"
     ],
-    "oldCrPCSection": "285",
+    "correspondingSection": "285",
     "relatedSections": [
       "319",
       "321"
@@ -9816,7 +9816,7 @@
       "evidence",
       "witness"
     ],
-    "oldCrPCSection": "286",
+    "correspondingSection": "286",
     "relatedSections": [
       "320",
       "322"
@@ -9845,7 +9845,7 @@
       "commission",
       "interrogatories"
     ],
-    "oldCrPCSection": "287",
+    "correspondingSection": "287",
     "relatedSections": [
       "321",
       "323"
@@ -9874,7 +9874,7 @@
       "commission",
       "evidence"
     ],
-    "oldCrPCSection": "288",
+    "correspondingSection": "288",
     "relatedSections": [
       "322",
       "324"
@@ -9903,7 +9903,7 @@
       "commission",
       "trial"
     ],
-    "oldCrPCSection": "289",
+    "correspondingSection": "289",
     "relatedSections": [
       "323",
       "325"
@@ -9932,7 +9932,7 @@
       "international cooperation",
       "evidence"
     ],
-    "oldCrPCSection": "290",
+    "correspondingSection": "290",
     "relatedSections": [
       "324",
       "326"
@@ -9962,7 +9962,7 @@
       "doctor",
       "evidence"
     ],
-    "oldCrPCSection": "291",
+    "correspondingSection": "291",
     "relatedSections": [
       "325",
       "327"
@@ -9991,7 +9991,7 @@
       "magistrate report",
       "evidence"
     ],
-    "oldCrPCSection": "292",
+    "correspondingSection": "292",
     "relatedSections": [
       "326",
       "328"
@@ -10021,7 +10021,7 @@
       "mint",
       "security press"
     ],
-    "oldCrPCSection": "293",
+    "correspondingSection": "293",
     "relatedSections": [
       "327",
       "329",
@@ -10053,7 +10053,7 @@
       "fingerprint",
       "chemical examiner"
     ],
-    "oldCrPCSection": "293A",
+    "correspondingSection": "293A",
     "relatedSections": [
       "328",
       "330"
@@ -10084,7 +10084,7 @@
       "denial",
       "documentary evidence"
     ],
-    "oldCrPCSection": "294",
+    "correspondingSection": "294",
     "relatedSections": [
       "328",
       "329",
@@ -10115,7 +10115,7 @@
       "public servant",
       "evidence"
     ],
-    "oldCrPCSection": "295",
+    "correspondingSection": "295",
     "relatedSections": [
       "332",
       "333"
@@ -10145,7 +10145,7 @@
       "affidavit",
       "deponent"
     ],
-    "oldCrPCSection": "296",
+    "correspondingSection": "296",
     "relatedSections": [
       "331",
       "333"
@@ -10175,7 +10175,7 @@
       "notary",
       "commissioner of oaths"
     ],
-    "oldCrPCSection": "297",
+    "correspondingSection": "297",
     "relatedSections": [
       "331",
       "332",
@@ -10207,7 +10207,7 @@
       "proof",
       "court records"
     ],
-    "oldCrPCSection": "298",
+    "correspondingSection": "298",
     "relatedSections": [
       "335"
     ]
@@ -10236,7 +10236,7 @@
       "deposition",
       "evidence preservation"
     ],
-    "oldCrPCSection": "299",
+    "correspondingSection": "299",
     "relatedSections": [
       "334",
       "336"
@@ -10266,7 +10266,7 @@
       "expert report",
       "video testimony"
     ],
-    "oldCrPCSection": "293B",
+    "correspondingSection": "293B",
     "relatedSections": [
       "328",
       "329",
@@ -10298,7 +10298,7 @@
       "conviction",
       "same offence"
     ],
-    "oldCrPCSection": "300",
+    "correspondingSection": "300",
     "relatedSections": [
       "281",
       "338"
@@ -10328,7 +10328,7 @@
       "assistant public prosecutor",
       "prosecution"
     ],
-    "oldCrPCSection": "301",
+    "correspondingSection": "301",
     "relatedSections": [
       "339"
     ]
@@ -10357,7 +10357,7 @@
       "magistrate",
       "investigating officer"
     ],
-    "oldCrPCSection": "302",
+    "correspondingSection": "302",
     "relatedSections": [
       "338",
       "340"
@@ -10387,7 +10387,7 @@
       "advocate",
       "legal representation"
     ],
-    "oldCrPCSection": "303",
+    "correspondingSection": "303",
     "relatedSections": [
       "341"
     ]
@@ -10417,7 +10417,7 @@
       "state expense",
       "defence counsel"
     ],
-    "oldCrPCSection": "304",
+    "correspondingSection": "304",
     "relatedSections": [
       "340",
       "342"
@@ -10448,7 +10448,7 @@
       "representative",
       "society"
     ],
-    "oldCrPCSection": "305",
+    "correspondingSection": "305",
     "relatedSections": [
       "341",
       "343"
@@ -10479,7 +10479,7 @@
       "approver",
       "disclosure"
     ],
-    "oldCrPCSection": "306",
+    "correspondingSection": "306",
     "relatedSections": [
       "344",
       "345"
@@ -10508,7 +10508,7 @@
       "trial court",
       "approver"
     ],
-    "oldCrPCSection": "307",
+    "correspondingSection": "307",
     "relatedSections": [
       "343",
       "345"
@@ -10538,7 +10538,7 @@
       "false evidence",
       "pardon conditions"
     ],
-    "oldCrPCSection": "308",
+    "correspondingSection": "308",
     "relatedSections": [
       "343",
       "344",
@@ -10570,7 +10570,7 @@
       "delay",
       "witness"
     ],
-    "oldCrPCSection": "309",
+    "correspondingSection": "309",
     "relatedSections": [
       "347",
       "348"
@@ -10600,7 +10600,7 @@
       "crime scene",
       "court visit"
     ],
-    "oldCrPCSection": "310",
+    "correspondingSection": "310",
     "relatedSections": [
       "346",
       "348"
@@ -10630,7 +10630,7 @@
       "recall witness",
       "summon witness"
     ],
-    "oldCrPCSection": "311",
+    "correspondingSection": "311",
     "relatedSections": [
       "347",
       "349"
@@ -10661,7 +10661,7 @@
       "voice sample",
       "handwriting"
     ],
-    "oldCrPCSection": "311A",
+    "correspondingSection": "311A",
     "relatedSections": [
       "348",
       "350"
@@ -10691,7 +10691,7 @@
       "complainant expenses",
       "reimbursement"
     ],
-    "oldCrPCSection": "312",
+    "correspondingSection": "312",
     "relatedSections": [
       "349",
       "351"
@@ -10721,7 +10721,7 @@
       "court questions",
       "written statement"
     ],
-    "oldCrPCSection": "313",
+    "correspondingSection": "313",
     "relatedSections": [
       "352",
       "353"
@@ -10751,7 +10751,7 @@
       "written arguments",
       "memorandum"
     ],
-    "oldCrPCSection": "314",
+    "correspondingSection": "314",
     "relatedSections": [
       "351",
       "353"
@@ -10781,7 +10781,7 @@
       "defence evidence",
       "testimony"
     ],
-    "oldCrPCSection": "315",
+    "correspondingSection": "315",
     "relatedSections": [
       "351",
       "354"
@@ -10811,7 +10811,7 @@
       "threat",
       "accused rights"
     ],
-    "oldCrPCSection": "316",
+    "correspondingSection": "316",
     "relatedSections": [
       "343",
       "344",
@@ -10842,7 +10842,7 @@
       "video conference",
       "trial procedure"
     ],
-    "oldCrPCSection": "317",
+    "correspondingSection": "317",
     "relatedSections": [
       "356",
       "357"
@@ -10872,7 +10872,7 @@
       "proclaimed offender",
       "absconder"
     ],
-    "oldCrPCSection": "New Provision",
+    "correspondingSection": "New Provision",
     "relatedSections": [
       "355",
       "357"
@@ -10901,7 +10901,7 @@
       "high court review",
       "fair trial"
     ],
-    "oldCrPCSection": "318",
+    "correspondingSection": "318",
     "relatedSections": [
       "356",
       "358"
@@ -10931,7 +10931,7 @@
       "summon accused",
       "new offender"
     ],
-    "oldCrPCSection": "319",
+    "correspondingSection": "319",
     "relatedSections": [
       "359"
     ]
@@ -10961,7 +10961,7 @@
       "acquittal",
       "compromise"
     ],
-    "oldCrPCSection": "320",
+    "correspondingSection": "320",
     "relatedSections": [
       "360"
     ]
@@ -10991,7 +10991,7 @@
       "discharge",
       "acquittal"
     ],
-    "oldCrPCSection": "321",
+    "correspondingSection": "321",
     "relatedSections": [
       "359",
       "361"
@@ -11021,7 +11021,7 @@
       "transfer of case",
       "chief judicial magistrate"
     ],
-    "oldCrPCSection": "322",
+    "correspondingSection": "322",
     "relatedSections": [
       "362",
       "364"
@@ -11050,7 +11050,7 @@
       "sessions court",
       "magistrate"
     ],
-    "oldCrPCSection": "323",
+    "correspondingSection": "323",
     "relatedSections": [
       "361",
       "363"
@@ -11079,7 +11079,7 @@
       "previous conviction",
       "sessions court"
     ],
-    "oldCrPCSection": "324",
+    "correspondingSection": "324",
     "relatedSections": [
       "362",
       "364"
@@ -11127,7 +11127,7 @@
       "judgment",
       "additional evidence"
     ],
-    "oldCrPCSection": "325",
+    "correspondingSection": "325",
     "relatedSections": [
       "361",
       "362",
@@ -11160,7 +11160,7 @@
       "transfer of magistrate",
       "continuation of trial"
     ],
-    "oldCrPCSection": "326",
+    "correspondingSection": "326",
     "relatedSections": [
       "361",
       "364",
@@ -11192,7 +11192,7 @@
       "rape trial",
       "public access"
     ],
-    "oldCrPCSection": "327",
+    "correspondingSection": "327",
     "relatedSections": [
       "367"
     ]
@@ -11222,7 +11222,7 @@
       "intellectual disability",
       "inquiry"
     ],
-    "oldCrPCSection": "328",
+    "correspondingSection": "328",
     "relatedSections": [
       "368",
       "369",
@@ -11254,7 +11254,7 @@
       "psychiatrist",
       "unsound mind"
     ],
-    "oldCrPCSection": "329",
+    "correspondingSection": "329",
     "relatedSections": [
       "367",
       "369",
@@ -11286,7 +11286,7 @@
       "treatment facility",
       "unsound mind"
     ],
-    "oldCrPCSection": "330",
+    "correspondingSection": "330",
     "relatedSections": [
       "367",
       "368",
@@ -11317,7 +11317,7 @@
       "fitness to stand trial",
       "mental recovery"
     ],
-    "oldCrPCSection": "331",
+    "correspondingSection": "331",
     "relatedSections": [
       "367",
       "368",
@@ -11349,7 +11349,7 @@
       "unsound mind",
       "defence capability"
     ],
-    "oldCrPCSection": "331",
+    "correspondingSection": "331",
     "relatedSections": [
       "367",
       "368",
@@ -11381,7 +11381,7 @@
       "sound mind",
       "criminal responsibility"
     ],
-    "oldCrPCSection": "332",
+    "correspondingSection": "332",
     "relatedSections": [
       "373",
       "374"
@@ -11410,7 +11410,7 @@
       "insanity",
       "finding of fact"
     ],
-    "oldCrPCSection": "334",
+    "correspondingSection": "334",
     "relatedSections": [
       "374"
     ]
@@ -11440,7 +11440,7 @@
       "acquittal",
       "insanity"
     ],
-    "oldCrPCSection": "335",
+    "correspondingSection": "335",
     "relatedSections": [
       "375",
       "378"
@@ -11469,7 +11469,7 @@
       "jail officer",
       "delegation"
     ],
-    "oldCrPCSection": "336",
+    "correspondingSection": "336",
     "relatedSections": [
       "376",
       "377"
@@ -11498,7 +11498,7 @@
       "review board",
       "resumption of trial"
     ],
-    "oldCrPCSection": "337",
+    "correspondingSection": "337",
     "relatedSections": [
       "371",
       "377"
@@ -11528,7 +11528,7 @@
       "state government",
       "commission"
     ],
-    "oldCrPCSection": "338",
+    "correspondingSection": "338",
     "relatedSections": [
       "376",
       "378"
@@ -11558,7 +11558,7 @@
       "custody",
       "mental illness"
     ],
-    "oldCrPCSection": "339",
+    "correspondingSection": "339",
     "relatedSections": [
       "374",
       "377"
@@ -11589,7 +11589,7 @@
       "administration of justice",
       "court complaint"
     ],
-    "oldCrPCSection": "340",
+    "correspondingSection": "340",
     "relatedSections": [
       "215",
       "380"
@@ -11620,7 +11620,7 @@
       "higher court",
       "final order"
     ],
-    "oldCrPCSection": "341",
+    "correspondingSection": "341",
     "relatedSections": [
       "379"
     ]
@@ -11650,7 +11650,7 @@
       "appeal",
       "complaint"
     ],
-    "oldCrPCSection": "342",
+    "correspondingSection": "342",
     "relatedSections": [
       "379",
       "380",
@@ -11682,7 +11682,7 @@
       "police report",
       "adjournment"
     ],
-    "oldCrPCSection": "343",
+    "correspondingSection": "343",
     "relatedSections": [
       "379",
       "380",
@@ -11714,7 +11714,7 @@
       "fabricated evidence",
       "summary trial"
     ],
-    "oldCrPCSection": "344",
+    "correspondingSection": "344",
     "relatedSections": [
       "379",
       "384",
@@ -11746,7 +11746,7 @@
       "insult to court",
       "summary punishment"
     ],
-    "oldCrPCSection": "345",
+    "correspondingSection": "345",
     "relatedSections": [
       "385",
       "387"
@@ -11776,7 +11776,7 @@
       "magistrate",
       "court referral"
     ],
-    "oldCrPCSection": "346",
+    "correspondingSection": "346",
     "relatedSections": [
       "384",
       "386"
@@ -11805,7 +11805,7 @@
       "sub-registrar",
       "civil court"
     ],
-    "oldCrPCSection": "347",
+    "correspondingSection": "347",
     "relatedSections": [
       "384",
       "385",
@@ -11836,7 +11836,7 @@
       "remission",
       "court order"
     ],
-    "oldCrPCSection": "348",
+    "correspondingSection": "348",
     "relatedSections": [
       "384",
       "385"
@@ -11867,7 +11867,7 @@
       "refusal",
       "custody"
     ],
-    "oldCrPCSection": "349",
+    "correspondingSection": "349",
     "relatedSections": [
       "384",
       "385",
@@ -11899,7 +11899,7 @@
       "non-attendance",
       "fine"
     ],
-    "oldCrPCSection": "350",
+    "correspondingSection": "350",
     "relatedSections": [
       "388",
       "390"
@@ -11930,7 +11930,7 @@
       "appellate court",
       "sessions court"
     ],
-    "oldCrPCSection": "351",
+    "correspondingSection": "351",
     "relatedSections": [
       "383",
       "384",
@@ -11963,7 +11963,7 @@
       "judge",
       "administration of justice"
     ],
-    "oldCrPCSection": "352",
+    "correspondingSection": "352",
     "relatedSections": [
       "383",
       "384",
@@ -12000,7 +12000,7 @@
       "pronouncement",
       "court portal"
     ],
-    "oldCrPCSection": "353",
+    "correspondingSection": "353",
     "relatedSections": [
       "393"
     ]
@@ -12034,7 +12034,7 @@
       "death sentence",
       "language of court"
     ],
-    "oldCrPCSection": "354",
+    "correspondingSection": "354",
     "relatedSections": [
       "392",
       "394"
@@ -12064,7 +12064,7 @@
       "residence notification",
       "habitual offender"
     ],
-    "oldCrPCSection": "356",
+    "correspondingSection": "356",
     "relatedSections": [
       "393",
       "395"
@@ -12095,7 +12095,7 @@
       "fine",
       "restitution"
     ],
-    "oldCrPCSection": "357",
+    "correspondingSection": "357",
     "relatedSections": [
       "396",
       "400"
@@ -12125,7 +12125,7 @@
       "rehabilitation",
       "legal services authority"
     ],
-    "oldCrPCSection": "357A",
+    "correspondingSection": "357A",
     "relatedSections": [
       "395",
       "397",
@@ -12157,7 +12157,7 @@
       "medical aid",
       "free treatment"
     ],
-    "oldCrPCSection": "357C",
+    "correspondingSection": "357C",
     "relatedSections": [
       "396",
       "398"
@@ -12187,7 +12187,7 @@
       "security",
       "state scheme"
     ],
-    "oldCrPCSection": "357A (related provision)",
+    "correspondingSection": "357A (related provision)",
     "relatedSections": [
       "396",
       "399"
@@ -12217,7 +12217,7 @@
       "compensation",
       "false complaint"
     ],
-    "oldCrPCSection": "358",
+    "correspondingSection": "358",
     "relatedSections": [
       "395",
       "400"
@@ -12248,7 +12248,7 @@
       "complainant expenses",
       "litigation costs"
     ],
-    "oldCrPCSection": "359",
+    "correspondingSection": "359",
     "relatedSections": [
       "395",
       "399",
@@ -12284,7 +12284,7 @@
       "admonition",
       "first offender"
     ],
-    "oldCrPCSection": "360",
+    "correspondingSection": "360",
     "relatedSections": [
       "402"
     ]
@@ -12313,7 +12313,7 @@
       "probation",
       "rehabilitation"
     ],
-    "oldCrPCSection": "361",
+    "correspondingSection": "361",
     "relatedSections": [
       "401"
     ]
@@ -12342,7 +12342,7 @@
       "clerical error",
       "review"
     ],
-    "oldCrPCSection": "362",
+    "correspondingSection": "362",
     "relatedSections": [
       "404"
     ]
@@ -12371,7 +12371,7 @@
       "translation",
       "certified copy"
     ],
-    "oldCrPCSection": "363",
+    "correspondingSection": "363",
     "relatedSections": [
       "405"
     ]
@@ -12399,7 +12399,7 @@
       "judgment language",
       "court records"
     ],
-    "oldCrPCSection": "364",
+    "correspondingSection": "364",
     "relatedSections": [
       "404"
     ]
@@ -12427,7 +12427,7 @@
       "finding",
       "sentence"
     ],
-    "oldCrPCSection": "365",
+    "correspondingSection": "365",
     "relatedSections": [
       "407"
     ]
@@ -12455,7 +12455,7 @@
       "confirmation",
       "high court"
     ],
-    "oldCrPCSection": "366",
+    "correspondingSection": "366",
     "relatedSections": [
       "408",
       "409",
@@ -12485,7 +12485,7 @@
       "death reference",
       "high court"
     ],
-    "oldCrPCSection": "367",
+    "correspondingSection": "367",
     "relatedSections": [
       "407",
       "409"
@@ -12516,7 +12516,7 @@
       "retrial",
       "death sentence"
     ],
-    "oldCrPCSection": "368",
+    "correspondingSection": "368",
     "relatedSections": [
       "407",
       "408",
@@ -12546,7 +12546,7 @@
       "high court bench",
       "death confirmation"
     ],
-    "oldCrPCSection": "369",
+    "correspondingSection": "369",
     "relatedSections": [
       "409",
       "411"
@@ -12575,7 +12575,7 @@
       "high court",
       "death reference"
     ],
-    "oldCrPCSection": "370",
+    "correspondingSection": "370",
     "relatedSections": [
       "410",
       "412"
@@ -12604,7 +12604,7 @@
       "sessions court",
       "high court order"
     ],
-    "oldCrPCSection": "371",
+    "correspondingSection": "371",
     "relatedSections": [
       "407",
       "409"
@@ -12634,7 +12634,7 @@
       "victim rights",
       "acquittal"
     ],
-    "oldCrPCSection": "372",
+    "correspondingSection": "372",
     "relatedSections": [
       "414",
       "415"
@@ -12664,7 +12664,7 @@
       "appeal",
       "sessions court"
     ],
-    "oldCrPCSection": "373",
+    "correspondingSection": "373",
     "relatedSections": [
       "413",
       "415"
@@ -12699,7 +12699,7 @@
       "sessions court",
       "supreme court"
     ],
-    "oldCrPCSection": "374",
+    "correspondingSection": "374",
     "relatedSections": [
       "413",
       "414"
@@ -12729,7 +12729,7 @@
       "appeal",
       "sentence"
     ],
-    "oldCrPCSection": "375",
+    "correspondingSection": "375",
     "relatedSections": [
       "415",
       "417"
@@ -12759,7 +12759,7 @@
       "minor sentence",
       "appeal restriction"
     ],
-    "oldCrPCSection": "376",
+    "correspondingSection": "376",
     "relatedSections": [
       "416",
       "418"
@@ -12789,7 +12789,7 @@
       "state appeal",
       "enhancement of sentence"
     ],
-    "oldCrPCSection": "377",
+    "correspondingSection": "377",
     "relatedSections": [
       "419"
     ]
@@ -12819,7 +12819,7 @@
       "special leave",
       "complainant appeal"
     ],
-    "oldCrPCSection": "378",
+    "correspondingSection": "378",
     "relatedSections": [
       "420"
     ]
@@ -12847,7 +12847,7 @@
       "reversal of acquittal",
       "life imprisonment"
     ],
-    "oldCrPCSection": "379",
+    "correspondingSection": "379",
     "relatedSections": [
       "419",
       "421"
@@ -12876,7 +12876,7 @@
       "co-accused",
       "appealable judgment"
     ],
-    "oldCrPCSection": "380",
+    "correspondingSection": "380",
     "relatedSections": [
       "420",
       "422"
@@ -12905,7 +12905,7 @@
       "appeal hearing",
       "chief judicial magistrate"
     ],
-    "oldCrPCSection": "381",
+    "correspondingSection": "381",
     "relatedSections": [
       "423"
     ]
@@ -12933,7 +12933,7 @@
       "written appeal",
       "judgment copy"
     ],
-    "oldCrPCSection": "382",
+    "correspondingSection": "382",
     "relatedSections": [
       "424",
       "425"
@@ -12962,7 +12962,7 @@
       "prisoner",
       "appeal filing"
     ],
-    "oldCrPCSection": "383",
+    "correspondingSection": "383",
     "relatedSections": [
       "423",
       "425"
@@ -12993,7 +12993,7 @@
       "appellate court",
       "frivolous appeal"
     ],
-    "oldCrPCSection": "384",
+    "correspondingSection": "384",
     "relatedSections": [
       "423",
       "424",
@@ -13025,7 +13025,7 @@
       "appellate procedure",
       "record of case"
     ],
-    "oldCrPCSection": "385",
+    "correspondingSection": "385",
     "relatedSections": [
       "425",
       "427"
@@ -13056,7 +13056,7 @@
       "acquittal",
       "sentence enhancement"
     ],
-    "oldCrPCSection": "386",
+    "correspondingSection": "386",
     "relatedSections": [
       "426",
       "428"
@@ -13085,7 +13085,7 @@
       "sessions court",
       "chief judicial magistrate"
     ],
-    "oldCrPCSection": "387",
+    "correspondingSection": "387",
     "relatedSections": [
       "427",
       "429"
@@ -13114,7 +13114,7 @@
       "high court order",
       "implementation"
     ],
-    "oldCrPCSection": "388",
+    "correspondingSection": "388",
     "relatedSections": [
       "428",
       "430"
@@ -13143,7 +13143,7 @@
       "appeal",
       "suspension of sentence"
     ],
-    "oldCrPCSection": "389",
+    "correspondingSection": "389",
     "relatedSections": [
       "431"
     ]
@@ -13171,7 +13171,7 @@
       "warrant",
       "arrest"
     ],
-    "oldCrPCSection": "390",
+    "correspondingSection": "390",
     "relatedSections": [
       "419",
       "430"
@@ -13200,7 +13200,7 @@
       "appeal",
       "appellate court"
     ],
-    "oldCrPCSection": "391",
+    "correspondingSection": "391",
     "relatedSections": [
       "427",
       "433"
@@ -13229,7 +13229,7 @@
       "high court",
       "third judge"
     ],
-    "oldCrPCSection": "392",
+    "correspondingSection": "392",
     "relatedSections": [
       "434"
     ]
@@ -13257,7 +13257,7 @@
       "appeal",
       "judgment"
     ],
-    "oldCrPCSection": "393",
+    "correspondingSection": "393",
     "relatedSections": [
       "435"
     ]
@@ -13285,7 +13285,7 @@
       "death of appellant",
       "near relatives"
     ],
-    "oldCrPCSection": "394",
+    "correspondingSection": "394",
     "relatedSections": [
       "436"
     ]
@@ -13313,7 +13313,7 @@
       "high court",
       "validity of law"
     ],
-    "oldCrPCSection": "395",
+    "correspondingSection": "395",
     "relatedSections": [
       "437"
     ]
@@ -13341,7 +13341,7 @@
       "high court decision",
       "costs"
     ],
-    "oldCrPCSection": "396",
+    "correspondingSection": "396",
     "relatedSections": [
       "436",
       "438"
@@ -13371,7 +13371,7 @@
       "sessions judge",
       "high court"
     ],
-    "oldCrPCSection": "397",
+    "correspondingSection": "397",
     "relatedSections": [
       "439",
       "440"
@@ -13400,7 +13400,7 @@
       "revision",
       "discharge"
     ],
-    "oldCrPCSection": "398",
+    "correspondingSection": "398",
     "relatedSections": [
       "438",
       "440"
@@ -13429,7 +13429,7 @@
       "revision",
       "finality"
     ],
-    "oldCrPCSection": "399",
+    "correspondingSection": "399",
     "relatedSections": [
       "438",
       "439",
@@ -13459,7 +13459,7 @@
       "revision",
       "powers"
     ],
-    "oldCrPCSection": "400",
+    "correspondingSection": "400",
     "relatedSections": [
       "440",
       "442"
@@ -13490,7 +13490,7 @@
       "acquittal",
       "appellate powers"
     ],
-    "oldCrPCSection": "401",
+    "correspondingSection": "401",
     "relatedSections": [
       "438",
       "443"
@@ -13519,7 +13519,7 @@
       "high court",
       "sessions judge"
     ],
-    "oldCrPCSection": "402",
+    "correspondingSection": "402",
     "relatedSections": [
       "442",
       "444"
@@ -13550,7 +13550,7 @@
       "advocate",
       "court discretion"
     ],
-    "oldCrPCSection": "403",
+    "correspondingSection": "403",
     "relatedSections": [
       "443",
       "445"
@@ -13579,7 +13579,7 @@
       "certification",
       "lower court"
     ],
-    "oldCrPCSection": "404",
+    "correspondingSection": "404",
     "relatedSections": [
       "442",
       "446"
@@ -13609,7 +13609,7 @@
       "criminal case",
       "fair trial"
     ],
-    "oldCrPCSection": "406",
+    "correspondingSection": "406",
     "relatedSections": [
       "447"
     ]
@@ -13638,7 +13638,7 @@
       "fair trial",
       "criminal case"
     ],
-    "oldCrPCSection": "407",
+    "correspondingSection": "407",
     "relatedSections": [
       "446",
       "448"
@@ -13667,7 +13667,7 @@
       "transfer",
       "criminal court"
     ],
-    "oldCrPCSection": "408",
+    "correspondingSection": "408",
     "relatedSections": [
       "447",
       "449"
@@ -13696,7 +13696,7 @@
       "recall",
       "sessions judge"
     ],
-    "oldCrPCSection": "409",
+    "correspondingSection": "409",
     "relatedSections": [
       "448",
       "450"
@@ -13725,7 +13725,7 @@
       "withdrawal",
       "transfer"
     ],
-    "oldCrPCSection": "410",
+    "correspondingSection": "410",
     "relatedSections": [
       "449",
       "451"
@@ -13754,7 +13754,7 @@
       "sub-divisional magistrate",
       "transfer"
     ],
-    "oldCrPCSection": "411",
+    "correspondingSection": "411",
     "relatedSections": [
       "450",
       "452"
@@ -13783,7 +13783,7 @@
       "transfer order",
       "recording"
     ],
-    "oldCrPCSection": "412",
+    "correspondingSection": "412",
     "relatedSections": [
       "448",
       "451",
@@ -13813,7 +13813,7 @@
       "confirmation",
       "warrant"
     ],
-    "oldCrPCSection": "413",
+    "correspondingSection": "413",
     "relatedSections": [
       "454",
       "455"
@@ -13842,7 +13842,7 @@
       "high court",
       "execution"
     ],
-    "oldCrPCSection": "414",
+    "correspondingSection": "414",
     "relatedSections": [
       "453",
       "455"
@@ -13871,7 +13871,7 @@
       "death sentence",
       "stay of execution"
     ],
-    "oldCrPCSection": "415",
+    "correspondingSection": "415",
     "relatedSections": [
       "456"
     ]
@@ -13899,7 +13899,7 @@
       "commutation",
       "life imprisonment"
     ],
-    "oldCrPCSection": "416",
+    "correspondingSection": "416",
     "relatedSections": [
       "455",
       "457"
@@ -13928,7 +13928,7 @@
       "jail",
       "state government"
     ],
-    "oldCrPCSection": "417",
+    "correspondingSection": "417",
     "relatedSections": [
       "458"
     ]
@@ -13956,7 +13956,7 @@
       "warrant",
       "jail"
     ],
-    "oldCrPCSection": "418",
+    "correspondingSection": "418",
     "relatedSections": [
       "459"
     ]
@@ -13984,7 +13984,7 @@
       "jail officer",
       "imprisonment"
     ],
-    "oldCrPCSection": "419",
+    "correspondingSection": "419",
     "relatedSections": [
       "458",
       "460"
@@ -14013,7 +14013,7 @@
       "warrant",
       "prison"
     ],
-    "oldCrPCSection": "420",
+    "correspondingSection": "420",
     "relatedSections": [
       "459",
       "461"
@@ -14045,7 +14045,7 @@
       "collector",
       "land revenue"
     ],
-    "oldCrPCSection": "421",
+    "correspondingSection": "421",
     "relatedSections": [
       "462",
       "471"
@@ -14074,7 +14074,7 @@
       "attachment",
       "district magistrate"
     ],
-    "oldCrPCSection": "422",
+    "correspondingSection": "422",
     "relatedSections": [
       "461",
       "463"
@@ -14103,7 +14103,7 @@
       "external warrant",
       "collector"
     ],
-    "oldCrPCSection": "423",
+    "correspondingSection": "423",
     "relatedSections": [
       "461",
       "462"
@@ -14134,7 +14134,7 @@
       "bond",
       "default imprisonment"
     ],
-    "oldCrPCSection": "424",
+    "correspondingSection": "424",
     "relatedSections": [
       "461",
       "465"
@@ -14164,7 +14164,7 @@
       "magistrate",
       "successor"
     ],
-    "oldCrPCSection": "425",
+    "correspondingSection": "425",
     "relatedSections": [
       "464",
       "466"
@@ -14193,7 +14193,7 @@
       "sentence",
       "imprisonment"
     ],
-    "oldCrPCSection": "426",
+    "correspondingSection": "426",
     "relatedSections": [
       "467"
     ]
@@ -14222,7 +14222,7 @@
       "consecutive sentence",
       "life imprisonment"
     ],
-    "oldCrPCSection": "427",
+    "correspondingSection": "427",
     "relatedSections": [
       "466",
       "468"
@@ -14252,7 +14252,7 @@
       "custody",
       "sentence"
     ],
-    "oldCrPCSection": "428",
+    "correspondingSection": "428",
     "relatedSections": [
       "467",
       "469"
@@ -14281,7 +14281,7 @@
       "fine",
       "imprisonment"
     ],
-    "oldCrPCSection": "429",
+    "correspondingSection": "429",
     "relatedSections": [
       "467",
       "470"
@@ -14310,7 +14310,7 @@
       "execution",
       "certificate"
     ],
-    "oldCrPCSection": "430",
+    "correspondingSection": "430",
     "relatedSections": [
       "471"
     ]
@@ -14341,7 +14341,7 @@
       "compensation",
       "money order"
     ],
-    "oldCrPCSection": "431",
+    "correspondingSection": "431",
     "relatedSections": [
       "461",
       "400",
@@ -14379,7 +14379,7 @@
       "Article 72",
       "Article 161"
     ],
-    "oldCrPCSection": "432A related procedural provision (new BNSS provision)",
+    "correspondingSection": "432A related procedural provision (new BNSS provision)",
     "relatedSections": [
       "473",
       "474",
@@ -14416,7 +14416,7 @@
       "appropriate government",
       "clemency"
     ],
-    "oldCrPCSection": "432",
+    "correspondingSection": "432",
     "relatedSections": [
       "472",
       "474",
@@ -14448,7 +14448,7 @@
       "life imprisonment",
       "appropriate government"
     ],
-    "oldCrPCSection": "433",
+    "correspondingSection": "433",
     "relatedSections": [
       "473",
       "475"
@@ -14480,7 +14480,7 @@
       "commutation",
       "release restriction"
     ],
-    "oldCrPCSection": "433A",
+    "correspondingSection": "433A",
     "relatedSections": [
       "473",
       "474",
@@ -14512,7 +14512,7 @@
       "commutation",
       "remission"
     ],
-    "oldCrPCSection": "434",
+    "correspondingSection": "434",
     "relatedSections": [
       "473",
       "474",
@@ -14545,7 +14545,7 @@
       "commutation",
       "CBI"
     ],
-    "oldCrPCSection": "435",
+    "correspondingSection": "435",
     "relatedSections": [
       "473",
       "474",
@@ -14578,7 +14578,7 @@
       "surety",
       "indigent person"
     ],
-    "oldCrPCSection": "436",
+    "correspondingSection": "436",
     "relatedSections": [
       "479",
       "480"
@@ -14610,7 +14610,7 @@
       "half sentence",
       "first-time offender"
     ],
-    "oldCrPCSection": "436A",
+    "correspondingSection": "436A",
     "relatedSections": [
       "478",
       "480"
@@ -14646,7 +14646,7 @@
       "public prosecutor",
       "custody"
     ],
-    "oldCrPCSection": "437",
+    "correspondingSection": "437",
     "relatedSections": [
       "478",
       "479",
@@ -14683,7 +14683,7 @@
       "appearance",
       "forfeiture"
     ],
-    "oldCrPCSection": "437A",
+    "correspondingSection": "437A",
     "relatedSections": [
       "480",
       "491",
@@ -14719,7 +14719,7 @@
       "court of session",
       "high court"
     ],
-    "oldCrPCSection": "438",
+    "correspondingSection": "438",
     "relatedSections": [
       "480",
       "483"
@@ -14754,7 +14754,7 @@
       "bail",
       "cancellation of bail"
     ],
-    "oldCrPCSection": "439",
+    "correspondingSection": "439",
     "relatedSections": [
       "480",
       "482",
@@ -14790,7 +14790,7 @@
       "reduction",
       "surety"
     ],
-    "oldCrPCSection": "440",
+    "correspondingSection": "440",
     "relatedSections": [
       "483",
       "485"
@@ -14826,7 +14826,7 @@
       "affidavit",
       "appearance"
     ],
-    "oldCrPCSection": "441",
+    "correspondingSection": "441",
     "relatedSections": [
       "481",
       "484",
@@ -14858,7 +14858,7 @@
       "declaration",
       "bond"
     ],
-    "oldCrPCSection": "441A",
+    "correspondingSection": "441A",
     "relatedSections": [
       "485",
       "487"
@@ -14889,7 +14889,7 @@
       "bail bond",
       "jail"
     ],
-    "oldCrPCSection": "442",
+    "correspondingSection": "442",
     "relatedSections": [
       "478",
       "480",
@@ -14921,7 +14921,7 @@
       "fresh security",
       "custody"
     ],
-    "oldCrPCSection": "443",
+    "correspondingSection": "443",
     "relatedSections": [
       "487",
       "489"
@@ -14951,7 +14951,7 @@
       "bail",
       "fresh surety"
     ],
-    "oldCrPCSection": "444",
+    "correspondingSection": "444",
     "relatedSections": [
       "488",
       "490"
@@ -14982,7 +14982,7 @@
       "cash security",
       "government securities"
     ],
-    "oldCrPCSection": "445",
+    "correspondingSection": "445",
     "relatedSections": [
       "489",
       "491"
@@ -15013,7 +15013,7 @@
       "surety",
       "civil jail"
     ],
-    "oldCrPCSection": "446",
+    "correspondingSection": "446",
     "relatedSections": [
       "492",
       "495"
@@ -15043,7 +15043,7 @@
       "forfeiture",
       "fresh surety"
     ],
-    "oldCrPCSection": "446A",
+    "correspondingSection": "446A",
     "relatedSections": [
       "491",
       "493"
@@ -15073,7 +15073,7 @@
       "insolvency",
       "fresh security"
     ],
-    "oldCrPCSection": "447",
+    "correspondingSection": "447",
     "relatedSections": [
       "491",
       "492",
@@ -15103,7 +15103,7 @@
       "bond",
       "surety"
     ],
-    "oldCrPCSection": "448",
+    "correspondingSection": "448",
     "relatedSections": [
       "493",
       "495"
@@ -15132,7 +15132,7 @@
       "bond forfeiture",
       "sessions judge"
     ],
-    "oldCrPCSection": "449",
+    "correspondingSection": "449",
     "relatedSections": [
       "491",
       "496"
@@ -15162,7 +15162,7 @@
       "high court",
       "sessions court"
     ],
-    "oldCrPCSection": "450",
+    "correspondingSection": "450",
     "relatedSections": [
       "495",
       "497"
@@ -15194,7 +15194,7 @@
       "photography",
       "videography"
     ],
-    "oldCrPCSection": "451",
+    "correspondingSection": "451",
     "relatedSections": [
       "498"
     ]
@@ -15224,7 +15224,7 @@
       "delivery",
       "destruction"
     ],
-    "oldCrPCSection": "452",
+    "correspondingSection": "452",
     "relatedSections": [
       "497",
       "499",
@@ -15254,7 +15254,7 @@
       "stolen property",
       "compensation"
     ],
-    "oldCrPCSection": "453",
+    "correspondingSection": "453",
     "relatedSections": [
       "498",
       "500"
@@ -15285,7 +15285,7 @@
       "confiscation",
       "appellate court"
     ],
-    "oldCrPCSection": "454",
+    "correspondingSection": "454",
     "relatedSections": [
       "498",
       "499"
@@ -15316,7 +15316,7 @@
       "adulterated drugs",
       "confiscation"
     ],
-    "oldCrPCSection": "455",
+    "correspondingSection": "455",
     "relatedSections": [
       "498",
       "502"
@@ -15347,7 +15347,7 @@
       "possession",
       "criminal force"
     ],
-    "oldCrPCSection": "456",
+    "correspondingSection": "456",
     "relatedSections": [
       "500",
       "503"
@@ -15378,7 +15378,7 @@
       "magistrate",
       "custody"
     ],
-    "oldCrPCSection": "457",
+    "correspondingSection": "457",
     "relatedSections": [
       "504",
       "505"
@@ -15409,7 +15409,7 @@
       "sale",
       "seized property"
     ],
-    "oldCrPCSection": "458",
+    "correspondingSection": "458",
     "relatedSections": [
       "503",
       "505"
@@ -15440,7 +15440,7 @@
       "magistrate",
       "seized goods"
     ],
-    "oldCrPCSection": "459",
+    "correspondingSection": "459",
     "relatedSections": [
       "503",
       "504"
@@ -15471,7 +15471,7 @@
       "magistrate",
       "procedure"
     ],
-    "oldCrPCSection": "460",
+    "correspondingSection": "460",
     "relatedSections": [
       "507",
       "508"
@@ -15502,7 +15502,7 @@
       "magistrate",
       "authority"
     ],
-    "oldCrPCSection": "461",
+    "correspondingSection": "461",
     "relatedSections": [
       "506",
       "508"
@@ -15532,7 +15532,7 @@
       "venue",
       "failure of justice"
     ],
-    "oldCrPCSection": "462",
+    "correspondingSection": "462",
     "relatedSections": [
       "509",
       "510"
@@ -15563,7 +15563,7 @@
       "evidence",
       "procedural defect"
     ],
-    "oldCrPCSection": "463",
+    "correspondingSection": "463",
     "relatedSections": [
       "510",
       "511"
@@ -15594,7 +15594,7 @@
       "trial",
       "failure of justice"
     ],
-    "oldCrPCSection": "464",
+    "correspondingSection": "464",
     "relatedSections": [
       "511"
     ]
@@ -15624,7 +15624,7 @@
       "irregularity",
       "justice"
     ],
-    "oldCrPCSection": "465",
+    "correspondingSection": "465",
     "relatedSections": [
       "510",
       "512"
@@ -15655,7 +15655,7 @@
       "trespass",
       "procedure"
     ],
-    "oldCrPCSection": "466",
+    "correspondingSection": "466",
     "relatedSections": [
       "506",
       "511"
@@ -15684,7 +15684,7 @@
       "definition",
       "cognizance"
     ],
-    "oldCrPCSection": "467",
+    "correspondingSection": "467",
     "relatedSections": [
       "514",
       "515"
@@ -15714,7 +15714,7 @@
       "cognizance",
       "time bar"
     ],
-    "oldCrPCSection": "468",
+    "correspondingSection": "468",
     "relatedSections": [
       "513",
       "515"
@@ -15745,7 +15745,7 @@
       "offence",
       "cognizance"
     ],
-    "oldCrPCSection": "469",
+    "correspondingSection": "469",
     "relatedSections": [
       "513",
       "514",
@@ -15778,7 +15778,7 @@
       "absconding",
       "injunction"
     ],
-    "oldCrPCSection": "470",
+    "correspondingSection": "470",
     "relatedSections": [
       "514",
       "515",
@@ -15808,7 +15808,7 @@
       "limitation",
       "closed court"
     ],
-    "oldCrPCSection": "471",
+    "correspondingSection": "471",
     "relatedSections": [
       "516",
       "518"
@@ -15837,7 +15837,7 @@
       "limitation",
       "fresh limitation"
     ],
-    "oldCrPCSection": "472",
+    "correspondingSection": "472",
     "relatedSections": [
       "517",
       "519"
@@ -15866,7 +15866,7 @@
       "limitation",
       "interests of justice"
     ],
-    "oldCrPCSection": "473",
+    "correspondingSection": "473",
     "relatedSections": [
       "518",
       "520"
@@ -15896,7 +15896,7 @@
       "sessions court",
       "procedure"
     ],
-    "oldCrPCSection": "474",
+    "correspondingSection": "474",
     "relatedSections": [
       "521"
     ]
@@ -15927,7 +15927,7 @@
       "air force",
       "commanding officer"
     ],
-    "oldCrPCSection": "475",
+    "correspondingSection": "475",
     "relatedSections": [
       "520",
       "522"
@@ -15956,7 +15956,7 @@
       "second schedule",
       "procedure"
     ],
-    "oldCrPCSection": "476",
+    "correspondingSection": "476",
     "relatedSections": [
       "523"
     ]
@@ -15984,7 +15984,7 @@
       "petition writer",
       "gazette"
     ],
-    "oldCrPCSection": "477",
+    "correspondingSection": "477",
     "relatedSections": [
       "522",
       "524"
@@ -16013,7 +16013,7 @@
       "judicial magistrate",
       "state government"
     ],
-    "oldCrPCSection": "478",
+    "correspondingSection": "478",
     "relatedSections": [
       "523",
       "525"
@@ -16044,7 +16044,7 @@
       "judge",
       "magistrate"
     ],
-    "oldCrPCSection": "479",
+    "correspondingSection": "479",
     "relatedSections": [
       "526"
     ]
@@ -16095,7 +16095,7 @@
       "limitation",
       "BNSS commencement"
     ],
-    "oldCrPCSection": "Not Applicable (This is the repealing and saving provision of BNSS)",
+    "correspondingSection": "Not Applicable (This is the repealing and saving provision of BNSS)",
     "relatedSections": [
       "513",
       "514",
