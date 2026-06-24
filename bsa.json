@@ -29,7 +29,7 @@
       "court",
       "judicial proceedings"
     ],
-    "oldEvidenceActSection": "1",
+    "correspondingSection": "1",
     "relatedSections": [
       "2"
     ]
@@ -64,7 +64,7 @@
       "fact",
       "court"
     ],
-    "oldEvidenceActSection": "3",
+    "correspondingSection": "3",
     "relatedSections": [
       "3"
     ]
@@ -98,7 +98,7 @@
       "evidence",
       "admissibility"
     ],
-    "oldEvidenceActSection": "5",
+    "correspondingSection": "5",
     "relatedSections": [
       "4",
       "5"
@@ -132,7 +132,7 @@
       "res gestae",
       "relevancy"
     ],
-    "oldEvidenceActSection": "6",
+    "correspondingSection": "6",
     "relatedSections": [
       "5",
       "6"
@@ -167,7 +167,7 @@
       "occasion",
       "circumstances"
     ],
-    "oldEvidenceActSection": "7",
+    "correspondingSection": "7",
     "relatedSections": [
       "4",
       "6"
@@ -202,7 +202,7 @@
       "conduct",
       "evidence"
     ],
-    "oldEvidenceActSection": "8",
+    "correspondingSection": "8",
     "relatedSections": [
       "7",
       "12"
@@ -238,7 +238,7 @@
       "relationship",
       "explanation"
     ],
-    "oldEvidenceActSection": "9",
+    "correspondingSection": "9",
     "relatedSections": [
       "6",
       "8"
@@ -272,7 +272,7 @@
       "common design",
       "co-conspirator"
     ],
-    "oldEvidenceActSection": "10",
+    "correspondingSection": "10",
     "relatedSections": [
       "9"
     ]
@@ -306,7 +306,7 @@
       "inconsistency",
       "relevance"
     ],
-    "oldEvidenceActSection": "11",
+    "correspondingSection": "11",
     "relatedSections": [
       "10"
     ]
@@ -339,7 +339,7 @@
       "compensation",
       "civil suit"
     ],
-    "oldEvidenceActSection": "12",
+    "correspondingSection": "12",
     "relatedSections": [
       "11"
     ]
@@ -369,7 +369,7 @@
       }
     ],
     "keywords": ["custom", "right", "tradition", "usage"],
-    "oldEvidenceActSection": "13",
+    "correspondingSection": "13",
     "relatedSections": ["12", "14"]
   },
   {
@@ -396,7 +396,7 @@
       }
     ],
     "keywords": ["intention", "knowledge", "negligence", "health"],
-    "oldEvidenceActSection": "14",
+    "correspondingSection": "14",
     "relatedSections": ["13", "15"]
   },
   {
@@ -423,7 +423,7 @@
       }
     ],
     "keywords": ["accident", "intention", "pattern", "similar occurrence"],
-    "oldEvidenceActSection": "15",
+    "correspondingSection": "15",
     "relatedSections": ["12", "14"]
   },
   {
@@ -450,7 +450,7 @@
       }
     ],
     "keywords": ["business practice", "trade", "official conduct"],
-    "oldEvidenceActSection": "16",
+    "correspondingSection": "16",
     "relatedSections": ["15", "17"]
   },
   {
@@ -477,7 +477,7 @@
       }
     ],
     "keywords": ["admission", "statement", "evidence"],
-    "oldEvidenceActSection": "17",
+    "correspondingSection": "17",
     "relatedSections": ["16", "17", "18"]
   },
   {
@@ -504,7 +504,7 @@
       }
     ],
     "keywords": ["agent", "party", "admission", "authority"],
-    "oldEvidenceActSection": "18",
+    "correspondingSection": "18",
     "relatedSections": ["15", "17"]
   },
   {
@@ -531,7 +531,7 @@
       }
     ],
     "keywords": ["admission", "liability", "position", "relationship"],
-    "oldEvidenceActSection": "19",
+    "correspondingSection": "19",
     "relatedSections": ["16", "18"]
   },
   {
@@ -558,7 +558,7 @@
       }
     ],
     "keywords": ["admission", "reference", "information source"],
-    "oldEvidenceActSection": "20",
+    "correspondingSection": "20",
     "relatedSections": ["17", "19"]
   },
   {
@@ -585,7 +585,7 @@
       }
     ],
     "keywords": ["proof", "admission", "evidence"],
-    "oldEvidenceActSection": "21",
+    "correspondingSection": "21",
     "relatedSections": ["20"]
   },
   {
@@ -612,7 +612,7 @@
       }
     ],
     "keywords": ["oral admission", "document", "secondary evidence"],
-    "oldEvidenceActSection": "22",
+    "correspondingSection": "22",
     "relatedSections": ["21", "56", "57"]
   },
 
@@ -640,7 +640,7 @@
       }
     ],
     "keywords": ["electronic record", "oral admission", "authenticity"],
-    "oldEvidenceActSection": "22A",
+    "correspondingSection": "22A",
     "relatedSections": ["20", "57", "61"]
   },
   {
@@ -667,7 +667,7 @@
       }
     ],
     "keywords": ["civil cases", "confidential admissions", "settlement"],
-    "oldEvidenceActSection": "23",
+    "correspondingSection": "23",
     "relatedSections": ["15", "23"]
   },
   {
@@ -694,7 +694,7 @@
       }
     ],
     "keywords": ["confession", "threat", "promise", "inducement"],
-    "oldEvidenceActSection": "24",
+    "correspondingSection": "24",
     "relatedSections": ["24", "25", "26"]
   },
   {
@@ -721,7 +721,7 @@
       }
     ],
     "keywords": ["police confession", "admissibility", "accused"],
-    "oldEvidenceActSection": "25",
+    "correspondingSection": "25",
     "relatedSections": ["23", "25"]
   },
   {
@@ -748,7 +748,7 @@
       }
     ],
     "keywords": ["custodial confession", "magistrate", "police custody"],
-    "oldEvidenceActSection": "26",
+    "correspondingSection": "26",
     "relatedSections": ["24", "26"]
   },
   {
@@ -775,7 +775,7 @@
       }
     ],
     "keywords": ["discovery", "recovery", "accused statement"],
-    "oldEvidenceActSection": "27",
+    "correspondingSection": "27",
     "relatedSections": ["25", "27"]
   },
   {
@@ -802,7 +802,7 @@
       }
     ],
     "keywords": ["voluntary confession", "influence removed"],
-    "oldEvidenceActSection": "28",
+    "correspondingSection": "28",
     "relatedSections": ["23", "24"]
   },
   {
@@ -829,7 +829,7 @@
       }
     ],
     "keywords": ["confession", "secrecy", "deception"],
-    "oldEvidenceActSection": "29",
+    "correspondingSection": "29",
     "relatedSections": ["27", "29"]
   },
   {
@@ -856,7 +856,7 @@
       }
     ],
     "keywords": ["co-accused", "joint trial", "confession"],
-    "oldEvidenceActSection": "30",
+    "correspondingSection": "30",
     "relatedSections": ["30"]
   },
   {
@@ -883,7 +883,7 @@
       }
     ],
     "keywords": ["admission", "estoppel", "proof"],
-    "oldEvidenceActSection": "31",
+    "correspondingSection": "31",
     "relatedSections": ["15", "19"]
   },
 
@@ -911,7 +911,7 @@
       }
     ],
     "keywords": ["dying declaration", "unavailable witness", "statement"],
-    "oldEvidenceActSection": "32",
+    "correspondingSection": "32",
     "relatedSections": ["32", "33"]
   },
   {
@@ -938,7 +938,7 @@
       }
     ],
     "keywords": ["former testimony", "deposition", "witness"],
-    "oldEvidenceActSection": "33",
+    "correspondingSection": "33",
     "relatedSections": ["31", "33"]
   },
   {
@@ -965,7 +965,7 @@
       }
     ],
     "keywords": ["account books", "electronic records", "ledger"],
-    "oldEvidenceActSection": "34",
+    "correspondingSection": "34",
     "relatedSections": ["34", "35"]
   },
   {
@@ -988,7 +988,7 @@
       }
     ],
     "keywords": ["public records", "official records", "government documents"],
-    "oldEvidenceActSection": "35",
+    "correspondingSection": "35",
     "relatedSections": ["35", "36"]
   },
   {
@@ -1011,7 +1011,7 @@
       }
     ],
     "keywords": ["maps", "charts", "plans", "government records"],
-    "oldEvidenceActSection": "36",
+    "correspondingSection": "36",
     "relatedSections": ["34", "36"]
   },
   {
@@ -1034,7 +1034,7 @@
       }
     ],
     "keywords": ["public facts", "reports", "gazette"],
-    "oldEvidenceActSection": "37",
+    "correspondingSection": "37",
     "relatedSections": ["35", "37"]
   },
   {
@@ -1057,7 +1057,7 @@
       }
     ],
     "keywords": ["law books", "foreign law", "legal opinion"],
-    "oldEvidenceActSection": "38",
+    "correspondingSection": "38",
     "relatedSections": ["36", "38"]
   },
   {
@@ -1080,7 +1080,7 @@
       }
     ],
     "keywords": ["context", "document", "electronic record"],
-    "oldEvidenceActSection": "39",
+    "correspondingSection": "39",
     "relatedSections": ["39", "40"]
   },
   {
@@ -1103,7 +1103,7 @@
       }
     ],
     "keywords": ["judgment", "res judicata", "double jeopardy"],
-    "oldEvidenceActSection": "40",
+    "correspondingSection": "40",
     "relatedSections": ["40", "41"]
   },
   {
@@ -1130,7 +1130,7 @@
       }
     ],
     "keywords": ["probate", "matrimonial", "insolvency", "judgment"],
-    "oldEvidenceActSection": "41",
+    "correspondingSection": "41",
     "relatedSections": ["39", "41", "42"]
   },
 
@@ -1158,7 +1158,7 @@
       }
     ],
     "keywords": ["judgment", "public rights", "relevant evidence"],
-    "oldEvidenceActSection": "42",
+    "correspondingSection": "42",
     "relatedSections": ["40", "42"]
   },
   {
@@ -1185,7 +1185,7 @@
       }
     ],
     "keywords": ["judgment", "decree", "relevancy"],
-    "oldEvidenceActSection": "43",
+    "correspondingSection": "43",
     "relatedSections": ["39", "40", "41", "43"]
   },
   {
@@ -1212,7 +1212,7 @@
       }
     ],
     "keywords": ["fraud", "collusion", "jurisdiction", "judgment"],
-    "oldEvidenceActSection": "44",
+    "correspondingSection": "44",
     "relatedSections": ["40", "41", "42"]
   },
   {
@@ -1239,7 +1239,7 @@
       }
     ],
     "keywords": ["expert", "forensics", "digital signature", "science"],
-    "oldEvidenceActSection": "45",
+    "correspondingSection": "45",
     "relatedSections": ["45", "46"]
   },
   {
@@ -1266,7 +1266,7 @@
       }
     ],
     "keywords": ["expert opinion", "supporting facts", "reliability"],
-    "oldEvidenceActSection": "46",
+    "correspondingSection": "46",
     "relatedSections": ["44", "46"]
   },
   {
@@ -1293,7 +1293,7 @@
       }
     ],
     "keywords": ["handwriting", "signature", "electronic signature"],
-    "oldEvidenceActSection": "47",
+    "correspondingSection": "47",
     "relatedSections": ["44", "47"]
   },
   {
@@ -1320,7 +1320,7 @@
       }
     ],
     "keywords": ["custom", "usage", "right", "opinion"],
-    "oldEvidenceActSection": "48",
+    "correspondingSection": "48",
     "relatedSections": ["11", "48"]
   },
   {
@@ -1347,7 +1347,7 @@
       }
     ],
     "keywords": ["usage", "tenet", "custom", "organization"],
-    "oldEvidenceActSection": "49",
+    "correspondingSection": "49",
     "relatedSections": ["47", "49"]
   },
   {
@@ -1374,7 +1374,7 @@
       }
     ],
     "keywords": ["relationship", "family", "kinship"],
-    "oldEvidenceActSection": "50",
+    "correspondingSection": "50",
     "relatedSections": ["50"]
   },
   {
@@ -1401,7 +1401,7 @@
       }
     ],
     "keywords": ["opinion", "grounds", "reasoning", "evidence"],
-    "oldEvidenceActSection": "51",
+    "correspondingSection": "51",
     "relatedSections": ["44", "45", "46"]
   },
 
@@ -1433,7 +1433,7 @@
       "certifying authority",
       "electronic evidence"
     ],
-    "oldEvidenceActSection": "47A",
+    "correspondingSection": "47A",
     "relatedSections": [
       "44",
       "46",
@@ -1468,7 +1468,7 @@
       "civil case",
       "reputation"
     ],
-    "oldEvidenceActSection": "52",
+    "correspondingSection": "52",
     "relatedSections": [
       "53",
       "54"
@@ -1502,7 +1502,7 @@
       "criminal case",
       "accused"
     ],
-    "oldEvidenceActSection": "53",
+    "correspondingSection": "53",
     "relatedSections": [
       "52",
       "54"
@@ -1536,7 +1536,7 @@
       "criminal trial",
       "reputation"
     ],
-    "oldEvidenceActSection": "54",
+    "correspondingSection": "54",
     "relatedSections": [
       "53",
       "55"
@@ -1571,7 +1571,7 @@
       "compensation",
       "defamation"
     ],
-    "oldEvidenceActSection": "55",
+    "correspondingSection": "55",
     "relatedSections": [
       "10",
       "52"
@@ -1605,7 +1605,7 @@
       "witness",
       "testimony"
     ],
-    "oldEvidenceActSection": "59",
+    "correspondingSection": "59",
     "relatedSections": [
       "57",
       "58"
@@ -1639,7 +1639,7 @@
       "hearsay",
       "witness"
     ],
-    "oldEvidenceActSection": "60",
+    "correspondingSection": "60",
     "relatedSections": [
       "56",
       "58"
@@ -1673,7 +1673,7 @@
       "primary evidence",
       "secondary evidence"
     ],
-    "oldEvidenceActSection": "61",
+    "correspondingSection": "61",
     "relatedSections": [
       "59",
       "60"
@@ -1707,7 +1707,7 @@
       "original document",
       "electronic record"
     ],
-    "oldEvidenceActSection": "62",
+    "correspondingSection": "62",
     "relatedSections": [
       "58",
       "60"
@@ -1741,7 +1741,7 @@
       "certified copy",
       "document copy"
     ],
-    "oldEvidenceActSection": "63",
+    "correspondingSection": "63",
     "relatedSections": [
       "58",
       "59",
@@ -1773,7 +1773,7 @@
       }
     ],
     "keywords": ["primary evidence", "original document", "proof"],
-    "oldEvidenceActSection": "64",
+    "correspondingSection": "64",
     "relatedSections": ["58", "59", "60", "62"]
   },
   {
@@ -1800,7 +1800,7 @@
       }
     ],
     "keywords": ["secondary evidence", "copy", "lost document"],
-    "oldEvidenceActSection": "65",
+    "correspondingSection": "65",
     "relatedSections": ["60", "61", "63"]
   },
   {
@@ -1827,7 +1827,7 @@
       }
     ],
     "keywords": ["electronic record", "digital evidence", "email"],
-    "oldEvidenceActSection": "65A",
+    "correspondingSection": "65A",
     "relatedSections": ["64", "65"]
   },
   {
@@ -1854,7 +1854,7 @@
       }
     ],
     "keywords": ["electronic evidence", "admissibility", "digital records"],
-    "oldEvidenceActSection": "65B",
+    "correspondingSection": "65B",
     "relatedSections": ["63", "65"]
   },
   {
@@ -1881,7 +1881,7 @@
       }
     ],
     "keywords": ["certificate", "electronic record", "authentication"],
-    "oldEvidenceActSection": "65B",
+    "correspondingSection": "65B",
     "relatedSections": ["63", "64", "66"]
   },
   {
@@ -1908,7 +1908,7 @@
       }
     ],
     "keywords": ["electronic signature", "digital signature", "authentication"],
-    "oldEvidenceActSection": "67A",
+    "correspondingSection": "67A",
     "relatedSections": ["51", "64", "67"]
   },
   {
@@ -1935,7 +1935,7 @@
       }
     ],
     "keywords": ["signature", "handwriting", "document verification"],
-    "oldEvidenceActSection": "67",
+    "correspondingSection": "67",
     "relatedSections": ["46", "66", "68"]
   },
   {
@@ -1962,7 +1962,7 @@
       }
     ],
     "keywords": ["attestation", "witness", "will", "execution"],
-    "oldEvidenceActSection": "68",
+    "correspondingSection": "68",
     "relatedSections": ["69", "70"]
   },
   {
@@ -1989,7 +1989,7 @@
       }
     ],
     "keywords": ["attesting witness", "signature proof", "execution"],
-    "oldEvidenceActSection": "69",
+    "correspondingSection": "69",
     "relatedSections": ["68", "70"]
   },
   {
@@ -2016,7 +2016,7 @@
       }
     ],
     "keywords": ["admission", "execution", "attested document"],
-    "oldEvidenceActSection": "70",
+    "correspondingSection": "70",
     "relatedSections": ["68", "69", "71"]
   },
 
@@ -2044,7 +2044,7 @@
       }
     ],
     "keywords": ["attesting witness", "execution", "proof"],
-    "oldEvidenceActSection": "71",
+    "correspondingSection": "71",
     "relatedSections": ["68", "69", "70"]
   },
   {
@@ -2071,7 +2071,7 @@
       }
     ],
     "keywords": ["document", "attestation", "proof"],
-    "oldEvidenceActSection": "72",
+    "correspondingSection": "72",
     "relatedSections": ["67", "68"]
   },
   {
@@ -2098,7 +2098,7 @@
       }
     ],
     "keywords": ["signature", "handwriting", "comparison"],
-    "oldEvidenceActSection": "73",
+    "correspondingSection": "73",
     "relatedSections": ["67", "74"]
   },
   {
@@ -2125,7 +2125,7 @@
       }
     ],
     "keywords": ["digital signature", "verification", "electronic evidence"],
-    "oldEvidenceActSection": "73A",
+    "correspondingSection": "73A",
     "relatedSections": ["51", "66", "75"]
   },
   {
@@ -2152,7 +2152,7 @@
       }
     ],
     "keywords": ["public document", "private document"],
-    "oldEvidenceActSection": "74",
+    "correspondingSection": "74",
     "relatedSections": ["76", "77"]
   },
   {
@@ -2179,7 +2179,7 @@
       }
     ],
     "keywords": ["government records", "official documents", "public records"],
-    "oldEvidenceActSection": "74",
+    "correspondingSection": "74",
     "relatedSections": ["75", "77"]
   },
   {
@@ -2206,7 +2206,7 @@
       }
     ],
     "keywords": ["private documents", "contracts", "letters"],
-    "oldEvidenceActSection": "75",
+    "correspondingSection": "75",
     "relatedSections": ["75", "76"]
   },
   {
@@ -2233,7 +2233,7 @@
       }
     ],
     "keywords": ["certified copy", "public record", "copy"],
-    "oldEvidenceActSection": "76",
+    "correspondingSection": "76",
     "relatedSections": ["79", "80"]
   },
   {
@@ -2260,7 +2260,7 @@
       }
     ],
     "keywords": ["certified copies", "public documents", "proof"],
-    "oldEvidenceActSection": "77",
+    "correspondingSection": "77",
     "relatedSections": ["78", "80"]
   },
   {
@@ -2287,7 +2287,7 @@
       }
     ],
     "keywords": ["official records", "government documents", "public evidence"],
-    "oldEvidenceActSection": "78",
+    "correspondingSection": "78",
     "relatedSections": ["76", "78", "79"]
   },
 
@@ -2311,7 +2311,7 @@
       }
     ],
     "keywords": ["certified copy", "presumption", "genuine document"],
-    "oldEvidenceActSection": "79",
+    "correspondingSection": "79",
     "relatedSections": ["78", "79", "82"]
   },
   {
@@ -2334,7 +2334,7 @@
       }
     ],
     "keywords": ["evidence record", "deposition", "judicial proceeding"],
-    "oldEvidenceActSection": "80",
+    "correspondingSection": "80",
     "relatedSections": ["32", "81", "83"]
   },
   {
@@ -2357,7 +2357,7 @@
       }
     ],
     "keywords": ["gazette", "newspaper", "official publication"],
-    "oldEvidenceActSection": "81",
+    "correspondingSection": "81",
     "relatedSections": ["81", "84"]
   },
   {
@@ -2380,7 +2380,7 @@
       }
     ],
     "keywords": ["power of attorney", "authentication", "presumption"],
-    "oldEvidenceActSection": "85",
+    "correspondingSection": "85",
     "relatedSections": ["85", "86"]
   },
   {
@@ -2403,7 +2403,7 @@
       }
     ],
     "keywords": ["electronic agreement", "digital signature", "contract"],
-    "oldEvidenceActSection": "85A",
+    "correspondingSection": "85A",
     "relatedSections": ["64", "66", "86"]
   },
   {
@@ -2426,7 +2426,7 @@
       }
     ],
     "keywords": ["secure electronic record", "digital signature", "authenticity"],
-    "oldEvidenceActSection": "85B",
+    "correspondingSection": "85B",
     "relatedSections": ["64", "65", "85"]
   },
   {
@@ -2449,7 +2449,7 @@
       }
     ],
     "keywords": ["electronic signature certificate", "certifying authority"],
-    "oldEvidenceActSection": "85C",
+    "correspondingSection": "85C",
     "relatedSections": ["51", "66", "86"]
   },
   {
@@ -2472,7 +2472,7 @@
       }
     ],
     "keywords": ["foreign judgment", "certified copy", "foreign court"],
-    "oldEvidenceActSection": "86",
+    "correspondingSection": "86",
     "relatedSections": ["81", "89"]
   },
   {
@@ -2495,7 +2495,7 @@
       }
     ],
     "keywords": ["books", "maps", "charts", "publication"],
-    "oldEvidenceActSection": "87",
+    "correspondingSection": "87",
     "relatedSections": ["35", "36", "90"]
   },
   {
@@ -2522,7 +2522,7 @@
       }
     ],
     "keywords": ["email", "electronic message", "electronic communication"],
-    "oldEvidenceActSection": "88A",
+    "correspondingSection": "88A",
     "relatedSections": ["63", "64", "91"]
   },
 
@@ -2546,7 +2546,7 @@
       }
     ],
     "keywords": ["presumption", "withheld document", "notice"],
-    "oldEvidenceActSection": "89",
+    "correspondingSection": "89",
     "relatedSections": ["92", "98"]
   },
   {
@@ -2569,7 +2569,7 @@
       }
     ],
     "keywords": ["ancient document", "30 years old", "proper custody"],
-    "oldEvidenceActSection": "90",
+    "correspondingSection": "90",
     "relatedSections": ["93", "94"]
   },
   {
@@ -2592,7 +2592,7 @@
       }
     ],
     "keywords": ["electronic record", "digital signature", "presumption"],
-    "oldEvidenceActSection": "90A",
+    "correspondingSection": "90A",
     "relatedSections": ["64", "86", "92"]
   },
   {
@@ -2615,7 +2615,7 @@
       }
     ],
     "keywords": ["contract", "document", "best evidence rule"],
-    "oldEvidenceActSection": "91",
+    "correspondingSection": "91",
     "relatedSections": ["58", "61", "95"]
   },
   {
@@ -2638,7 +2638,7 @@
       }
     ],
     "keywords": ["oral agreement", "written contract", "documentary evidence"],
-    "oldEvidenceActSection": "92",
+    "correspondingSection": "92",
     "relatedSections": ["94", "96"]
   },
   {
@@ -2661,7 +2661,7 @@
       }
     ],
     "keywords": ["ambiguity", "document interpretation"],
-    "oldEvidenceActSection": "93",
+    "correspondingSection": "93",
     "relatedSections": ["95", "97"]
   },
   {
@@ -2684,7 +2684,7 @@
       }
     ],
     "keywords": ["document interpretation", "external evidence"],
-    "oldEvidenceActSection": "94",
+    "correspondingSection": "94",
     "relatedSections": ["96", "98"]
   },
   {
@@ -2707,7 +2707,7 @@
       }
     ],
     "keywords": ["document interpretation", "uncertainty", "identification"],
-    "oldEvidenceActSection": "95",
+    "correspondingSection": "95",
     "relatedSections": ["97", "99"]
   },
   {
@@ -2730,7 +2730,7 @@
       }
     ],
     "keywords": ["technical terms", "foreign language", "document explanation"],
-    "oldEvidenceActSection": "98",
+    "correspondingSection": "98",
     "relatedSections": ["44", "97", "100"]
   },
   {
@@ -2753,7 +2753,7 @@
       }
     ],
     "keywords": ["oral agreement", "third party", "documentary evidence"],
-    "oldEvidenceActSection": "99",
+    "correspondingSection": "99",
     "relatedSections": ["94", "95", "101"]
   },
 
@@ -2777,7 +2777,7 @@
       }
     ],
     "keywords": ["will", "interpretation", "surrounding circumstances"],
-    "oldEvidenceActSection": "100",
+    "correspondingSection": "100",
     "relatedSections": ["97", "98", "100"]
   },
   {
@@ -2800,7 +2800,7 @@
       }
     ],
     "keywords": ["burden of proof", "claim", "evidence"],
-    "oldEvidenceActSection": "101",
+    "correspondingSection": "101",
     "relatedSections": ["103", "104"]
   },
   {
@@ -2823,7 +2823,7 @@
       }
     ],
     "keywords": ["burden", "proof", "legal proceeding"],
-    "oldEvidenceActSection": "102",
+    "correspondingSection": "102",
     "relatedSections": ["102", "104"]
   },
   {
@@ -2846,7 +2846,7 @@
       }
     ],
     "keywords": ["particular fact", "burden", "evidence"],
-    "oldEvidenceActSection": "103",
+    "correspondingSection": "103",
     "relatedSections": ["102", "105"]
   },
   {
@@ -2869,7 +2869,7 @@
       }
     ],
     "keywords": ["admissibility", "evidence", "burden"],
-    "oldEvidenceActSection": "104",
+    "correspondingSection": "104",
     "relatedSections": ["62", "63", "106"]
   },
   {
@@ -2892,7 +2892,7 @@
       }
     ],
     "keywords": ["exception", "defence", "accused"],
-    "oldEvidenceActSection": "105",
+    "correspondingSection": "105",
     "relatedSections": ["107", "108"]
   },
   {
@@ -2915,7 +2915,7 @@
       }
     ],
     "keywords": ["special knowledge", "burden of proof"],
-    "oldEvidenceActSection": "106",
+    "correspondingSection": "106",
     "relatedSections": ["106", "108"]
   },
   {
@@ -2938,7 +2938,7 @@
       }
     ],
     "keywords": ["death", "presumption", "burden"],
-    "oldEvidenceActSection": "107",
+    "correspondingSection": "107",
     "relatedSections": ["109"]
   },
   {
@@ -2961,7 +2961,7 @@
       }
     ],
     "keywords": ["missing person", "presumption of death", "seven years"],
-    "oldEvidenceActSection": "108",
+    "correspondingSection": "108",
     "relatedSections": ["108", "110"]
   },
   {
@@ -2984,7 +2984,7 @@
       }
     ],
     "keywords": ["relationship", "partnership", "agency", "tenancy"],
-    "oldEvidenceActSection": "109",
+    "correspondingSection": "109",
     "relatedSections": ["49", "111"]
   },
 
@@ -3008,7 +3008,7 @@
       }
     ],
     "keywords": ["ownership", "possession", "presumption"],
-    "oldEvidenceActSection": "110",
+    "correspondingSection": "110",
     "relatedSections": ["110", "112"]
   },
   {
@@ -3031,7 +3031,7 @@
       }
     ],
     "keywords": ["good faith", "fiduciary relationship", "trust"],
-    "oldEvidenceActSection": "111",
+    "correspondingSection": "111",
     "relatedSections": ["113", "114"]
   },
   {
@@ -3054,7 +3054,7 @@
       }
     ],
     "keywords": ["legitimacy", "marriage", "child"],
-    "oldEvidenceActSection": "112",
+    "correspondingSection": "112",
     "relatedSections": ["114"]
   },
   {
@@ -3077,7 +3077,7 @@
       }
     ],
     "keywords": ["presumption", "human conduct", "natural events"],
-    "oldEvidenceActSection": "114",
+    "correspondingSection": "114",
     "relatedSections": ["115", "116"]
   },
   {
@@ -3099,7 +3099,7 @@
       }
     ],
     "keywords": ["consent", "sexual offences", "presumption"],
-    "oldEvidenceActSection": "114A",
+    "correspondingSection": "114A",
     "relatedSections": ["114", "116"]
   },
   {
@@ -3122,7 +3122,7 @@
       }
     ],
     "keywords": ["criminal presumption", "offence", "evidence"],
-    "oldEvidenceActSection": "114B",
+    "correspondingSection": "114B",
     "relatedSections": ["114", "115"]
   },
   {
@@ -3145,7 +3145,7 @@
       }
     ],
     "keywords": ["estoppel", "representation", "reliance"],
-    "oldEvidenceActSection": "115",
+    "correspondingSection": "115",
     "relatedSections": ["118", "119"]
   },
   {
@@ -3168,7 +3168,7 @@
       }
     ],
     "keywords": ["tenant", "landlord", "licence", "estoppel"],
-    "oldEvidenceActSection": "116",
+    "correspondingSection": "116",
     "relatedSections": ["117", "119"]
   },
   {
@@ -3191,7 +3191,7 @@
       }
     ],
     "keywords": ["bailee", "bill of exchange", "estoppel"],
-    "oldEvidenceActSection": "117",
+    "correspondingSection": "117",
     "relatedSections": ["117", "118", "120"]
   },
   {
@@ -3218,7 +3218,7 @@
       }
     ],
     "keywords": ["witness", "competency", "testimony"],
-    "oldEvidenceActSection": "118",
+    "correspondingSection": "118",
     "relatedSections": ["121", "122"]
   },
 
@@ -3242,7 +3242,7 @@
       }
     ],
     "keywords": ["judge", "magistrate", "judicial privilege"],
-    "oldEvidenceActSection": "121",
+    "correspondingSection": "121",
     "relatedSections": ["122", "123"]
   },
   {
@@ -3269,7 +3269,7 @@
       }
     ],
     "keywords": ["marriage", "spousal communication", "privilege"],
-    "oldEvidenceActSection": "122",
+    "correspondingSection": "122",
     "relatedSections": ["121", "123"]
   },
   {
@@ -3292,7 +3292,7 @@
       }
     ],
     "keywords": ["state affairs", "government records", "confidentiality"],
-    "oldEvidenceActSection": "123",
+    "correspondingSection": "123",
     "relatedSections": ["124", "125"]
   },
   {
@@ -3315,7 +3315,7 @@
       }
     ],
     "keywords": ["public officer", "official confidence", "public interest"],
-    "oldEvidenceActSection": "124",
+    "correspondingSection": "124",
     "relatedSections": ["123", "125"]
   },
   {
@@ -3338,7 +3338,7 @@
       }
     ],
     "keywords": ["informant", "police", "source protection"],
-    "oldEvidenceActSection": "125",
+    "correspondingSection": "125",
     "relatedSections": ["123", "124", "126"]
   },
   {
@@ -3361,7 +3361,7 @@
       }
     ],
     "keywords": ["advocate", "client", "legal privilege"],
-    "oldEvidenceActSection": "126",
+    "correspondingSection": "126",
     "relatedSections": ["127", "128"]
   },
   {
@@ -3384,7 +3384,7 @@
       }
     ],
     "keywords": ["interpreter", "clerk", "confidentiality"],
-    "oldEvidenceActSection": "127",
+    "correspondingSection": "127",
     "relatedSections": ["126", "128"]
   },
   {
@@ -3407,7 +3407,7 @@
       }
     ],
     "keywords": ["privilege", "waiver", "evidence"],
-    "oldEvidenceActSection": "128",
+    "correspondingSection": "128",
     "relatedSections": ["126", "127", "129"]
   },
   {
@@ -3430,7 +3430,7 @@
       }
     ],
     "keywords": ["legal adviser", "confidential communication", "privilege"],
-    "oldEvidenceActSection": "129",
+    "correspondingSection": "129",
     "relatedSections": ["126", "128", "130"]
   },
   {
@@ -3453,7 +3453,7 @@
       }
     ],
     "keywords": ["title deed", "witness", "document production"],
-    "oldEvidenceActSection": "130",
+    "correspondingSection": "130",
     "relatedSections": ["129", "131"]
   },
 
@@ -3478,7 +3478,7 @@
       }
     ],
     "keywords": ["privilege", "documents", "electronic records"],
-    "oldEvidenceActSection": "131",
+    "correspondingSection": "131",
     "relatedSections": ["126", "127", "129", "130"]
   },
   {
@@ -3501,7 +3501,7 @@
       }
     ],
     "keywords": ["self-incrimination", "witness", "protection"],
-    "oldEvidenceActSection": "132",
+    "correspondingSection": "132",
     "relatedSections": ["133", "134"]
   },
   {
@@ -3524,7 +3524,7 @@
       }
     ],
     "keywords": ["accomplice", "witness", "testimony"],
-    "oldEvidenceActSection": "133",
+    "correspondingSection": "133",
     "relatedSections": ["114", "134"]
   },
   {
@@ -3547,7 +3547,7 @@
       }
     ],
     "keywords": ["witnesses", "proof", "evidence"],
-    "oldEvidenceActSection": "134",
+    "correspondingSection": "134",
     "relatedSections": ["120", "133", "135"]
   },
   {
@@ -3570,7 +3570,7 @@
       }
     ],
     "keywords": ["witness examination", "procedure", "order"],
-    "oldEvidenceActSection": "135",
+    "correspondingSection": "135",
     "relatedSections": ["136", "137"]
   },
   {
@@ -3593,7 +3593,7 @@
       }
     ],
     "keywords": ["admissibility", "judge", "evidence"],
-    "oldEvidenceActSection": "136",
+    "correspondingSection": "136",
     "relatedSections": ["105", "137", "138"]
   },
   {
@@ -3616,7 +3616,7 @@
       }
     ],
     "keywords": ["cross-examination", "re-examination", "witness"],
-    "oldEvidenceActSection": "137",
+    "correspondingSection": "137",
     "relatedSections": ["138", "139"]
   },
   {
@@ -3639,7 +3639,7 @@
       }
     ],
     "keywords": ["examination", "cross-examination", "re-examination"],
-    "oldEvidenceActSection": "138",
+    "correspondingSection": "138",
     "relatedSections": ["137", "139", "140"]
   },
   {
@@ -3662,7 +3662,7 @@
       }
     ],
     "keywords": ["document production", "cross-examination", "witness"],
-    "oldEvidenceActSection": "139",
+    "correspondingSection": "139",
     "relatedSections": ["137", "138", "140"]
   },
   {
@@ -3685,7 +3685,7 @@
       }
     ],
     "keywords": ["character witness", "reputation", "cross-examination"],
-    "oldEvidenceActSection": "140",
+    "correspondingSection": "140",
     "relatedSections": ["45", "137", "138", "141"]
   },
 
@@ -3709,7 +3709,7 @@
       }
     ],
     "keywords": ["leading question", "witness", "examination"],
-    "oldEvidenceActSection": "141",
+    "correspondingSection": "141",
     "relatedSections": ["142", "143"]
   },
   {
@@ -3732,7 +3732,7 @@
       }
     ],
     "keywords": ["leading questions", "examination-in-chief", "re-examination"],
-    "oldEvidenceActSection": "142",
+    "correspondingSection": "142",
     "relatedSections": ["141", "143"]
   },
   {
@@ -3755,7 +3755,7 @@
       }
     ],
     "keywords": ["cross-examination", "leading questions"],
-    "oldEvidenceActSection": "143",
+    "correspondingSection": "143",
     "relatedSections": ["141", "142", "144"]
   },
   {
@@ -3778,7 +3778,7 @@
       }
     ],
     "keywords": ["contradiction", "written statement", "witness"],
-    "oldEvidenceActSection": "145",
+    "correspondingSection": "145",
     "relatedSections": ["145", "146"]
   },
   {
@@ -3801,7 +3801,7 @@
       }
     ],
     "keywords": ["previous statement", "cross-examination", "credibility"],
-    "oldEvidenceActSection": "145",
+    "correspondingSection": "145",
     "relatedSections": ["144", "146"]
   },
   {
@@ -3824,7 +3824,7 @@
       }
     ],
     "keywords": ["cross-examination", "credibility", "veracity"],
-    "oldEvidenceActSection": "146",
+    "correspondingSection": "146",
     "relatedSections": ["147", "148"]
   },
   {
@@ -3847,7 +3847,7 @@
       }
     ],
     "keywords": ["witness", "relevant question", "duty to answer"],
-    "oldEvidenceActSection": "147",
+    "correspondingSection": "147",
     "relatedSections": ["132", "146", "148"]
   },
   {
@@ -3870,7 +3870,7 @@
       }
     ],
     "keywords": ["judicial discretion", "credibility", "witness"],
-    "oldEvidenceActSection": "148",
+    "correspondingSection": "148",
     "relatedSections": ["146", "147", "149"]
   },
   {
@@ -3893,7 +3893,7 @@
       }
     ],
     "keywords": ["character", "reasonable grounds", "cross-examination"],
-    "oldEvidenceActSection": "149",
+    "correspondingSection": "149",
     "relatedSections": ["148", "150"]
   },
   {
@@ -3916,7 +3916,7 @@
       }
     ],
     "keywords": ["professional misconduct", "advocate", "disciplinary action"],
-    "oldEvidenceActSection": "150",
+    "correspondingSection": "150",
     "relatedSections": ["148", "149", "151"]
   },
 
@@ -3940,7 +3940,7 @@
       }
     ],
     "keywords": ["indecent questions", "scandalous questions", "cross-examination"],
-    "oldEvidenceActSection": "151",
+    "correspondingSection": "151",
     "relatedSections": ["149", "150", "152"]
   },
   {
@@ -3963,7 +3963,7 @@
       }
     ],
     "keywords": ["insulting questions", "annoying questions", "witness protection"],
-    "oldEvidenceActSection": "152",
+    "correspondingSection": "152",
     "relatedSections": ["151", "153"]
   },
   {
@@ -3986,7 +3986,7 @@
       }
     ],
     "keywords": ["credibility", "contradiction", "veracity"],
-    "oldEvidenceActSection": "153",
+    "correspondingSection": "153",
     "relatedSections": ["146", "154"]
   },
   {
@@ -4009,7 +4009,7 @@
       }
     ],
     "keywords": ["hostile witness", "cross-examination", "witness"],
-    "oldEvidenceActSection": "154",
+    "correspondingSection": "154",
     "relatedSections": ["143", "155"]
   },
   {
@@ -4032,7 +4032,7 @@
       }
     ],
     "keywords": ["credibility", "impeachment", "witness"],
-    "oldEvidenceActSection": "155",
+    "correspondingSection": "155",
     "relatedSections": ["145", "154", "156"]
   },
   {
@@ -4055,7 +4055,7 @@
       }
     ],
     "keywords": ["corroboration", "witness", "evidence"],
-    "oldEvidenceActSection": "156",
+    "correspondingSection": "156",
     "relatedSections": ["157", "158"]
   },
   {
@@ -4078,7 +4078,7 @@
       }
     ],
     "keywords": ["corroboration", "previous statement", "witness"],
-    "oldEvidenceActSection": "157",
+    "correspondingSection": "157",
     "relatedSections": ["145", "156", "158"]
   },
   {
@@ -4101,7 +4101,7 @@
       }
     ],
     "keywords": ["corroboration", "contradiction", "statement"],
-    "oldEvidenceActSection": "158",
+    "correspondingSection": "158",
     "relatedSections": ["26", "27", "157", "159"]
   },
   {
@@ -4124,7 +4124,7 @@
       }
     ],
     "keywords": ["refresh memory", "documents", "witness"],
-    "oldEvidenceActSection": "159",
+    "correspondingSection": "159",
     "relatedSections": ["160"]
   },
   {
@@ -4147,7 +4147,7 @@
       }
     ],
     "keywords": ["refresh memory", "records", "testimony"],
-    "oldEvidenceActSection": "160",
+    "correspondingSection": "160",
     "relatedSections": ["159", "161"]
   },
 
@@ -4171,7 +4171,7 @@
       }
     ],
     "keywords": ["refresh memory", "cross-examination", "documents"],
-    "oldEvidenceActSection": "161",
+    "correspondingSection": "161",
     "relatedSections": ["159", "160", "162"]
   },
   {
@@ -4194,7 +4194,7 @@
       }
     ],
     "keywords": ["production of documents", "summons", "admissibility"],
-    "oldEvidenceActSection": "162",
+    "correspondingSection": "162",
     "relatedSections": ["130", "131", "163"]
   },
   {
@@ -4217,7 +4217,7 @@
       }
     ],
     "keywords": ["document inspection", "evidence", "notice"],
-    "oldEvidenceActSection": "163",
+    "correspondingSection": "163",
     "relatedSections": ["162", "164"]
   },
   {
@@ -4240,7 +4240,7 @@
       }
     ],
     "keywords": ["document refusal", "evidence", "notice to produce"],
-    "oldEvidenceActSection": "164",
+    "correspondingSection": "164",
     "relatedSections": ["163", "165"]
   },
   {
@@ -4263,7 +4263,7 @@
       }
     ],
     "keywords": ["judge powers", "questions", "documents"],
-    "oldEvidenceActSection": "165",
+    "correspondingSection": "165",
     "relatedSections": ["136", "166"]
   },
   {
@@ -4286,7 +4286,7 @@
       }
     ],
     "keywords": ["assessor", "questions", "court procedure"],
-    "oldEvidenceActSection": "166",
+    "correspondingSection": "166",
     "relatedSections": ["165", "167"]
   },
   {
@@ -4309,7 +4309,7 @@
       }
     ],
     "keywords": ["evidence", "appeal", "retrial"],
-    "oldEvidenceActSection": "167",
+    "correspondingSection": "167",
     "relatedSections": []
   }
 ]
