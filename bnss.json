@@ -5132,6 +5132,16 @@
       "Stopping vandalism of a government building.",
       "Preventing damage to a public monument."
     ],
+    "faqs": [
+      {
+        "question": "Can a police officer stop damage to public property without a court order?",
+        "answer": "Yes. A police officer may immediately intervene to prevent damage to public property."
+      },
+      {
+        "question": "What types of property are protected under this section?",
+        "answer": "Public buildings, monuments, roads, navigation markers, and other public property."
+      }
+    ],
     "keywords": [
       "public property",
       "police powers",
@@ -5152,6 +5162,20 @@
     "officialText": "All persons shall be bound to conform to the lawful directions of a police officer given in fulfilment of duties under this Chapter. A police officer may detain or remove any person resisting or refusing to comply and may produce such person before a Magistrate or release him within twenty-four hours in petty cases.",
     "simpleExplanation": "People must obey lawful police directions relating to preventive policing.",
     "punishment": "Detention or production before Magistrate.",
+    "examples": [
+      "A crowd obeys police instructions during a public disturbance.",
+      "Police detain a person refusing lawful directions during preventive action."
+    ],
+    "faqs": [
+      {
+        "question": "Must citizens obey lawful directions of the police?",
+        "answer": "Yes. All persons are legally bound to comply with lawful directions issued under this Chapter."
+      },
+      {
+        "question": "What happens if someone refuses to comply?",
+        "answer": "The police may detain, remove, or produce the person before a Magistrate."
+      }
+    ],
     "keywords": [
       "lawful directions",
       "police",
@@ -5172,6 +5196,24 @@
     "officialText": "Every information relating to the commission of a cognizable offence may be given orally or by electronic communication and shall be recorded in accordance with law. Special provisions exist for offences against women and persons with disabilities.",
     "simpleExplanation": "This is the FIR provision. Police must record information relating to cognizable offences.",
     "punishment": "Not Applicable",
+    "examples": [
+      "A victim reports a robbery at a police station.",
+      "An FIR is filed electronically for a cognizable offence."
+    ],
+    "faqs": [
+      {
+        "question": "What is an FIR?",
+        "answer": "An FIR is the first information recorded by police regarding a cognizable offence."
+      },
+      {
+        "question": "Can an FIR be filed electronically?",
+        "answer": "Yes. BNSS permits information relating to cognizable offences to be given electronically."
+      },
+      {
+        "question": "Are there special provisions for women victims?",
+        "answer": "Yes. Special procedures exist for offences against women and persons with disabilities."
+      }
+    ],
     "keywords": [
       "FIR",
       "cognizable offence",
@@ -5192,6 +5234,20 @@
     "officialText": "Information regarding a non-cognizable offence shall be entered in the prescribed register and the informant referred to the Magistrate. Investigation requires Magistrate's order.",
     "simpleExplanation": "Police generally cannot investigate non-cognizable offences without permission from a Magistrate.",
     "punishment": "Not Applicable",
+    "examples": [
+      "A minor dispute is recorded and referred to a Magistrate.",
+      "Police seek Magistrate approval before investigating a non-cognizable offence."
+    ],
+    "faqs": [
+      {
+        "question": "Can police investigate a non-cognizable offence on their own?",
+        "answer": "No. Police generally require permission from a Magistrate."
+      },
+      {
+        "question": "What happens when a non-cognizable complaint is received?",
+        "answer": "The information is entered in the prescribed register and the informant is referred to a Magistrate."
+      }
+    ],
     "keywords": [
       "non-cognizable",
       "magistrate",
@@ -5212,6 +5268,20 @@
     "officialText": "An officer in charge of a police station may investigate any cognizable case without the order of a Magistrate.",
     "simpleExplanation": "Police have independent authority to investigate cognizable offences.",
     "punishment": "Not Applicable",
+    "examples": [
+      "Police immediately investigate a theft complaint.",
+      "An SHO begins investigation without seeking court permission."
+    ],
+    "faqs": [
+      {
+        "question": "Do police need a Magistrate's order to investigate a cognizable offence?",
+        "answer": "No. Police may investigate a cognizable offence without prior permission."
+      },
+      {
+        "question": "Who can investigate a cognizable case?",
+        "answer": "The officer in charge of a police station or an authorized investigating officer."
+      }
+    ],
     "keywords": [
       "investigation",
       "cognizable offence"
@@ -5222,6 +5292,7 @@
       "178"
     ]
   },
+
   {
     "id": "BNSS_176",
     "sectionNumber": "176",
@@ -5231,13 +5302,33 @@
     "officialText": "Police receiving information of a cognizable offence shall send a report to the Magistrate and proceed to investigate. For offences punishable with seven years or more, forensic experts shall visit the crime scene and collect forensic evidence.",
     "simpleExplanation": "This section governs the investigation process and introduces mandatory forensic collection for serious offences.",
     "punishment": "Not Applicable",
+    "examples": [
+      "Police visit a murder scene and collect forensic samples.",
+      "A Magistrate receives an investigation report after registration of a serious offence."
+    ],
+    "faqs": [
+      {
+        "question": "When is forensic evidence collection mandatory?",
+        "answer": "For offences punishable with imprisonment of seven years or more."
+      },
+      {
+        "question": "Why are forensic experts required at the crime scene?",
+        "answer": "To scientifically collect, preserve and document evidence for investigation and trial."
+      },
+      {
+        "question": "Must police inform the Magistrate about the investigation?",
+        "answer": "Yes. Police are required to send a report to the Magistrate and proceed with the investigation."
+      }
+    ],
     "keywords": [
       "forensic evidence",
       "investigation",
-      "crime scene"
+      "crime scene",
+      "magistrate report"
     ],
     "oldCrPCSection": "157",
     "relatedSections": [
+      "175",
       "177",
       "178"
     ]
@@ -5249,11 +5340,27 @@
     "chapter": "Chapter XIII - Information to the Police and Their Powers to Investigate",
     "category": "Police Reports",
     "officialText": "Reports sent to a Magistrate may be routed through superior police officers appointed by the State Government.",
-    "simpleExplanation": "Allows supervisory review of investigation reports.",
+    "simpleExplanation": "Allows supervisory review and transmission of investigation reports through senior police officers.",
     "punishment": "Not Applicable",
+    "examples": [
+      "An investigation report is reviewed by a Superintendent of Police before being forwarded.",
+      "A senior officer transmits the report to the Magistrate."
+    ],
+    "faqs": [
+      {
+        "question": "Can investigation reports be reviewed by senior police officers?",
+        "answer": "Yes. Reports may be routed through superior officers designated by the State Government."
+      },
+      {
+        "question": "Why are reports sent through superior officers?",
+        "answer": "To ensure supervision, accountability and proper monitoring of investigations."
+      }
+    ],
     "keywords": [
       "report",
-      "superior officer"
+      "superior officer",
+      "magistrate",
+      "investigation"
     ],
     "oldCrPCSection": "158",
     "relatedSections": [
@@ -5268,16 +5375,37 @@
     "chapter": "Chapter XIII - Information to the Police and Their Powers to Investigate",
     "category": "Magistrate Powers",
     "officialText": "Upon receiving a report, the Magistrate may direct investigation, hold a preliminary inquiry, or otherwise dispose of the case as provided in the Sanhita.",
-    "simpleExplanation": "The Magistrate may supervise or initiate further inquiry.",
+    "simpleExplanation": "The Magistrate may supervise the matter, order further investigation, or conduct a preliminary inquiry where necessary.",
     "punishment": "Not Applicable",
+    "examples": [
+      "A Magistrate orders further investigation after reviewing a police report.",
+      "A preliminary inquiry is conducted before proceeding further."
+    ],
+    "faqs": [
+      {
+        "question": "Can a Magistrate order further investigation?",
+        "answer": "Yes. The Magistrate may direct further investigation if required."
+      },
+      {
+        "question": "What is a preliminary inquiry?",
+        "answer": "It is an initial examination of facts to determine the appropriate course of action."
+      },
+      {
+        "question": "Does a Magistrate supervise police investigations?",
+        "answer": "Yes. The Magistrate has oversight powers under this provision."
+      }
+    ],
     "keywords": [
       "magistrate",
-      "preliminary inquiry"
+      "preliminary inquiry",
+      "investigation",
+      "oversight"
     ],
     "oldCrPCSection": "159",
     "relatedSections": [
       "175",
-      "176"
+      "176",
+      "177"
     ]
   },
   {
@@ -5286,13 +5414,33 @@
     "title": "Police Officer's Power to Require Attendance of Witnesses",
     "chapter": "Chapter XIII - Information to the Police and Their Powers to Investigate",
     "category": "Witnesses",
-    "officialText": "A police officer investigating a case may require attendance of persons acquainted with the facts. Women, children below fifteen, senior citizens above sixty, disabled persons and persons with acute illness are protected from being compelled to attend elsewhere than their residence.",
-    "simpleExplanation": "Police can call witnesses, but special categories receive protection.",
+    "officialText": "A police officer investigating a case may require attendance of persons acquainted with the facts. Women, children below fifteen years, senior citizens above sixty years, disabled persons and persons suffering from acute illness shall not be required to attend at any place other than their residence.",
+    "simpleExplanation": "Police may require witnesses to assist the investigation, but certain vulnerable persons receive special protection.",
     "punishment": "Not Applicable",
+    "examples": [
+      "A witness is asked to appear before the investigating officer.",
+      "An elderly witness is examined at home instead of being called to the police station."
+    ],
+    "faqs": [
+      {
+        "question": "Can police require a witness to attend for questioning?",
+        "answer": "Yes. Police may require attendance of persons acquainted with the facts of the case."
+      },
+      {
+        "question": "Are women and senior citizens required to attend the police station?",
+        "answer": "No. Protected categories may be examined at their residence."
+      },
+      {
+        "question": "Who receives special protection under this section?",
+        "answer": "Women, children below fifteen years, persons above sixty years, disabled persons and persons suffering from acute illness."
+      }
+    ],
     "keywords": [
       "witness",
       "attendance",
-      "investigation"
+      "investigation",
+      "senior citizen",
+      "women"
     ],
     "oldCrPCSection": "160",
     "relatedSections": [
@@ -5305,20 +5453,41 @@
     "title": "Examination of Witnesses by Police",
     "chapter": "Chapter XIII - Information to the Police and Their Powers to Investigate",
     "category": "Witness Statements",
-    "officialText": "Police may orally examine persons acquainted with the facts of the case and may record their statements, including by audio-video electronic means.",
-    "simpleExplanation": "Police can question witnesses and record their statements during investigation.",
+    "officialText": "Police may orally examine persons acquainted with the facts and circumstances of the case and may record their statements, including through audio-video electronic means.",
+    "simpleExplanation": "Police can question witnesses and record their statements during the course of an investigation.",
     "punishment": "Not Applicable",
+    "examples": [
+      "A witness provides information about a theft incident.",
+      "A witness statement is recorded through video conferencing."
+    ],
+    "faqs": [
+      {
+        "question": "Can police record witness statements electronically?",
+        "answer": "Yes. Statements may be recorded through audio-video electronic means."
+      },
+      {
+        "question": "Is a witness required to answer police questions during investigation?",
+        "answer": "Generally, yes, except where the answer may expose the witness to criminal liability."
+      },
+      {
+        "question": "Can witness statements recorded by police be used directly as evidence at trial?",
+        "answer": "Such statements are primarily used for investigation and may be used in accordance with evidentiary rules prescribed by law."
+      }
+    ],
     "keywords": [
       "witness statement",
       "investigation",
-      "audio-video"
+      "audio-video",
+      "police examination"
     ],
     "oldCrPCSection": "161",
     "relatedSections": [
+      "179",
       "181",
       "183"
     ]
   },
+
   {
     "id": "BNSS_181",
     "sectionNumber": "181",
