@@ -12071,10 +12071,7 @@
     "category": "Culpable Homicide",
     "officialText": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, if the act is done with the intention of causing death or such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years, or with fine, or with both, if the act is done with the knowledge that it is likely to cause death but without any intention to cause death or such bodily injury as is likely to cause death.",
     "simpleExplanation": "This section applies when a person causes death but the case does not amount to murder under Section 300.",
-    "punishment": {
-      "Part I": "Life imprisonment, or imprisonment up to 10 years, and fine.",
-      "Part II": "Imprisonment up to 10 years, or fine, or both."
-    },
+    "punishment": "Part I: Life imprisonment, or imprisonment up to 10 years, and fine., Part II: Imprisonment up to 10 years, or fine, or both.",
     "examples": [
       "A person causes death under grave and sudden provocation.",
       "Someone performs a dangerous act knowing it may cause death, but without intending to kill."
@@ -14072,10 +14069,7 @@
     "category": "Sexual Harassment",
     "officialText": "A man committing any of the following acts—physical contact and advances involving unwelcome and explicit sexual overtures; a demand or request for sexual favours; showing pornography against the will of a woman; or making sexually coloured remarks—commits the offence of sexual harassment.",
     "simpleExplanation": "This section criminalizes various forms of sexual harassment, including unwanted sexual advances, demands for sexual favours, showing pornography, and sexually coloured remarks.",
-    "punishment": {
-      "Physical contact, sexual favours, pornography": "Rigorous imprisonment up to 3 years, or fine, or both.",
-      "Sexually coloured remarks": "Imprisonment up to 1 year, or fine, or both."
-    },
+    "punishment": "Physical contact, sexual favours, pornography: Rigorous imprisonment up to 3 years, or fine, or both., Sexually coloured remarks: Imprisonment up to 1 year, or fine, or both.",
     "examples": [
       "Demanding sexual favours in exchange for workplace benefits.",
       "Making repeated sexually explicit comments toward a woman."
@@ -14149,10 +14143,7 @@
     "category": "Privacy Offences",
     "officialText": "Any man who watches, captures the image of, or disseminates the image of a woman engaging in a private act where she would usually have the expectation of not being observed, shall be guilty of the offence of voyeurism.",
     "simpleExplanation": "Secretly watching, photographing, recording, or sharing images of a woman engaged in a private act without consent is an offence.",
-    "punishment": {
-      "First Conviction": "Imprisonment not less than 1 year and up to 3 years, and fine.",
-      "Subsequent Conviction": "Imprisonment not less than 3 years and up to 7 years, and fine."
-    },
+    "punishment": "First Conviction: Imprisonment not less than 1 year and up to 3 years, and fine., Subsequent Conviction: Imprisonment not less than 3 years and up to 7 years, and fine.",
     "examples": [
       "Secretly recording a woman in a changing room.",
       "Sharing private images of a woman without consent."
@@ -14189,10 +14180,7 @@
     "category": "Offences Against Women",
     "officialText": "Any man who follows a woman and contacts or attempts to contact such woman repeatedly despite a clear indication of disinterest, or monitors the use by a woman of the internet, email, or any other form of electronic communication, commits the offence of stalking, subject to statutory exceptions.",
     "simpleExplanation": "Repeatedly following, contacting, or electronically monitoring a woman against her wishes is an offence.",
-    "punishment": {
-      "First Conviction": "Imprisonment up to 3 years and fine.",
-      "Subsequent Conviction": "Imprisonment up to 5 years and fine."
-    },
+    "punishment": "First Conviction: Imprisonment up to 3 years and fine., Subsequent Conviction: Imprisonment up to 5 years and fine.",
     "examples": [
       "Repeatedly following a woman despite being told to stop.",
       "Monitoring a woman's online activities without justification."
@@ -14562,10 +14550,7 @@
     "category": "Child Protection",
     "officialText": "Whoever kidnaps or otherwise obtains custody of a minor in order that such minor may be employed or used for the purpose of begging, or maims a minor for the purpose of begging, shall be punished as provided by law.",
     "simpleExplanation": "Kidnapping, obtaining custody of, or maiming a child for the purpose of begging is a grave offence.",
-    "punishment": {
-      "Kidnapping for begging": "Imprisonment up to 10 years and fine.",
-      "Maiming for begging": "Imprisonment for life and fine."
-    },
+    "punishment": "Kidnapping for begging: Imprisonment up to 10 years and fine., Maiming for begging: Imprisonment for life and fine.",
     "examples": [
       "Abducting children and forcing them to beg.",
       "Deliberately injuring a child to increase sympathy while begging."
@@ -14935,13 +14920,7 @@
     "category": "Human Trafficking",
     "officialText": "Whoever, for the purpose of exploitation, recruits, transports, harbours, transfers, or receives a person by using threats, force, coercion, abduction, fraud, deception, abuse of power, or inducement, commits the offence of trafficking. Exploitation includes physical exploitation, sexual exploitation, slavery, servitude, forced labour, or removal of organs.",
     "simpleExplanation": "Human trafficking involves recruiting, transporting, or controlling people for exploitation through force, deception, coercion, or abuse of power.",
-    "punishment": {
-      "One person": "Rigorous imprisonment not less than 7 years, up to 10 years, and fine.",
-      "More than one person": "Rigorous imprisonment not less than 10 years, up to life imprisonment, and fine.",
-      "Minor victim": "Rigorous imprisonment not less than 10 years, up to life imprisonment, and fine.",
-      "Multiple minor victims": "Rigorous imprisonment not less than 14 years, up to life imprisonment, and fine.",
-      "Public servant involved": "Life imprisonment and fine."
-    },
+    "punishment": "One person: Rigorous imprisonment not less than 7 years, up to 10 years, and fine., More than one person: Rigorous imprisonment not less than 10 years, up to life imprisonment, and fine., Minor victim: Rigorous imprisonment not less than 10 years, up to life imprisonment, and fine., Multiple minor victims: Rigorous imprisonment not less than 14 years, up to life imprisonment, and fine., Public servant involved: Life imprisonment and fine.",
     "examples": [
       "Recruiting people with false job promises and forcing them into labour.",
       "Transporting women for sexual exploitation."
@@ -14978,10 +14957,7 @@
     "category": "Human Trafficking",
     "officialText": "Whoever knowingly engages a trafficked minor for sexual exploitation shall be punished with rigorous imprisonment of not less than five years but which may extend to seven years and fine. Whoever knowingly engages a trafficked person for sexual exploitation shall be punished with rigorous imprisonment of not less than three years but which may extend to five years and fine.",
     "simpleExplanation": "Using or exploiting a person known to be a trafficking victim is a punishable offence.",
-    "punishment": {
-      "Trafficked minor": "Rigorous imprisonment 5 to 7 years and fine.",
-      "Trafficked adult": "Rigorous imprisonment 3 to 5 years and fine."
-    },
+    "punishment": "Trafficked minor: Rigorous imprisonment 5 to 7 years and fine., Trafficked adult: Rigorous imprisonment 3 to 5 years and fine.",
     "examples": [
       "Knowingly exploiting a trafficked child.",
       "Using services of a trafficked person for sexual exploitation."
@@ -16239,10 +16215,7 @@
     "category": "Criminal Misappropriation",
     "officialText": "Whoever dishonestly misappropriates or converts to his own use property possessed by a deceased person at the time of that person's death, before it has come into the possession of a person legally entitled to it, shall be punished as provided by law.",
     "simpleExplanation": "Dishonestly taking or using property belonging to a deceased person before it reaches the rightful heirs or legal representatives is an offence.",
-    "punishment": {
-      "General": "Imprisonment up to 3 years, or fine, or both.",
-      "If committed by clerk or servant": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 3 years, or fine, or both., If committed by clerk or servant: Imprisonment up to 7 years and fine.",
     "examples": [
       "Taking cash from a deceased person's home before the heirs receive it.",
       "A servant secretly appropriating valuables belonging to a deceased employer."
@@ -17981,10 +17954,7 @@
     "category": "House Trespass",
     "officialText": "Whoever commits house trespass in order to commit any offence punishable with imprisonment shall be punished. Where the intended offence is theft, the punishment may extend to seven years and fine.",
     "simpleExplanation": "Entering a house intending to commit any imprisonable offence is punishable, with enhanced punishment where theft is intended.",
-    "punishment": {
-      "General": "Imprisonment up to 2 years and fine.",
-      "If intended offence is theft": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 2 years and fine., If intended offence is theft: Imprisonment up to 7 years and fine.",
     "examples": [
       "Entering a house intending to commit assault.",
       "Breaking into a residence intending to steal valuables."
@@ -18095,10 +18065,7 @@
     "category": "Aggravated House Breaking",
     "officialText": "Whoever commits lurking house trespass or house-breaking in order to commit any offence punishable with imprisonment shall be punished. If the intended offence is theft, punishment may extend to ten years.",
     "simpleExplanation": "House-breaking or lurking trespass committed with intent to commit another crime attracts enhanced punishment.",
-    "punishment": {
-      "General": "Imprisonment up to 3 years and fine.",
-      "If intended offence is theft": "Imprisonment up to 10 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 3 years and fine., If intended offence is theft: Imprisonment up to 10 years and fine.",
     "examples": [
       "Breaking into a home intending to commit assault.",
       "Entering a house to steal valuables."
@@ -18209,10 +18176,7 @@
     "category": "Night House Breaking",
     "officialText": "Whoever commits lurking house trespass by night or house-breaking by night in order to commit an offence punishable with imprisonment shall be punished. If the intended offence is theft, punishment may extend to fourteen years.",
     "simpleExplanation": "Night-time burglary committed with intent to commit another offence is treated very seriously.",
-    "punishment": {
-      "General": "Imprisonment up to 5 years and fine.",
-      "If intended offence is theft": "Imprisonment up to 14 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 5 years and fine., If intended offence is theft: Imprisonment up to 14 years and fine.",
     "examples": [
       "Breaking into a home at night intending to steal.",
       "Secretly entering a residence to commit assault."
@@ -18841,10 +18805,7 @@
     "category": "Forgery",
     "officialText": "Whoever has possession of a forged document described in Sections 466 or 467, knowing it to be forged and intending to use it as genuine, shall be punished.",
     "simpleExplanation": "Keeping forged court records, public records, wills, or valuable securities with intent to use them is an offence.",
-    "punishment": {
-      "Documents under Section 467": "Life imprisonment, or imprisonment up to 7 years, and fine.",
-      "Documents under Section 466": "Imprisonment up to 7 years and fine."
-    },
+    "punishment": "Documents under Section 467: Life imprisonment, or imprisonment up to 7 years, and fine., Documents under Section 466: Imprisonment up to 7 years and fine.",
     "examples": [
       "Possessing a forged will for future use.",
       "Keeping forged government certificates intending to use them."
@@ -19436,10 +19397,7 @@
     "category": "Public Order",
     "officialText": "Whoever makes, publishes, or circulates any statement, rumour, or report with intent to cause fear, alarm, mutiny, public disorder, or incitement against classes or communities shall be punished.",
     "simpleExplanation": "Spreading rumours or false statements that may cause public disorder, panic, or social unrest is an offence.",
-    "punishment": {
-      "General": "Imprisonment up to 3 years, or fine, or both.",
-      "Aggravated forms": "Imprisonment up to 5 years and fine."
-    },
+    "punishment": "General: Imprisonment up to 3 years, or fine, or both., Aggravated forms: Imprisonment up to 5 years and fine.",
     "examples": [
       "Spreading false rumours causing panic among the public.",
       "Publishing messages intended to create communal tension."
@@ -19476,10 +19434,7 @@
     "category": "Criminal Intimidation",
     "officialText": "Whoever commits criminal intimidation shall be punished. Enhanced punishment applies where the threat relates to death, grievous hurt, destruction of property by fire, or imputations affecting reputation.",
     "simpleExplanation": "This section provides punishment for threatening another person.",
-    "punishment": {
-      "General": "Imprisonment up to 2 years, or fine, or both.",
-      "Aggravated threats": "Imprisonment up to 7 years, or fine, or both."
-    },
+    "punishment": "General: Imprisonment up to 2 years, or fine, or both., Aggravated threats: Imprisonment up to 7 years, or fine, or both.",
     "examples": [
       "Threatening to kill someone.",
       "Threatening to burn down a person's house."
@@ -19664,11 +19619,7 @@
     "category": "Attempt",
     "officialText": "Whoever attempts to commit an offence punishable by this Code with imprisonment for life or imprisonment, or attempts to cause such offence to be committed, and in such attempt does any act towards the commission of the offence, where no express provision is made by this Code for the punishment of such attempt, shall be punished with imprisonment of any description provided for the offence, for a term which may extend to one-half of the imprisonment for life or one-half of the longest term of imprisonment provided for that offence, or with such fine as is provided for the offence, or with both.",
     "simpleExplanation": "A person who tries to commit a crime and takes a direct step towards committing it can be punished even if the crime is not completed. This section applies when the IPC does not provide a separate punishment for the attempt.",
-    "punishment": {
-      "imprisonment": "Up to one-half of the maximum imprisonment prescribed for the completed offence.",
-      "fine": "Fine may also be imposed if the completed offence carries a fine.",
-      "both": "Court may impose both imprisonment and fine."
-    },
+    "punishment": "imprisonment: Up to one-half of the maximum imprisonment prescribed for the completed offence., fine: Fine may also be imposed if the completed offence carries a fine., both: Court may impose both imprisonment and fine.",
     "examples": [
       "A person attempts to steal money from a locker but is caught before taking it.",
       "A person tries to commit cheating by submitting forged documents, but the fraud is detected before money is transferred.",
